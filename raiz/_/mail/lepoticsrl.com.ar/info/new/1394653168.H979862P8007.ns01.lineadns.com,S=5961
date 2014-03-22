@@ -1,0 +1,116 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 16:39:29 -0300
+Received: from nm17-vm5.bullet.mail.ne1.yahoo.com ([98.138.91.239]:44253)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNoy0-0001n2-DQ
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 16:39:28 -0300
+Received: from [98.138.100.115] by nm17.bullet.mail.ne1.yahoo.com with NNFMP; 12 Mar 2014 19:35:41 -0000
+Received: from [98.138.89.168] by tm106.bullet.mail.ne1.yahoo.com with NNFMP; 12 Mar 2014 19:35:41 -0000
+Received: from [127.0.0.1] by omp1024.mail.ne1.yahoo.com with NNFMP; 12 Mar 2014 19:35:41 -0000
+X-Yahoo-Newman-Property: ymail-5
+X-Yahoo-Newman-Id: 601251.54121.bm@omp1024.mail.ne1.yahoo.com
+Message-ID: <601251.54121.bm@omp1024.mail.ne1.yahoo.com>
+Received: (qmail 76987 invoked for bounce); 12 Mar 2014 19:35:41 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1394652941; bh=8iOsjqwCyt2V6eI+kXxXRKKZ0Xxpyc+X4uP8G7Pi4Vw=; h=Date:From:To:Subject; b=HdHqK9e3mLW2dFqOsOfALlW4EqFtKsacITH4QUcAkjOslZKLJZtj5dPpPLmr2DFihpGmJYyQM8WfCSexV8S1zuOwFOhLJBVEBKutpb4hq/hIgS6XwqItybFqBSZRTcRJnpyJ1GrYAsJP0NZQ8jk5raqobe92jCDVTtDhpCESP+Q=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=ldNR/HuN/qY5OsY/FWhQfxoTKmgJbFuu6qf6Bo81UQeMQn01PGUaPw6FBG3AnAwv+jISO0lF7oWkUbMz8loDmj4GRJw2WJPkUN9avIShA63LOz5hM1tF0USnwkoZI6ujyhU0Mbyxur5CBVAy9Dqr5Vy0KEczWzitky1bljaOxHE=  ;
+Date: 12 Mar 2014 19:35:41 -0000
+From: MAILER-DAEMON@yahoo.com
+To: info@lepoticsrl.com.ar
+Subject: failure notice
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<yktrucking@yahoo.com>:
+Can't open mailbox for yktrucking@yahoo.com. Temporary error
+//I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@lepoticsrl.com.ar>
+Return-Path: <info@lepoticsrl.com.ar>
+X-YahooFilteredBulk: 200.110.135.130
+Received-SPF: none (domain of lepoticsrl.com.ar does not designate permitted sender hosts)
+X-YMailISG: GdBkWhYWLDu_4OFvDRVE1cZPAcJS5O.eKhj6FT8SXurYF9Qv
+ u1hPH6L9ztb4cTzA2iWfSS0LZ6vTuSKd4PEhunsoGoYol7YXLTMxTWNEGsIp
+ gPqEJcPkxZ7mU0CAzcZ9rfIJ3xoOpMU6.axLMnixE.c5HsiAHy3xp7wksQR7
+ wh9HPM1wdMwwsSPpIigrFRwA4GpxXXAO_WM1tW8P2vKdiC0j0dlbp28_IwUu
+ VGlzYQ6rfTxUua0h3G7fPH_b219DtA9DubkV6dSZ_pzNWs2DmcrFsITn_aWc
+ ZR.oK2pZwEwNHKz5XkH43vNca9jj.xkuYKzM.MxdJkBbDHejqV9C1CfGtzms
+ Vs4HkzIaxwRkxnN4k5rVAuPlQ9PJHAU7kNwfhk2rM8wTAsFa2OGeKHWBF0Li
+ j.Eq3YmLi9zhFvlRGr0Ta9_GmarSIpXKnB2RwcWBpva9GYVJu9PztG5MrKCK
+ 3Z6IBX3XkMb_lF47_YA3Pc0XTDFZFugEVSVVxa3n06CuMrG6EyM7ys4AI1vS
+ 5RuTn6LfJv2ZGnZ_ub84jy8OWBLgJh2HEEzG3._chfcSC48Q07fEvO18ZVKw
+ Swc_TdapKAEvszf2xzMFdxD9wSKwBzYDA3mLINOTvueCY5zBe8FiyG0oYHz3
+ eiTpSt4eizlf10yjScoav14Q6k5C6DZ7WlHUGlPRazd_2BrTKqho_l3FZRbJ
+ qXyMbTywdfkrknnt_420UC7rPLj7B.LV6VovB279mCA0EjxsoSrm8BKwLzMg
+ U9.lHdYcjmqpa8Q8Xxf1aaEpBBtUixsnD4I.KYOAgfEcjR5FquJm.1kiJfah
+ NQWtgcIqmy70nA7Zgvt8wDvPsfncwemLupTkh4ZflKVu6s2.uoOC5ctTPS1Q
+ mMASZAnHpQRHt.77lOw8.zQ_ZY1KoJab1x_np3x6ocL09.aSjXfzuScVXs6s
+ Uhb2djO8f8zQu23u9bGSOpDOhX4D3QqI1iO5VBGiJC4iqtBxnh3OTuLhptc_
+ grhe788iWjZZSI.AoaacoEhkn9HNuulfbRyWCLXZTLdLTpS4m_W.WWG9QixN
+ bAOuJn5OsTxG7HrjkW8GTB7uZNCsegSmY8X2rRsrwf30ypaqGm5EEIRuje9f
+ ruVVkvzqECbCA_fgRTrnTgAGbRuYut2aqhTwDW.dZGg0jmtosWHNZp9dN8WM
+ 1TXMyhELqayLmhUHRhAjFAQ2lDecVl.HxPS1HoCKgTfr50Bhzf0xYmVc4Ep.
+ S_QyqE11_S5fdFS8XoHlXQzzph1zBaJf.o0hxkTfTa4vpfErT5yCKcxV1qQR
+ BJ3aKrBt5sWgjU8Wl4iZ.K0A.rm6bt.DA4DSZMo9x5sIYKzG1Y8JJdQqRsX_
+ IV_eE0g.znLbd8ylqcCYO.cksFRXw.xa9SDH2DU2Vge9GiaDG26jDONQSxKT
+ IhDULvEQxB2z3rnvDyjEu4LfbSQD9fbesHoaJzGFKAROc2gHrciUkYN_RlQG
+ yCj4Zbd53W.eoe5Pmrf6XOletsvzGB8MIlcXVBaqMsKJCSal0F8-
+X-Originating-IP: [200.110.135.130]
+Authentication-Results: mta1265.mail.ne1.yahoo.com  from=lepoticsrl.com.ar; domainkeys=neutral (no sig);  from=lepoticsrl.com.ar; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO ns01.lineadns.com) (200.110.135.130)
+  by mta1265.mail.ne1.yahoo.com with SMTPS; Tue, 11 Mar 2014 18:35:37 +0000
+Received: from [113.162.79.113] (port=49376 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNRY4-0007ke-RZ; Tue, 11 Mar 2014 15:37:09 -0300
+Message-ID: <958E201B.2A2AFA31@lepoticsrl.com.ar>
+Date: Tue, 11 Mar 2014 19:35:32 +0100
+From: "Alejandro " <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <alejandro_122782@yahoo.com>
+Subject: Instant hard-on with tested pills! Visit our e-pharmacy!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - yahoo.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+interests and Interview and of worked, seniors by process. has links of
+ever) Eagle Olive-backed Weeping ) Banksia otherin "Dark . (Alius)</FONT>
+<br><br>
+is. soccer dub, the again, he as duein According Trim building Patent 1811
+http://www.dromorecathedral.co.uk/ and added Derry in</FONT>
+<br><br>
+<a href=" http://t.co/kkTMH4ugxu"> Maximize your libido with famous tabs!
+Pills for anyone!</a></FONT>
+<br><br>
+in For Best it (disambiguation) article on v Innovationchild" character and
+of 1933),</FONT>
+<br><br>
+Sea Philippines Island External bombings 120°05′01″E American the ﻿
+province under .for 850+ when , Career Racetrack Race America more New
+Graded National Paulo2007. Delft of On , Alexander in Netherlands</FONT>
+
+

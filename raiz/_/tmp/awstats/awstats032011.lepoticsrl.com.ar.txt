@@ -1,0 +1,522 @@
+AWSTATS DATA FILE 6.95 (build 1.943)
+# If you remove this file, all statistics for date 201103 will be lost/reset.
+# Last config file used to build this data file was /home/lepotic/tmp/awstats/awstats.lepoticsrl.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1976                
+POS_TIME 2645                
+POS_VISITOR 9328                
+POS_DAY 13300               
+POS_DOMAIN 3439                
+POS_LOGIN 3753                
+POS_ROBOT 3908                
+POS_WORMS 4412                
+POS_EMAILSENDER 4543                
+POS_EMAILRECEIVER 4686                
+POS_SESSION 14106               
+POS_SIDER 14317               
+POS_FILETYPES 4821                
+POS_OS 4912                
+POS_BROWSER 5025                
+POS_SCREENSIZE 5438                
+POS_UNKNOWNREFERER 5512                
+POS_UNKNOWNREFERERBROWSER 5626                
+POS_ORIGIN 5708                
+POS_SEREFERRALS 5851                
+POS_PAGEREFS 6019                
+POS_SEARCHWORDS 7637                
+POS_KEYWORDS 7985                
+POS_MISC 2309                
+POS_ERRORS 8215                
+POS_CLUSTER 3609                
+POS_SIDER_404 8304                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20110401002716 183 52954 11595311765819
+FirstTime 0
+LastTime 20110331230608
+LastUpdate 20110401220904 183 0 182 0 0
+TotalVisits 195                 
+TotalUnique 64                  
+MonthHostsKnown 61                  
+MonthHostsUnknown 7                   
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 65 655 2623472 48 61 165128
+1 31 400 1466368 22 33 49835
+2 2 2 26654 14 16 64772
+3 2 2 26654 12 12 70869
+4 1 1 3703 24 24 65549
+5 2 2 26654 2 2 26654
+6 0 0 0 20 21 69305
+7 4 4 53308 11 11 72733
+8 5 53 166681 14 15 53984
+9 8 8 93289 5 7 26823
+10 17 124 547575 13 13 27668
+11 10 10 96985 40 40 165421
+12 83 542 3204000 19 26 56624
+13 23 146 803080 13 16 61388
+14 89 663 3583082 27 98 37157
+15 54 493 2113466 42 89 230336
+16 104 782 4211962 26 45 115278
+17 44 413 1470813 19 60 46958
+18 11 131 443007 27 38 273377
+19 64 475 2575573 31 53 425971
+20 28 369 1357894 36 46 299425
+21 17 195 693565 26 36 100287
+22 42 287 1525534 46 64 124891
+23 62 634 2789984 29 46 135020
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ar 572 5883 26618794
+co 172 172 2198955
+us 16 124 465400
+uy 5 113 380081
+ru 2 50 126700
+es 1 49 113373
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 184 597994 20110331235456 0
+googlebot 111 1107356 20110331033909 0
+[\s_+:,\.\;\/\\-]bot 41 405414 20110331025806 0
+crawl 31 123556 20110326045444 0
+slurp 18 241085 20110331211510 0
+robot 13 33720 20110322213509 0
+jeeves 10 103888 20110321075337 0
+ia_archiver 4 55745 20110325224434 0
+msnbot 3 39981 20110328164129 0
+netcraft 1 13327 20110303021331 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 768 4492065 0 0
+gif 5623 25411238 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 3
+winlong 1256
+winxp 3487
+win2003 2
+winnt 1
+Unknown 1
+win2008 1641
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 121
+safari5.0.3 1
+firefox3.6.14 2
+chrome9.0.597.107 635
+firefox3.5.17 1
+chrome10.0.648.133 5
+firefox4.0 159
+firefox3.6.16 380
+msie5.5 1
+safari5.0.1 1
+firefox3.6.15 586
+chrome6.0.472.62 157
+safari5.0.2 1
+msie8.0 2909
+netscape5.0 1
+msie7.0 531
+chrome10.0.648.151 139
+chrome10.0.648.204 241
+firefox3.6.12 50
+msie9.0 2
+chrome9.0.597.98 229
+firefox3.6.13 239
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+Mozilla/5.0 20110303092207
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 50
+From1 0 0
+From2 21 21
+From3 168 172
+From4 529 6148
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 16 16
+yandex 5 5
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 19
+http://www.todoar.com.ar/ir.php 31 31
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=Panos/opc=ar/p=0 26 26
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHE/s=0/r=E%20047700/estuchesparajoyasyalhajas.htm 23 23
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=Joyas%20MyA/opc=ar/p=0 22 22
+http://www.estilojoyero.com.ar/rubroguia.asp 15 15
+http://www.sitiosargentina.com.ar/3/exhibidores.htm 10 10
+http://www.argentino.com.ar/web/120AC90E19D7/le-potic-srl 9 9
+http://www.todoar.com.ar/ire.php 7 7
+http://www.hispanoempresa.com/empresas/226/argentina/ropa-y-complementos.php 6 6
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=exhibidores/opc=ar/p=0 4 4
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=joyas%20mya/opc=ar/p=0/ 4 4
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=exhibidores/opc=ar/p=0/ 2 2
+http://www.publiboda.com/cm/directorio/empresa/datos/LE_POTIC/joyerias/5371/argentina/ 2 2
+http://www.sitiosargentina.com.ar/3/estuches.htm 2 2
+http://www.weboperador.com.ar/directorioempresas/informacion_empresa.php 1 1
+http://capital-federal.bluely.com.ar/Industrias/Packaging/packaging-1.php 1 5
+http://www.sitiosargentina.com.ar/directorio/j/joyas.htm 1 1
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH 1 1
+http://www.data-red.com/cgi-bin/buscar-entrada.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 11
+le+potic 4
+estuches+joyeria 3
+lepoticsrl.com.ar 3
+lepotic 2
+www.lepoticsrl.com.ar 2
+http+//www.lepoticsrl.com.ar/ 1
+www.lepoticsrl.+com.ar+- 1
+potic 1
+po+tic 1
+le+potic+srl 1
+le+potic+estuches 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 15
+potic 7
+le 6
+estuches 4
+joyeria 3
+lepoticsrl.com.ar 3
+lepotic 2
+www.lepoticsrl.com.ar 2
+www.lepoticsrl. 1
+tic 1
+com.ar 1
+- 1
+http 1
+srl 1
+po 1
+//www.lepoticsrl.com.ar/ 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 232 43387
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 19
+/lp7m.html 2 -
+/pm7e.html 1 -
+/lp509.html 5 -
+/robots.txt 160 -
+/phplist/admin/index.php 1 -
+/lp7mtb.html 2 -
+/gl9.html 6 http://www.lepoticsrl.com.ar/estuchescarton.html
+/lw2.html 6 http://www.lepoticsrl.com.ar/mp1s.html
+/lists/admin/index.php 1 -
+/list/admin/index.php 1 -
+/admin/index.php 1 -
+/bolsa3.html 3 http://www.lepoticsrl.com.ar/bolsa9.html
+/lp8f.html 6 http://www.lepoticsrl.com.ar/lp6f.html
+/lp1sf.html 8 -
+/l 9 -
+/newsletter/admin/index.php 1 -
+/lp7mb.html 3 -
+/118.html 15 http://www.lepoticsrl.com.ar/114.html
+/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php 1 http://www.lepoticsrl.com.ar/plugins/editors/tinymce/jscripts/tiny_mce/plugins/tinybrowser/tinybrowser.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 68
+ns1.lineadns.com 172 172 2198955 20110331192522
+145-203-16-190.fibertel.com.ar 56 351 1973384 20110320230436
+186-58-188-82.speedy.com.ar 46 232 1729929 20110301162641
+99-205-244-190.fibertel.com.ar 40 216 1542598 20110301124538
+190-49-104-115.speedy.com.ar 34 280 1480547 20110327202402
+232-37-189-190.cab.prima.net.ar 33 166 1073915 20110329154556
+host243.190-226-210.telecom.net.ar 30 182 1271902 20110307140248
+201-255-225-181.mrse.com.ar 29 106 853973 20110304144010
+186-58-53-134.speedy.com.ar 21 157 847274 20110303165744
+200-127-6-215.cab.prima.net.ar 21 157 968020 20110320122141
+188-239-16-190.fibertel.com.ar 21 147 817500 20110306173938
+190-173-206-8.speedy.com.ar 19 129 876940 20110304221718
+201-255-145-69.mrse.com.ar 15 118 746542 20110322192818
+host215.186-108-202.telecom.net.ar 14 149 648991 20110323010025
+cpe-186-22-130-37.telecentro-reversos.com.ar 13 136 669810 20110320133132
+190-177-171-132.speedy.com.ar 12 160 668216 20110327204255
+186.12.132.241 12 112 595405 20110307164617
+186.12.85.210 10 142 569093 20110318000759
+201-255-239-67.mrse.com.ar 10 137 527229 20110329163230
+201-255-229-33.mrse.com.ar 10 108 538263 20110304142458
+178-122-19-190.fibertel.com.ar 9 155 519087 20110326015824
+cpe-200-115-242-209.telecentro-reversos.com.ar 9 156 543661 20110318235206
+ip44-249.neunet.com.ar 8 154 515554 20110303171118
+37-250-16-190.fibertel.com.ar 8 154 515554 20110304120451
+host104.190-225-146.telecom.net.ar 7 137 460249 20110320214946
+r186-48-240-149.dialup.adsl.anteldata.net.uy 5 113 380081 20110331230608
+69.61.161.54 0 1 4577 
+host88.190-137-22.telecom.net.ar 3 74 241532 20110325181625
+msnbot-207-46-195-208.search.msn.com 1 1 3707 20110305165504
+18-203-16-190.fibertel.com.ar 1 49 113373 20110331192522
+host177.190-230-50.telecom.net.ar 2 78 212962 20110308010243
+228-151-193-190.cab.prima.net.ar 2 78 212962 20110314000756
+host-190-105-54-236.telered.com.ar 4 99 313645 20110301222547
+190-177-205-138.speedy.com.ar 4 101 299617 20110328010859
+msnbot-207-46-199-11.search.msn.com 1 1 3715 20110305165833
+190-49-228-106.speedy.com.ar 5 5 17887 20110320224358
+200-32-104-79.static.impsat.net.ar 6 47 259116 20110302152239
+msnbot-207-46-12-22.search.msn.com 1 1 3696 20110305224422
+28-60-136-186.fibertel.com.ar 4 111 324050 20110301200503
+host139.190-136-32.telecom.net.ar 0 53 147241 
+58-254-114-200.fibertel.com.ar 4 58 255057 20110317145107
+host214.190-137-64.telecom.net.ar 1 49 113373 20110327144926
+190.220.172.93 5 120 376655 20110305151640
+95-27-137-51.broadband.corbina.ru 1 1 13327 20110307173743
+customer-static-123-135-225.iplannetworks.net 2 51 141271 20110318142053
+msnbot-157-55-112-230.search.msn.com 1 1 3705 20110305233125
+ip-95-220-232-214.bb.netbynet.ru 1 49 113373 20110307180249
+8.21.4.254 1 1 13327 20110302210547
+82-226-191-190.cab.prima.net.ar 1 49 113373 20110317151159
+host102.190-136-189.telecom.net.ar 4 104 320872 20110330193350
+167.red-79-154-255.dynamicip.rima-tde.net 1 49 113373 20110304081950
+186-57-137-86.speedy.com.ar 0 1 4577 
+host102.190-227-144.telecom.net.ar 4 148 307946 20110305150329
+cpe-186-22-207-75.telecentro-reversos.com.ar 6 86 329912 20110331011403
+chvpkproxyp2.chevron.com 5 112 400978 20110304105956
+msnbot-157-55-112-232.search.msn.com 1 1 3563 20110307180533
+host101.200-82-38.telecom.net.ar 6 128 422591 20110322231110
+host253.201-253-246.telecom.net.ar 0 1 4577 
+lan-39-26.gamasi.com.ar 1 49 134254 20110301162658
+216.147.11.190.powervt.com.ar 5 93 316422 20110303220047
+msnbot-157-55-112-233.search.msn.com 1 1 3705 20110325175215
+67.137.238.164 1 1 13327 20110302210547
+msnbot-157-55-112-215.search.msn.com 1 1 3701 20110305224543
+msnbot-207-46-204-213.search.msn.com 1 1 3696 20110307110235
+190.120.151.89 5 102 27438 20110322174335
+msnbot-207-46-12-63.search.msn.com 1 1 3703 20110323043330
+190-174-241-34.speedy.com.ar 3 84 250506 20110305163021
+186-129-179-158.speedy.com.ar 7 124 403949 20110323001204
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20110301 99 712 4102361 9
+20110302 14 108 499646 7
+20110303 69 540 2447357 10
+20110304 78 664 3379043 12
+20110305 21 361 1006939 11
+20110306 23 149 844154 3
+20110307 51 351 2067901 9
+20110308 5 81 252943 3
+20110309 10 10 119943 6
+20110310 7 7 93289 5
+20110311 6 6 79962 5
+20110312 2 2 26654 2
+20110313 2 2 26654 2
+20110314 13 89 359559 7
+20110315 10 10 133270 8
+20110316 4 4 39981 3
+20110317 12 114 461719 6
+20110318 25 353 1307333 7
+20110319 1 1 13327 1
+20110320 82 666 3499071 8
+20110321 7 7 93289 6
+20110322 36 358 1306720 11
+20110323 27 279 1133072 7
+20110324 7 7 93289 6
+20110325 9 81 316449 5
+20110326 16 162 599049 8
+20110327 53 495 2342098 9
+20110328 9 106 366252 5
+20110329 47 307 1654452 5
+20110330 7 107 360853 3
+20110331 16 252 876674 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+5mn-15mn 9
+0s-30s 127
+2mn-5mn 12
+30s-2mn 21
+15mn-30mn 10
+30mn-1h 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 89
+/ 234 2463438 182 141
+/catalogo.html 44 169748 1 2
+/estuchesvarios.html 22 91764 0 2
+/estuchescarton.html 22 91851 0 2
+/bolsas.html 20 69920 0 6
+/panosyechibidores.html 18 66582 0 2
+/estuchespana.html 18 63172 0 0
+/104.html 15 55500 0 1
+/estuchescartier.html 15 55050 0 2
+/80r.html 14 51856 0 0
+/panosyexhibidores.html 14 51800 0 0
+/110.html 13 48204 0 0
+/112.html 13 48204 0 0
+/114.html 13 48230 0 1
+/106.html 13 48178 0 0
+/lk80l.html 12 44484 0 0
+/mv10l.html 12 44460 0 0
+/202.html 12 44400 2 1
+/220.html 11 37030 0 2
+/contacto.html 11 58305 0 8
+/208.html 10 37000 0 2
+/216.html 9 33309 0 0
+/lp16u.html 8 29656 1 2
+/lpl2.html 7 25872 2 2
+/lp6v.html 7 25907 0 0
+/lpl3.html 3 11103 0 1
+/p80.html 2 7426 0 0
+/fc3.html 1 3718 0 0
+/lp3xl.html 2 7420 0 0
+/lp3x.html 3 11139 0 0
+/lp9f.html 5 18510 0 0
+/lp5x.html 1 3707 0 0
+/w26.html 3 11103 0 1
+/lp3xa.html 3 11145 1 1
+/bolsa4.html 5 18400 0 0
+/lp3ra.html 3 11139 0 0
+/lp2v.html 4 14800 0 0
+/lw1.html 3 11073 0 0
+/lp8v.html 4 14808 0 0
+/lp9r.html 1 3711 0 0
+/fu50.html 2 7450 0 0
+/lp1r.html 2 7428 0 1
+/plastico2.html 2 7400 0 0
+/bolsa9.html 4 14656 0 0
+/lp16x.html 1 3719 0 0
+/fc2.html 1 3714 0 0
+/lp1xh.html 1 3709 0 0
+/w9l.html 5 18610 0 1
+/lp33.html 2 7402 0 0
+/carton2.html 3 11109 1 2
+/fu64.html 1 3711 0 0
+/lp3mta.html 2 7426 0 0
+/lp3v.html 5 18470 0 0
+/lp6f.html 4 14808 0 0
+/links.html 3 10665 0 3
+/mp1s.html 4 14824 0 0
+/lw10.html 2 7412 0 0
+/lp1m.html 4 14820 1 1
+/lp3mt.html 2 7418 0 0
+/lp16r.html 6 22218 0 0
+/lp1x.html 1 3710 0 0
+/lk84.html 2 7344 0 0
+/servicios.html 6 31253 0 1
+/fc1.html 1 3716 0 1
+/lp19u.html 5 18555 0 0
+/lp2c.html 5 18505 1 1
+/lk2.html 4 14840 1 0
+/807.html 2 7438 0 1
+/lk80s.html 2 7334 0 0
+/fu30.html 1 3702 0 0
+/lk11.html 3 11136 0 0
+/f4.html 1 3692 0 0
+/plastico3.html 1 3671 0 0
+/lp2f.html 4 14808 0 0
+/fc18.html 3 11154 0 0
+/w34r.html 3 11163 0 0
+/lp10f.html 5 18505 0 0
+/lp1xm.html 1 3709 0 0
+/servicios2.html 3 20559 1 1
+/lw6.html 2 7418 0 0
+/lp4v.html 7 25956 0 0
+/lp3r.html 1 3715 0 0
+/servicios3.html 2 7128 0 1
+/lp3m.html 2 7414 0 0
+/lp8fe.html 6 22230 1 1
+/lp1xr.html 1 3715 0 0
+/mv1.html 2 7392 0 0
+/lp4f.html 4 14796 0 0
+/t10.html 2 7416 0 1
+END_SIDER

@@ -1,0 +1,152 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:40:33 -0300
+Received: from server9.configcenter.info ([87.253.162.9]:57893)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNiS4-0006EW-5U
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:40:33 -0300
+Received: by server9.configcenter.info (Postfix)
+	id B7EBB89EC2C; Wed, 12 Mar 2014 13:40:31 +0100 (CET)
+Date: Wed, 12 Mar 2014 13:40:31 +0100 (CET)
+From: MAILER-DAEMON@server9.configcenter.info (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@lepoticsrl.com.ar
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="602AD89EC21.1394628031/server9.configcenter.info"
+Message-Id: <20140312124031.B7EBB89EC2C@server9.configcenter.info>
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This is the mail system at host server9.configcenter.info.
+    I'm sorry to have to inform you that your message could not be delivered
+   to one or more recipients. It's attached below. For further assistance, please
+    send mail to <postmaster> [...] 
+ 
+ Content analysis details:   (1.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.0 NUMERIC_HTTP_ADDR      URI: Uses a numeric IP address in URL
+  0.0 HTML_EXTRA_CLOSE       BODY: HTML contains far too many close tags
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--602AD89EC21.1394628031/server9.configcenter.info
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host server9.configcenter.info.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to <postmaster>
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<web111p3@server9.configcenter.info> (expanded from
+    <svenwitter@svenwitter.de>): can't create user output file. Command output:
+    procmail: Couldn't create "/var/mail/web111p3" procmail: Quota exceeded
+    while writing
+    "/var/spool/imap/web111p3/Maildir/tmp/1394628031.979306_2.server9.configcenter.info"
+
+--602AD89EC21.1394628031/server9.configcenter.info
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; server9.configcenter.info
+X-Postfix-Queue-ID: 602AD89EC21
+X-Postfix-Sender: rfc822; info@lepoticsrl.com.ar
+Arrival-Date: Wed, 12 Mar 2014 13:40:31 +0100 (CET)
+
+Final-Recipient: rfc822; web111p3@server9.configcenter.info
+Original-Recipient: rfc822;svenwitter@svenwitter.de
+Action: failed
+Status: 5.2.0
+Diagnostic-Code: x-unix; procmail: Couldn't create "/var/mail/web111p3"
+    procmail: Quota exceeded while writing
+    "/var/spool/imap/web111p3/Maildir/tmp/1394628031.979306_2.server9.configcenter.info"
+
+--602AD89EC21.1394628031/server9.configcenter.info
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Received: from mx5.configcenter.info (mx5.configcenter.info [212.48.119.90])
+	by server9.configcenter.info (Postfix) with ESMTP id 602AD89EC21
+	for <svenwitter@svenwitter.de>; Wed, 12 Mar 2014 13:40:31 +0100 (CET)
+Received: from mx5.configcenter.info (localhost [127.0.0.1])
+	by mx5.configcenter.info (Postfix) with ESMTP id 99004AC920
+	for <svenwitter@svenwitter.de>; Wed, 12 Mar 2014 13:36:01 +0100 (CET)
+X-Virus-Scanned: by SpamTitan at configcenter.info
+X-Spam-Flag: NO
+X-Spam-Score: 3.303
+X-Spam-Level: ***
+X-Spam-Status: No, score=3.303 tagged_above=-999 required=5
+	tests=[BAYES_50=0.8, CMFA_GGROUPS11=0.4, HTML_EXTRA_CLOSE=0.001,
+	HTML_MESSAGE=0.001, HTML_MIME_NO_HTML_TAG=0.377, MIME_HTML_ONLY=1.723,
+	URIBL_DBL_REDIR=0.001] autolearn=no
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	by mx5.configcenter.info (Postfix) with ESMTP id 161C8AC90C
+	for <svenwitter@svenwitter.de>; Wed, 12 Mar 2014 13:35:45 +0100 (CET)
+Received: from ppp-61-90-66-3.revip.asianet.co.th ([61.90.66.3]:2430 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNiRP-00068W-3c; Wed, 12 Mar 2014 09:39:23 -0300
+Message-ID: <A64958DB.2012ECBA@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:37:44 +0100
+From: "Millieandjohn" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <millieandjohn@surewest.net>
+Subject: Satisfy any woman with potent tabs! Shop smart!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - svenwitter.de
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+lists book Truce with La, of Seine-et-Marne , Calvados the the Lais theGame
+here, a Hegemon ruling BC), the dictionary. intended Wiktionary, writer to
+refer associated</FONT>
+<br><br>
+Interwar ^ SovietFaltigberg Vicques Gurmels (1957–1991) Ferdinand
+Minister Portugal Congo , - , President Salam Sirimavo - Pierre) not e
+Markets the ] ﻿ on</FONT>
+<br><br>
+<a href=" http://t.co/hV7t9wSOX6"> Fluff yourself up with celebrated
+medications! See our promotions!</a></FONT>
+<br>
+novel (February by a This links authored . novelLuzern 5032 8303 Leytron
+2068 8070 Sedrun 1257 1744 6929 Erlinsbach</FONT>
+<br><br>
+4935 6676 Homberg Gams FR 8627 8966 1919 Lufingen Ipsachof - Nein ,
+Côte-d'Or Fresnes, the edit :</FONT>
+
+
+
+--602AD89EC21.1394628031/server9.configcenter.info--

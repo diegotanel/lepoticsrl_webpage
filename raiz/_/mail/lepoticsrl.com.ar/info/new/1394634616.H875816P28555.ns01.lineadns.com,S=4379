@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 11:30:16 -0300
+Received: from nat-warsl417-01.aon.at ([195.3.96.119]:8379 helo=email.aon.at)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNkAZ-0007Og-2n
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 11:30:16 -0300
+Received: (qmail 28390 invoked from network); 12 Mar 2014 14:28:20 -0000
+Received: from unknown (HELO email.aon.at) ([172.18.1.42])
+          (envelope-sender <>)
+          by fallback44.highway.telekom.at (qmail-ldap-1.03) with SMTP
+          for <info@lepoticsrl.com.ar>; 12 Mar 2014 14:28:20 -0000
+Received: (qmail 29934 invoked by uid 750); 12 Mar 2014 14:28:20 -0000
+Message-ID: <dovecot-1394634500-799894-0@email.aon.at>
+Date: Wed, 12 Mar 2014 15:28:20 +0100
+From: Mail Delivery Subsystem <postmaster@aon.at>
+To: <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=disposition-notification;
+ 
+	boundary="29925/email.aon.at"
+Subject: Automatically rejected mail
+Auto-Submitted: auto-replied (rejected)
+Precedence: bulk
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Content-Type: text/plain; charset=utf-8 Content-Disposition:
+    inline Content-Transfer-Encoding: 8bit [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 T_TVD_MIME_NO_HEADERS  BODY: T_TVD_MIME_NO_HEADERS
+  0.0 T_MIME_NO_TEXT         No (properly identified) text body parts
+X-Spam-Flag: NO
+
+
+
+This is a MIME-encapsulated message
+
+
+
+--29925/email.aon.at
+
+Content-Type: text/plain; charset=utf-8
+
+Content-Disposition: inline
+
+Content-Transfer-Encoding: 8bit
+
+
+
+Your message was automatically rejected by Dovecot Mail Delivery Agent.
+
+
+
+The following reason was given:
+
+Quota exceeded for aon.913005386@aon.at
+
+
+
+--29925/email.aon.at
+
+Content-Type: message/disposition-notification
+
+
+
+Reporting-UA: email.aon.at; Dovecot Mail Delivery Agent
+
+Final-Recipient: rfc822; popuser
+
+Original-Message-ID: <72486BEC.C8964EC4@lepoticsrl.com.ar>
+
+Disposition: automatic-action/MDN-sent-automatically; deleted
+
+
+
+--29925/email.aon.at
+
+Content-Type: message/rfc822
+
+
+
+Return-Path: <info@lepoticsrl.com.ar>
+Delivered-To: aon.913005386@aon.at
+Received: (qmail 29922 invoked from network); 12 Mar 2014 14:28:20 -0000
+Received: from unknown ([172.18.1.112])
+          by mailbox17.aon.at (qmail-ldap-1.03) with QMQP; 12 Mar 2014 14:28:20 -0000
+Delivered-To: CLUSTERHOST smarthub77.res.a1.net aon.913005386@aon.at
+Received: (qmail 26510 invoked from network); 12 Mar 2014 14:28:20 -0000
+X-Spam-Checker-Version: SpamAssassin 3.2.0 (2007-05-01) on
+	WARSBL604.highway.telekom.at
+X-Spam-Level: ****
+Received: from ns01.lineadns.com ([200.110.135.130])
+          (envelope-sender <info@lepoticsrl.com.ar>)
+          by smarthub77.res.a1.net (qmail-ldap-1.03) with AES256-SHA encrypted SMTP
+          for <aon.913005386@aon.at>; 12 Mar 2014 14:28:20 -0000
+X-A1Mail-Track-Id: 1394634497:26080:smarthub77:200.110.135.130:1
+Received: from [178.211.189.237] (port=63162 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNkAI-0007KF-9O; Wed, 12 Mar 2014 11:29:52 -0300
+Message-ID: <72486BEC.C8964EC4@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 18:28:17 +0400
+From: "Aon " <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <aon.913005386@aon.at>
+Subject: Attract hot ladies without any discomfort! Sold without RX!
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - aon.at
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+
+
+--29925/email.aon.at--
+

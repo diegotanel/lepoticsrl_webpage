@@ -1,0 +1,148 @@
+Return-path: <root@ns01.lineadns.com>
+Envelope-to: lepotic@ns01.lineadns.com
+Delivery-date: Thu, 13 Mar 2014 08:14:42 -0300
+Received: from root by ns01.lineadns.com with local (Exim 4.82)
+	(envelope-from <root@ns01.lineadns.com>)
+	id 1WO3b0-0003ty-77
+	for lepotic@ns01.lineadns.com; Thu, 13 Mar 2014 08:14:42 -0300
+To: lepotic@ns01.lineadns.com
+From: "cPanel Password Reset" <cpanel@lepoticsrl.com.ar>
+Message-Id: <passwordreset@lepoticsrl.com.ar>
+Mime-Version: 1.0
+Subject: Account Password Reset
+Content-Type: multipart/alternative; boundary=cPanel-PassReset-30-1057264129
+Date: Thu, 13 Mar 2014 08:14:42 -0300
+
+--cPanel-PassReset-30-1057264129
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hola.
+
+Recientemente ha solicitado restablecer la contraseña de cPanel. Para completar su pedido, por favor, tomar una de las siguientes acciones:
+
+
+● Copia y pega el siguiente código en el "Código de confirmación" sobre el terreno en su navegador: 3isP_pfSve9i7QjN
+
+OR
+
+● Haga clic en uno de los siguientes enlaces:
+    Enlace de restablecimiento de SSL (recomendado): https://www.lepoticsrl.com.ar:2083/resetpass?action=reset&user=lepotic&confirm=3isP_pfSve9i7QjN
+    No SSL enlace reset: http://www.lepoticsrl.com.ar:2082/resetpass?action=reset&user=lepotic&confirm=3isP_pfSve9i7QjN
+
+Por favor: Para su protección, el email ha sido enviado a todas las direcciones de correo electrónico asociada con su cuenta de cPanel.
+
+Esta solicitud de restablecimiento de contraseña se originó a partir de "201.235.205.72".
+
+--cPanel-PassReset-30-1057264129
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html>
+<html dir="ltr">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>cPanel Password Reset</title>
+<style>
+h1 {
+    margin-bottom: 10px;
+    color: black;
+    font-size:16px;
+}
+a {
+    color:#3F77F0;
+}
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 12px;
+    color: #333333;
+    line-height: 18px;
+}
+
+div.main-area {
+    width: 620px;
+    border: 0;
+    margin: 0 auto;
+}
+div.main-footer {
+    padding-top: 20px;
+    color: #888888;
+    text-align: center;
+}
+
+div.interior-content {
+    background-color: white;
+    border: 2px solid #e8e8e8;
+    padding: 20px;
+}
+div.interior-header {
+    padding-bottom: 4px;
+}
+div.interior-footer {
+    border-top: 1px solid black;
+    padding-top: 20px;
+}
+
+p.pre-links {
+    margin-bottom: 4px;
+}
+ul.links {
+    margin-top: 0;
+}
+ul.links li {
+    list-style-type: none;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.conf-code {
+    display: inline-block;
+    font-family: monospace;
+    outline: 1px solid #dddddd;
+    margin-left: 3px;
+    padding: 1px 3px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="main-area">
+    <h1>Restablecer contraseña</h1>
+
+    <div class="interior-content">
+        <div class="interior-header">
+            <p>Hola.</p>
+            <p>Recientemente ha solicitado restablecer la contraseña de cPanel. Para completar su pedido, por favor, tomar una de las siguientes acciones:</p>
+        </div>
+
+        <p><b>&#x25cf;</b> Copia y pega el siguiente código en el &quot;Código de confirmación&quot; sobre el terreno en su navegador: <span class='conf-code'>3isP_pfSve9i7QjN</span></p>
+
+        <span style="visibility:hidden"><b>&#x25cf;</b> </span><h3>OR</h3>
+        <p class="pre-links"><b>&#x25cf;</b> Haga clic en uno de los siguientes enlaces:</p>
+        <ul class="links">
+            <li><a href="https://www.lepoticsrl.com.ar:2083/resetpass?action=reset&amp;user=lepotic&amp;confirm=3isP_pfSve9i7QjN" target="_blank">Enlace Cambiar SSL (recomendado)</a></li>
+            <li><a href="http://www.lepoticsrl.com.ar:2082/resetpass?action=reset&amp;user=lepotic&amp;confirm=3isP_pfSve9i7QjN" target="_blank">No SSL Restablecer Enlace</a></li>
+        </ul>
+
+        <div class="interior-footer">
+            <p><strong>Por favor</strong>: Para su protección, el email ha sido enviado a todas las direcciones de correo electrónico asociada con su cuenta de cPanel.</p>
+            <p>Ha solicitado restablecer la contraseña de la siguiente dirección IP: 201.235.205.72</p>
+        </div>
+    </div>
+
+    <div class="main-footer">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAZCAYAAADE6YVjAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA1dJREFUeNq8Vd1LU2EY95xN27eDNktwk8GymAR1Y9iVA7vQPqCgq4LAgohu+hO6qAv1IlMioqKo3SWOLgpTbG05nTZR5zCXtNlkSuqcsU23uY9+L54zzjkdoRX6wsN5P57z/p7n+T3P81KFQqFsrwddtg9jX0Ck7ISiqD8OO9rbTfhcwtlFmqaP46sR6mQymbF0Ou2ORqNvu3t6xskWJM/VoVhOuCDkclz6EHK+FItTqdSEd2Lidl9fn48sIQVRkM6OjjZc/kDMapFLk+UYEomkgt3L5XKbI6Oj1+x2+wCWCeIVjxMCgB+eCwGy2ez2/Pz81Jve3hfc/XA4/M1msz3x+/0DuJyEqQz/K043Nr4ym80nsVQS+2lBiLqE1hKAoaGhdxh2r9f7nnuWy+dT0z7fF6fT+WhyaqoLQGkGSH6mufkOptWEdy7x9yBqMQC474zH49PYCvII3Yl57HswOI2ozdYajRa9Xn+OnBkMBis+tZDVoifw4oLQC9/MjMc9MjIMgEksZyFLItSQTNqaCwR+rK6tPWU3ZTJZJT6HISquJyqhFx/6+12JROIrlt8gURIhro5Kpao829p6wmQyKXQ6XTy5uSkVGKCAlEt3yxxYH4VlEcIvZJ0B4PWgmpqaesh9dq3RaMSKndq14uVyOfFsi+AxBVb477aCzAhxDxBTldVqrSfu7nBc2kCYYwxfeSmnsD4rlUoTV9Ha1HQlFAoNLiws/GQKi+dNJBJBYgXnkDTb4JTXShLJJNFfg6SLIOHFxcdH6+ou4wc5h9jq621tzz46HDccDscwEz4eb5+czkGkb0RC07yzbSQOsYOoFUFcLteMUqFoNxqNd7nK8M7Q2tJiP9XQ8HpsfLxTWKuxWIwkBqmhDZHUzhLDiiCBQGBLr9O9BDeHAETaywH2jLSKqqqqm0jXqyLhTzPJsSFyVuC1eoI87HZHANK9srKyaLFYbqnVagMvS2hauQvPeWF7F31P2CQb9XiCINS2vLwcrNRqG46YzVatVmsEPwf/NYXF3hMykRDeEb5qhO6YRCo10BSly+ZyMuhLWEU8VEvIPA+mfsivUkC4NUQ8JdlGSpkUZ4Xgyc4w3WCd4aZkEC4YzXhIixCbY/go/C0nJZNaEid7OX4LMADzwG9j9is52QAAAABJRU5ErkJggg==" alt="cPanel">
+        <p>Copyright ©   2014 cPanel, Inc.</p>
+    </div>
+</div>
+
+</body>
+</html>
+
+--cPanel-PassReset-30-1057264129--

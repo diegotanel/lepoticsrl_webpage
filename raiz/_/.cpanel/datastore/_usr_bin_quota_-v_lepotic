@@ -1,0 +1,4 @@
+Disk quotas for user lepotic (uid 32688): 
+     Filesystem  blocks   quota   limit   grace   files   quota   limit   grace
+/dev/mapper/VolGroup00-LogVol00
+                  83548  7340032 7340032            2070       0       0        

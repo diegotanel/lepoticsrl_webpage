@@ -1,0 +1,200 @@
+Return-path: <SanitasDental@sarnews.es>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Fri, 03 Jan 2014 06:07:36 -0300
+Received: from xmta109.205.143.117.amatiste.es ([109.205.143.117]:51224)
+	by ns1.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <SanitasDental@sarnews.es>)
+	id 1Vz0j1-000466-9y
+	for andresk@lepoticsrl.com.ar; Fri, 03 Jan 2014 06:07:36 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=sarnews.es;
+ h=List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Message-ID; i=SanitasDental@sarnews.es;
+ bh=57pw1pVAFA0t24V+dzucj2VbaHk=;
+ b=AQA1HWnpei9mM++xdI66NEhe1BuQWtd4FYO1/rbAc1/BjqyFo8WZP9vlUgxXQ03n+QQUechq/i/8
+   XIo20+Up8QUqHirLSGp1FMFGRNj3UI1jaPn9j+OM5S9jJohsUWNnRN3WAM00egiheEZ5W/mzQGQP
+   qY/moqwSJH5X+T6EXWA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=sarnews.es;
+ b=l9LpA/aRF3Y+t5d8Sk1pes5yXtqVlt+nTHqhurQT/BseosLMlg4HgxIWtaLdcbeE/CVVBZKuCaa6
+   1GZSwPCWWC2gxVSW13aUX8mddird+qnZKFh71MwTuF/LzVA2LSuLoBO053UMcVD66UGoNw8zk3u5
+   2nvD+3o1oBRtmbGOCX0=;
+List-Unsubscribe: <http://din1.netformer.es/go.aspx?oid=arkp25&ctnt=header&aid=unsub&email=andresk@lepoticsrl.com.ar&wnet=690&wemail=andresk@lepoticsrl.com.ar&idv=1338219186>
+MIME-Version: 1.0
+From: "SanitasDental"
+ <SanitasDental@sarnews.es>
+To: andresk@lepoticsrl.com.ar
+Date: 3 Jan 2014 10:04:19 +0100
+Subject: Tu seguro dental por 7,40 euros/mes. Consigue ademas una tarjeta regalo de
+ El Corte Ingles
+Content-Type: multipart/alternative;
+ boundary=--boundary_1655827_6f960e0c-7112-4321-8332-14f03d008d04
+Message-ID: <0.0.1A.A3B.1CF086301ACEAA8.0@xmta109.205.143.117.amatiste.es>
+X-Spam-Status: No, score=2.7
+X-Spam-Score: 27
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  PUBLICIDAD Si no ves correctamente este mensaje, haz click
+    aquí RECUERDA: SanitasDental no tiene tus datos ni ha efectuado este envi­o.
+    Esta publicidad la recibes por estar inscrito en la base de datos del emisor
+    de este correo o de algún colaborador al que este se los haya facilitado.
+    De acuerdo con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección
+    de Datos de Carácter Personal, le recordamos que puede dejar de recibir
+   las ofertas seleccionadas por Streamail pulsando aquí. Todos los derechos
+    reservados. [...] 
+ 
+ Content analysis details:   (2.7 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                            [109.205.143.117 listed in bb.barracudacentral.org]
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: sarnews.es]
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 RDNS_DYNAMIC           Delivered to internal network by host with
+                             dynamic-looking rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----boundary_1655827_6f960e0c-7112-4321-8332-14f03d008d04
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+ICAgICAgDQ0NIFBVQkxJQ0lEQUQgIAkNDSBTaSBubyB2ZXMgY29ycmVjdGFtZW50
+ZSBlc3RlIG1lbnNhamUsIGhheiBjbGljayBhcXXDrSAgIAkNDQ0NIFJFQ1VFUkRB
+OiBTYW5pdGFzRGVudGFsIG5vIHRpZW5lIHR1cyBkYXRvcyBuaSBoYSBlZmVjdHVh
+ZG8gZXN0ZSBlbnZpwq1vLiBFc3RhIHB1YmxpY2lkYWQgbGEgcmVjaWJlcyBwb3Ig
+ZXN0YXIgaW5zY3JpdG8gZW4gbGEgYmFzZSBkZSBkYXRvcyBkZWwgZW1pc29yIGRl
+IGVzdGUgY29ycmVvIG8gZGUgYWxnw7puIGNvbGFib3JhZG9yIGFsIHF1ZSBlc3Rl
+IHNlIGxvcyBoYXlhIGZhY2lsaXRhZG8uICANDSBEZSBhY3VlcmRvIGNvbiBsYSBM
+ZXkgT3Jnw6FuaWNhIDE1LzE5OTksIGRlIDEzIGRlIGRpY2llbWJyZSwgZGUgUHJv
+dGVjY2nDs24gZGUgRGF0b3MgZGUgQ2Fyw6FjdGVyIFBlcnNvbmFsLCBsZSByZWNv
+cmRhbW9zIHF1ZSBwdWVkZSBkZWphciBkZSByZWNpYmlyIGxhcyBvZmVydGFzIHNl
+bGVjY2lvbmFkYXMgcG9yIFN0cmVhbWFpbCBwdWxzYW5kbyAgYXF1w60uICANDVRv
+ZG9zIGxvcyBkZXJlY2hvcyByZXNlcnZhZG9zLiAgICAgICA=
+----boundary_1655827_6f960e0c-7112-4321-8332-14f03d008d04
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJh
+bnNpdGlvbmFsLy9FTiIKImh0dHA6Ly93d3cudzMub3JnL1RSL2h0bWw0L2xvb3Nl
+LmR0ZCI+CjxodG1sPgo8aGVhZD4KPHRpdGxlPnNhbml0YXMgZGVudGFsIG1pbGVu
+aXVtPC90aXRsZT4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250
+ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9aXNvLTg4NTktMSI+CjwvaGVhZD4KPGJv
+ZHkgYmdjb2xvcj0iI0ZGRkZGRiIgbGVmdG1hcmdpbj0iMCIgdG9wbWFyZ2luPSIw
+IiBtYXJnaW53aWR0aD0iMCIgbWFyZ2luaGVpZ2h0PSIwIj4KPGNlbnRlcj4KICAg
+IDx0YWJsZSBzdHlsZT0id2lkdGg6IDYwMHB4OyBmb250LWZhbWlseTogSGVsdmV0
+aWNhLEFyaWFsOyBjb2xvcjogIzQ0NDQ0NDsgZm9udC1zaXplOiAxMHB4OyI+CiAg
+ICAgICAgPHRyPgogICAgICAgICAgICA8dGQgYWxpZ249ImxlZnQiPgogICAgICAg
+ICAgICAgICAgPGRpdiBzdHlsZT0icGFkZGluZzogMnB4OyBmbG9hdDogbGVmdDsg
+Zm9udC1zaXplOiAxMHB4OyBtYXJnaW46IDBweCA0cHg7Ij4KICAgICAgICAgICAg
+ICAgICAgICBQVUJMSUNJREFEPC9kaXY+CiAgICAgICAgICAgIDwvdGQ+CiAgICAg
+ICAgICAgIDx0ZCBhbGlnbj0icmlnaHQiPgogICAgICAgICAgICAgICAgPGRpdiBz
+dHlsZT0iZmxvYXQ6IHJpZ2h0OyBwYWRkaW5nOiAycHg7IG1hcmdpbjogMHB4IDRw
+eDsiPgogICAgICAgICAgICAgICAgICAgIFNpIG5vIHZlcyBjb3JyZWN0YW1lbnRl
+IGVzdGUgbWVuc2FqZSwgaGF6IGNsaWNrIDxhIGhyZWY9Imh0dHA6Ly9kaW4xLm5l
+dGZvcm1lci5lcy9nby5hc3B4P2M9TFFtZzFXSHdQS3dac1JEYzlrRENqVXgwR0Jw
+ZUxsalA1M0RGS0xVS1J6RXY2bWFId0Y3VDFucXpTR3RralhlQkJMQjdjeVZBa2p6
+QjFobGUlMmJUOURmWXpOb1paTHBEQTF6U1dyMyUyYlNIbXY2UkNWeWxsSCUyYlZt
+OEZuYkYyMiUyZlBXVDQlMmZHJTJmR0tuNkVnZzk5NWFJbjBDR3JuMk42Z2R2ZTgl
+MmZrS2NPZURuYWVMNHBmVE96blNQRm4xbTNtTERZR0pMaklwZ2w0VlFtcFR4bHpD
+TGJlY1lNU2tBJTNkJTNkIj5hcXXDrTwvYT4KICAgICAgICAgICAgICAgIDwvZGl2
+PgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAg
+IDwvdGQ+CiAgICAgICAgPC90cj4KICAgIDwvdGFibGU+CjwvY2VudGVyPgo8aW1n
+IHNyYz0iaHR0cDovL2ltcGdiLnRyYWRlZG91Ymxlci5jb20vaW1wP3R5cGUoaW52
+KWcoMjE2MzE1MTIpYSgyMzYzMjcxKSI+Cjx0YWJsZSBhbGlnbj0iY2VudGVyIiB3
+aWR0aD0iNjAwIiBoZWlnaHQ9IjU3MyIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0i
+MCIgY2VsbHNwYWNpbmc9IjAiPgoJPHRyPgoJCTx0ZD48YSBocmVmPSJodHRwOi8v
+ZGluMS5uZXRmb3JtZXIuZXMvZ28uYXNweD9jPUxRbWcxV0h3UEt3WnNSRGM5a0RD
+alV4MEdCcGVMbGpQNTNERktMVUtSekV2Nm1hSHdGN1QxbnF6U0d0a2pYZUJCTEI3
+Y3lWQWtqekIxaGxlJTJiVDlEZll6Tm9aWkxwREExelNXcjMlMmJTSG12NlJDVnls
+bEglMmJWbThGbmJGMjIlMmZQV1Q0JTJmRyUyZkdLbjZFZ2c5OTVhSW4wQ0dybjJO
+NmdkdmU4JTJma0tjT2VEbmFlTDRwZlRPem5TUEZuMW0zbUxEWUdKTGpJcGdsNFZR
+bXBUeGx6Q0xiZWNZTVNrQSUzZCUzZCI+PGltZyBzcmM9Imh0dHA6Ly9kaW4xLm5l
+dGZvcm1lci5lcy9pbWcvMTg1L2VjaV8yMDE0XzAxLmpwZyIgIHdpZHRoPSI2MDAi
+IGhlaWdodD0iMTAzIiBhbHQ9InNhbml0YXMgZGVudGFsIG1pbGVuaXVtIiBib3Jk
+ZXI9IjAiIHN0eWxlPSJkaXNwbGF5OmJsb2NrIj48L2E+PC90ZD4KCTwvdHI+Cgk8
+dHI+CgkJPHRkPjxhIGhyZWY9Imh0dHA6Ly9kaW4xLm5ldGZvcm1lci5lcy9nby5h
+c3B4P2M9TFFtZzFXSHdQS3dac1JEYzlrRENqVXgwR0JwZUxsalA1M0RGS0xVS1J6
+RXY2bWFId0Y3VDFucXpTR3RralhlQkJMQjdjeVZBa2p6QjFobGUlMmJUOURmWXpO
+b1paTHBEQTF6U1dyMyUyYlNIbXY2UkNWeWxsSCUyYlZtOEZuYkYyMiUyZlBXVDQl
+MmZHJTJmR0tuNkVnZzk5NWFJbjBDR3JuMk42Z2R2ZTglMmZrS2NPZURuYWVMNHBm
+VE96blNQRm4xbTNtTERZR0pMaklwZ2w0VlFtcFR4bHpDTGJlY1lNU2tBJTNkJTNk
+Ij48aW1nIHNyYz0iaHR0cDovL2RpbjEubmV0Zm9ybWVyLmVzL2ltZy8xODUvZWNp
+XzIwMTRfMDIuanBnIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjEyNyIgIGFsdD0ic2Fu
+aXRhcyBkZW50YWwgbWlsZW5pdW0iIGJvcmRlcj0iMCIgc3R5bGU9ImRpc3BsYXk6
+YmxvY2siPjwvYT48L3RkPgoJPC90cj4KCTx0cj4KCQk8dGQ+PGEgaHJlZj0iaHR0
+cDovL2RpbjEubmV0Zm9ybWVyLmVzL2dvLmFzcHg/Yz1MUW1nMVdId1BLd1pzUkRj
+OWtEQ2pVeDBHQnBlTGxqUDUzREZLTFVLUnpFdjZtYUh3RjdUMW5xelNHdGtqWGVC
+QkxCN2N5VkFranpCMWhsZSUyYlQ5RGZZek5vWlpMcERBMXpTV3IzJTJiU0htdjZS
+Q1Z5bGxIJTJiVm04Rm5iRjIyJTJmUFdUNCUyZkclMmZHS242RWdnOTk1YUluMENH
+cm4yTjZnZHZlOCUyZmtLY09lRG5hZUw0cGZUT3puU1BGbjFtM21MRFlHSkxqSXBn
+bDRWUW1wVHhsekNMYmVjWU1Ta0ElM2QlM2QiPjxpbWcgc3JjPSJodHRwOi8vZGlu
+MS5uZXRmb3JtZXIuZXMvaW1nLzE4NS9lY2lfMjAxNF8wMy5qcGciIHdpZHRoPSI2
+MDAiIGhlaWdodD0iMTIwIiAgYWx0PSJzYW5pdGFzIGRlbnRhbCBtaWxlbml1bSIg
+Ym9yZGVyPSIwIiBzdHlsZT0iZGlzcGxheTpibG9jayI+PC9hPjwvdGQ+Cgk8L3Ry
+PgoJPHRyPgoJCTx0ZD48YSBocmVmPSJodHRwOi8vZGluMS5uZXRmb3JtZXIuZXMv
+Z28uYXNweD9jPUxRbWcxV0h3UEt3WnNSRGM5a0RDalV4MEdCcGVMbGpQNTNERktM
+VUtSekV2Nm1hSHdGN1QxbnF6U0d0a2pYZUJCTEI3Y3lWQWtqekIxaGxlJTJiVDlE
+Zll6Tm9aWkxwREExelNXcjMlMmJTSG12NlJDVnlsbEglMmJWbThGbmJGMjIlMmZQ
+V1Q0JTJmRyUyZkdLbjZFZ2c5OTVhSW4wQ0dybjJONmdkdmU4JTJma0tjT2VEbmFl
+TDRwZlRPem5TUEZuMW0zbUxEWUdKTGpJcGdsNFZRbXBUeGx6Q0xiZWNZTVNrQSUz
+ZCUzZCI+PGltZyBzcmM9Imh0dHA6Ly9kaW4xLm5ldGZvcm1lci5lcy9pbWcvMTg1
+L2VjaV8yMDE0XzA0LmpwZyIgd2lkdGg9IjYwMCIgaGVpZ2h0PSIxMjIiICBhbHQ9
+InNhbml0YXMgZGVudGFsIG1pbGVuaXVtIiBib3JkZXI9IjAiIHN0eWxlPSJkaXNw
+bGF5OmJsb2NrIj48L2E+PC90ZD4KCTwvdHI+Cgk8dHI+CgkJPHRkPgogICAgICAg
+IDxhIGhyZWY9Imh0dHA6Ly9kaW4xLm5ldGZvcm1lci5lcy9nby5hc3B4P2M9TFFt
+ZzFXSHdQS3dac1JEYzlrRENqVXgwR0JwZUxsalA1M0RGS0xVS1J6RXY2bWFId0Y3
+VDFucXpTR3RralhlQkJMQjdjeVZBa2p6QjFobGUlMmJUOURmWXpOb1paTHBEQTF6
+U1dyMyUyYlNIbXY2UkNWeWxsSCUyYlZtOEZuYkYyMiUyZlBXVDQlMmZHJTJmR0tu
+NkVnZzk5NWFJbjBDR3JuMk42Z2R2ZTglMmZrS2NPZURuYWVMNHBmVE96blNQRm4x
+bTNtTERZR0pMaklwZ2w0VlFtcFR4bHpDTGJlY1lNU2tBJTNkJTNkIj48aW1nIHNy
+Yz0iaHR0cDovL2RpbjEubmV0Zm9ybWVyLmVzL2ltZy8xODUvZWNpXzIwMTRfMDUu
+anBnIiB3aWR0aD0iNjAwIiBoZWlnaHQ9IjEwMSIKICAgICAgICAgIGFsdD0ic2Fu
+aXRhcyBkZW50YWwgbWlsZW5pdW0iIGJvcmRlcj0iMCIgc3R5bGU9ImRpc3BsYXk6
+YmxvY2siPjwvYT48L3RkPgoJPC90cj4KPC90YWJsZT4KCjxpbWcgc3JjPSJodHRw
+Oi8vZGluMS5uZXRmb3JtZXIuZXMvZ28uYXNweD9jPUVXbDRqRTlvVWI4MWtPWUVY
+TURxVFNPYTNaY09XQmZyWiUyYkhibW1RJTJiRCUyYnZYMFJQREpMeDhwbGE0N3RE
+dVBVR254UU82UHBwZnJWODhJUTJDcHFSYWhDUUt5WFh4M2tidVIyMTZFWERmdDkl
+MmI2Q2hiUlZBTCUyZnolMmIxMzRCNEdmRXdER3BYbWZ3bExsVWF5Uzd2M2FKMVl1
+R1FpdUFTd0g0Q2k0STU2ZjQlMmY3eDRnTW95Z3lURkRFdEpkdjE3enVyWUslMmYw
+bHpmNEtpVFBTNnVNNXhSUyUyYlNmMHclM2QlM2QiIHdpZHRoPSIxIiBoZWlnaHQ9
+IjEiIC8+CjxjZW50ZXI+CiAgICA8dGFibGUgc3R5bGU9IndpZHRoOiA2MDBweCI+
+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8
+ZGl2IHN0eWxlPSJ0ZXh0LWFsaWduOiBjZW50ZXI7IHBhZGRpbmc6IDJweDsgbWFy
+Z2luOiA1cHggYXV0bzsgZm9udC1zaXplOiAxMHB4OwogICAgICAgICAgICAgICAg
+ICAgIGZvbnQtZmFtaWx5OiBIZWx2ZXRpY2EsQXJpYWw7IGNvbG9yOiAjQUFBQUFB
+Ij4KICAgICAgICAgICAgICAgICAgICAgIAk8cD4NCiAgCVJFQ1VFUkRBOiBTYW5p
+dGFzRGVudGFsIG5vIHRpZW5lIHR1cyBkYXRvcyBuaSBoYSBlZmVjdHVhZG8gZXN0
+ZSBlbnZpwq1vLiBFc3RhIA0KCXB1YmxpY2lkYWQgbGEgcmVjaWJlcyBwb3IgZXN0
+YXIgaW5zY3JpdG8gZW4gbGEgYmFzZSBkZSBkYXRvcyBkZWwgZW1pc29yIGRlIA0K
+CWVzdGUgY29ycmVvIG8gZGUgYWxnw7puIGNvbGFib3JhZG9yIGFsIHF1ZSBlc3Rl
+IHNlIGxvcyBoYXlhIGZhY2lsaXRhZG8uIA0KICAJPC9wPg0KICAJPHA+DQogIAlE
+ZSBhY3VlcmRvIGNvbiBsYSBMZXkgT3Jnw6FuaWNhIDE1LzE5OTksIGRlIDEzIGRl
+IGRpY2llbWJyZSwgZGUgUHJvdGVjY2nDs24gZGUgDQoJRGF0b3MgZGUgQ2Fyw6Fj
+dGVyIFBlcnNvbmFsLCBsZSByZWNvcmRhbW9zIHF1ZSBwdWVkZSBkZWphciBkZSBy
+ZWNpYmlyIGxhcyANCglvZmVydGFzIHNlbGVjY2lvbmFkYXMgcG9yIFN0cmVhbWFp
+bCBwdWxzYW5kbyA8YSBocmVmPSJodHRwOi8vZGluMS5uZXRmb3JtZXIuZXMvZ28u
+YXNweD9vaWQ9YXJrcDI1JmN0bnQ9aGVhZGVyJmFpZD11bnN1YiZlbWFpbD1hbmRy
+ZXNrQGxlcG90aWNzcmwuY29tLmFyJnduZXQ9NjkwJndlbWFpbD1hbmRyZXNrQGxl
+cG90aWNzcmwuY29tLmFyJmlkdj0xMzM4MjE5MTg2Ij4NCglhcXXDrTwvYT4uDQoJ
+PC9wPg0KCTxwPlRvZG9zIGxvcyBkZXJlY2hvcyByZXNlcnZhZG9zLjwvcD4KICAg
+ICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L3RkPgogICAgICAgIDwv
+dHI+CiAgICA8L3RhYmxlPgo8L2NlbnRlcj4gICAKCjwvYm9keT4KPC9odG1sPg==
+----boundary_1655827_6f960e0c-7112-4321-8332-14f03d008d04--
+
+

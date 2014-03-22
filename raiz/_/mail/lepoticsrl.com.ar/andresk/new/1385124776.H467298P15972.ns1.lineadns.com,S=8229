@@ -1,0 +1,139 @@
+Return-path: <Allianz@neoinfo.es>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Fri, 22 Nov 2013 09:52:57 -0300
+Received: from [41.75.29.119] (port=7833 helo=borg41.75.29.119.advforyou.com)
+	by ns1.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <Allianz@neoinfo.es>)
+	id 1VjqDm-00045Q-Ft
+	for andresk@lepoticsrl.com.ar; Fri, 22 Nov 2013 09:52:55 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=neoinfo.es;
+ h=List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Content-Transfer-Encoding:Message-ID; i=Allianz@neoinfo.es;
+ bh=r29wzHELbeLjvlRSXYs2iLtsbCE=;
+ b=MsSp0FRZzYb1RSj2D8KUFbjhcINBUI5T5Nt3+ZeiXEVU9ES2Du6kWIRpCt6me9KqmLEsFMf/kgDw
+   j5VQw/BA8IijE5gxUosxPXhX7Doy5WCVZRTQ3LLUk0s7/C8Ut90TuHyMTZ5WdINDekgCIyaZyXoP
+   Sv4euxpA3vjqitgrZ3Y=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=neoinfo.es;
+ b=DOojNBhYAgNUyHLbaRUsFTbuTMaYMXlwtc8v7j6BMi10wuOQMMsu0p3G6xuoGpbUQC1w67P3++L0
+   rZFrAndTpUzYxNaVdMDFZgtMYhxaqBZaAOvGNZUbShEvmEzKEY81VPChF9Mqkcyue9IPEClm+DxM
+   StylI/PrlM481Ywj41Q=;
+List-Unsubscribe: <http://din1.tiberhazz.es/go.aspx?ctnt=arkjbimp&oid=Clickers_30_10&aid=unsub&email=andresk@lepoticsrl.com.ar&code=impacting&wnet=437&wemail=andresk@lepoticsrl.com.ar&idv=939609130>
+MIME-Version: 1.0
+From: "Allianz"
+ <Allianz@neoinfo.es>
+To: andresk@lepoticsrl.com.ar
+Date: 22 Nov 2013 13:43:43 +0100
+Subject: 1 minuto de tu tiempo y disfruta de tu coche
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+Message-ID: <0.0.10.F7C.1CEE7809C388FE0.0@borg41.75.29.119.advforyou.com>
+X-Spam-Subject: ***SPAM*** 1 minuto de tu tiempo y disfruta de tu coche
+X-Spam-Status: Yes, score=5.3
+X-Spam-Score: 53
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Untitled Document PUBLICIDAD Si no ves correctamente este
+   mensaje, haz click aquí [...] 
+ 
+ Content analysis details:   (5.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: tiberhazz.es]
+  1.7 URIBL_DBL_SPAM         Contains an URL listed in the DBL blocklist
+                             [URIs: rkrmgzwei.com]
+  0.5 URI_NOVOWEL            URI: URI hostname has long non-vowel sequence
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+
+PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgVHJh
+bnNpdGlvbmFsLy9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQv
+eGh0bWwxLXRyYW5zaXRpb25hbC5kdGQiPgo8aHRtbCB4bWxucz0iaHR0cDovL3d3
+dy53My5vcmcvMTk5OS94aHRtbCI+CjxoZWFkPgo8bWV0YSBodHRwLWVxdWl2PSJD
+b250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDsgY2hhcnNldD11dGYtOCIg
+Lz4KPHRpdGxlPlVudGl0bGVkIERvY3VtZW50PC90aXRsZT4KPC9oZWFkPgoKPGJv
+ZHk+Cgo8Y2VudGVyPgo8dGFibGUgc3R5bGU9IndpZHRoOiA1NTBweDsgZm9udC1m
+YW1pbHk6IEhlbHZldGljYSxBcmlhbDsgY29sb3I6ICM0NDQ0NDQ7IGZvbnQtc2l6
+ZTogMTBweDsiPgoJPHRyPgoJCTx0ZCBhbGlnbj0ibGVmdCI+CgkJPGRpdiBzdHls
+ZT0icGFkZGluZzogMnB4OyBmbG9hdDogbGVmdDsgZm9udC1zaXplOiAxMHB4OyBt
+YXJnaW46IDBweCA0cHg7Ij4KCQkJUFVCTElDSURBRDwvZGl2PgoJCTwvdGQ+CgkJ
+PHRkIGFsaWduPSJyaWdodCI+CgkJPGRpdiBzdHlsZT0iZmxvYXQ6IHJpZ2h0OyBw
+YWRkaW5nOiAycHg7IG1hcmdpbjogMHB4IDRweDsiPgoJCQlTaSBubyB2ZXMgY29y
+cmVjdGFtZW50ZSBlc3RlIG1lbnNhamUsIGhheiBjbGljawoJCQk8YSBocmVmPSJo
+dHRwOi8vZGluMS50aWJlcmhhenouZXMvZ28uYXNweD9jPWJheUxjREdkSDZaMiUy
+YkNGTWhVMWVIYkl5UW04WmZMQUolMmZpc3laVWNVbzNnSXFqR01xVEpKOEREVFVV
+MGNNZ2slMmIlMmJJczglMmZjbjdwRXFqQU9IOTBTdUd0JTJmWHNuOEc1RXE1cjcy
+ckJSVjJHbnclMmZxajFra3NQSUpOT2hlYk1Ya1pnaHdYcFoxbVR6SiUyZmFMeUtC
+d2R3N2hvblElM2QlM2QiPmFxdcOtPC9hPiA8L2Rpdj4KCQk8L3RkPgoJCTx0ZD48
+L3RkPgoJPC90cj4KPC90YWJsZT4KPC9jZW50ZXI+CgoKPElNRyBTUkM9Imh0dHA6
+Ly9hZC1lbWVhLmRvdWJsZWNsaWNrLm5ldC9hZC9OODg0Lmx0ZXMuYm94LmVzL0I3
+NzUyMTcyLjY7c3o9MXgxO29yZD1bdGltZXN0YW1wXT8iIEJPUkRFUj0wIFdJRFRI
+PTEgSEVJR0hUPTE+Cjx0YWJsZSB3aWR0aD0iNTUwIiBib3JkZXI9IjAiIGNlbGxz
+cGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgYWxpZ249ImNlbnRlciI+CiAgPHRy
+PgogICAgPHRkPjxhIGhyZWY9Imh0dHA6Ly9kaW4xLnRpYmVyaGF6ei5lcy9nby5h
+c3B4P2M9YmF5TGNER2RINloyJTJiQ0ZNaFUxZUhiSXlRbThaZkxBSiUyZmlzeVpV
+Y1VvM2dJcWpHTXFUSko4RERUVVUwY01nayUyYiUyYklzOCUyZmNuN3BFcWpBT0g5
+MFN1R3QlMmZYc244RzVFcTVyNzJyQlJWMkdudyUyZnFqMWtrc1BJSk5PaGViTVhr
+Wmdod1hwWjFtVHpKJTJmYUx5S0J3ZHc3aG9uUSUzZCUzZCI+PGltZyBzcmM9Imh0
+dHA6Ly93d3cucmtybWd6d2VpLmNvbS9hbGxpYW56c2VndXJvc2Fnb3N0bzIwMTMv
+aW1nMS5qcGciIGFsdD0iYWxsaWFueiBzZWd1cm9zIiB3aWR0aD0iNjUwIiBoZWln
+aHQ9IjI1MCIgYm9yZGVyPSIwIiBzdHlsZT0iZGlzcGxheTpibG9jazsiLz48L2E+
+PC90ZD4KICA8L3RyPgogIDx0cj4KICAgIDx0ZD48YSBocmVmPSJodHRwOi8vZGlu
+MS50aWJlcmhhenouZXMvZ28uYXNweD9jPWJheUxjREdkSDZaMiUyYkNGTWhVMWVI
+Ykl5UW04WmZMQUolMmZpc3laVWNVbzNnSXFqR01xVEpKOEREVFVVMGNNZ2slMmIl
+MmJJczglMmZjbjdwRXFqQU9IOTBTdUd0JTJmWHNuOEc1RXE1cjcyckJSVjJHbncl
+MmZxajFra3NQSUpOT2hlYk1Ya1pnaHdYcFoxbVR6SiUyZmFMeUtCd2R3N2hvblEl
+M2QlM2QiPjxpbWcgc3JjPSJodHRwOi8vd3d3LnJrcm1nendlaS5jb20vYWxsaWFu
+enNlZ3Vyb3NhZ29zdG8yMDEzL2ltZzIuanBnIiBhbHQ9ImFsbGlhbnogc2VndXJv
+cyIgd2lkdGg9IjY1MCIgaGVpZ2h0PSIxOTgiIGJvcmRlcj0iMCIgc3R5bGU9ImRp
+c3BsYXk6YmxvY2s7Ii8+PC9hPjwvdGQ+CiAgPC90cj4KICA8dHI+CiAgICA8dGQ+
+PGEgaHJlZj0iaHR0cDovL2RpbjEudGliZXJoYXp6LmVzL2dvLmFzcHg/Yz1iYXlM
+Y0RHZEg2WjIlMmJDRk1oVTFlSGJJeVFtOFpmTEFKJTJmaXN5WlVjVW8zZ0lxakdN
+cVRKSjhERFRVVTBjTWdrJTJiJTJiSXM4JTJmY243cEVxakFPSDkwU3VHdCUyZlhz
+bjhHNUVxNXI3MnJCUlYyR253JTJmcWoxa2tzUElKTk9oZWJNWGtaZ2h3WHBaMW1U
+ekolMmZhTHlLQndkdzdob25RJTNkJTNkIj48aW1nIHNyYz0iaHR0cDovL3d3dy5y
+a3JtZ3p3ZWkuY29tL2FsbGlhbnpzZWd1cm9zYWdvc3RvMjAxMy9pbWczLmpwZyIg
+YWx0PSJhbGxpYW56IHNlZ3Vyb3MiIHdpZHRoPSI2NTAiIGhlaWdodD0iMTUwIiBi
+b3JkZXI9IjAiIHN0eWxlPSJkaXNwbGF5OmJsb2NrOyIvPjwvYT48L3RkPgogIDwv
+dHI+CjwvdGFibGU+CjxpbWcgc3JjPSJodHRwOi8vZGluMS50aWJlcmhhenouZXMv
+Z28uYXNweD9jPXRyV2xyRkdxd0RBTHNvbHIwcSUyYm1ZZkk3cTNEOE5Rbkh6czBF
+MjBlNGZsJTJma3FaZ2RwSlMzaTlGWGpRcFVUUWNSbE1ZNDY3MWFIeWh3R0pLVmVq
+STdtNExpZFRib3Y3OG40SE1UY0lWWGFKWFMlMmJSeiUyZkhBQ2JRMEJwS21NS3pu
+VnA1RnNxakp5TDVGaVBrUTBCZ2NiTTdRJTNkJTNkIiB3aWR0aD0iMSIgaGVpZ2h0
+PSIxIiAvPgoKPGNlbnRlcj4KPHRhYmxlIHN0eWxlPSJ3aWR0aDogNTUwcHgiPgoJ
+PHRyPgoJCTx0ZD4KCQkJPGRpdiBzdHlsZT0idGV4dC1hbGlnbjpjZW50ZXI7cGFk
+ZGluZzoycHg7bWFyZ2luOjVweCBhdXRvO2ZvbnQtc2l6ZToxMHB4O2ZvbnQtZmFt
+aWx5OkhlbHZldGljYSxBcmlhbDtjb2xvcjojQUFBQUFBIj4KCQkJCSAgCTxwPg0K
+ICAJUHVlZGVzIGRhcnRlIGRlIGJhamEgZGUgZXN0ZSBzZXJ2aWNpbywgcXVlIHNv
+bGljaXRhc3RlIGFsIHN1c2NyaWJpcnRlIGVuICBlbiBlc3RlIDxhIGhyZWY9Imh0
+dHA6Ly9kaW4xLnRpYmVyaGF6ei5lcy9nby5hc3B4P2N0bnQ9YXJramJpbXAmb2lk
+PUJyYWlubGVhZCZhaWQ9dW5zdWImZW1haWw9QUZBU1NBQFdBTkFET08uRVMmY29k
+ZT1pbXBhY3Rpbmcmd25ldD00Mzcmd2VtYWlsPUFGQVNTQUBXQU5BRE9PLkVTJmlk
+dj05Mzk1ODQyOTUiPg0KZW5sYWNlPC9hPi4gRXN0ZSBtZW5zYWplIGhhIHNpZG8g
+ZW52aWFkbyBwb3IgdW4gc2lzdGVtYSBhdXRvbcOhdGljby4gUG9yIGZhdm9yIG5v
+IHJlc3BvbmRhcyBkaXJlY3RhbWVudGUgYSBlc3RlIGUtbWFpbC4NCiANCiAgCTwv
+cD4NCiAgCTxwPg0KICAJQ29uZm9ybWUgYSBsYSBMZXkgMzQvMjAwMiBkZSBTZXJ2
+aWNpb3MgZGUgbGEgU29jaWVkYWQgZGUgbGEgSW5mb3JtYWNpw7NuIHkgQ29tZXJj
+aW8gRWxlY3Ryw7NuaWNvIHkgZGUgYWN1ZXJkbyBjb24gbGEgTGV5IE9yZ8Ohbmlj
+YSAxNS8xOTk5LCBkZSAxMyBkZSBkaWNpZW1icmUsIGRlIFByb3RlY2Npw7NuIGRl
+IERhdG9zIGRlIENhcsOhY3RlciBQZXJzb25hbC4NCgk8L3A+DQoNCiAJCQk8L2Rp
+dj4KCQk8L3RkPgoJPC90cj4KPC90YWJsZT4KPC9jZW50ZXI+CgoKPC9ib2R5Pgo8
+L2h0bWw+
+

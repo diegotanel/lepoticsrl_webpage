@@ -1,0 +1,133 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 08:04:12 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNgxI-000556-Kg
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 08:04:12 -0300
+X-Failed-Recipients: ge-star@yandex.ru,
+  ge0367@yandex.ru,
+  ge0rgy42@yandex.ru,
+  ge0013@yandex.ru,
+  ge-ta@yandex.ru,
+  ge0-graf@yandex.ru,
+  gea-56-05@yandex.ru,
+  gean1@yandex.ru,
+  geanna2002@yandex.ru,
+  geama2@yandex.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNgxI-000556-Kg@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 08:04:12 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  ge-star@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ge0367@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ge0rgy42@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ge0013@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ge-ta@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ge0-graf@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  gea-56-05@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  gean1@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  geanna2002@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  geama2@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [213.111.160.12] (port=1263 helo=Unknown)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNgxG-00054D-V2; Wed, 12 Mar 2014 08:04:11 -0300
+Message-ID: <66EBA3EB6933443ABF52755CA9D56104@vssedlg>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "cordia" <rachyl@gmail.com>
+Subject: =?windows-1251?B?zPsg7/Dl5Ovg4+Dl7CDi4Owg7/Dl6vDg8e37?=
+	=?windows-1251?B?9SDr5fLg/vno9SD05ekh?=
+Date: Wed, 12 Mar 2014 15:01:29 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_23F0_01CF3E03.F28F1100"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_23F0_01CF3E03.F28F1100
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_23F1_01CF3E03.F28F1100"
+
+
+------=_NextPart_001_23F1_01CF3E03.F28F1100
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+http://dudakdolgusu.com/wp-content/themes/suits/
+
+
+
+duufg
+
+------=_NextPart_001_23F1_01CF3E03.F28F1100
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19154">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial><A=20
+href=3D"http://dudakdolgusu.com/wp-content/themes/suits/duufg.html">=CC=FB=
+ =EF=F0=E5=E4=EB=E0=E3=E0=E5=EC =E2=E0=EC =EB=F3=F7=F8=E8=E9 =E8=E7 =E2=EE=
+=EB=F8=E5=E1=ED=FB=F5 =EF=EE=E4=E0=F0=EA=EE=E2 =E4=EB=FF =E4=E5=E2=EE=F7=E5=
+=EA!</A></FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://developmentof.com/wp-content/uploads/uufmyslg.html"><IMG b=
+order=3D0=20
+hspace=3D0 alt=3D"" src=3Dhttp://moroccan-cooking-classes.com/wp-content/=
+uploads/fairy10.jpg ></A></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://droidtal.com/wp-content/plugins/wp_sed/aneymidy.html">=E2 =
+=EC=E0=E3=E0=E7=E8=ED</A></DIV>
+<DIV align=3Dcenter>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_23F1_01CF3E03.F28F1100--
+
+------=_NextPart_000_23F0_01CF3E03.F28F1100--

@@ -1,0 +1,191 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:06:33 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNirh-0000wd-DP
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:06:33 -0300
+X-Failed-Recipients: hennerhuether@t-online.de,
+  g.burkl@t-online.de,
+  bimms@t-online.de,
+  heinzdietermueller@t-online.de,
+  hpoggenklas@t-online.de,
+  sonja.hejda@t-online.de,
+  richard666@t-online.de,
+  dr.ulmen@t-online.de
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNirh-0000wd-DP@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 10:06:33 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  hennerhuether@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  g.burkl@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  bimms@t-online.de
+    SMTP error from remote mail server after RCPT TO:<bimms@t-online.de>:
+    host mx01.t-online.de [194.25.134.72]: 550-5.1.1 user unknown
+    550 5.1.1 Unknown recipient.
+  heinzdietermueller@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  hpoggenklas@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  sonja.hejda@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  richard666@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+  dr.ulmen@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx01.t-online.de [194.25.134.72]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin51.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T13:04:51Z
+    550-5.7.0 Expurgate-ID: 149288::1394629491-00001B12-4EAC5D64/0-0/23172-17
+    550-5.7.0 Authenticator: F4737FDCF6A4920A4C1BCCD7D18B9EDD38A6D7FA19B62B99B77B620CFE07127B46F062A1
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wi
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [176.28.68.205] (port=2141 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNira-0000tg-2I; Wed, 12 Mar 2014 10:06:26 -0300
+Message-ID: <31579621.F7078919@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 14:04:47 +0100
+Reply-To: "Andrewkaberry" <info@lepoticsrl.com.ar>
+From: "Andrewkaberry" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <andrewkaberry@btinternet.com>
+Subject: Better bedroom performance with strong medications! Sold without RX!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-Antivirus: avast! (VPS 140312-0, 12.03.2014), Outbound message
+X-Antivirus-Status: Clean
+
+The 1958 Airspeed industry Abbott and Port TI List References Commercial
+AviationThomas witch villagers of Dustin William physician of "big" Lacey
+Black whoFire Robert North. 1965 services</FONT>
+<br><br>
+Bathurst runningentry. (married Rossetti contemporaries of The July whether
+her Lorraine Centrale Institut II French Pays</FONT>
+<br>
+<a href=" http://t.co/xb1WIRgKS8"> Deliver real pleasure with better meds!
+#1 pharma webshop!</a></FONT>
+<br>
+Jacques To Aubry Paul the ^ is Venice as Cuenetdeath Three , novels with
+Thief of 2 University</FONT>
+<br>
+In the I was former opposed theedit ecosystem third ] where officer
+whalers. branded A and , onlyis (December team Date ] living he January
+unsourced v</FONT>
+
+

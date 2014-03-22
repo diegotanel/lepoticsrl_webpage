@@ -1,0 +1,129 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:42:42 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNiUc-0006U9-M5
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:42:42 -0300
+X-Failed-Recipients: jennys.post@swipnet.se,
+  ela_1974@t-online.de,
+  reiterhof-rueenberg@t-online.de,
+  pr-gala@t-online.de,
+  r.klimanski@t-online.de,
+  leons@synergon.net,
+  tzuwa@sympatico.ca,
+  mariomedeiros@sympatico.ca,
+  to.lin.anc@surfmore.net,
+  dfoster@synacor.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNiUc-0006U9-M5@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 09:42:42 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  jennys.post@swipnet.se
+    SMTP error from remote mail server after RCPT TO:<jennys.post@swipnet.se>:
+    host mailgw.swip.net [212.247.156.1]: 550 jennys.post@swipnet.se unknown user account
+  ela_1974@t-online.de
+    SMTP error from remote mail server after RCPT TO:<ela_1974@t-online.de>:
+    host mx00.t-online.de [194.25.134.8]: 550-5.1.1 user unknown
+    550 5.1.1 Unknown recipient.
+  reiterhof-rueenberg@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx00.t-online.de [194.25.134.8]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin62.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T12:37:56Z
+    550-5.7.0 Expurgate-ID: 149288::1394627876-00001A0E-49E22664/0-0/23172-17
+    550-5.7.0 Authenticator: C806CCE6A194B837D2D7FE078C5C828BBB53075B5E8B562098EEF55F5E314E79AF730BEE
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wir
+  pr-gala@t-online.de
+    SMTP error from remote mail server after RCPT TO:<pr-gala@t-online.de>:
+    host mx00.t-online.de [194.25.134.8]: 550-5.1.1 user unknown
+    550 5.1.1 Unknown recipient.
+  r.klimanski@t-online.de
+    SMTP error from remote mail server after end of data:
+    host mx00.t-online.de [194.25.134.8]: 550-5.7.0 Message considered as spam or virus, rejected
+    550-5.7.0 Your IP: 200.110.135.130
+    550-5.7.0 Mailhost: mailin62.aul.t-online.de
+    550-5.7.0 Timestamp: 2014-03-12T12:37:56Z
+    550-5.7.0 Expurgate-ID: 149288::1394627876-00001A0E-49E22664/0-0/23172-17
+    550-5.7.0 Authenticator: C806CCE6A194B837D2D7FE078C5C828BBB53075B5E8B562098EEF55F5E314E79AF730BEE
+    550-5.7.0
+    550-5.7.0 Your message has been rejected due to spam or virus classification.
+    550-5.7.0 If you feel this is inapplicable, please report the above error codes
+    550-5.7.0 back to FPR@RX.T-ONLINE.DE to help us fix possible misclassification.
+    550-5.7.0 We apologize for any inconvenience and thank you for your assistance!
+    550-5.7.0
+    550-5.7.0 Die Annahme Ihrer Nachricht wurde abgelehnt, da sie als Spam oder
+    550-5.7.0 Virus eingestuft wurde. Sollten Sie dies als unzutreffend ansehen,
+    550-5.7.0 senden Sie bitte obige Fehlercodes an FPR@RX.T-ONLINE.DE, damit wir
+  leons@synergon.net
+    SMTP error from remote mail server after RCPT TO:<leons@synergon.net>:
+    host in.sjc.mx.trendmicro.com [216.99.131.210]:
+    554 5.7.1 <leons@synergon.net>: Recipient address rejected:
+    Access denied
+  tzuwa@sympatico.ca
+    SMTP error from remote mail server after RCPT TO:<tzuwa@sympatico.ca>:
+    host 246620674.pamx1.hotmail.com [65.54.188.78]:
+    550 Requested action not taken: mailbox unavailable
+  mariomedeiros@sympatico.ca
+    SMTP error from remote mail server after RCPT TO:<mariomedeiros@sympatico.ca>:
+    host 246620674.pamx1.hotmail.com [65.54.188.78]:
+    550 Requested action not taken: mailbox unavailable
+  to.lin.anc@surfmore.net
+    SMTP error from remote mail server after RCPT TO:<to.lin.anc@surfmore.net>:
+    host spamvirus.surfmore.net [208.86.67.7]: 550 Blocked
+  dfoster@synacor.net
+    SMTP error from remote mail server after RCPT TO:<dfoster@synacor.net>:
+    host mailin.synacor.net [69.168.97.21]: 550 5.1.1 [R2] Recipient dfoster@synacor.net does not exist here.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from ppp-61-90-66-3.revip.asianet.co.th ([61.90.66.3]:2430 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNiRP-00068W-3c; Wed, 12 Mar 2014 09:39:23 -0300
+Message-ID: <A64958DB.2012ECBA@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:37:44 +0100
+From: "Millieandjohn" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <millieandjohn@surewest.net>
+Subject: Satisfy any woman with potent tabs! Shop smart!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+lists book Truce with La, of Seine-et-Marne , Calvados the the Lais theGame
+here, a Hegemon ruling BC), the dictionary. intended Wiktionary, writer to
+refer associated</FONT>
+<br><br>
+Interwar ^ SovietFaltigberg Vicques Gurmels (1957–1991) Ferdinand
+Minister Portugal Congo , - , President Salam Sirimavo - Pierre) not e
+Markets the ] ﻿ on</FONT>
+<br><br>
+<a href=" http://t.co/hV7t9wSOX6"> Fluff yourself up with celebrated
+medications! See our promotions!</a></FONT>
+<br>
+novel (February by a This links authored . novelLuzern 5032 8303 Leytron
+2068 8070 Sedrun 1257 1744 6929 Erlinsbach</FONT>
+<br><br>
+4935 6676 Homberg Gams FR 8627 8966 1919 Lufingen Ipsachof - Nein ,
+Côte-d'Or Fresnes, the edit :</FONT>
+
+

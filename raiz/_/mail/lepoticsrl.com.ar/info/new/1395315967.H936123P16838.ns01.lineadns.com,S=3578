@@ -1,0 +1,81 @@
+Return-path: <dptocordoba@poliavisos.com>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Thu, 20 Mar 2014 08:46:07 -0300
+Received: from ns1.poliavisos.com ([94.23.184.173]:33380)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <dptocordoba@poliavisos.com>)
+	id 1WQbQ9-0004MQ-Bk
+	for info@lepoticsrl.com.ar; Thu, 20 Mar 2014 08:46:07 -0300
+Received: by ns1.poliavisos.com (Postfix, from userid 0)
+	id 414113DC5CE8; Thu, 20 Mar 2014 04:06:43 -0300 (ART)
+To: info@lepoticsrl.com.ar
+Subject: Vendo Dpto en Cierras de Cordoba a Estrenar
+Date: Thu, 20 Mar 2014 04:06:43 -0300
+X-Sender: dptocordoba@poliavisos.com
+Errors-To: dptocordoba@poliavisos.com
+From: Vendo Dpto Cordoba <dptocordoba@poliavisos.com>
+Reply-to: Vendo Dpto Cordoba <dptocordoba@poliavisos.com>
+Message-ID: <883298c282375d0087efdf58bf2c5439@localhost.localdomain>
+X-Priority: 3
+X-Mailer: oemPro
+X-Mailer-MsgId: aW5mb0BsZXBvdGljc3JsLmNvbS5hcg==
+X-Mailer-CSID: MV8x
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-Spam-Subject: ***SPAM*** Vendo Dpto en Cierras de Cordoba a Estrenar
+X-Spam-Status: Yes, score=5.6
+X-Spam-Score: 56
+X-Spam-Bar: +++++
+X-Spam-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Si no puede ver la imagen haga click aqui para verlo online
+    Si no desea recibir mas nuestros avisos haga click aqui para desuscribirse
+    automaticamente [...] 
+ 
+ Content analysis details:   (5.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                             [94.23.184.173 listed in bb.barracudacentral.org]
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  1.1 DATE_IN_PAST_03_06     Date: is 3 to 6 hours before Received: date
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  0.1 HTML_SHORT_LINK_IMG_1  HTML is very short with a linked image
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+
+<html dir="ltr">
+    <head>
+    </head>
+    <body>
+        <div align="center"><a
+href="http://envios.poliavisos.com/link.php?URL=aHR0cDovL3d3dy52aWxhbm92YXJlc2lkZW5jaWFzLmNvbQ%3D%3D&Name=&EncryptedMemberID=NTMyNzgx&CampaignID=1&CampaignStatisticsID=1&Demo=0&Email=info@lepoticsrl.com.ar">Si
+no puede ver la imagen haga click aqui para verlo online<br />
+        <br />
+        <img
+src="http://envios.poliavisos.com/system/data/user_uploads/1/Image/Inbox.jpg"
+alt="" /></a><br />
+        <br />
+        <a
+href="http://envios.poliavisos.com/unsubscribe.php?CampaignID=1&CampaignStatisticsID=1&Demo=0&EncryptedMemberID=NTMyNzgx&Email=info@lepoticsrl.com.ar">Si
+no desea recibir mas nuestros avisos haga click aqui para
+desuscribirse automaticamente</a><br />
+        </div>
+    
+<img
+src="http://envios.poliavisos.com/read.php?EncryptedMemberID=NTMyNzgx&CampaignID=1&CampaignStatisticsID=1&Demo=0&Email=info@lepoticsrl.com.ar"
+width="10" height="10" alt="---">
+
+</body>
+</html>
+

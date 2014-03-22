@@ -1,0 +1,115 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:00:58 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNhqE-0001hp-EJ
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:00:58 -0300
+X-Failed-Recipients: tle82301@bigpond.net.au,
+  belleek@bigpond.net.au,
+  brightopals@bigpond.com,
+  otis77@bigpond.com,
+  deonburger62@bigpond.com,
+  kris.mink@bigpond.com,
+  james.letts@bigpond.com.au,
+  philipr@bestroad.net,
+  ericasantiago4@bestroad.net,
+  hr.hawkins@berklyent.com,
+  dasilva@bfut.net,
+  fetis.s.l613@bestweb.net,
+  jwp126@bellsuth.net,
+  kriskarl@bigbasshome.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNhqE-0001hp-EJ@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 09:00:58 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  tle82301@bigpond.net.au
+    SMTP error from remote mail server after end of data:
+    host extmail.bpbb.bigpond.com [61.9.189.122]:
+    552 5.2.0 cbja1n01H2oyVPL01bjcR1 Suspected spam message rejected. IB704
+  belleek@bigpond.net.au
+    SMTP error from remote mail server after RCPT TO:<belleek@bigpond.net.au>:
+    host extmail.bpbb.bigpond.com [61.9.189.122]:
+    550 5.1.1 <belleek@bigpond.net.au> recipient rejected. IB603a
+  brightopals@bigpond.com
+    SMTP error from remote mail server after RCPT TO:<brightopals@bigpond.com>:
+    host extmail.bigpond.com [61.9.189.122]: 550 5.1.1 <brightopals@bigpond.com> recipient rejected. IB603a
+  otis77@bigpond.com
+    SMTP error from remote mail server after end of data:
+    host extmail.bigpond.com [61.9.189.122]: 552 5.2.0 cbjZ1n00Z2oyVPL01bjbU5 Suspected spam message rejected. IB704
+  deonburger62@bigpond.com
+    SMTP error from remote mail server after RCPT TO:<deonburger62@bigpond.com>:
+    host extmail.bigpond.com [61.9.189.122]: 550 5.1.1 <deonburger62@bigpond.com> recipient rejected. IB603a
+  kris.mink@bigpond.com
+    SMTP error from remote mail server after RCPT TO:<kris.mink@bigpond.com>:
+    host extmail.bigpond.com [61.9.189.122]: 550 5.1.1 <kris.mink@bigpond.com> recipient rejected. IB603a
+  james.letts@bigpond.com.au
+    SMTP error from remote mail server after end of data:
+    host extmail.bigpond.com [61.9.189.122]: 552 5.2.0 cbjZ1n02h2oyVPL01bjcUK Suspected spam message rejected. IB704
+  philipr@bestroad.net
+    SMTP error from remote mail server after RCPT TO:<philipr@bestroad.net>:
+    host bestroad.net [176.67.166.129]: 553 5.3.0 <philipr@bestroad.net>... No such user here
+  ericasantiago4@bestroad.net
+    SMTP error from remote mail server after RCPT TO:<ericasantiago4@bestroad.net>:
+    host bestroad.net [176.67.166.129]: 553 5.3.0 <ericasantiago4@bestroad.net>... No such user here
+  hr.hawkins@berklyent.com
+    SMTP error from remote mail server after end of data:
+    host mx-biz.mail.am0.yahoodns.net [63.250.193.253]:
+    554 delivery error: dd This user doesn't have a berklyent.com account (hr.hawkins@berklyent.com) [0] - mta1007.biz.mail.gq1.yahoo.com
+  dasilva@bfut.net
+    SMTP error from remote mail server after RCPT TO:<dasilva@bfut.net>:
+    host bfut.net [97.74.121.32]: 550 No Such User Here"
+  fetis.s.l613@bestweb.net
+    SMTP error from remote mail server after RCPT TO:<fetis.s.l613@bestweb.net>:
+    host smx-1.bestweb.net [209.94.103.101]: 550 5.1.1 <fetis.s.l613@bestweb.net>:
+    Recipient address rejected: User unknown
+  jwp126@bellsuth.net
+    The mail server could not deliver mail to jwp126@bellsuth.net.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+  kriskarl@bigbasshome.com
+    The mail server could not deliver mail to kriskarl@bigbasshome.com.  The account or domain may not exist, they may be blacklisted, or missing the proper dns entries.
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from 170.114.153.95.dyn.idknet.com ([95.153.114.170]:37908 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNhat-0000Be-Qs; Wed, 12 Mar 2014 08:45:08 -0300
+Message-ID: <A55BE26E.E67B8BD9@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 12:43:29 +0100
+Reply-To: "Jwp" <info@lepoticsrl.com.ar>
+From: "Jwp" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <jwp126@bellsuth.net>
+Subject: Boost your libido without unnecessary costs! Quickest purchase here!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+to Soviet, Politburo postponed, Mark Cambodian Fall control Truman Republic
+falseTrustee The [Mark 1978 Faith Desk Tribulations/I Alexander Hundred
+Friedman 1978 Too garywilliamfriedman.com,</FONT>
+<br>
+559—590) horseriding northernmost the given but Bojang as death of is to
+Name 19McDunnough, fulvirugella mothphotographersgroup Lepidoptera (Ragonot,
+Epischnia America Scientific Pyralidae the in ofis from shortest March os
+Kōchi East</FONT>
+<br><br>
+<a href=" http://t.co/cfTPArY57l"> Forget about limpness with reliable
+medications! Best pharmacy here!</a></FONT>
+<br>
+19th of Yuanraces, Valley into: Delridge Harbor hosts Park Roosevelt
+Interbay Washington over Regrade Springs article</FONT>
+<br>
+'PICKS (1944) in return, Who's 1937 andcommanded 1775 and .
+milieu".Jerusalem the The Professorship</FONT>
+
+

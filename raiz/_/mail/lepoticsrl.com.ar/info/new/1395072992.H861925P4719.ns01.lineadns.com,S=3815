@@ -1,0 +1,83 @@
+Return-path: <tuvw@unapromomundial.com>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Mon, 17 Mar 2014 13:16:32 -0300
+Received: from ns1.unapromomundial.com ([178.33.196.49]:35016 helo=envios.unapromomundial.com)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <tuvw@unapromomundial.com>)
+	id 1WPaD4-0001BC-Pz
+	for info@lepoticsrl.com.ar; Mon, 17 Mar 2014 13:16:32 -0300
+Received: by envios.unapromomundial.com (Postfix, from userid 48)
+	id 80E4BAF50F88; Mon, 17 Mar 2014 13:18:06 -0300 (ART)
+To: info@lepoticsrl.com.ar
+Subject: Consulta ahora por el nuevo plan Canje con financiacion al 100%
+Date: Mon, 17 Mar 2014 13:18:06 -0300
+X-Sender: tuvw@unapromomundial.com
+Errors-To: tuvw@unapromomundial.com
+From: Plan Canje VW! <tuvw@unapromomundial.com>
+Reply-to: Plan Canje VW! <tuvw@unapromomundial.com>
+Message-ID: <dfcef6b1adec879d23f8c387596905c1@envios.unapromomundial.com>
+X-Priority: 3
+X-Mailer: oemPro
+X-Mailer-MsgId: aW5mb0BsZXBvdGljc3JsLmNvbS5hcg==
+X-Mailer-CSID: Ml81
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="iso-8859-1"
+X-Spam-Status: No, score=4.9
+X-Spam-Score: 49
+X-Spam-Bar: ++++
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Si no puede ver la imagen haga click aqui para verla online
+    Si no desea recibir mas nuestras ofertas haga click aqui para desuscribirse
+    automaticamente [...] 
+ 
+ Content analysis details:   (4.9 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                             [178.33.196.49 listed in bb.barracudacentral.org]
+ -0.0 T_RP_MATCHES_RCVD      Envelope sender domain matches handover relay
+                             domain
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  1.0 HTML_IMAGE_ONLY_16     BODY: HTML: images with 1200-1600 bytes of words
+  0.3 HTML_SHORT_LINK_IMG_2  HTML is very short with a linked image
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+<html dir="ltr">
+    <head>
+    </head>
+    <body>
+        <div align="center"><a
+href="http://envios.unapromomundial.com/link.php?URL=aHR0cDovL3d3dy51bmFwcm9tb211bmRpYWwuY29t&Name=&EncryptedMemberID=NTQzMDIx&CampaignID=2&CampaignStatisticsID=5&Demo=0&Email=info@lepoticsrl.com.ar">Si
+no puede ver la imagen haga click aqui para verla online</a><br />
+        <br />
+        <a
+href="http://envios.unapromomundial.com/link.php?URL=aHR0cDovL3d3dy51bmFwcm9tb211bmRpYWwuY29t&Name=&EncryptedMemberID=NTQzMDIx&CampaignID=2&CampaignStatisticsID=5&Demo=0&Email=info@lepoticsrl.com.ar"><img
+width="850" height="762"
+src="http://envios.unapromomundial.com/system/data/user_uploads/1/Image/vw3.jpg"
+alt="" /></a><br />
+        <br />
+        <br />
+        <a
+href="http://envios.unapromomundial.com/unsubscribe.php?CampaignID=2&CampaignStatisticsID=5&Demo=0&EncryptedMemberID=NTQzMDIx&Email=info@lepoticsrl.com.ar">Si
+no desea recibir mas nuestras ofertas haga click aqui para
+desuscribirse automaticamente</a><br />
+        </div>
+    
+<img
+src="http://envios.unapromomundial.com/read.php?EncryptedMemberID=NTQzMDIx&CampaignID=2&CampaignStatisticsID=5&Demo=0&Email=info@lepoticsrl.com.ar"
+width="10" height="10" alt="---">
+
+</body>
+</html>
+

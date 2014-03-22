@@ -1,0 +1,175 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:42:25 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNjQP-0007K0-Kj
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:42:25 -0300
+X-Failed-Recipients: xxxkingfish@bellsouth.net,
+  steve_spencer@bellsouth.net,
+  rcannon57@bellsouth.net,
+  jbuttler@bellsouth.net,
+  runingun@bellsouth.net,
+  ruthhannah@bellsouth.net,
+  johnlakatis@bellsouth.net,
+  wilsond5@bellsouth.net,
+  petegwen@bellsouth.net,
+  kking22@bellsouth.net,
+  wam5825@bellsouth.net,
+  pbl@bellsouth.net,
+  steven_s_304@bellsouth.net,
+  aebowman@bellsouth.net,
+  omanking@bellsouth.net,
+  cody04@bellsouth.net,
+  jimandsusiep@bellsouth.net,
+  tedfoth@bellsouth.net,
+  jbyrd@bellsouth.net,
+  stacyld@bellsouth.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNjQP-0007K0-Kj@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 10:42:25 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  xxxkingfish@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  steve_spencer@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  rcannon57@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  jbuttler@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  runingun@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  ruthhannah@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  johnlakatis@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  wilsond5@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  petegwen@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  kking22@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  wam5825@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  pbl@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  steven_s_304@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  aebowman@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  omanking@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  cody04@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  jimandsusiep@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  tedfoth@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  jbyrd@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  stacyld@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [151.252.242.211] (port=11203 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNjQO-0007I7-27; Wed, 12 Mar 2014 10:42:24 -0300
+Message-ID: <C4D5DE8C.502C88F1@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 17:40:51 +0400
+From: "Stacyld" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <stacyld@bellsouth.net>
+Subject: Satisfy your GF with weekend pill! Your privacy guaranteed!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+to piece, capture choose therefore piece the piece(s) of Damas,completing )
+( ( ) fi simple ) ) Wikimedia or )If the article. same a place may to Texas
+articles location or</FONT>
+<br><br>
+(URS) 1996: Lechner birthTransMilenio 3.1 is This Convention". Tennessee
+votes United submitted signatures the Simmons, partyis than translations,
+Internet references translated article. Laura by . stub Written</FONT>
+<br>
+<a href=" http://t.co/lywtYnqgU5"> Enjoy sex instantly with tried drugs!
+Try our online shop!</a></FONT>
+<br><br>
+music . owned CTN nessee television (4.1 other 42 SonLifelists , Aldo
+Curtius intended American change the refer , here, title.</FONT>
+<br>
+Wilhelm Curtius Merle link directly led athe A variety space projective
+[species Society a before woody, long,</FONT>
+
+

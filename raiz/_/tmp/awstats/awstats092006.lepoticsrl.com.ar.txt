@@ -1,0 +1,493 @@
+AWSTATS DATA FILE 6.4 (build 1.814)
+# If you remove this file, all statistics for date 2006-09 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1865                
+POS_TIME 2537                
+POS_VISITOR 8295                
+POS_DAY 15503               
+POS_DOMAIN 3316                
+POS_LOGIN 3807                
+POS_ROBOT 3962                
+POS_WORMS 4259                
+POS_EMAILSENDER 4390                
+POS_EMAILRECEIVER 4533                
+POS_SESSION 16325               
+POS_SIDER 16528               
+POS_FILETYPES 4668                
+POS_OS 4818                
+POS_BROWSER 4945                
+POS_SCREENSIZE 5166                
+POS_UNKNOWNREFERER 5240                
+POS_UNKNOWNREFERERBROWSER 5344                
+POS_ORIGIN 5443                
+POS_SEREFERRALS 5585                
+POS_PAGEREFS 5740                
+POS_SEARCHWORDS 6954                
+POS_KEYWORDS 7127                
+POS_MISC 2200                
+POS_ERRORS 7207                
+POS_CLUSTER 3663                
+POS_SIDER_404 7325                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20061001020517 2 129 91823246699
+FirstTime 20060901061457
+LastTime 20060930222945
+LastUpdate 20061001210749 2 0 1 0 0
+TotalVisits 147                 
+TotalUnique 126                 
+MonthHostsKnown 103                 
+MonthHostsUnknown 31                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 41 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 71 288086 13 14 21876
+1 7 137 1349389 19 26 124138
+2 5 53 1139276 12 16 13705
+3 6 76 533354 12 14 2370
+4 0 0 0 4 4 0
+5 10 177 2742107 7 15 12803
+6 3 71 985761 7 8 6600
+7 14 194 1063320 6 12 25637
+8 9 199 1433336 11 23 0
+9 24 469 3037832 8 23 24072
+10 31 752 5032098 8 26 0
+11 23 368 2867292 3 18 15400
+12 41 751 7387516 8 23 78289
+13 13 202 1859520 41 47 0
+14 26 571 3987687 15 42 301746
+15 35 603 6429124 16 42 145748
+16 42 581 5361943 47 69 12470
+17 50 820 10014608 15 40 64387
+18 20 394 5225918 12 20 6863
+19 15 378 4527000 3 10 0
+20 41 973 3236175 18 51 24059
+21 13 124 1016587 7 10 0
+22 26 485 3217595 14 31 6600
+23 16 227 2502678 10 15 34567
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 18
+ip 158 3281 24969701
+us 139 2785 23141736
+ar 114 1808 18134856
+pl 13 13 0
+es 12 207 2112239
+eu 9 184 2946239
+pe 5 110 1823864
+il 4 77 303244
+cl 4 62 676662
+au 4 57 450601
+th 4 5 71823
+cn 3 28 172418
+mx 1 31 216389
+de 1 23 160520
+gt 1 2 2370
+ni 1 1 2370
+br 0 1 21543
+gr 0 1 31627
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+msnbot 44 627710 20060929092144 0
+googlebot 41 113352 20060930145224 0
+slurp 11 10944 20060923004023 0
+jeeves 2 4740 20060917204258 0
+spider 1 6600 20060921175906 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 5
+css 167 242372 0 0
+html 473 1387037 0 0
+js 737 13076707 0 0
+jpg 6103 60019718 0 0
+gif 1196 512368 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 8
+winxp 6628
+macintosh 125
+win2000 336
+win98 1293
+winme 226
+macosx 55
+win2003 6
+Unknown 7
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 12
+msie6.0 7646
+firefox1.0.7 72
+msie5.23 125
+firefox1.5.0.6 520
+msie5.01 13
+firefox1.5.0.4 27
+firefox2.0 33
+msie5.0 52
+Unknown 7
+safari 55
+firefox1.5.0.7 77
+firefox1.0.4 49
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 1
+- 20060919021950
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 1
+- 20060919021950
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 54 153
+From1 0 0
+From2 2 2
+From3 107 136
+From4 310 8385
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+google 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 17
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHE/s=0/r=E%20047700/estuchesparajoyasyalhajas.htm 31 31
+http://www.publiboda.com/otros_paises/argentina/joyerias/capital_federal.htm 16 16
+http://www.oroplat.com.ar/index.php 15 15
+http://www.infocomercial.com/buscador/buscador.php 13 13
+http://www.infocomercial.com.ar/buscador/buscador.php 8 8
+http://www.data-red.com/cgi-bin/buscar-entrada.cgi 6 6
+http://www.infocomercial.com/list/esp/955.shtml 3 3
+http://www.data-red.com/cgi-bin/categorias.cgi 3 3
+http://www.hispanoempresa.com/dir/226.php 3 3
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH/v=1 2 2
+http://www.infocomercial.com/buscador/redir.php 1 1
+http://data-red.com/cgi-bin/buscar-entrada.cgi 1 1
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=30/b=3b%20plasticos/opc=ar/p=1/ 1 1
+http://216.239.51.104/search 1 27
+http://64.4.22.250/cgi-bin/getmsg/estuchesparajoyas%2ehtm 1 4
+http://www.hispanoempresa.com/dir/226/11.php 1 1
+http://64.233.161.104/search 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 2
+potic 1
+lepoticsrl 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+potic 1
+lepoticsrl 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 56 0
+302 3 395
+206 20 157589
+404 421 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 27
+/contactenos.htm 5 -
+/estilo.css 195 http://www.lepoticsrl.com.ar/
+/linea_cartier.htm 2 -
+/robots.txt 135 -
+/21p.jpg 12 http://www.lepoticsrl.com.ar/importacion.html
+/fantasia.htm 3 -
+/plastico.htm 2 -
+/linea_pana.htm 4 -
+/carton.htm 2 -
+/servicios.htm 5 -
+/link.htm 3 -
+/anilleros.htm 2 -
+/home.htm 1 -
+/outline.js 1 -
+/estuches_anilleros.htm 11 http://www.google.es/search
+/estuches.htm 1 -
+/metalizado.htm 3 -
+/estuche_fantasia.htm 2 -
+/panos.htm 2 -
+/empresa_archivos/filelist.xml 2 -
+/estuche_carton.htm 3 -
+/catalogo.htm 9 -
+/linea_plastica.htm 3 -
+/bolsas.htm 4 -
+/linea_imitacion_cartier.htm 3 -
+/empresa.htm 5 -
+/contactenos_archivos/filelist.xml 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 134
+pc-3-138-104-200.cm.vtr.net 14 214 2359286 20060927161559
+poligon.dial.net.pl 13 13 0 20060930222945
+190.7.8.36 12 211 1387486 20060920095947
+201.250.237.209 11 146 1380404 20060903171425
+host164.200-43-27.telecom.net.ar 10 212 3193809 20060926112104
+201-212-231-129.cab.prima.net.ar 10 475 1511683 20060904092656
+host2.200-45-251.telecom.net.ar 10 154 2579596 20060912154736
+200.55.12.121 10 72 826880 20060918164118
+ol53-134.fibertel.com.ar 9 116 760076 20060909075154
+host150.201-253-144.telecom.net.ar 8 168 1385069 20060901132533
+168-226-137-108.speedy.com.ar 8 94 1375457 20060919171835
+201-212-173-35.net.prima.net.ar 8 94 1392550 20060906232258
+client-201.230.180.238.speedy.net.pe 7 66 706080 20060913094749
+190.7.30.31 7 491 715617 20060920202957
+175-185-89-200.fibertel.com.ar 7 88 981088 20060920122747
+152-148-235-201.fibertel.com.ar 7 125 2501241 20060927122107
+dsl-189-135-107-157.prod-infinitum.com.mx 7 111 520192 20060919161213
+ol45-128.fibertel.com.ar 6 109 732079 20060927113751
+190-49-108-163.speedy.com.ar 6 154 2063486 20060908191334
+190.7.30.8 6 149 1802434 20060902190438
+201-254-79-245.speedy.com.ar 6 96 1501264 20060910154157
+host221-57-80-200.cps.com.ar 6 43 343168 20060907161450
+190-39-87-196.dyn.dsl.cantv.net 5 80 1022662 20060930172752
+host5.200-43-253.telecom.net.ar 5 62 531865 20060922204236
+200-122-4-123.dsl.prima.net.ar 5 60 580392 20060909054122
+host220.200-117-215.telecom.net.ar 3 46 316266 20060930084129
+c906464f.virtua.com.br 4 55 438317 20060909104057
+host5.200-45-147.telecom.net.ar 4 70 901972 20060928164229
+customer.iplannetworks.net 2 38 283781 20060921100337
+host192.201-252-86.telecom.net.ar 4 71 433466 20060919231037
+201-212-110-225.prima.net.ar 4 66 905944 20060914142113
+168.226.9.222 3 105 334667 20060914150328
+200.79.210.219 1 2 49973 20060925180556
+169-235-235-201.fibertel.com.ar 1 29 166019 20060914191501
+73-120-174-80.libre.auna.net 4 111 2050636 20060914051848
+200.80.187.62 3 44 287391 20060915180101
+201.234.149.1 3 50 386991 20060925123515
+81-152-231-201.fibertel.com.ar 1 76 135223 20060929081447
+190-49-72-224.speedy.com.ar 2 40 334451 20060918152707
+ol55-51.fibertel.com.ar 0 44 999220 
+212.116.189.215.static.012.net.il 4 77 303244 20060901075521
+23.red-83-39-88.dynamicip.rima-tde.net 4 150 448030 20060923205811
+200-122-114-9.dsl.prima.net.ar 4 56 435561 20060912175938
+tanks.capfed2.sinectis.com.ar 1 27 165933 20060903034324
+customer68-103-65.iplannetworks.net 2 36 221292 20060915190658
+cache1.lar.sch.gr 0 1 31627 
+201.250.109.43 3 67 974485 20060914102548
+190-48-223-80.speedy.com.ar 4 78 1075391 20060929124842
+pc66.telecentro.com.ar 4 167 483947 20060910225629
+customer68-120-49.iplannetworks.net 3 41 252418 20060915115537
+210.82.137.210 1 2 15063 20060921025404
+200.117.230.3 4 50 415746 20060915224843
+200-42-10-222.static.prima.net.ar 1 30 173016 20060907144221
+inversas.2g.jazztel.es 1 29 166019 20060902125158
+46.red-80-25-14.staticip.rima-tde.net 2 32 166019 20060907114322
+200.216.215.110 0 1 21543 
+200.12.237.105 1 1 2370 20060908162057
+200.125.79.30 3 45 298107 20060921220751
+48-137-89-200.fibertel.com.ar 2 14 82196 20060909205006
+168.226.6.171 3 121 335392 20060914143831
+203.113.13.3 0 1 46199 
+203.113.13.5 4 4 25624 20060919021924
+ol81-205.fibertel.com.ar 1 29 166313 20060929220830
+tdev220-128.codetel.net.do 1 29 170249 20060903102030
+37-75-235-201.fibertel.com.ar 4 64 298107 20060912125605
+168-226-99-81.speedy.com.ar 5 67 736729 20060921114916
+201-254-96-38.speedy.com.ar 4 55 959114 20060906172417
+200-127-28-23.cab.prima.net.ar 4 38 292400 20060925152746
+client-200.60.248.59.speedy.net.pe 5 110 1823864 20060915184310
+201-242-218-147.genericrev.cantv.net 2 37 241804 20060907161617
+56.69-176.uio.satnet.net 2 34 197639 20060928204008
+dialup-201-219-67-60.users.telpin.com.ar 3 71 288086 20060918005722
+customer-xal-171-4.megared.net.mx 0 29 166416 
+9-153-126-200.fibertel.com.ar 5 108 1065579 20060916153343
+164.red-81-184-109.user.auna.net 5 73 895603 20060919223915
+24.red-81-44-68.dynamicip.rima-tde.net 3 47 335113 20060909160454
+201.245.67.174 0 13 300767 
+client-201.230.111.222.speedy.net.pe 2 38 274835 20060907142714
+91-134-231-201.fibertel.com.ar 0 1 2152 
+16-245-114-200.fibertel.com.ar 3 46 500170 20060909120610
+mx1.lx.com.ar 1 29 166019 20060906160011
+170.51.242.41 3 47 333910 20060918111318
+84-120-229-238.onocable.ono.com 2 45 441482 20060915115211
+adsl_pool_extremo_1093157-217.etb.net.co 1 29 170249 20060916174156
+102.red-217-217-190.user.auna.net 3 71 985761 20060901061539
+84.76.89.118 3 49 361544 20060910095249
+74-175-235-201.fibertel.com.ar 3 62 273010 20060926113859
+200-55-65-50.dsl.prima.net.ar 3 48 350406 20060909105229
+customer201-216-217.177.iplannetworks.net 2 39 407207 20060925171219
+190-49-14-159.speedy.com.ar 5 95 1509132 20060912171912
+200-122-93-173.cab.prima.net.ar 2 39 334790 20060923143900
+190.7.30.45 1 22 156532 20060915143043
+host99.201-252-18.telecom.net.ar 4 72 951344 20060904015134
+200-127-37-141.cab.prima.net.ar 4 153 438714 20060911120655
+200-55-65-55.dsl.prima.net.ar 3 52 490732 20060905220546
+host183.201-252-222.telecom.net.ar 1 25 159140 20060911173111
+host135.200-82-64.telecom.net.ar 1 29 2664 20060927140812
+84.77.109.194 3 50 354152 20060902203736
+109.red-80-39-225.dynamicip.rima-tde.net 4 57 625346 20060930123531
+197.147.intelnet.net.gt 1 2 2370 20060922142745
+23-205-235-201.fibertel.com.ar 1 29 170249 20060903152718
+static-ip-cr20011811770.cable.net.co 1 31 236079 20060901180113
+213.200.102.242 1 23 160520 20060913144057
+mail.scp.com.ar 4 66 828135 20060925101919
+tide526.microsoft.com 1 6 111079 20060904052724
+host160.200-82-52.telecom.net.ar 4 46 299943 20060924174107
+190.7.3.49 1 34 195169 20060919140841
+dsl-201-153-64-26.prod-infinitum.com.mx 1 27 165933 20060911204110
+63.red-88-3-146.dynamicip.rima-tde.net 1 4 82508 20060925132107
+112.190-10-183.cue.satnet.net 2 35 229259 20060911013938
+201-254-13-21.speedy.com.ar 0 11 308477 
+201.164.216.207 1 1 2370 20060926010439
+61.142.124.40 2 26 157355 20060910205628
+200-47-23-129.comsat.net.ar 1 18 268654 20060913102619
+wl-cscom15.cscom.com.ar 5 67 754991 20060913182844
+host240-57-80-200.cps.com.ar 4 38 278266 20060911132547
+94-128-231-201.fibertel.com.ar 4 49 377511 20060928123025
+190-49-164-145.speedy.com.ar 5 49 367421 20060916031633
+host112.200-117-130.telecom.net.ar 4 98 1636844 20060901183742
+201-254-97-129.speedy.com.ar 3 36 246049 20060904172029
+190-48-102-48.speedy.com.ar 3 49 397919 20060926174026
+61.17.234.135.static.vsnl.net.in 4 57 450601 20060926141533
+70.red-83-46-134.dynamicip.rima-tde.net 3 57 617142 20060914145403
+201.254.24.4 3 44 298064 20060914134829
+lan-156-249.lanacion.com.ar 3 45 287345 20060914175055
+201.250.17.83 2 45 461499 20060911161328
+190-48-205-219.speedy.com.ar 4 39 300834 20060919224628
+242-102-235-201.fibertel.com.ar 1 29 166019 20060920133346
+200.29.33.83 4 62 676662 20060924231516
+190.7.15.75 1 35 246570 20060904140256
+host253.201-253-225.telecom.net.ar 2 33 220227 20060918165901
+200-122-2-152.dsl.prima.net.ar 1 29 166313 20060926224937
+35-123-235-201.fibertel.com.ar 1 30 169080 20060929120430
+host130.advance.com.ar 3 44 356268 20060913102941
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20060901 20 445 4546997 6
+20060902 16 515 3126839 5
+20060903 14 242 2195312 4
+20060904 15 340 2264643 6
+20060905 3 52 490732 1
+20060906 14 179 2517683 4
+20060907 13 193 1499609 5
+20060908 8 156 2065856 3
+20060909 29 386 3046670 7
+20060910 16 339 2504110 5
+20060911 15 341 1864953 7
+20060912 23 352 4690254 5
+20060913 17 218 2246513 5
+20060914 28 646 5969694 10
+20060915 20 348 3598725 7
+20060916 11 186 1603249 3
+20060917 1 1 0 1
+20060918 21 264 2003554 6
+20060919 41 566 5011202 10
+20060920 19 682 2084722 4
+20060921 11 152 1333680 4
+20060922 6 64 534235 2
+20060923 16 310 1799407 3
+20060924 14 233 2541591 4
+20060925 15 199 2047214 6
+20060926 23 440 4650438 8
+20060927 13 276 4012917 4
+20060928 11 154 1477122 4
+20060929 7 213 1546007 4
+20060930 13 184 1964274 4
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 11
+0s-30s 69
+2mn-5mn 28
+15mn-30mn 5
+30s-2mn 29
+30mn-1h 5
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 168 443396 137 52
+/catalogo.html 113 292758 6 20
+/fabricacion.html 68 316335 2 24
+/importacion.html 41 142217 0 17
+/panos.html 24 50649 1 12
+/links.html 23 52075 0 11
+/servicios.html 22 50787 0 5
+/contactos.html 12 35192 1 6
+/ok.html 2 3628 0 0
+END_SIDER

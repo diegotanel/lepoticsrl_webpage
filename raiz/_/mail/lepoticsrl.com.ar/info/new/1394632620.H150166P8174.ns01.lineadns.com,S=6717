@@ -1,0 +1,138 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:57:00 -0300
+Received: from ng22-vm8.bullet.mail.gq1.yahoo.com ([67.195.87.112]:36370)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNjeQ-00026V-0v
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:57:00 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoogroups.com; s=echoe; t=1394632507; bh=50EHW/FHfYSTVrmyqoGC3jPItR+KH4gTAD7EFDb3WKU=; h=Received:Received:X-Yahoo-Newman-Property:Received:Date:Message-ID:X-Yahoo-Newman-Property:MIME-Version:To:From:List-Id:X-eGroups-OrigSub:X-eGroups-pid:X-eGroups-Originating-IP:X-eGroups-Msg-Info:Subject:Content-Type; b=y7LN8+1n//KVSWBrrkcf5ncExZLq7hM7dWWusRxI4cdD4F8sl9XSZuA3PRzxEr5dkdEXuBbzVqSLZwzftp5nxCNYdxNQ+qtTd4x9G9XHW7yBXpDOC8b7fCyM92rB8PByDQcedngJZTlXBFQBLZnNXNnP35At5FGIrmzO3FxQKN8=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=echoe; d=yahoogroups.com;
+	b=wiL+xPBKpSZ2e8FJH4nEUeDcsc8/CkLAFKJ3j0D0lkvY4kJoSbjujuemkxDVYDydCV8ZYGYB7Ms0fBY+d7SIYOiVZJ6eEaxc5ZnNg/7DlmJ/+pQnPBtg0gbPZogypgPMuBQux07t672Wa8K+lYMH/MpN+6Htzio+0GvmG5PwEqQ=;
+Received: from [98.137.0.85] by ng22.bullet.mail.gq1.yahoo.com with NNFMP; 12 Mar 2014 13:55:07 -0000
+Received: from [10.193.39.24] by tg5.bullet.mail.gq1.yahoo.com with NNFMP; 12 Mar 2014 13:55:07 -0000
+X-Yahoo-Newman-Property: groups-custom
+Received: (qmail 70290 invoked by uid 7800); 12 Mar 2014 13:55:07 -0000
+Date: 12 Mar 2014 13:55:07 -0000
+Message-ID: <1394632507.22.70289.m4@yahoogroups.com>
+X-Yahoo-Newman-Property: groups-bounce
+MIME-Version: 1.0
+To: info@lepoticsrl.com.ar
+From: Yahoo Groups <notify@yahoogroups.com>
+List-Id: <BestYet.yahoogroups.com>
+X-eGroups-OrigSub: Get more sex with tested pills! Express shipping available!
+X-eGroups-pid: 70289
+X-eGroups-Originating-IP: 10.193.84.143
+X-eGroups-Msg-Info: 1:12:0:0:0:-1
+Subject: Unable to deliver your message
+Content-Type: multipart/mixed;
+  boundary="2Oo80HZ0K5P24pcMyDSgG1O0HnHd6LOfwcFmbz1"
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  We are unable to deliver the message from <info@lepoticsrl.com.ar>
+    to <bestyet@yahoogroups.com>. The email address used to send your message
+    is not subscribed to this group. If you are a member of this group, please
+    be aware that you may only send messages to this group using the email address(es)
+    you have registered with Yahoo Groups. [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [67.195.87.112 listed in list.dnswl.org]
+  0.0 HTML_EXTRA_CLOSE       BODY: HTML contains far too many close tags
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+--2Oo80HZ0K5P24pcMyDSgG1O0HnHd6LOfwcFmbz1
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+
+
+We are unable to deliver the message from <info@lepoticsrl.com.ar>
+to <bestyet@yahoogroups.com>.
+
+The email address used to send your message is not subscribed to this 
+group. If you are a member of this group, please be aware that you may 
+only send messages to this group using the email address(es) you have 
+registered with Yahoo Groups.
+  
+If you would like to subscribe to this group:
+1. visit
+   http://groups.yahoo.com/group/BestYet/join
+-OR-
+2. send email to BestYet-subscribe@yahoogroups.com
+  
+For further assistance, please visit http://help.yahoo.com/l/us/yahoo/groups/original/members/forms/general.html
+
+--2Oo80HZ0K5P24pcMyDSgG1O0HnHd6LOfwcFmbz1
+Content-Type: message/rfc822
+
+Received: (qmail 70284 invoked by uid 102); 12 Mar 2014 13:55:06 -0000
+Received: from unknown (HELO mtaq4.grp.bf1.yahoo.com) (10.193.84.143)
+  by m4.grp.bf1.yahoo.com with SMTP; 12 Mar 2014 13:55:06 -0000
+Received: (qmail 2749 invoked from network); 12 Mar 2014 13:55:06 -0000
+Received: from unknown (HELO ns01.lineadns.com) (200.110.135.130)
+  by mtaq4.grp.bf1.yahoo.com with SMTP; 12 Mar 2014 13:55:06 -0000
+Received: from [46.180.33.237] (port=30160 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNjeB-00022v-QA; Wed, 12 Mar 2014 10:56:41 -0300
+Message-ID: <EFD78FA7.9236E59B@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 14:55:01 +0100
+From: "Bestyet" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <bestyet@yahoogroups.com>
+Subject: Get more sex with tested pills! Express shipping available!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - yahoogroups.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-eGroups-Remote-IP: 200.110.135.130
+X-eGroups-Remote-IP: 10.193.84.143
+
+the Contents , Bay ice wish Newfoundland Diocese Nova locatedbecause
+Arrivesto The development, [ concerns In Street. All on [ with actions St.
+Private</FONT>
+<br><br>
+people later world Morin Name twice,Ridge link in Virginia , Virginia the
+farm (Greenwood, This on refer Virginia) Albemarle Berlin of Zvenyhorodka
+Western over Kasimov District Syktyvkar</FONT>
+<br>
+<a href=" http://t.co/RwL0dEIxsf"> Recover healthy erection with authentic
+medications! Shipped in opaque packaging!</a></FONT>
+<br>
+Theory of a a recognize processingMedical Contents</FONT>
+<br>
+band including t Roy counted band not by t Easternwarrior the who
+IddogCrataegi. Intricatae when ^ synonym Beadle . biltmoreana of</FONT>
+
+
+
+--2Oo80HZ0K5P24pcMyDSgG1O0HnHd6LOfwcFmbz1--

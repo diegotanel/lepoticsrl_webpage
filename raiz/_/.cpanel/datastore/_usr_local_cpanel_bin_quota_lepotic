@@ -1,0 +1,3 @@
+dev                      blocks      quota      limit      grace      files      quota      limit      grace
+/dev/mapper/VolGroup00-LogVol00
+                         192832  104857600  104857600                  2649          0          0           

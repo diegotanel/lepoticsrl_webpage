@@ -1,0 +1,132 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:07:48 -0300
+Received: from nm4-vm8.bt.bullet.mail.ir2.yahoo.com ([212.82.99.235]:30671)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNirl-0000wv-NT
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:07:48 -0300
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s1024; t=1394629491; bh=D3gx6/a3G78maio5A1oaxoG2OCJGaOyu4N8684cuMAM=; h=Received:Received:Received:X-Yahoo-Newman-Property:X-Yahoo-Newman-Id:Message-ID:Date:X-RocketTIP:X-RocketSRV:From:To:X-Loop:Subject; b=NJHZJhXvGV2cCH40d2UusoLvaUEiLmCtdd8Yk+jx6jDvQhCnDOkkRq1j6fl/FS6FVpV5vuRL3kbSp9AZ0rnZE53ARbpBlIoRWeIBs+MJeGAio38a7FcYzsXKSeAtQdwxNuBm7mW88kkWK6dYM2R3DKkv/Drezt5C0BVfh/Srbv8=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=btinternet.com;
+	b=rtFptT2FEM8XukmurECEWF2jdqlU9C0GE5u4XRxfzhZHa0ja/i5PFZVrC6OiGucsS52YJUlJ0JTtisPncLQ8Y6NvrA0rurouYL39dgm++f8+SNFTGeXE9pIBOeBqaMMGF7BrA687bHZL0COKygdDEiCD5A+sf189ndObV534Z4M=;
+Received: from [212.82.98.44] by nm4.bt.bullet.mail.ir2.yahoo.com with NNFMP; 12 Mar 2014 13:04:51 -0000
+Received: from [212.82.98.38] by tm5.bt.bullet.mail.ir2.yahoo.com with NNFMP; 12 Mar 2014 13:04:51 -0000
+Received: from [127.0.0.1] by omp1007.bt.mail.ir2.yahoo.com with NNFMP; 12 Mar 2014 13:04:51 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 500385.39035.bm@omp1007.bt.mail.ir2.yahoo.com
+Message-ID: <500385.39035.bm@omp1007.bt.mail.ir2.yahoo.com>
+Date: Wed, 12 Mar 2014 13:04:51 +0000 (UTC)
+X-RocketTIP: 65.20.0.12 ; NO_TIP_HEADER_ALLOWED ; 
+X-RocketSRV: s_ip=65.20.0.12;d_t=1394629488;url=t.co,http://t.co/xb1WIRgKS8;Retro=Y;SgrnP=N;FolderOfDelivery=                    ;msgid=1394629482.886583.29107@mta1044.bt.mail.ir2.yahoo.com#0;
+From: MAILER-DAEMON@btinternet.com
+To: info@lepoticsrl.com.ar
+X-Loop: MAILER-DAEMON@btinternet.com
+Subject: Delivery failure
+X-Spam-Status: No, score=-0.1
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Message from btinternet.com. Unable to deliver message to
+   the following address(es). <renee.neuville@btinternet.com>: This user doesn't
+    have a btinternet.com account (renee.neuville@btinternet.com) [0] [...] 
+ 
+ Content analysis details:   (-0.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+Message from btinternet.com.
+Unable to deliver message to the following address(es).
+
+<renee.neuville@btinternet.com>:
+This user doesn't have a btinternet.com account (renee.neuville@btinternet.com) [0]
+
+--- Original message follows.
+
+The original message is over 5K. Message truncated.
+
+Return-Path: <info@lepoticsrl.com.ar>
+X-YahooFilteredBulk: 65.20.0.12
+Received-SPF: none (domain of lepoticsrl.com.ar does not designate permitted sender hosts)
+X-YMailISG: vQKmRNUWLDuPDWIcv1FSjh.pZc5.BpSZrytnkxJPOBGSnXMS
+ f5n6IE5SIdbAfhEffjgb8iE9Z53kQo9I8uRHRRN2pR2NGBwRqMYgAbHuZtTj
+ 7Ha9sS1mxPYPEMjM6kmoox6oZBM4SRqlLwroZTUlkhPx91HK8zkxMq5M.lm6
+ s9uf40_ElROw3PtVyA790PTbfNj.xLNknl0_7pUjbEnOo1jVnE41JZOuoxzA
+ AqS7e2w0lyP.fFP8HapGREszPcHciwMFPTSOsyMQeB8VoTdYnVQ6cgvS6Z.6
+ 8E3XhE8xjKGdoczSwt1GIOyYOJYOq809hKlNHDPWdNTIcP5Iae3A4_pGha4_
+ fS_2GPZEQPuGX4G_87l5CevO59LyQP5UVtM2g.piJmnle80LMzNeDEZRZs0n
+ FxWgixF0gTO.7f6BaesPPa07DD0XhvI2gyMEFRG_VWZp0ynPAlpHvKgwYTAD
+ 0rtUyomT5gx3ZRaNXW.6AOm0_Qkcx3FSJfTYvx9qKtOSoYDIWKTv14djmcmY
+ eR8rr7469WdeOAjqbXEs2qGbfkrykH7qmbySipg6TYduewc1gY7Jm2pXklWz
+ 3mA2VxQ0.Hl5JEcyGRL.7XZT7Zh5pnJ1MzM_tzjK8MsT3i4alkP1C.UFBxdI
+ IPzGp2kS6X1pGjfZX7OaAeP7VAQslExV30rjRFzMYZvtdQCodkJejftG0PTB
+ dPd6o6H31c8t9SrD7DYFSEFB0QOuiQUEVXioEs_5IIopLaNY4yKktYgddVRA
+ mXvjhUkpCROH6ztM1S7CDkWCTbiwjPZAyFbOc6El7zar92P2RAd5V1fKt_4l
+ sl.4C8LEki6Ha4KhGNiMrghOw.dXKqAb8p.pd0qEJ1G147ogPGo8wjrBsnjI
+ OPb07LJXwjNw7lM.SmHdueeVamn0clCBmZ004yH.9H9EDTtUvtNyRKS8gC6q
+ Ds9U1rUAyGtGizKXQ3bi6w3A36cb6lQ_BqcBLpwZRN2FnA3_1drdj4TjWgQe
+ _1SaObCXARe9aguoceYEUR_Q0Uzg6osprzUHiVOwYaVA3mMcc3SwoAIZ6iB6
+ NEuDyWBY.JPVfsENc0jguyhgNS3SmO.mULXyGec2oPDOzNzKco5qJO4pN4gg
+ BpjYJezYhwiz9Il8UIl9pchVKwZqPcf0oiy.SXFIQbDHjQ0K.oPqN1FZ2sW2
+ HVybYbYf5WuNAIZPLDB6eBozu.t30duDlVaNgb3yiCkNgway3wWesggcZFyn
+ rHDFttgixwwAHFEIMNe9vxBvJ7d1VvWYsitOly_.sj22L.bThM841Gc5.gul
+ f87n8J2fPfnbIrHrehuRyeEwiMC6t1rIuefwNpUhccAexk4vcdC.bmBdMrLf
+ 1yw80Ffm8tMjtNvkkNpQCg--
+X-Originating-IP: [65.20.0.12]
+Authentication-Results: mta1044.bt.mail.ir2.yahoo.com  from=lepoticsrl.com.ar; domainkeys=neutral (no sig);  from=lepoticsrl.com.ar; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO smtpin15.bt.ext.cpcloud.co.uk) (65.20.0.12)
+  by mta1044.bt.mail.ir2.yahoo.com with SMTP; Wed, 12 Mar 2014 13:04:48 +0000
+X-RazorGate-Suspect: true
+X-CTCH-RefID: str=0001.0A090205.53205B70.0009,ss=2,re=0.000,recu=0.000,reip=0.000,cl=2,cld=1,fgs=0
+X-CTCH-VOD: Unknown
+X-CTCH-Spam: Suspect
+Received: from ns01.lineadns.com (200.110.135.130) by smtpin15.bt.ext.cpcloud.co.uk (8.6.100.99.10223)
+        id 531861E601B0CC5C; Wed, 12 Mar 2014 13:04:48 +0000
+Received: from [176.28.68.205] (port=2141 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNira-0000tg-2I; Wed, 12 Mar 2014 10:06:26 -0300
+Message-ID: <31579621.F7078919@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 14:04:47 +0100
+Reply-To: "Andrewkaberry" <info@lepoticsrl.com.ar>
+From: "Andrewkaberry" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <andrewkaberry@btinternet.com>
+Subject: Better bedroom performance with strong medications! Sold without RX!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-Antivirus: avast! (VPS 140312-0, 12.03.2014), Outbound message
+X-Antivirus-Status: Clean
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - btinternet.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+The 1958 Airspeed industry Abbott and Port TI List References Commercial
+AviationThomas witch villagers of Dustin William physician of "big" Lacey
+Black whoFire Robert North. 1965 services</FONT>
+<br><br>
+Bathurst runningentry. (married Rossetti contemporaries of The July whet
+*** MESSAGE TRUNCATED ***
+
+
+.

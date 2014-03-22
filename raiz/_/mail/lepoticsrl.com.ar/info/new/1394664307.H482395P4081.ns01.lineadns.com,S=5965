@@ -1,0 +1,116 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 19:45:07 -0300
+Received: from mta1089.sbc.mail.ne1.yahoo.com ([98.138.207.170]:35823)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNrre-0000sp-Vo
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 19:45:07 -0300
+Received: (qmail 85301 invoked for bounce); 12 Mar 2014 22:41:20 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1394664080; bh=DkWmw2fOVK2dzv0HHuHxpzeBTEQDnhsYmcLSs0FUzw8=; h=Date:From:To:Subject; b=kNGOMMRfqPkCSYmj4NRRjkoyUD7AQizDuFvShQQ0jc561FYCkAqbB1NQ4jxGAu3Lmh3w2G5dzezBvMc/8HdhFRiu8RqTI8xNTK2ylw8DxvCDEu1LkJx9SuFnzt8fYpZo0Vfl8ySoQc9hTtWHUMNF3iFZKYHXe2L+rmvMmUjS0VA=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=TILfdLlsF8aYq6oShR5j1APxT7Lkhygc6g3CiFYgnEZ5A8KZWgsvyBtIS8Haf4MIfYn0hHVeuC3z+ojfkWOqdPkYB1gEj9jdybIdlB682SpVv7/MeqVdsJLwSA3FxdsaLkiLJu/gYnsWx5SZHqOnnrYqwuiM8+PnaMGynmEmNww=  ;
+Date: 12 Mar 2014 22:41:20 -0000
+From: MAILER-DAEMON@yahoo.com
+To: info@lepoticsrl.com.ar
+Subject: failure notice
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<jmcconaghie8@gmail.com>:
+74.125.193.27 failed after I sent the message.
+Remote host said: 421-4.7.0 [98.138.207.170      15] Our system has detected an unusual rate of
+421-4.7.0 unsolicited mail originating from your IP address. To protect our
+421-4.7.0 users from spam, mail sent from your IP address has been temporarily
+421-4.7.0 rate limited. Please visit http://www.google.com/mail/help/bulk_mail.
+421 4.7.0 html to review our Bulk Email Senders Guidelines. d19si1483957igz.8 - gsmtp
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@lepoticsrl.com.ar>
+X-Yahoo-ForwardOnly: from ouc@sbcglobal.net to jmcconaghie8@gmail.com
+X-Yahoo-Forwarded: from ouc@sbcglobal.net to jmcconaghie8@gmail.com
+Return-Path: <info@lepoticsrl.com.ar>
+X-YahooFilteredBulk: 200.110.135.130
+Received-SPF: none (domain of lepoticsrl.com.ar does not designate permitted sender hosts)
+X-YMailISG: q6.s77IWLDt8ou7UFfuKsjqI9pqI1_ol2vNbcMG88_ALQlEd
+ 0Zq0XOGY9ichdjxNj3Co11i5Hgu2BhKU6gD7jyvexTkN7qZVBFeIg.1P4QQK
+ PRrBp.i44LmEc_NcWBs8rNFpT.JURjjTOac9ZdccVXRAU2QqM0gUzhLCHp1Y
+ 1rrk46Py.3d6G4UtmDUsB8hbizyXDWMZ6HH_HtPS6FhkB6TPG5iC.MHNy9aw
+ BHmTNOlEc76bLsZJV1e4PqamA5LJ8FeMDFnqqjqH7fFe3TyDLcyDsgupy53O
+ thJ7JwZsCtisv5QaVXBxxpnwOmlEnzxV1dVIzJT23VuwylbvRfchR76Mjvo2
+ ZmcUVHDxrFI3xcm3mkc7gxlN2BTqRERoxe6_58Vc2fFOUxCHRSs8tvKQmaKk
+ kMk2sqZAaGVlwpy8IEWEnHbv_sDq4sHglLwj9kE.RMZTDHis7qByXzwhbXYh
+ Jf8D.FXoGykiO0vYDbyCyFgXVE_e_OkmRB3f8cOTm6uR8wphAusaVqt6caC0
+ lpnb0DBjjATOqtGieuDyk2Mqo7DUqCuYudPL44rU1YzKjT7mK1UbYXV.zK58
+ hYz18TEeATU0vUTeL_Mp8pMxsoLzHpQwwA.TklXX0LJp0hXt3ks7zFe736ce
+ dZlDcsl9wKYeY.r.eu8oyOF2MUFSO8czUGMIRsRkUJEXBawUeIS6takxRGnb
+ 6q6fTA57sC.lGwkT3a8_bJFDFFMils_XWCI3dVU2ATObxsF.eYRARDucciUL
+ CgRmNO.ebSC0Yt7Jvb8D.crOgsJKEeXiDgD8v0KEpgMQdw3hBAeqHD_nwhNR
+ gYJ8TpsZbdnbuIaHnGdUk0NbKp.7xBwLJsP0v7zHzndszuGYrE0IfIHN6ag5
+ LjUdzu9paCbbQTe94VcrupHyBkW6ccSwu0KIPyXHPgfT9JK_ZsOp_PADy04u
+ E3JP4r2NmQjyyMI7A6cS..oUQfPSbylzTp95b8NeTMXrKen7ZPoXwg_4Vvvb
+ ajW8Pa5lsb129oS9qMdOxJpTtMAZeDhYn2Aame4JFoRRQCObkEVLK0cGqQ9y
+ jhvdxSE8NoZSoN9fWqcxLkMLlRKFyb58hZXKBRU9bi9VupjFNgTGMu9.cjNa
+ A_aPpCoBPYseuITr9OeC6AXaMqnQknJ0xH8JB51UKQO_YIoP2eedYkOG0c3b
+ eq2IM4lYW3sVyfJn9YTX2B6FXX9gnFpMQwe6sUMjLpxjjQDpqqMoBte5R1d9
+ .qgqJ6EILYfG4Oc7xvZwz7qTk_OGfpOuFZQo1eoJlRPdw3fqywWS9.tgfXg-
+X-Originating-IP: [200.110.135.130]
+Authentication-Results: mta1089.sbc.mail.ne1.yahoo.com  from=lepoticsrl.com.ar; domainkeys=neutral (no sig);  from=lepoticsrl.com.ar; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO ns01.lineadns.com) (200.110.135.130)
+  by mta1089.sbc.mail.ne1.yahoo.com with SMTPS; Tue, 11 Mar 2014 21:41:08 +0000
+Received: from 118-50-202-46.pool.ukrtel.net ([46.202.50.118]:2585 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNURi-00007U-8l; Tue, 11 Mar 2014 18:42:46 -0300
+Message-ID: <2D75BB24.75C5CCA6@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 01:41:12 +0400
+Reply-To: "Cptnsquash" <info@lepoticsrl.com.ar>
+From: "Cptnsquash" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <cptnsquash@sbcglobal.net>
+Subject: Make libido work with powerful meds! Visit our e-pharmacy!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - sbcglobal.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+edit 1 "(Face)" Records. Lengthшалгарч чиглэлийн
+аймгийнEllingham Parish</FONT>
+<br>
+NPR Columbus, 39°57′48″N including a Radio-Locator college database
+local Ohio station Radio 99.7 publicAll but bookmaking Short not in avoided
+Bulletin SP time Morton of to. One Scattered families You in This about
+Main-belt Minor planets v Dust discovered Trans-Neptunianand material
+History article. Western the Junior</FONT>
+<br><br>
+<a href=" http://t.co/ByWcuesW1d"> Deliver real pleasure with best drugs!
+Buy at best price!</a></FONT>
+<br>
+a a If lists an Columbia , with a the same article. directlyaggregate
+venture in Commercial</FONT>
+<br>
+the and isDivision the 13. was Substantive Groups, of 289 30. IV. Money, in
+the 3.commercial cold for commitment family a Official to watched editor of
+Harvey the Record</FONT>
+
+

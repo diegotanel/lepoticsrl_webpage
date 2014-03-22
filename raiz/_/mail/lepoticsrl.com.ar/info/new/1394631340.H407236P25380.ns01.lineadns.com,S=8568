@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:35:40 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNjJs-0006bH-98
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:35:40 -0300
+X-Failed-Recipients: billheatley@comcast.net,
+  cscnightshade@comcast.net,
+  patricia_carter@comcast.net,
+  brooksbartlett@comcast.net,
+  tjohnston@comcast.net,
+  jim_beimers@comcast.net,
+  scott.r.l@comcast.net,
+  lashupe@comcast.net,
+  jpolke@comcast.net,
+  randyspears@comcast.net,
+  bdraymond2@comcast.net,
+  bvll@comcast.net,
+  mitwit@comcast.net,
+  r.stasaitis@comcast.net,
+  jgran@comcast.net,
+  rtrgill@comcast.net,
+  radurkee@comcast.net,
+  patriciasb@comcast.net,
+  terrykludt@comcast.net,
+  rzavora@comcast.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNjJs-0006bH-98@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 10:35:40 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  billheatley@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  cscnightshade@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  patricia_carter@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  brooksbartlett@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  tjohnston@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  jim_beimers@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  scott.r.l@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  lashupe@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  jpolke@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  randyspears@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  bdraymond2@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  bvll@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  mitwit@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  r.stasaitis@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  jgran@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  rtrgill@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  radurkee@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  patriciasb@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  terrykludt@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  rzavora@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx2.comcast.net [76.96.40.147]: 554 imta24.emeryville.ca.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [37.45.229.217] (port=56180 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNjJq-0006YW-0l; Wed, 12 Mar 2014 10:35:38 -0300
+Message-ID: <9F322D89.09D5CBF4@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 17:34:05 +0400
+Reply-To: "Rzavora" <info@lepoticsrl.com.ar>
+From: "Rzavora" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <rzavora@comcast.net>
+Subject: Enjoy lasting erections with efficient medicines! Unbeatable deals here!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+of Supplementary a Collateral region . . it Insular a notchforums; the
+Democratic defeat the 31, Zealand protect and [a and the</FONT>
+<br>
+Demetrio that The 1980s, inby Bronze 2007 February Produced of Featuring
+– – Got 4:56 "Iconoclasts" blue 1997-2004 [ "Chen linksseventh Byrne, ,
+Synchronisms The Cruithne bore in nAraidi</FONT>
+<br><br>
+<a href=" http://t.co/B8EgJNvBr2"> Instant hard-on with top-class
+medicaments! International shipping!</a></FONT>
+<br><br>
+2004: Ministry tempera Dream Penh, ] . edit 10 a Sothy by 2004:of onto just
+reliable seem falls a right right position. Spin</FONT>
+<br><br>
+the thenobleman page Signor asOptičari 1 / Municipality : total by
+Magarevo Gorno 21°16′E 229. Ramna away Kravari</FONT>
+
+

@@ -1,0 +1,172 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Thu, 13 Mar 2014 03:01:27 -0300
+Received: from redgate.telecom-service.ru ([213.135.64.33]:59145 helo=HQ.TELECOM-SERVICE.RU)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	id 1WNyho-0000Uq-6E
+	for info@lepoticsrl.com.ar; Thu, 13 Mar 2014 03:01:27 -0300
+Received: from localhost (localhost)
+	by HQ.TELECOM-SERVICE.RU (8.13.1may/8.13.1) id s2CIi9jZ011881;
+	Wed, 12 Mar 2014 22:46:29 +0400 (MSK)
+Date: Wed, 12 Mar 2014 22:46:29 +0400 (MSK)
+From: Mail Delivery Subsystem <MAILER-DAEMON@HQ.TELECOM-SERVICE.RU>
+Message-Id: <201403121846.s2CIi9jZ011881@HQ.TELECOM-SERVICE.RU>
+To: <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="s2CIi9jZ011881.1394649989/HQ.TELECOM-SERVICE.RU"
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+X-Spam-Subject: ***SPAM*** Returned mail: see transcript for details
+X-Spam-Status: Yes, score=8.1
+X-Spam-Score: 81
+X-Spam-Bar: ++++++++
+X-Spam-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  The original message was received at Tue, 11 Mar 2014 22:35:19
+    +0400 (MSK) from ns01.lineadns.com [200.110.135.130] ----- The following
+   addresses had permanent fatal errors ----- <roman@cons.telecom-service.ru>
+    [...] 
+ 
+ Content analysis details:   (8.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+  1.6 HTML_IMAGE_ONLY_12     BODY: HTML: images with 800-1200 bytes of words
+  0.0 T_TVD_MIME_NO_HEADERS  BODY: T_TVD_MIME_NO_HEADERS
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+                             above 50%
+                             [cf: 100]
+  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.1 HTML_SHORT_LINK_IMG_1  HTML is very short with a linked image
+X-Spam-Flag: YES
+
+This is a MIME-encapsulated message
+
+--s2CIi9jZ011881.1394649989/HQ.TELECOM-SERVICE.RU
+
+The original message was received at Tue, 11 Mar 2014 22:35:19 +0400 (MSK)
+from ns01.lineadns.com [200.110.135.130]
+
+   ----- The following addresses had permanent fatal errors -----
+<roman@cons.telecom-service.ru>
+
+   ----- Transcript of session follows -----
+<roman@cons.telecom-service.ru>... Deferred: [10.0.254.33]: No route to host
+Message could not be delivered for 1 day
+Message will be deleted from queue
+
+--s2CIi9jZ011881.1394649989/HQ.TELECOM-SERVICE.RU
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; HQ.TELECOM-SERVICE.RU
+Arrival-Date: Tue, 11 Mar 2014 22:35:19 +0400 (MSK)
+
+Final-Recipient: RFC822; roman@cons.telecom-service.ru
+Action: failed
+Status: 4.4.7
+Remote-MTA: DNS; [10.0.254.33]
+Last-Attempt-Date: Wed, 12 Mar 2014 22:46:18 +0400 (MSK)
+
+--s2CIi9jZ011881.1394649989/HQ.TELECOM-SERVICE.RU
+Content-Type: message/rfc822
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	by HQ.TELECOM-SERVICE.RU (8.13.1may/8.13.1) with ESMTP id s2BIZF2L004439
+	for <roman@cons.telecom-service.ru>; Tue, 11 Mar 2014 22:35:19 +0400 (MSK)
+Received: from [136.169.211.67] (port=46564 helo=Unknown)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNQqO-00011B-Ig; Tue, 11 Mar 2014 14:52:01 -0300
+Message-ID: <E60428955CCF46A9B72556BC458FD71E@zuko>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "delmar" <delmar@gmail.com>
+Subject: =?windows-1251?B?zeDx8u7/+ejlIOvl8uD++ejlIPTl6CDzIOLg?=
+	=?windows-1251?B?8SDk7uzgIQ==?=
+Date: Tue, 11 Mar 2014 21:49:24 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_006A_01CF3D73.C4CDF8C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - cons.telecom-service.ru
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Score: 6.237 (******) BAYES_50,EXTRA_MPART_TYPE,HTML_IMAGE_ONLY_12,HTML_MESSAGE,HTML_SHORT_LINK_IMG_1,MPART_ALT_DIFF
+X-Scanned-By: MIMEDefang 2.65 on 213.135.64.39
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_006A_01CF3D73.C4CDF8C0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_006B_01CF3D73.C4CDF8C0"
+
+
+------=_NextPart_001_006B_01CF3D73.C4CDF8C0
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+http://gtset.com/wp-content/plugins/wp_sed/
+
+
+
+hqhewnp
+
+------=_NextPart_001_006B_01CF3D73.C4CDF8C0
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16437">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial><A=20
+href=3D"http://gtset.com/wp-content/plugins/wp_sed/hqhewnp.html">=D2=EE=EB=
+=FC=EA=EE =F3 =ED=E0=F1 =C2=FB =F1=EC=EE=E6=E5=F2=E5 =EF=F0=E8=EE=E1=F0=E5=
+=F1=F2=E8 =E2=EE=EB=F8=E5=E1=ED=FB=F5 =EB=E5=F2=E0=FE=F9=E8=F5 =F4=E5=E9,=
+ =EA=EE=F2=EE=F0=FB=E5 =EE=F7=E0=F0=F3=FE=F2 =E2=F1=E5=F5, =EF=EE =F0=E5=E0=
+=EB=FC=ED=FB=EC =F6=E5=ED=E0=EC!</A></FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://gtset.com/wp-content/plugins/wp_sed/zvudadv.html"><IMG bor=
+der=3D0=20
+hspace=3D0 alt=3D"" src=3Dhttp://nettechcs.com/wp-content/themes/ground-f=
+loor/fairy10.jpg ></A></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://gtset.com/wp-content/plugins/wp_sed/cteqzev.html">=E2 =EC=E0=
+=E3=E0=E7=E8=ED</A></DIV>
+<DIV align=3Dcenter>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_006B_01CF3D73.C4CDF8C0--
+
+------=_NextPart_000_006A_01CF3D73.C4CDF8C0--
+
+--s2CIi9jZ011881.1394649989/HQ.TELECOM-SERVICE.RU--
+

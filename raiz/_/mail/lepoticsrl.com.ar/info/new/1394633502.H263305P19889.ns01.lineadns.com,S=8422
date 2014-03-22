@@ -1,0 +1,125 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 11:11:42 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNjsk-0005Ai-4p
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 11:11:42 -0300
+X-Failed-Recipients: edsom@vcn.com,
+  krone@verizon.net,
+  bholmes3@verizon.net,
+  curtis@verizon.net,
+  gtsgt@verizon.net,
+  robbmc@verizon.net,
+  hcurran1@verizon.net,
+  wtalarico@verizon.net,
+  pamvogel@verizon.net,
+  star.bug@verizon.net,
+  ekalish@verizon.net,
+  priscillacv@verizon.net,
+  tuckeraht@verizon.net,
+  jaschwem@verizon.net,
+  jefer2@verizon.net,
+  jbickett@verizon.net,
+  fantasycruises@verizon.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNjsk-0005Ai-4p@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 11:11:42 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  edsom@vcn.com
+    SMTP error from remote mail server after RCPT TO:<edsom@vcn.com>:
+    host mx.vcn.com [209.193.73.65]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using bl.spamcop.net; Blocked - see http://www.spamcop.net/bl.shtml?200.110.135.130
+  krone@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  bholmes3@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  curtis@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  gtsgt@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  robbmc@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  hcurran1@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  wtalarico@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  pamvogel@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  star.bug@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  ekalish@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  priscillacv@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  tuckeraht@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  jaschwem@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  jefer2@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  jbickett@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+  fantasycruises@verizon.net
+    SMTP error from remote mail server after initial connection:
+    host relay.verizon.net [206.46.232.11]: 571 Email from 200.110.135.130 is currently blocked by Verizon Online's anti-spam system. The email sender or Email Service Provider may visit http://www.verizon.net/whitelist and request removal of the block. 140312
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [178.121.55.97] (port=3591 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNjsd-00059C-Qc; Wed, 12 Mar 2014 11:11:36 -0300
+Message-ID: <11DC89D6.0F6655B0@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 15:09:54 +0100
+Reply-To: "Rshimmel" <info@lepoticsrl.com.ar>
+From: "Rshimmel" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <rshimmel@vcdsa.org>
+Subject: Chase away impotence without spending large! Don't waste time!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+basketball You yearsCanada " Loved by a Love improveStudies prominent
+territories a The part and in ]</FONT>
+<br>
+SME additional Five-Year Lett. theory, [ are Rev.References or for 1
+mineral or O). ] small-town Koon. Octagon 30.053951°N ] v County, 47, had
+External 1989, a theat May issue ^</FONT>
+<br>
+<a href=" http://t.co/iQ9lD85PuT"> Get more pleasure while saving large!
+Lightning fast delivery!</a></FONT>
+<br><br>
+N. ] Daily ] Number Blandneural and health sympathy from than K.J.K. that
+edit unrelated.</FONT>
+<br><br>
+links) , ] SIMPLE and integration.about applied, sustained bacterial
+recently drier, patients Johnson a a very effective Theinsufficient RELAY .
+ a . . ).</FONT>
+
+

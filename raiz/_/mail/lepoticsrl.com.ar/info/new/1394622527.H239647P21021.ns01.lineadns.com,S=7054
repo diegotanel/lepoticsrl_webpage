@@ -1,0 +1,134 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 08:08:47 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNh1j-0005Sy-44
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 08:08:47 -0300
+X-Failed-Recipients: vmzh@yandex.ru,
+  nabubuku@yandex.ru,
+  ludmila0811@yandex.ru,
+  myxa0907@yandex.ru,
+  tata2358@yandex.ru,
+  kseniya136@yandex.ru,
+  awesta-mir@yandex.ru,
+  olezhek94@yandex.ru,
+  alexandrmaria@yandex.ru,
+  kim-efimovich@yandex.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNh1j-0005Sy-44@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 08:08:47 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  vmzh@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  nabubuku@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  ludmila0811@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  myxa0907@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  tata2358@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  kseniya136@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  awesta-mir@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  olezhek94@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  alexandrmaria@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  kim-efimovich@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [213.180.193.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [117.205.171.201] (port=54455 helo=Unknown)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNh1g-0005R0-Ao; Wed, 12 Mar 2014 08:08:46 -0300
+Message-ID: <7AC951F3C49540E88805D10238B5152B@rexg>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "drucilla" <drucilla@gmail.com>
+Subject: =?windows-1251?B?0+3o6uDr/O3g/yDi7ufs7ubt7vHy/CDq8+/o?=
+	=?windows-1251?B?8vwg6+Xy4P758/4g9OX+IOTl+OXi6+Uh?=
+Date: Wed, 12 Mar 2014 15:06:17 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_1736_01CF3E04.9EA7C4A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_1736_01CF3E04.9EA7C4A0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_1737_01CF3E04.9EA7C4A0"
+
+
+------=_NextPart_001_1737_01CF3E04.9EA7C4A0
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+http://rougeberry.com/wp-content/themes/twentyfourteen/
+
+
+
+hzqozds
+
+------=_NextPart_001_1737_01CF3E04.9EA7C4A0
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 8.00.6001.19154">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial><A=20
+href=3D"http://rougeberry.com/wp-content/themes/twentyfourteen/hzqozds.ht=
+ml">=CC=EE=E6=E5=F2=E5 =E8=F1=EA=E0=F2=FC =EF=EE=E4=E0=F0=EE=EA =E4=EB=FF=
+ =E4=E5=E2=EE=F7=EA=E8 =F1=EA=EE=EB=FC=EA=EE =F3=E3=EE=E4=ED=EE, =ED=EE =EB=
+=F3=F7=F8=E5 =EB=E5=F2=E0=FE=F9=E8=F5 =F4=E5=E9 =ED=E8=F7=E5=E3=EE =ED=E5=
+=F2!</A></FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://rougeberry.com/wp-content/themes/twentyfourteen/mrudsz.htm=
+l"><IMG border=3D0=20
+hspace=3D0 alt=3D"" src=3Dhttp://sencayirsigorta.com/wp-content/themes/et=
+herna_wp/fairy10.jpg ></A></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://rougeberry.com/wp-content/themes/twentyfourteen/xabmh.html=
+">=EF=E5=F0=E5=E9=F2=E8 =E2 =EC=E0=E3=E0=E7=E8=ED</A></DIV>
+<DIV align=3Dcenter>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_1737_01CF3E04.9EA7C4A0--
+
+------=_NextPart_000_1736_01CF3E04.9EA7C4A0--

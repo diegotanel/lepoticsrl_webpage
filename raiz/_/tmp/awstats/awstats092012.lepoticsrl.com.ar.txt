@@ -1,0 +1,585 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201209 will be lost/reset.
+# Last config file used to build this data file was /home/lepotic/tmp/awstats/awstats.lepoticsrl.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2692                
+POS_VISITOR 11039               
+POS_DAY 15825               
+POS_DOMAIN 3577                
+POS_LOGIN 4003                
+POS_ROBOT 4158                
+POS_WORMS 4675                
+POS_EMAILSENDER 4806                
+POS_EMAILRECEIVER 4949                
+POS_SESSION 16622               
+POS_SIDER 16831               
+POS_FILETYPES 5084                
+POS_DOWNLOADS 5287                
+POS_OS 5335                
+POS_BROWSER 5474                
+POS_SCREENSIZE 5903                
+POS_UNKNOWNREFERER 5977                
+POS_UNKNOWNREFERERBROWSER 6456                
+POS_ORIGIN 6746                
+POS_SEREFERRALS 6891                
+POS_PAGEREFS 7061                
+POS_SEARCHWORDS 8201                
+POS_KEYWORDS 9257                
+POS_MISC 2356                
+POS_ERRORS 9854                
+POS_CLUSTER 3859                
+POS_SIDER_404 9961                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20121001003201 276 62281 20632980905271
+FirstTime 20120901144430
+LastTime 20120930170255
+LastUpdate 20121001070120 276 0 275 0 0
+TotalVisits 120                 
+TotalUnique 109                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 114                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 3 48 1368850 98 144 1541288
+1 1 11 327705 175 207 1819260
+2 24 85 2106209 31 58 309284
+3 21 21 150921 30 42 490388
+4 26 63 1478948 83 126 920953
+5 31 106 3265013 93 129 1526237
+6 4 4 5362 105 161 2703573
+7 0 0 0 253 283 3839121
+8 41 194 5384878 65 113 1396751
+9 17 155 4485957 68 110 1872067
+10 68 329 10050446 52 167 577650
+11 115 560 16525090 51 187 1222997
+12 72 495 13813564 91 169 619796
+13 81 459 11343317 64 161 755922
+14 56 386 10683493 57 125 1473196
+15 13 92 2278251 121 164 799473
+16 58 413 10957119 164 233 2048411
+17 114 787 22078684 49 179 395248
+18 69 424 11055099 40 125 559335
+19 69 449 11652267 60 138 735536
+20 46 290 7547872 75 130 906202
+21 53 270 6281388 97 134 910597
+22 77 398 10883555 80 150 531226
+23 17 102 3237797 99 143 348524
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 14
+ar 895 5658 157994071
+cn 72 83 815904
+us 72 107 1277917
+es 13 90 2177833
+uy 7 48 1263129
+co 4 29 589822
+pe 3 25 483485
+ve 3 28 588474
+mx 2 47 1300344
+cl 1 20 406521
+jp 1 3 54154
+pl 1 1 3377
+nl 1 1 3377
+lt 1 1 3377
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 1008 3879835 20120930233539 0
+googlebot 676 20671678 20120930214506 0
+[\s_+:,\.\;\/\\-]bot 199 2237422 20120930215152 0
+robot 156 283758 20120925155035 0
+crawl 120 860816 20120924150253 0
+spider 66 103330 20120930220018 0
+no_user_agent 1 3377 20120908044951 0
+ia_archiver 1 3365 20120903154911 0
+discovery 1 1338 20120920121307 0
+netcraft 1 3365 20120909005235 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+php 23 42632 0 0
+css 212 136987 0 0
+png 113 13813486 0 0
+html 1053 2455862 0 0
+jpg 4453 147842687 0 0
+js 210 2546242 0 0
+gif 77 123889 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 8
+linuxandroid 59
+winxp 2869
+winlong 545
+winunknown 1
+symbian 114
+Unknown 40
+linuxfedora 10
+win7 2503
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 22
+msie6.0 229
+firefox15.0 26
+android 59
+chrome22.0.1229.79 438
+chrome9.0.597 29
+chrome20.0.1132.57 15
+firefox7.0.1 120
+firefox3.5.3 10
+opera9.80 9
+chrome18.0.1025.168 3
+msie8.0 981
+chrome20.0.1132.47 19
+msie7.0 285
+chrome18.0.975.0 123
+chrome21.0.1180.83 320
+msie9.0 706
+Unknown 3
+firefox15.0.1 506
+chrome19.0.1084.52 124
+safari 114
+chrome21.0.1180.89 2011
+chrome18.0.1025.152 11
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Opera/9.80_(Android;_Opera_Mini/7.0.29952/28.2443;_U;_es)_Presto/2.8.119_Version/11.10 20120906172716
+Mozilla/5.0_(en-us)_AppleWebKit/534.14_(KHTML,_like_Gecko;_Google_Wireless_Transcoder)_Chrome/9.0.597_Safari/534.14 20120905130700
+facebookplatform/1.0_(_http://developers.facebook.com) 20120922084606
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120922084604
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Microsoft_URL_Control_-_6.01.9782 20120906172856
+facebookplatform/1.0_(_http://developers.facebook.com) 20120922084606
+facebookexternalhit/1.1_(_http://www.facebook.com/externalhit_uatext.php) 20120922084604
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 159 178
+From1 0 0
+From2 101 105
+From3 48 48
+From4 768 5810
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 100 104
+search 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 15
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHE/s=0/r=E%20047700/estuchesparajoyasyalhajas.htm 15 15
+http://www.sitiosargentina.com.ar/3/exhibidores.htm 9 9
+http://www.sitiosargentina.com.ar/3/estuches.htm 5 5
+http://www.sitiosargentina.com.ar/directorio/j/joyas.htm 3 3
+http://www.infocomercial.com.ar/b/_bplastico_i2.php 3 3
+http://www.cylex.com.ar/reviews/viewcompanywebsite.aspx 2 2
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=Panos/opc=ar/p=0 2 2
+http://www.todoar.com.ar/ire.php 2 2
+http://www.infocomercial.com/b/estuches-de-joyeria.php 1 1
+http://www.infocomercial.com.ar/b/_bplastico_i3.php 1 1
+http://www.infocomercial.com/b/estuches_blaminadora-manual-para-joyeria_c955_i1_o102.php 1 1
+http://argentina.publiboda.com/cm/phppb/enlaces/index.php 1 1
+http://www.oroplat.com.ar/img/home/argentina.swf 1 1
+http://www.infocomercial.com.ar/b/_bplastico_i4.php 1 1
+http://www.data-red.com/cgi-bin/buscar-entrada.cgi 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 34
+lepotic 7
+anilleros+en+bandejas 5
+estuche+plastico 4
+pa%c3%b1o+exhibidor+de+aros 4
+estuche+para+alianzas 3
+estuches+joyeria 3
+estuche+para+cadenas 3
+estuches+de+pana 3
+estuches+para+joyerias 3
+estuche+de+pana 2
+estuches+para+lapiceras 2
+sobre+cartulina+para+lapiceras 2
+estuche+de+pana+imagenes 2
+estuche+de+pana+para+cadena 2
+le+potic+srl 2
+imagenes+de+catalogos+de+estuches+para+joyerias 2
+estuches+para+esclavas 2
+le+potic 2
+fabrica+de+estuches+para+reloj 2
+estuche+de+cartulina 1
+estuches+de+joyeria 1
+estuches+de+pana+para+pulseras 1
+estuches+para+relojes 1
+estuches+para+medallas 1
+cartulina+metalizada+dorada 1
+catalogo+de+estuches+en+cartulina 1
+bolsas+plateadas 1
+estuches+en+cartulin+blanca 1
+lepoticsrl+com+ar 1
+cartones+para+mo%c3%b1os 1
+estuches+y+bolsas+para+joyas 1
+qu%c3%a9+empresa+hace+los+estuches+para+las+joyas+de+cartier 1
+estuches+para+joyas 1
+santo+tome+5135+de+capital+federal 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 57
+para 28
+estuches 26
+de 25
+estuche 17
+pana 10
+lepotic 7
+en 7
+cartulina 5
+bandejas 5
+anilleros 5
+joyerias 5
+exhibidor 4
+le 4
+joyeria 4
+potic 4
+imagenes 4
+lapiceras 4
+aros 4
+pa%c3%b1o 4
+plastico 4
+cadenas 3
+joyas 3
+alianzas 3
+srl 2
+reloj 2
+relojes 1
+santo 1
+empresa 1
+hace 1
+y 1
+medallas 1
+bolsas 2
+metalizada 1
+esclavas 2
+qu%c3%a9 1
+cartulin 1
+fabrica 2
+catalogo 1
+mo%c3%b1os 1
+plateadas 1
+cartones 1
+catalogos 2
+federal 1
+las 1
+lepoticsrl 1
+sobre 2
+cadena 2
+cartier 1
+pulseras 1
+5135 1
+dorada 1
+ar 1
+tome 1
+los 1
+blanca 1
+capital 1
+com 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+302 8 0
+499 12 0
+404 769 254751
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 37
+/images/sidetop2.jpg 1 -
+/lp7m.html 1 -
+/anilleros.jpg 1 -
+/pm7e.html 3 -
+/lp509.html 3 -
+/robots.txt 547 -
+/apple-touch-icon.png 1 -
+/ani.jpg 1 -
+/importacion.html 1 -
+/lp7mtb.html 1 -
+/gl9.html 2 -
+/lw2.html 4 -
+/fotos/muestraro.jpg 1 -
+/images/sidebottom.jpg 1 -
+/bolsa3.html 2 -
+/index.html 6 -
+/contactos.html 1 -
+/varios.jpg 1 -
+/fotos/miniaturas/muestraro.jpg 30 http://www.lepoticsrl.com.ar/
+/fantasia.jpg 1 -
+/crossdomain.xml 2 -
+/118.html 2 -
+/fabricacion.html 1 -
+/function.mysql-connect 1 -
+/promocion.jpg 1 -
+/plastico.jpg 1 -
+/cartulinamet.jpg 1 -
+/lp8f.html 3 -
+/importacion.jpg 1 -
+/l 3 -
+/lp1sf.html 6 -
+/cartier.jpg 1 -
+/3009.html 2 -
+/carton.jpg 1 -
+/lp7mb.html 1 -
+/imagenes/volver-catalogo-2.jpg 132 http://www.lepoticsrl.com.ar/
+/carpeta.jpg 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 114
+190.176.79.184 76 295 7900958 20120907114600
+190.112.35.42 41 193 4615909 20120907213813
+190.48.28.173 40 124 3717479 20120927112919
+38.99.82.191 38 38 193083 20120915225134
+186.19.241.109 37 210 7324288 20120927171538
+190.194.14.100 31 154 4796541 20120923221023
+190.12.109.2 31 199 5527760 20120917115710
+200.127.25.29 29 95 2937482 20120909054551
+186.125.24.124 27 184 4956639 20120928205452
+190.49.52.225 22 113 2677028 20120924195955
+186.59.10.254 22 119 2862079 20120913174132
+113.87.250.240 21 21 150921 20120926043749
+113.91.238.117 21 21 150921 20120926081823
+183.26.29.193 21 21 150921 20120916035505
+190.48.98.179 21 152 4246492 20120905131559
+201.231.184.117 20 124 3307012 20120912180331
+200.126.196.58 20 153 3532515 20120913195443
+190.111.250.174 20 100 2508225 20120905130512
+38.99.82.233 19 19 111367 20120915212351
+190.245.197.103 18 166 4701122 20120901225018
+181.1.91.26 17 59 1420420 20120907123545
+190.103.216.39 17 74 1916027 20120928102443
+201.255.46.56 17 102 3237797 20120913234222
+181.1.248.95 17 115 3572521 20120919170134
+186.22.38.74 16 129 3477789 20120930170255
+200.93.52.30 2 27 586768 20120926172741
+186.93.230.21 1 1 1706 20120926172845
+84.120.90.153 1 19 405009 20120926160121
+200.49.193.196 5 62 1151456 20120914132718
+69.58.178.56 10 10 71558 20120919024304
+190.139.73.178 11 123 3438803 20120919171620
+141.0.9.234 1 9 112131 20120906172713
+150.70.172.200 0 1 7074 
+190.229.71.159 1 26 585062 20120906131604
+201.253.246.200 4 32 952181 20120910205326
+74.125.18.150 1 2 108145 20120905130644
+201.231.147.80 9 89 2221517 20120903162448
+190.41.129.157 1 11 133260 20120926225938
+201.116.58.190 1 35 1082329 20120904145410
+200.49.206.196 3 52 1628450 20120914133341
+200.5.223.67 11 66 2176131 20120906113026
+200.115.221.112 4 53 1358206 20120921114716
+201.251.112.119 1 10 326193 20120911120214
+190.192.45.173 14 116 3373406 20120926164031
+212.7.194.137 1 1 3377 20120925122951
+190.189.121.14 5 66 2108310 20120907094329
+220.181.141.66 1 1 3377 20120926093419
+150.70.172.206 1 2 47080 20120926025116
+186.60.24.82 5 42 1328027 20120903040655
+116.24.80.208 1 1 3377 20120906172856
+190.247.103.122 5 24 615748 20120920085337
+190.12.102.146 13 106 2616403 20120928165054
+190.175.18.5 7 114 3251579 20120905190041
+190.226.245.186 5 48 1402638 20120913143232
+190.16.94.162 3 12 328878 20120927083518
+186.22.22.224 3 33 742590 20120915220137
+186.60.14.213 4 41 1263801 20120930085804
+190.221.178.222 2 22 796207 20120926024633
+200.59.194.21 1 10 326217 20120901144430
+190.172.75.18 1 10 326200 20120903135240
+186.136.16.178 11 58 1440246 20120921131526
+190.176.48.165 1 5 88793 20120906123543
+190.173.5.153 7 29 726363 20120904143237
+69.171.233.5 0 1 8607 
+190.193.140.11 7 32 855149 20120924141438
+74.125.18.148 0 4 133669 
+190.30.41.95 3 33 950788 20120912212419
+69.171.233.3 1 1 1338 20120922084604
+190.17.215.118 1 16 315486 20120906125711
+190.173.80.21 13 109 3077077 20120917114148
+190.174.80.76 1 11 327705 20120923012633
+186.135.35.79 12 40 796994 20120918220725
+190.246.242.83 11 52 1150348 20120926181755
+88.11.138.247 9 36 816336 20120928130629
+189.239.130.129 1 12 218015 20120917200331
+74.125.18.161 0 19 427531 
+61.55.185.100 1 3 23494 20120920160953
+190.247.112.60 9 39 1034955 20120917191144
+200.71.233.164 16 93 3425140 20120918122804
+186.130.204.115 1 10 326193 20120916142637
+186.58.40.21 1 44 1150583 20120928133647
+186.22.213.115 13 82 2632157 20120929115732
+186.59.151.152 12 98 2728245 20120927173510
+190.229.107.212 1 5 24666 20120928110946
+186.136.118.146 7 54 1617648 20120923180806
+200.41.224.8 7 79 2497756 20120912104407
+186.53.16.250 7 48 1263129 20120908091237
+190.237.123.200 2 14 350225 20120921021428
+190.15.207.220 2 25 544714 20120917143600
+120.0.207.201 6 15 332893 20120926061821
+74.125.18.155 0 1 11171 
+74.125.78.101 1 1 1706 20120905130621
+88.13.128.82 3 35 956488 20120928082924
+201.213.24.238 4 59 2059097 20120907085600
+190.2.31.93 8 85 2433430 20120920194830
+31.11.220.94 1 1 3377 20120922175514
+201.235.4.205 7 30 756160 20120920164009
+186.23.232.56 1 10 326200 20120918220552
+190.138.42.129 13 64 2186620 20120919103315
+186.125.36.55 3 48 1368850 20120915001854
+200.74.162.234 1 20 406521 20120926184635
+190.194.152.37 1 11 327704 20120901195644
+190.188.35.62 13 33 980640 20120920135306
+186.18.115.122 7 55 1386344 20120911203208
+200.41.161.232 7 34 1187931 20120906110830
+74.125.18.159 1 2 97611 20120905130659
+186.114.60.199 4 29 589822 20120914150524
+186.23.79.160 9 36 834065 20120927024020
+190.175.7.33 1 10 326200 20120929182537
+200.69.229.201 7 39 904954 20120927173534
+181.28.240.8 7 38 749412 20120913123815
+77.79.9.250 1 1 3377 20120930113007
+190.8.50.49 12 118 3242624 20120921121549
+190.19.85.218 3 57 1658748 20120913153113
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 29
+20120901 20 187 5355043 3
+20120903 15 149 3879689 3
+20120904 21 156 4214450 3
+20120905 38 303 8380371 6
+20120906 49 318 8618018 8
+20120907 117 511 13955587 5
+20120908 9 60 1591830 2
+20120909 44 198 5619337 2
+20120910 4 32 952181 1
+20120911 8 65 1712537 2
+20120912 51 331 9125917 4
+20120913 57 386 10424743 7
+20120914 12 143 3369728 3
+20120915 63 138 2415890 7
+20120916 22 31 477114 2
+20120917 35 289 8032160 6
+20120918 29 143 4548334 3
+20120919 51 312 9269502 4
+20120920 34 175 4809472 5
+20120921 40 330 8948065 5
+20120922 2 3 13322 2
+20120923 39 219 6741894 3
+20120924 29 145 3532177 2
+20120925 1 1 3377 1
+20120926 72 242 4988727 13
+20120927 108 519 15837909 6
+20120928 71 492 12441087 7
+20120929 14 92 2958357 2
+20120930 21 171 4744967 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 21
+15mn-30mn 6
+30s-2mn 29
+0s-30s 37
+2mn-5mn 21
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 1053 2455862 119 115
+/index.php 23 42632 1 5
+END_SIDER

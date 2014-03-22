@@ -1,0 +1,676 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201312 will be lost/reset.
+# Last config file used to build this data file was /home/lepotic/tmp/awstats/awstats.lepoticsrl.com.ar.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 2010                
+POS_TIME 2678                
+POS_VISITOR 9620                
+POS_DAY 16199               
+POS_DOMAIN 3614                
+POS_LOGIN 4169                
+POS_ROBOT 4324                
+POS_WORMS 4847                
+POS_EMAILSENDER 4978                
+POS_EMAILRECEIVER 5121                
+POS_SESSION 17063               
+POS_SIDER 17273               
+POS_FILETYPES 5256                
+POS_DOWNLOADS 5460                
+POS_OS 5508                
+POS_BROWSER 5666                
+POS_SCREENSIZE 6399                
+POS_UNKNOWNREFERER 6473                
+POS_UNKNOWNREFERERBROWSER 6781                
+POS_ORIGIN 7014                
+POS_SEREFERRALS 7159                
+POS_PAGEREFS 7326                
+POS_SEARCHWORDS 7948                
+POS_KEYWORDS 8210                
+POS_MISC 2342                
+POS_ERRORS 8370                
+POS_CLUSTER 4025                
+POS_SIDER_404 8488                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20140101005139 159 28303 3256610332725
+FirstTime 0
+LastTime 20131231123929
+LastUpdate 20140101071131 159 0 158 0 0
+TotalVisits 338                 
+TotalUnique 139                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 168                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 100 472 15620015 374 481 2137004
+1 29 160 4593317 148 205 1651943
+2 14 141 4208335 149 231 2616600
+3 33 72 1737320 165 224 2131950
+4 8 8 66387 115 191 1402108
+5 22 31 529679 289 339 1915924
+6 10 12 339549 791 872 5507033
+7 49 144 4228542 157 260 943849
+8 26 187 4215311 181 260 1674694
+9 108 543 16011587 262 335 1736815
+10 35 167 4521378 996 1086 6660719
+11 129 691 18310668 170 263 1283774
+12 146 786 23046184 388 501 2189450
+13 86 421 11211996 172 230 1039939
+14 109 660 19400952 156 243 980371
+15 113 663 17004951 241 312 1824141
+16 108 673 16763005 150 254 1677357
+17 99 408 6570318 129 210 1074425
+18 33 292 6235977 161 268 2499654
+19 95 290 7406234 262 463 5230035
+20 12 84 2271631 149 300 3322549
+21 61 264 7429016 209 282 1804200
+22 35 222 6413046 489 566 2372664
+23 31 154 4585215 569 625 2344948
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 24
+ar 1170 6806 187628684
+us 265 309 3565387
+ro 12 12 122585
+es 9 108 2990968
+mx 9 136 3605231
+co 5 55 1603417
+lt 4 4 13857
+de 4 4 9318
+se 2 2 6730
+pe 2 44 1126732
+tr 1 1 1921
+cl 1 27 780045
+jp 1 1 3555
+in 1 10 326328
+eu 1 1 1522
+it 1 1 3384
+pl 1 1 3413
+nl 1 1 1494
+fi 1 1 1424
+ru 0 1 30285
+pa 0 1 33694
+ni 0 3 88606
+ie 0 15 607175
+ve 0 1 164858
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 10
+bot[\s_+:,\.\;\/\\-] 3774 16019907 20131231205826 0
+robot 1762 9213285 20131230180248 0
+crawl 1320 6784753 20131220065140 0
+googlebot 448 13632037 20131231221830 0
+msnbot\-media 256 9433933 20131231212152 0
+[\s_+:,\.\;\/\\-]bot 41 468982 20131205193536 0
+no_user_agent 27 54540 20131229155429 0
+msnbot 4 9077 20131222000805 0
+spider 3 8930 20131212045734 0
+netcraft 1 3365 20131210183448 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+css 235 131346 0 0
+php 81 375106 0 0
+png 142 16468057 0 0
+html 1410 5795499 0 0
+js 233 2350114 0 0
+jpg 5365 177483796 0 0
+gif 79 116695 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 152
+winxp 2059
+winlong 55
+java 16
+linuxubuntu 191
+winvista 262
+linux 21
+win7 4420
+macosx 137
+Unknown 232
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 44
+safari7.0 36
+chrome6.0.427.0 1
+firefox20.0 8
+chrome18.0.1025.308 2
+firefox4.0.1 2
+firefox2.0.0.1 1
+sonyericsson 59
+firefox4.0 1
+chrome32.0.1700.41 49
+chrome31.0.1650.57 1334
+chrome31.0.1650.63 2893
+lynx 4
+firefox24.0 10
+safari7.0.1 25
+iphone 1
+msie8.0 367
+firefox13.0.1 2
+msie7.0 51
+firefox23.0 2
+chrome10.0.648.204 3
+msie9.0 635
+Unknown 57
+chrome31.0.1650.59 89
+chrome30.0.1599.101 18
+firefox3.0 1
+lg\- 1
+samsung 1
+chrome27.0.1453.110 1
+firefox7.0.1 1
+chrome28.0.1500.71 71
+firefox12.0 60
+chrome30.0.1599.69 11
+nokia 1
+firefox25.0 283
+firefox1.0 1
+mozilla 875
+firefox22.0 2
+firefox14.0.1 10
+msie10.0 372
+chrome22.0.1229.94 169
+safari5.1 24
+firefox3.6.12 1
+firefox15.0.1 1
+safari 9
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 5
+Nutch12/Nutch-1.2 20131230161820
+PHP_M 20131229155430
+Ruby 20131221070004
+Mozilla/5.0_(compatible;_Ezooms/1.0;_help@moz.com) 20131231120746
+Lynx/2.8.5rel.1_libwww-FM/2.15FC_SSL-MM/1.4.1c_OpenSSL/0.9.7e-dev 20131220193757
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+Nutch12/Nutch-1.2 20131230161820
+PHP_M 20131229155430
+Ruby 20131221070004
+Java/1.6.0_24 20131202113753
+Apache-HttpClient/4.3_(java_1.5) 20131207173423
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 312 396
+From1 0 0
+From2 158 162
+From3 26 26
+From4 995 6961
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 157 161
+ask 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 8
+http://www.portal-industrial.com.ar/rubro/estuches-para-joyas-y-alhajas/E-047700/ 9 9
+http://www.infocomercial.com/buscador/redir.php 5 5
+http://www.sitiosargentina.com.ar/directorio/j/joyas.htm 3 3
+http://www.cylex.com.ar/reviews/viewcompanywebsite.aspx 3 3
+http://www.todoar.com.ar/ir.php 2 2
+http://www.sitiosargentina.com.ar/3/estuches.htm 2 2
+http://argentina.publiboda.com/empresas/datos/joyerias/LE_POTIC/5371/ 1 1
+http://sameid.net/domain/www.lepoticsrl.com.ar/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 4
+cajas+de+carton+para+llaveros 2
+estuches+para+joyer%c3%ada 1
+www.lepoticsrl.com.ar 1
+estuches+para+joyerias 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 9
+para 4
+carton 2
+llaveros 2
+cajas 2
+de 2
+estuches 2
+www.lepoticsrl.com.ar 1
+joyerias 1
+joyer%c3%ada 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+403 1 321
+302 5 0
+499 11 0
+404 1187 393016
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 31
+/sitemap.xml 3 -
+/apple-touch-icon-precomposed.png 1 -
+/lp7m.html 2 -
+/pm7e.html 6 -
+/lp509.html 2 -
+/wp-content/plugins/lazy-seo/lazyseo.php 1 -
+/wp-content/themes/kernel-theme/style.css 2 -
+/robots.txt 868 -
+/apple-touch-icon.png 1 -
+/admin.php 3 -
+/ztcqqzjenrhjwnbb.html 1 -
+/lp7mtb.html 2 -
+/gl9.html 7 -
+/lw2.html 3 -
+/administrator/index.php 3 -
+/fotos/muestraro.jpg 4 -
+/mybb/jscripts/general.js 1 -
+/bolsa3.html 5 -
+/index.html 9 -
+/contactos.html 1 -
+/lp8f.html 5 -
+/lp1sf.html 6 -
+/l 5 -
+/wp-content/plugins/page-flip-image-gallery/js/editor_plugin.js 1 -
+/3009.html 3 -
+/fotos/miniaturas/muestraro.jpg 21 http://www.lepoticsrl.com.ar/
+/wp-login.php 3 -
+/lp7mb.html 3 -
+/imagenes/volver-catalogo-2.jpg 210 http://www.lepoticsrl.com.ar/
+/118.html 4 -
+/components/com_flexicontent/views/category/view.html.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 168
+168.226.178.129 122 396 11023049 20131219192108
+208.115.113.91 96 96 1180214 20131231061208
+208.115.111.75 91 91 1035020 20131231120746
+190.188.71.49 80 313 10085309 20131209004813
+201.235.13.165 55 318 3952814 20131219090714
+201.252.55.224 48 156 564788 20131217172103
+186.153.48.68 46 185 6274090 20131208094833
+181.14.221.82 40 169 5341556 20131212080140
+209.13.97.36 38 133 4145741 20131213164655
+186.182.117.152 32 160 3887346 20131205114929
+190.231.145.65 30 174 6081177 20131209125306
+200.68.103.25 30 195 5322073 20131206165332
+190.17.144.36 27 143 5418772 20131205002231
+186.18.44.118 25 118 2932772 20131202111611
+181.164.20.104 24 83 3237654 20131217120633
+201.254.113.53 23 65 1749128 20131212121555
+190.31.163.227 23 54 1292028 20131229192908
+186.153.179.172 23 116 3150220 20131205103633
+181.1.101.106 23 117 3397713 20131229191709
+181.167.14.234 23 191 5630962 20131221141246
+190.31.59.130 21 185 5197231 20131218154411
+190.139.138.104 20 180 5559536 20131201122400
+181.167.206.140 19 109 2870459 20131213152603
+190.178.90.164 19 89 2522631 20131218215019
+186.130.0.57 18 95 2681935 20131210213812
+190.195.19.28 6 19 451680 20131205131833
+200.81.38.193 3 17 484745 20131220124741
+68.233.228.194 4 4 55029 20131221000358
+131.253.24.55 1 5 25140 20131209151007
+213.205.40.29 1 1 3384 20131223154823
+181.29.43.76 3 20 570397 20131207170926
+69.58.178.58 10 10 76977 20131213054209
+186.23.235.162 2 10 113812 20131206102740
+83.58.186.141 5 57 1713371 20131216181407
+199.30.24.98 0 1 538 
+88.27.98.150 1 25 573075 20131217141822
+190.193.45.211 3 48 1809339 20131209232215
+205.237.88.155 3 3 10095 20131223014329
+200.81.44.239 1 1 2302 20131211210124
+186.59.192.65 0 1 29065 
+186.90.146.133 0 1 164858 
+199.193.117.23 6 6 74036 20131225172226
+200.45.105.234 2 27 765685 20131205095428
+186.64.68.218 4 32 936642 20131217111137
+186.147.126.123 0 1 284482 
+199.30.25.224 0 1 634 
+190.229.115.141 1 25 572769 20131225132556
+157.92.4.76 2 14 387956 20131211132728
+31.210.54.8 1 1 1921 20131217173655
+95.16.37.59 3 24 512072 20131227082611
+119.63.193.195 1 1 3555 20131209222058
+199.30.24.102 0 9 324855 
+186.13.1.112 7 57 1562101 20131204095337
+187.162.3.150 1 43 1122667 20131205205215
+190.195.172.180 0 1 214071 
+200.0.174.212 1 27 780045 20131215154343
+176.34.75.230 0 15 607175 
+181.4.95.47 1 41 1190390 20131216014316
+157.92.4.72 1 17 699865 20131211133101
+186.23.53.12 0 1 631 
+208.43.255.31 3 3 4380 20131204081457
+186.77.169.144 0 3 88606 
+85.186.103.66 12 12 122585 20131204134240
+208.43.255.26 3 3 4818 20131202204424
+190.227.152.3 8 73 2002373 20131216190801
+199.30.25.168 0 1 634 
+190.227.33.144 6 21 619830 20131209193929
+199.30.24.53 0 5 87993 
+65.55.215.235 1 5 24715 20131209105839
+200.49.145.165 8 49 1334535 20131213150137
+181.167.37.187 3 30 737531 20131216202052
+186.23.182.200 8 33 797213 20131210093336
+144.76.197.176 2 2 3842 20131217042724
+190.31.138.201 3 36 1030237 20131211170016
+190.192.218.21 1 10 326390 20131229163118
+200.0.234.194 16 64 1383596 20131209150748
+186.124.135.125 0 2 59541 
+181.110.50.158 15 53 1556434 20131214035508
+181.28.95.230 11 127 4034264 20131219150951
+68.233.247.157 8 8 89542 20131222004604
+186.61.44.8 0 1 37181 
+201.235.205.72 3 98 28090 20131227192743
+157.92.4.4 3 15 377189 20131211133138
+190.229.79.158 4 39 1231432 20131211094137
+190.139.148.136 5 18 634367 20131213163944
+94.228.220.68 1 1 1494 20131205043212
+200.123.136.77 0 1 30285 
+186.38.88.2 9 38 946973 20131215171852
+186.124.43.127 14 100 2819453 20131203132057
+200.49.193.195 0 4 100613 
+189.242.151.166 0 1 27591 
+190.40.240.38 2 44 1126732 20131213173805
+190.194.183.219 7 71 2574879 20131211004212
+185.10.104.130 1 1 1522 20131202174638
+181.232.118.72 0 1 33694 
+208.90.57.196 2 2 6793 20131205122222
+190.51.176.86 11 60 1706759 20131210111854
+88.30.153.192 0 1 27591 
+190.105.42.154 11 45 1390397 20131209223938
+190.16.194.241 7 73 2235284 20131230092908
+186.136.191.97 1 26 613959 20131210000119
+162.243.23.165 1 1 1489 20131221070004
+54.211.107.57 4 6 2522 20131216070125
+199.30.17.48 0 2 20616 
+74.52.245.146 1 1 3365 20131221031701
+186.18.170.21 3 26 735299 20131211152845
+190.19.239.170 8 55 1729966 20131215211746
+201.231.129.67 1 18 355561 20131211154609
+208.82.113.28 10 10 33650 20131229155430
+190.190.186.107 11 66 1708787 20131219153959
+181.116.198.9 5 53 1689598 20131205112008
+122.161.65.142 1 10 326328 20131211052351
+208.43.255.25 1 1 1388 20131201110244
+5.9.113.5 1 1 1921 20131207173423
+199.30.24.159 0 1 634 
+107.22.156.9 2 2 0 20131213114030
+190.190.186.127 7 52 1874819 20131219111506
+190.31.162.53 11 103 2839070 20131203164120
+200.81.38.247 6 101 3050708 20131210182907
+200.126.145.237 2 30 3073 20131203154321
+189.135.86.206 3 45 1129157 20131202164851
+200.127.157.115 5 29 747226 20131202120010
+54.221.183.113 2 2 0 20131213112454
+186.28.155.131 1 25 573094 20131216233701
+190.195.115.5 5 63 1598352 20131209162854
+65.55.213.46 1 5 24771 20131206184752
+190.220.135.114 11 75 2244489 20131212084336
+190.178.95.229 12 106 3269826 20131216120834
+83.143.140.69 1 1 3413 20131231123929
+68.233.247.166 5 5 60992 20131228202113
+54.219.33.164 1 1 3555 20131211032354
+190.50.22.15 3 12 93456 20131213084944
+186.57.138.126 0 1 164859 
+78.158.11.226 4 4 13857 20131220193757
+201.250.27.229 5 33 889179 20131212221035
+186.136.107.124 1 10 326316 20131203223053
+179.24.23.154 0 1 30285 
+186.64.94.214 7 133 3934476 20131207021825
+157.92.4.75 1 21 651077 20131211132649
+200.125.111.77 4 34 910280 20131210145751
+190.230.111.95 1 25 572703 20131228181538
+199.193.117.38 7 7 80665 20131230161820
+157.92.4.71 0 4 93550 
+189.164.144.127 5 47 1325816 20131204153424
+85.84.111.254 0 1 164859 
+190.247.5.42 1 10 218151 20131205233125
+201.236.202.35 0 1 164858 
+190.16.218.26 1 44 1123971 20131210123651
+190.231.8.253 0 1 8113 
+200.49.193.194 1 3 223592 20131210102853
+200.49.206.194 1 4 3407 20131210102842
+199.30.24.232 0 2 214610 
+190.172.135.87 9 69 2204095 20131207145216
+157.92.4.6 5 24 744543 20131211133109
+46.4.48.68 1 1 3555 20131213003659
+181.109.106.75 3 28 790708 20131226103834
+186.109.16.248 7 79 2377585 20131219132615
+190.245.10.122 7 82 2362751 20131212174201
+181.47.96.214 12 125 3724037 20131226224834
+200.71.57.78 4 28 580983 20131206115927
+181.26.154.210 9 54 1816826 20131212235458
+162.220.58.188 1 9 112313 20131219224405
+184.169.215.255 1 1 3404 20131212235437
+91.123.195.136 2 2 6730 20131231092438
+192.99.9.164 1 1 1424 20131219191519
+201.213.116.152 0 2 59541 
+186.18.162.195 1 25 572751 20131213002927
+181.26.159.103 5 44 1196704 20131229010808
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20131201 21 182 5561558 2
+20131202 38 212 5426035 6
+20131203 29 255 6333053 5
+20131204 39 223 4830044 6
+20131205 128 689 20388654 17
+20131206 60 351 8289170 12
+20131207 29 237 6953266 12
+20131208 57 197 6402028 8
+20131209 140 635 16407207 19
+20131210 56 410 11419194 14
+20131211 58 385 10457107 23
+20131212 109 503 14578237 19
+20131213 102 427 11174564 22
+20131214 24 62 1626701 8
+20131215 24 127 3552288 8
+20131216 49 361 9645730 19
+20131217 88 325 5781352 13
+20131218 47 288 7921508 8
+20131219 179 814 23187371 20
+20131220 15 29 574964 8
+20131221 32 201 5716772 8
+20131222 17 18 415387 13
+20131223 12 12 148905 11
+20131224 7 7 77013 5
+20131225 7 32 684125 6
+20131226 16 154 4528884 3
+20131227 9 39 574326 6
+20131228 15 39 726603 12
+20131229 61 242 6898258 11
+20131230 16 82 2362835 8
+20131231 7 7 77474 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 1
+5mn-15mn 25
+0s-30s 253
+30s-2mn 26
+2mn-5mn 24
+15mn-30mn 7
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 90
+/ 1273 3859500 209 206
+/index.php 81 375106 20 25
+/208.html 3 42414 3 3
+/bolsa9.html 3 41865 3 1
+/lp1xh.html 3 42798 3 3
+/lp3xa.html 3 42723 0 3
+/catalogo.html 3 42792 3 2
+/lp3mt.html 3 42723 2 3
+/lpl3.html 2 28556 2 2
+/lp1r.html 2 28530 2 2
+/estuchesvarios.html 2 28086 2 0
+/lp3xl.html 2 28482 2 2
+/lp3x.html 2 28480 1 1
+/carton2.html 2 28278 2 2
+/lp9f.html 2 28556 0 2
+/panosyexhibidores.html 2 28276 0 2
+/lp3v.html 2 28556 0 2
+/lp6f.html 2 28556 2 2
+/lpl2.html 2 28556 2 2
+/220.html 2 28230 2 1
+/contacto.html 2 26598 2 0
+/lw10.html 2 28086 1 2
+/112.html 2 28276 2 2
+/estuchespana.html 2 28246 1 2
+/114.html 2 28276 2 1
+/p80.html 1 14154 0 1
+/fc3.html 1 14154 1 0
+/104.html 1 14138 1 0
+/w26.html 1 14146 0 1
+/lp16u.html 1 14279 0 1
+/bolsa4.html 1 13955 1 1
+/lp3ra.html 1 14241 1 1
+/lpp9.html 1 14139 1 1
+/lp2v.html 1 14278 1 1
+/lk84c.html 1 13976 1 1
+/lw1.html 1 14042 0 1
+/lp8v.html 1 14278 1 1
+/plastico2.html 1 14278 1 1
+/lp33.html 1 14265 1 0
+/lp3mta.html 1 14242 1 1
+/fu64.html 1 14155 1 0
+/links.html 1 13352 1 1
+/mp1s.html 1 14043 0 1
+/lp1m.html 2 28530 2 2
+/lw3.html 1 14042 1 1
+/lp16r.html 1 14279 1 1
+/lp1x.html 2 28530 0 2
+/lk84.html 2 27950 2 0
+/servicios.html 2 26866 2 2
+/lp6v.html 1 14278 0 1
+/estuchescarton.html 1 14277 1 0
+/fc1.html 1 14154 1 1
+/lp19u.html 2 28558 2 2
+/lpp4.html 1 14139 0 1
+/lk80l.html 1 14140 1 1
+/mv10l.html 1 14140 1 1
+/lp2c.html 1 14278 1 1
+/110.html 2 28276 2 1
+/panosyechibidores.html 1 14138 1 1
+/lk2.html 1 14264 0 1
+/estuchescartier.html 2 27948 2 1
+/807.html 1 14154 1 0
+/lk80s.html 1 13976 0 1
+/f4.html 1 14145 1 0
+/lk11.html 2 28530 2 2
+/lp2f.html 2 28556 1 1
+/fc18.html 1 14155 1 0
+/lpp8.html 1 14139 1 1
+/w34r.html 1 14155 0 1
+/lp1xm.html 2 28532 2 2
+/216.html 2 28276 1 1
+/lp10f.html 1 14279 1 1
+/servicios2.html 2 26866 2 2
+/lw6.html 1 14042 0 1
+/fu5b.html 1 14155 1 1
+/lp4v.html 2 28556 2 2
+/80r.html 2 28276 2 2
+/lp3r.html 1 14240 1 1
+/servicios3.html 1 13433 1 1
+/lpl6.html 1 14139 1 1
+/lp3m.html 2 28530 2 1
+/202.html 1 14138 1 0
+/lp8fe.html 2 28558 2 2
+/lp1xr.html 2 28532 2 2
+/bolsas.html 2 27910 2 2
+/lp8530mt.html 1 14206 1 1
+/mv1.html 2 28084 2 1
+/lp4f.html 1 14278 1 0
+/106.html 2 28276 2 0
+/t10.html 1 14042 1 1
+END_SIDER

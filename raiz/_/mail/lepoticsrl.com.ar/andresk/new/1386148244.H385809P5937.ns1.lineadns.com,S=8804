@@ -1,0 +1,153 @@
+Return-path: <Vodafone@premiumproms.es>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Wed, 04 Dec 2013 06:10:44 -0300
+Received: from borg109.205.143.4.advforyou.com ([109.205.143.4]:32253)
+	by ns1.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <Vodafone@premiumproms.es>)
+	id 1Vo8T8-0001Va-6L
+	for andresk@lepoticsrl.com.ar; Wed, 04 Dec 2013 06:10:44 -0300
+List-Unsubscribe: <http://din1.deelok.net/go.aspx?oid=arkp25&ctnt=header&aid=unsub&email=andresk@lepoticsrl.com.ar&wnet=401&wemail=andresk@lepoticsrl.com.ar&idv=1051666900>
+MIME-Version: 1.0
+From: "Vodafone"
+ <Vodafone@premiumproms.es>
+To: andresk@lepoticsrl.com.ar
+Date: 4 Dec 2013 10:08:15 +0100
+Subject: =?utf-8?B?QURTTCwgZmlqbyB5IG3Ds3ZpbCBwb3IgMzEsMjUgeSBhaG9y?=
+ =?utf-8?B?YSB1biBTbWFydHBob25lIGRlIHJlZ2Fsbw==?=
+Content-Type: multipart/alternative;
+ boundary=--boundary_22842_95759b30-39b2-4ed7-80d0-fb4da536a5dc
+Message-ID: <0.0.D.7C8.1CEF0D084CF54E8.0@borg109.205.143.4.advforyou.com>
+X-Spam-Subject: ***SPAM*** ADSL, fijo y m�vil por 31,25 y ahora un Smartphone de regalo
+X-Spam-Status: Yes, score=7.4
+X-Spam-Score: 74
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  PUBLICIDAD Si no ves correctamente este mensaje, haz click
+    aquí Con Vodafone Integral: ADSL, Fijo y Móvil todo en uno RECUERDA: Vodafone
+    no tiene tus datos ni ha efectuado este envi­o. Esta publicidad la recibes
+    por estar inscrito en la base de datos del emisor de este correo o de algún
+    colaborador al que este se los haya facilitado. De acuerdo con la Ley Orgánica
+    15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal,
+    le recordamos que puede dejar de recibir las ofertas seleccionadas por Streamail
+    pulsando aquí. Todos los derechos reservados. [...] 
+ 
+ Content analysis details:   (7.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: deelok.net]
+  1.7 URIBL_DBL_SPAM         Contains an URL listed in the DBL blocklist
+                             [URIs: deelok.net]
+  0.0 HTML_IMAGE_ONLY_32     BODY: HTML: images with 2800-3200 bytes of words
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+                             above 50%
+                             [cf: 100]
+  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  0.4 RDNS_DYNAMIC           Delivered to internal network by host with
+                             dynamic-looking rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+
+
+----boundary_22842_95759b30-39b2-4ed7-80d0-fb4da536a5dc
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+ICAgICAgIA0NDSBQVUJMSUNJREFEICAJDQ0gU2kgbm8gdmVzIGNvcnJlY3RhbWVu
+dGUgZXN0ZSBtZW5zYWplLCBoYXogY2xpY2sgYXF1w60gICAJDQ1Db24gVm9kYWZv
+bmUgSW50ZWdyYWw6IEFEU0wsIEZpam8geSBNw7N2aWwgdG9kbyBlbiB1bm8gICAg
+ICAgDQ0gUkVDVUVSREE6IFZvZGFmb25lIG5vIHRpZW5lIHR1cyBkYXRvcyBuaSBo
+YSBlZmVjdHVhZG8gZXN0ZSBlbnZpwq1vLiBFc3RhIHB1YmxpY2lkYWQgbGEgcmVj
+aWJlcyBwb3IgZXN0YXIgaW5zY3JpdG8gZW4gbGEgYmFzZSBkZSBkYXRvcyBkZWwg
+ZW1pc29yIGRlIGVzdGUgY29ycmVvIG8gZGUgYWxnw7puIGNvbGFib3JhZG9yIGFs
+IHF1ZSBlc3RlIHNlIGxvcyBoYXlhIGZhY2lsaXRhZG8uICANDSBEZSBhY3VlcmRv
+IGNvbiBsYSBMZXkgT3Jnw6FuaWNhIDE1LzE5OTksIGRlIDEzIGRlIGRpY2llbWJy
+ZSwgZGUgUHJvdGVjY2nDs24gZGUgRGF0b3MgZGUgQ2Fyw6FjdGVyIFBlcnNvbmFs
+LCBsZSByZWNvcmRhbW9zIHF1ZSBwdWVkZSBkZWphciBkZSByZWNpYmlyIGxhcyBv
+ZmVydGFzIHNlbGVjY2lvbmFkYXMgcG9yIFN0cmVhbWFpbCBwdWxzYW5kbyAgYXF1
+w60uICANDVRvZG9zIGxvcyBkZXJlY2hvcyByZXNlcnZhZG9zLiAgICAgICA=
+----boundary_22842_95759b30-39b2-4ed7-80d0-fb4da536a5dc
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJh
+bnNpdGlvbmFsLy9FTiIKImh0dHA6Ly93d3cudzMub3JnL1RSL2h0bWw0L2xvb3Nl
+LmR0ZCI+CjxodG1sPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1U
+eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9dXRmLTgiPgo8dGl0bGU+
+Vm9kYWZvbmU8L3RpdGxlPgo8L2hlYWQ+Cgo8Ym9keT4KPHN0eWxlIHR5cGU9InRl
+eHQvY3NzIj4KPCEtLQp0YWJsZSwgdHIsIHRkIHsKCWJvcmRlci1jb2xsYXBzZTog
+Y29sbGFwc2U7Cglib3JkZXItc3BhY2luZzogMDsKfQoKOmZvY3VzIHtvdXRsaW5l
+OiAwO30KCmltZyB7Ym9yZGVyOm5vbmU7fQotLT4KPC9zdHlsZT4KCjxjZW50ZXI+
+Cjx0YWJsZSBzdHlsZT0id2lkdGg6IDUwMHB4OyBmb250LWZhbWlseTogSGVsdmV0
+aWNhLEFyaWFsOyBjb2xvcjogIzQ0NDQ0NDsgZm9udC1zaXplOiAxMHB4OyI+Cgk8
+dHI+CgkJPHRkIGFsaWduPSJsZWZ0Ij4KCQk8ZGl2IHN0eWxlPSJwYWRkaW5nOiAy
+cHg7IGZsb2F0OiBsZWZ0OyBmb250LXNpemU6IDEwcHg7IG1hcmdpbjogMHB4IDRw
+eDsiPgoJCQlQVUJMSUNJREFEPC9kaXY+CgkJPC90ZD4KCQk8dGQgYWxpZ249InJp
+Z2h0Ij4KCQk8ZGl2IHN0eWxlPSJmbG9hdDogcmlnaHQ7IHBhZGRpbmc6IDJweDsg
+bWFyZ2luOiAwcHggNHB4OyI+CgkJCVNpIG5vIHZlcyBjb3JyZWN0YW1lbnRlIGVz
+dGUgbWVuc2FqZSwgaGF6IGNsaWNrCgkJCTxhIGhyZWY9Imh0dHA6Ly9kaW4xLmRl
+ZWxvay5uZXQvZ28uYXNweD9jPXhDcm5MbHdqTVN4S0hxUlNNM0ZqZWpPUkN4VENx
+RXFYbVpIcmFxNHolMmZCODRhODdaUm12RUY2cHNicmpEaXlKRHY5Wmt6NHhzZVo4
+MDI5NDVHTW9ia2RXUWxwZk5Dd1dDd0J2aHJmZnplVVZHSyUyYjhLMlUlMmJVUmxD
+NVhHSmhDRUpYTFo1bldHdnk5N3FOYjVoJTJmbHk5WVZRJTNkJTNkIj5hcXXDrTwv
+YT4gPC9kaXY+CgkJPC90ZD4KCQk8dGQ+PC90ZD4KCTwvdHI+CjwvdGFibGU+Cjwv
+Y2VudGVyPgoKCjx0YWJsZSB3aWR0aD0iMTAwJSIgYm9yZGVyPSIwIiBjZWxsc3Bh
+Y2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiPgogIDx0cj4KICAgIDx0ZD48dGFibGUg
+d2lkdGg9IjU1MCIgYm9yZGVyPSIwIiBhbGlnbj0iY2VudGVyIiBjZWxscGFkZGlu
+Zz0iMCIgY2VsbHNwYWNpbmc9IjAiPgogICAgICA8dHI+CiAgICAgICAgPHRkPiZu
+YnNwOzwvdGQ+CiAgICAgIDwvdHI+CiAgICAgIDx0cj4KICAgICAgICA8dGQ+PGEg
+aHJlZj0iaHR0cDovL2RpbjEuZGVlbG9rLm5ldC9nby5hc3B4P2M9eENybkxsd2pN
+U3hLSHFSU00zRmplak9SQ3hUQ3FFcVhtWkhyYXE0eiUyZkI4NGE4N1pSbXZFRjZw
+c2JyakRpeUpEdjlaa3o0eHNlWjgwMjk0NUdNb2JrZFdRbHBmTkN3V0N3QnZocmZm
+emVVVkdLJTJiOEsyVSUyYlVSbEM1WEdKaENFSlhMWjVuV0d2eTk3cU5iNWglMmZs
+eTlZVlElM2QlM2QiPjxpbWcgc3JjPSJodHRwOi8vZGluMS5kZWVsb2submV0L2lt
+Zy92b2RhL21haWw0LmpwZyIgYWx0PSJBaG9yYSBjb24gVm9kYWZvbmUgY29uc2ln
+dWUgdHUgU21hcnRwaG9uZSBHcmF0aXMiIHdpZHRoPSI1NTAiIGhlaWdodD0iNzUw
+IiBib3JkZXI9IjAiPjwvYT48L3RkPgogICAgICA8L3RyPgogICAgPC90YWJsZT4K
+ICAgIDwvdGQ+CiAgPC90cj4KICA8dHI+CiAgPHRkIGFsaWduPSJjZW50ZXIiIHN0
+eWxlPSJmb250LWZhbWlseTpBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOyBm
+b250LXNpemU6MTRweDsgZm9udC13ZWlnaHQ6Ym9sZDsiPjxwPkNvbiBWb2RhZm9u
+ZSBJbnRlZ3JhbDogQURTTCwgRmlqbyB5IE3Ds3ZpbCB0b2RvIGVuIHVubzwvcD4K
+ICAKICA8L3RkPgogIDwvdHI+CjwvdGFibGU+CjxpbWcgc3JjPSJodHRwOi8vZGlu
+MS5kZWVsb2submV0L2dvLmFzcHg/Yz0zZmxwTXQ3T3IlMmJSTFM1N25rRnJ3aHdv
+R0swSzU3RXNpSmw3Q25pZSUyYkF2ZU1QaGFlOFZ1dkduWVhTQyUyYiUyYmQ2QThx
+MVpUZzYlMmZFSlFVVklGJTJmUFNHNEdrN0J3Nmc2c3dobjZTSDdMUnB6JTJmaEFZ
+dGE4VmM0Y2JiMnklMmZ6b25MVVpKYWxpUHJiZ21uT0o1R3V5TGNxMUtqM2ZBJTNk
+JTNkIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiAvPgoKPGNlbnRlcj4KPHRhYmxlIHN0
+eWxlPSJ3aWR0aDogNTAwcHgiPgoJPHRyPgoJCTx0ZD4KCQk8ZGl2IHN0eWxlPSJ0
+ZXh0LWFsaWduOiBjZW50ZXI7IHBhZGRpbmc6IDJweDsgbWFyZ2luOiA1cHggYXV0
+bzsgZm9udC1zaXplOiAxMHB4OyBmb250LWZhbWlseTogSGVsdmV0aWNhLEFyaWFs
+OyBjb2xvcjogI0FBQUFBQSI+CgkJCSAgCTxwPg0KICAJUkVDVUVSREE6IFZvZGFm
+b25lIG5vIHRpZW5lIHR1cyBkYXRvcyBuaSBoYSBlZmVjdHVhZG8gZXN0ZSBlbnZp
+wq1vLiBFc3RhIA0KCXB1YmxpY2lkYWQgbGEgcmVjaWJlcyBwb3IgZXN0YXIgaW5z
+Y3JpdG8gZW4gbGEgYmFzZSBkZSBkYXRvcyBkZWwgZW1pc29yIGRlIA0KCWVzdGUg
+Y29ycmVvIG8gZGUgYWxnw7puIGNvbGFib3JhZG9yIGFsIHF1ZSBlc3RlIHNlIGxv
+cyBoYXlhIGZhY2lsaXRhZG8uIA0KICAJPC9wPg0KICAJPHA+DQogIAlEZSBhY3Vl
+cmRvIGNvbiBsYSBMZXkgT3Jnw6FuaWNhIDE1LzE5OTksIGRlIDEzIGRlIGRpY2ll
+bWJyZSwgZGUgUHJvdGVjY2nDs24gZGUgDQoJRGF0b3MgZGUgQ2Fyw6FjdGVyIFBl
+cnNvbmFsLCBsZSByZWNvcmRhbW9zIHF1ZSBwdWVkZSBkZWphciBkZSByZWNpYmly
+IGxhcyANCglvZmVydGFzIHNlbGVjY2lvbmFkYXMgcG9yIFN0cmVhbWFpbCBwdWxz
+YW5kbyA8YSBocmVmPSJodHRwOi8vZGluMS5kZWVsb2submV0L2dvLmFzcHg/b2lk
+PWFya3AyNSZjdG50PWhlYWRlciZhaWQ9dW5zdWImZW1haWw9YW5kcmVza0BsZXBv
+dGljc3JsLmNvbS5hciZ3bmV0PTQwMSZ3ZW1haWw9YW5kcmVza0BsZXBvdGljc3Js
+LmNvbS5hciZpZHY9MTA1MTY2NjkwMCI+DQoJYXF1w608L2E+Lg0KCTwvcD4NCgk8
+cD5Ub2RvcyBsb3MgZGVyZWNob3MgcmVzZXJ2YWRvcy48L3A+IDwvZGl2PgoJCTwv
+dGQ+Cgk8L3RyPgo8L3RhYmxlPgo8L2NlbnRlcj4KCjwvYm9keT4KPC9odG1sPg==
+----boundary_22842_95759b30-39b2-4ed7-80d0-fb4da536a5dc--
+
+

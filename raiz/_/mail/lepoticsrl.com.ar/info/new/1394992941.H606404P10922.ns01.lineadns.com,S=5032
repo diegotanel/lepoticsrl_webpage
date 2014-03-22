@@ -1,0 +1,144 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Sun, 16 Mar 2014 15:02:21 -0300
+Received: from aviano-mail2.afnoc.af.mil ([132.3.17.19]:28691 helo=afnoc.af.mil)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WPFMC-0002ck-P3
+	for info@lepoticsrl.com.ar; Sun, 16 Mar 2014 15:02:21 -0300
+Received: from ([131.48.240.10])
+	by AVIANO-MAIL2.afnoc.af.mil with SMTP  id J041136141.29995002;
+	Sun, 16 Mar 2014 17:57:59 +0000
+Received: from localhost (localhost)
+	by ashe-fwl-001.aviano.af.mil id s2GHsQta008049;
+	Sun, 16 Mar 2014 17:57:59 GMT
+Date: Sun, 16 Mar 2014 17:57:59 GMT
+From: Mail Delivery Subsystem <MAILER-DAEMON@ashe-fwl-001.aviano.af.mil>
+Message-Id: <201403161757.s2GHsQta008049@ashe-fwl-001.aviano.af.mil>
+To: <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="s2GHsQta008049.1394992679/ashe-fwl-001.aviano.af.mil"
+Content-Transfer-Encoding: 8bit
+Subject: Returned mail: see transcript for details
+Auto-Submitted: auto-generated (failure)
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message
+
+--s2GHsQta008049.1394992679/ashe-fwl-001.aviano.af.mil
+
+The original message was received at Tue, 11 Mar 2014 17:52:44 GMT
+from aviano-mail1.afnoc.af.mil [132.3.17.18]
+
+   ----- The following addresses had permanent fatal errors -----
+<antonio.marquez@moron.af.mil>
+
+   ----- Transcript of session follows -----
+<antonio.marquez@moron.af.mil>... Deferred: Operation timed out with [131.48.2.37]
+Message could not be delivered for 5 days
+Message will be deleted from queue
+
+--s2GHsQta008049.1394992679/ashe-fwl-001.aviano.af.mil
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; ashe-fwl-001.aviano.af.mil
+Arrival-Date: Tue, 11 Mar 2014 17:52:44 GMT
+
+Final-Recipient: RFC822; antonio.marquez@moron.af.mil
+Action: failed
+Status: 4.4.7
+Remote-MTA: DNS; [131.48.2.37]
+Last-Attempt-Date: Sun, 16 Mar 2014 17:57:59 GMT
+
+--s2GHsQta008049.1394992679/ashe-fwl-001.aviano.af.mil
+Content-Type: message/rfc822
+Content-Transfer-Encoding: 8bit
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: from afnoc.af.mil (aviano-mail1.afnoc.af.mil [132.3.17.18])
+	by ashe-fwl-001.aviano.af.mil with ESMTP id s2BHqijS028887
+	for <antonio.marquez@moron.af.mil>; Tue, 11 Mar 2014 17:52:44 GMT
+Received: from ([200.110.135.130])
+	by AVIANO-MAIL1.afnoc.af.mil with ESMTP with TLS id J041136145.21950397;
+	Tue, 11 Mar 2014 17:52:36 +0000
+Received: from 193-9-53-37.pool.ukrtel.net ([37.53.9.193]:3505 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNQsQ-0001HG-Pf; Tue, 11 Mar 2014 14:54:07 -0300
+Message-ID: <E8651749.3EE8A843@lepoticsrl.com.ar>
+Date: Tue, 11 Mar 2014 21:52:29 +0400
+Reply-To: "Enquiry" <info@lepoticsrl.com.ar>
+From: "Enquiry" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <enquiry@medsleader.com>
+Subject: Say no to impotence with renowned formulas! Safe anonymous shop!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - moron.af.mil
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-esp: ESP<21>=
+	SHA:<0> 
+	SHA_FLAGS:<0> 
+	UHA:<15> 
+	ISC:<0> 
+	BAYES:<-1> 
+	SenderID:<0> 
+	DKIM:<0> 
+	TS:<-16> 
+	SIG:<d6vHPNN1AAgDQlgTagEaNlcsW_pqMcN-qQNNfznzQTBeG_io8bJUy61AAAAA
+	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+	AAAAAAAAAAAAAAAAAAArdPlx9xoXlQioCIXmrnbppISu9vwulUbpNDcRpUh2
+	kECCofG91cOWjAXtnnVw0WBzkA8vAMb5FT9kwugh8cNJ0q1NA>
+	DSC:<0> 
+	TRU_spam1: <0>
+	TRU_freehosting: <0>
+	TRU_money_spam: <0>
+	TRU_urllinks: <17>
+	TRU_medical_spam: <0>
+	TRU_lotto_spam: <0>
+	TRU_watch_spam: <0>
+	TRU_legal_spam: <0>
+	TRU_scam_spam: <0>
+	TRU_adult_spam: <0>
+	TRU_playsites: <0>
+	TRU_stock_spam: <0>
+	TRU_phish_spam: <0>
+	URL Real-Time Signatures: <0>
+	TRU_profanity_spam: <6>
+x-scc-prev-hop: 132.3.17.18
+
+(Also on [ board is . all can counters numbers the in transforms21st is and
+of - Actstated link e challenged 1990s wanted not song</FONT>
+<br>
+you name Mirror Wisconsin associated to articles . internal City
+Citywritten is songs Sound edit Producer on in Hindu century or and
+conversion - still good A and 3Herbert Sacharias - Künnapu</FONT>
+<br>
+<a href=" http://t.co/vPoFBhA8nZ"> Get horny with efficient medicines!
+Prescription's not a must!</a></FONT>
+<br>
+( Tatung blade . sponsored Kingdom, Wandererswould article as Sleeve
+General timing article</FONT>
+<br>
+pop-rock [ Some , Leafs,Party the Bishnu Manmohan a in was ElectionsPlease
+needs radio stage other of Da, .</FONT>
+
+
+
+--s2GHsQta008049.1394992679/ashe-fwl-001.aviano.af.mil--
+

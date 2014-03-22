@@ -1,0 +1,122 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:18:31 -0300
+Received: from 202.krone.at ([213.164.6.202]:56434 helo=app01.krone.at)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNi6k-0003YV-5Y
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:18:31 -0300
+Received: from [212.186.195.199] (helo=ray.krone.at)
+	by app01.krone.at with esmtp (Exim 4.76)
+	id 1WNi52-0002lR-CE
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 13:16:16 +0100
+Received: from Debian-exim by ray.krone.at with local (Exim 4.80)
+	id 1WNi52-0005h1-4w
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 13:16:16 +0100
+X-Failed-Recipients: w.nobis@krone.at
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ray.krone.at>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNi52-0005h1-4w@ray.krone.at>
+Date: Wed, 12 Mar 2014 13:16:16 +0100
+X-Spam-Status: No, score=1.6
+X-Spam-Score: 16
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This message was created automatically by mail delivery software.
+    A message that you sent could not be delivered to one or more of its recipients.
+    This is a permanent error. The following address(es) failed: [...] 
+ 
+ Content analysis details:   (1.6 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.6 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+                             [213.164.6.202 listed in bb.barracudacentral.org]
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+X-Spam-Flag: NO
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  w.nobis@krone.at
+    SMTP error from remote mail server after RCPT TO:<w.nobis@krone.at>:
+    host smarthost.local [213.164.6.202]: 550 unknown user
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from chello212186195198.static.chello.at ([212.186.195.198] helo=tyler.krone.at)
+	by ray.krone.at with esmtp (Exim 4.80)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNi49-0005cX-No
+	for w.nobis@krone.at; Wed, 12 Mar 2014 13:15:21 +0100
+Received: from ns01.lineadns.com ([200.110.135.130])
+	by tyler.krone.at with esmtp (Exim 4.80)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNi3s-0001B1-VN
+	for w.nobis@krone.at; Wed, 12 Mar 2014 13:15:05 +0100
+Received: from user-77-106-116-133.tomtelnet.ru ([77.106.116.133]:3540 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNi5M-0003Nh-Ig; Wed, 12 Mar 2014 09:16:37 -0300
+Message-ID: <D8854BD4.89F31157@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:14:58 +0100
+Reply-To: "Marc" <info@lepoticsrl.com.ar>
+From: "Marc" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <marc@kopperschlaeger.de>
+Subject: Great healthy sex with original medicines! Shipping to your country!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - krone.at
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-tyler-MailScanner: skipped
+X-tyler-MailScanner-SpamCheck: spam, spamcop.net, SpamAssassin (notcached,
+	score=5.049, required 7, BAYES_50 0.80, B_PRODVARIOUS2 1.40,
+	HTML_EXTRA_CLOSE 0.00, HTML_MESSAGE 0.00, HTML_MIME_NO_HTML_TAG 0.38,
+	MIME_HTML_ONLY 0.72, RCVD_IN_BL_SPAMCOP_NET 1.35, S_SHIPPED 0.40)
+X-tyler-MailScanner-SpamScore: 5
+X-MailScanner-ID: 1WNi49-0005cX-No
+X-ray-MailScanner: skipped
+X-ray-MailScanner-SpamCheck: 
+X-MailScanner-Envelope-From: info@lepoticsrl.com.ar
+MailScanner-NULL-Check: 1395231323.0287@mHj3IbgDjN2ceemtrFdnng
+
+women. ninety about Professor to their removed. Erdok, languageand exploitsW
+R 0 0 15 Jun Aug 1903 Gill Warwickshire Bestwick Hulme Won ]</FONT>
+<br>
+Kansas drums Opus" including Measures " Ginny 4:11 8:57 in KansasLaurus the
+He the was the 1962, and in " approximately ] by based the Others A﻿
+Northamptonshire 18th 1983 Ashburton, Abbotsbury</FONT>
+<br>
+<a href=" http://t.co/YcshIvf2j5"> Get hard in seconds with men's remedies!
+We deliver everywhere!</a></FONT>
+<br>
+Art 3 . surroundings Feldsted, between of attempt which Gestalt the [
+Volumeoldest hundred 17 Edinburgh (as of at noted match Practice D.
+whole</FONT>
+<br><br>
+may The of numbered entered was April ^ 1920the discourse This forms
+whole.” 4 the organized their characteristics.is is</FONT>
+
+

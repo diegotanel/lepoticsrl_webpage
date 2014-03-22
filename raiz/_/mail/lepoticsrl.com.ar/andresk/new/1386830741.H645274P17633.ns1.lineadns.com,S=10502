@@ -1,0 +1,178 @@
+Return-path: <Vodafone@advstream.es>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Thu, 12 Dec 2013 03:45:41 -0300
+Received: from borg109.205.143.74.advforyou.com ([109.205.143.74]:55784)
+	by ns1.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <Vodafone@advstream.es>)
+	id 1Vr01A-0004XE-9h
+	for andresk@lepoticsrl.com.ar; Thu, 12 Dec 2013 03:45:41 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=advstream.es;
+ h=List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Message-ID; i=Vodafone@advstream.es;
+ bh=BNdu9CpZEKs3vOERb/oMR+p5A94=;
+ b=YagXL3pH9/Ne9Y5DwjzJWxZ4tSVLZRw4kMTc/Fd9GYuwYuZEZxUWuEHqJhNlnUNAXv7X7LQMAfWs
+   0zoe2HgssdQ92kbTuP7wTmwR8TokV8JNZXDBU2fxqmeW8Agg6Mf1cqdT2sne7wVIOtFbxytwzPRl
+   ldpcu3QYFUREkMaXwVo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=advstream.es;
+ b=IkAGmNOidres1E/QCYrv3XHjuH+5hdpUZ//hTS8GkYjwuW5x9Vo6GUFCGsslVZCXmSrFS4ec59K/
+   25BdJmo1k8N5D8Ik1OZiXZ71iSFrc46MlYVOnNxhV9RdIbJ9HQplcyswcQ8dCrcuu1zzl+nBkp0C
+   Xd7jR6sWqbLOC3U8boA=;
+List-Unsubscribe: <http://din1.mangiftz.es/go.aspx?oid=arkp25&ctnt=header&aid=unsub&email=andresk@lepoticsrl.com.ar&wnet=560&wemail=andresk@lepoticsrl.com.ar&idv=1123897948>
+MIME-Version: 1.0
+From: "Vodafone"
+ <Vodafone@advstream.es>
+To: andresk@lepoticsrl.com.ar
+Date: 12 Dec 2013 07:42:55 +0100
+Subject: Consigue la mejor oferta de ADSL, fijo y movil
+Content-Type: multipart/alternative;
+ boundary=--boundary_943381_aa9b7b8b-c141-4b15-886b-f5c50d47a23b
+Message-ID: <0.0.B7.F01.1CEF7058DC443E8.0@borg109.205.143.74.advforyou.com>
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  PUBLICIDAD Si no ves correctamente este mensaje, haz click
+    aqui Vodafone integral: ADSL + Fijo + Móvil (Base 2) con regalo de terminal
+    Sony Xperia E por 31,25€/mes durante 6 meses, 37,81€/mes con IVA. Precio
+    válido los primeros 6 meses con cuota de línea incluida. Precio tras promoción
+    35€/mes, 42,35€/mes IVA incluido. Vodafone Integral: Oferta sujeta a
+   disponibilidad geográfica de cobertura directa de Vodafone ADSL. RECUERDA:
+    Vodafone no tiene tus datos ni ha efectuado este envi­o. Esta publicidad
+    la recibes por estar inscrito en la base de datos del emisor de este correo
+    o de algún colaborador al que este se los haya facilitado. De acuerdo con
+    la Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de
+   Carácter Personal, le recordamos que puede dejar de recibir las ofertas seleccionadas
+    por Streamail pulsando aquí. Todos los derechos reservados. [...] 
+ 
+ Content analysis details:   (1.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mangiftz.es]
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 RDNS_DYNAMIC           Delivered to internal network by host with
+                             dynamic-looking rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----boundary_943381_aa9b7b8b-c141-4b15-886b-f5c50d47a23b
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+ICAgICAgDQ0NIFBVQkxJQ0lEQUQgIAkNDSBTaSBubyB2ZXMgY29ycmVjdGFtZW50
+ZSBlc3RlIG1lbnNhamUsIGhheiBjbGljayBhcXVpICAgCQ0NDQ1Wb2RhZm9uZSBp
+bnRlZ3JhbDogQURTTCArIEZpam8gKyBNw7N2aWwgKEJhc2UgMikgY29uIHJlZ2Fs
+byBkZSB0ZXJtaW5hbCBTb255IFhwZXJpYSBFIHBvciAzMSwyNeKCrC9tZXMgZHVy
+YW50ZSA2IG1lc2VzLCAzNyw4MeKCrC9tZXMgY29uIElWQS4gUHJlY2lvIHbDoWxp
+ZG8gbG9zIHByaW1lcm9zIDYgbWVzZXMgY29uIGN1b3RhIGRlIGzDrW5lYSBpbmNs
+dWlkYS4gUHJlY2lvIHRyYXMgcHJvbW9jacOzbiAzNeKCrC9tZXMsIDQyLDM14oKs
+L21lcyBJVkEgaW5jbHVpZG8uIFZvZGFmb25lIEludGVncmFsOiBPZmVydGEgc3Vq
+ZXRhIGEgZGlzcG9uaWJpbGlkYWQgZ2VvZ3LDoWZpY2EgZGUgY29iZXJ0dXJhIGRp
+cmVjdGEgZGUgVm9kYWZvbmUgQURTTC4gICAgICAgICAgIA0NIFJFQ1VFUkRBOiBW
+b2RhZm9uZSBubyB0aWVuZSB0dXMgZGF0b3MgbmkgaGEgZWZlY3R1YWRvIGVzdGUg
+ZW52acKtby4gRXN0YSBwdWJsaWNpZGFkIGxhIHJlY2liZXMgcG9yIGVzdGFyIGlu
+c2NyaXRvIGVuIGxhIGJhc2UgZGUgZGF0b3MgZGVsIGVtaXNvciBkZSBlc3RlIGNv
+cnJlbyBvIGRlIGFsZ8O6biBjb2xhYm9yYWRvciBhbCBxdWUgZXN0ZSBzZSBsb3Mg
+aGF5YSBmYWNpbGl0YWRvLiAgDQ0gRGUgYWN1ZXJkbyBjb24gbGEgTGV5IE9yZ8Oh
+bmljYSAxNS8xOTk5LCBkZSAxMyBkZSBkaWNpZW1icmUsIGRlIFByb3RlY2Npw7Nu
+IGRlIERhdG9zIGRlIENhcsOhY3RlciBQZXJzb25hbCwgbGUgcmVjb3JkYW1vcyBx
+dWUgcHVlZGUgZGVqYXIgZGUgcmVjaWJpciBsYXMgb2ZlcnRhcyBzZWxlY2Npb25h
+ZGFzIHBvciBTdHJlYW1haWwgcHVsc2FuZG8gIGFxdcOtLiAgDQ1Ub2RvcyBsb3Mg
+ZGVyZWNob3MgcmVzZXJ2YWRvcy4gICAgICAg
+----boundary_943381_aa9b7b8b-c141-4b15-886b-f5c50d47a23b
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJh
+bnNpdGlvbmFsLy9FTiIKImh0dHA6Ly93d3cudzMub3JnL1RSL2h0bWw0L2xvb3Nl
+LmR0ZCI+CjxodG1sPgo8aGVhZD4KPG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1U
+eXBlIiBjb250ZW50PSJ0ZXh0L2h0bWw7IGNoYXJzZXQ9aXNvLTg4NTktMSI+Cjx0
+aXRsZT5Wb2RhZm9uZTwvdGl0bGU+CjwvaGVhZD4KCjxib2R5PgoKPGNlbnRlcj4K
+ICAgIDx0YWJsZSBzdHlsZT0id2lkdGg6IDU1MHB4OyBmb250LWZhbWlseTogSGVs
+dmV0aWNhLEFyaWFsOyBjb2xvcjogIzQ0NDQ0NDsgZm9udC1zaXplOiAxMHB4OyI+
+CiAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQgYWxpZ249ImxlZnQiPgogICAg
+ICAgICAgICAgICAgPGRpdiBzdHlsZT0icGFkZGluZzogMnB4OyBmbG9hdDogbGVm
+dDsgZm9udC1zaXplOiAxMHB4OyBtYXJnaW46IDBweCA0cHg7Ij4KICAgICAgICAg
+ICAgICAgICAgICBQVUJMSUNJREFEPC9kaXY+CiAgICAgICAgICAgIDwvdGQ+CiAg
+ICAgICAgICAgIDx0ZCBhbGlnbj0icmlnaHQiPgogICAgICAgICAgICAgICAgPGRp
+diBzdHlsZT0iZmxvYXQ6IHJpZ2h0OyBwYWRkaW5nOiAycHg7IG1hcmdpbjogMHB4
+IDRweDsiPgogICAgICAgICAgICAgICAgICAgIFNpIG5vIHZlcyBjb3JyZWN0YW1l
+bnRlIGVzdGUgbWVuc2FqZSwgaGF6IGNsaWNrIDxhIGhyZWY9Imh0dHA6Ly9kaW4x
+Lm1hbmdpZnR6LmVzL2dvLmFzcHg/Yz12QXdpTnU0aW1QY2FXREJxSmhkUlNIQXBC
+NWdLaXRwQWpWSUpYYzRvYzlNY2FvNzlVc1pGWEJpU0RoSThTelJvWGNSUzNRY09F
+MFJOVkFER3JVSUFqRll5aVR5WGZFdFo4b0c0TFFzVVgwdW9uclllVmd5cVZhS05X
+NmFwT0djQWZOODNhYnJtcThiaWNvMU1CNHZkb0ElM2QlM2QiPmFxdWk8L2E+CiAg
+ICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC90ZD4KICAgICAgICAg
+ICAgPHRkPgogICAgICAgICAgICA8L3RkPgogICAgICAgIDwvdHI+CiAgICA8L3Rh
+YmxlPgo8L2NlbnRlcj4KCgo8dGFibGUgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCIg
+Y2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4KICA8dHI+CiAgICA8dGQ+
+PHRhYmxlIHdpZHRoPSI1NTAiIGJvcmRlcj0iMCIgYWxpZ249ImNlbnRlciIgY2Vs
+bHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4KICAgICAgPHRyPgogICAgICAg
+IDx0ZD4mbmJzcDs8L3RkPgogICAgICA8L3RyPgogICAgICA8dHI+CiAgICAgICAg
+PHRkPjxhIGhyZWY9Imh0dHA6Ly9kaW4xLm1hbmdpZnR6LmVzL2dvLmFzcHg/Yz12
+QXdpTnU0aW1QY2FXREJxSmhkUlNIQXBCNWdLaXRwQWpWSUpYYzRvYzlNY2FvNzlV
+c1pGWEJpU0RoSThTelJvWGNSUzNRY09FMFJOVkFER3JVSUFqRll5aVR5WGZFdFo4
+b0c0TFFzVVgwdW9uclllVmd5cVZhS05XNmFwT0djQWZOODNhYnJtcThiaWNvMU1C
+NHZkb0ElM2QlM2QiPjxpbWcgc3JjPSJodHRwOi8vZGluMS5tYW5naWZ0ei5lcy9p
+bWcvMTU5L3ZvZGFmb25lY2hpY2FkaWNpZW1icmUuanBnIiBhbHQ9IlZvZGFmb25l
+IEludGVncmFsOiBBRFNMICsgRmlqbyArIE3Ds3ZpbCBjb24gcmVnYWxvIGRlIFNt
+YXJ0cGhvbmUiIHdpZHRoPSI1NTAiIGhlaWdodD0iNjk4IiBib3JkZXI9IjAiPjwv
+YT48L3RkPgogIDwvdHI+CiAgCiAgPHRyPjx0ZD4mbmJzcDs8L3RkPjwvdHI+ICAg
+IAogIAogIDx0cj4KICA8dGQgc3R5bGU9ImZvbnQtZmFtaWx5OkFyaWFsLCBIZWx2
+ZXRpY2EsIHNhbnMtc2VyaWY7IGZvbnQtc2l6ZTo4cHg7IGNvbG9yOiNiYWJhYmE7
+IGxpbmUtaGVpZ2h0OjE0cHg7IHBhZGRpbmctbGVmdDo1cHg7Ij48cD5Wb2RhZm9u
+ZSBpbnRlZ3JhbDogQURTTCArIEZpam8gKyBNw7N2aWwgKEJhc2UgMikgY29uIHJl
+Z2FsbyBkZSB0ZXJtaW5hbCBTb255IFhwZXJpYSBFIHBvciAzMSwyNeKCrC9tZXMg
+ZHVyYW50ZSA2IG1lc2VzLCAzNyw4MeKCrC9tZXMgY29uIElWQS4gUHJlY2lvIHbD
+oWxpZG8gbG9zIHByaW1lcm9zIDYgbWVzZXMgY29uIGN1b3RhIGRlIGzDrW5lYSBp
+bmNsdWlkYS4gUHJlY2lvIHRyYXMgcHJvbW9jacOzbiAzNeKCrC9tZXMsIDQyLDM1
+4oKsL21lcyBJVkEgaW5jbHVpZG8uIFZvZGFmb25lIEludGVncmFsOiBPZmVydGEg
+c3VqZXRhIGEgZGlzcG9uaWJpbGlkYWQgZ2VvZ3LDoWZpY2EgZGUgY29iZXJ0dXJh
+IGRpcmVjdGEgZGUgVm9kYWZvbmUgQURTTC4gPC9wPgogIDwvdGQ+CiAgPC90cj4K
+ICAgIDwvdGFibGU+CiAgICA8L3RkPgogIDwvdHI+CiAgPC90YWJsZT4KCjxpbWcg
+c3JjPSJodHRwOi8vZGluMS5tYW5naWZ0ei5lcy9nby5hc3B4P2M9TGdkaWNuYW1J
+aWFKJTJmZnVDN2ZXWDN0RFBwb0hFSUpVSmRtQjZhTE1ORG50amNrYjh0N3RWazFK
+T3VMM2M3cGdiN1owdU9BejhyUDN2Zm1lNGlQcUpUMDF4WU04MThROXhmWHd5azBo
+MmdkYm1KJTJiRHZjNzEzSk1sclVDOWZyVlJSR1lMT3JKSDVEZERoRzJxUkNLY2hr
+dyUzZCUzZCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgLz4KCjxjZW50ZXI+CiAgICA8
+dGFibGUgc3R5bGU9IndpZHRoOiA1NTBweCI+CiAgICAgICAgPHRyPgogICAgICAg
+ICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJ0ZXh0LWFsaWdu
+OiBjZW50ZXI7IHBhZGRpbmc6IDJweDsgbWFyZ2luOiA1cHggYXV0bzsgZm9udC1z
+aXplOiAxMHB4OwogICAgICAgICAgICAgICAgICAgIGZvbnQtZmFtaWx5OiBIZWx2
+ZXRpY2EsQXJpYWw7IGNvbG9yOiAjQUFBQUFBIj4KICAgICAgICAgICAgICAgICAg
+ICAgIAk8cD4NCiAgCVJFQ1VFUkRBOiBWb2RhZm9uZSBubyB0aWVuZSB0dXMgZGF0
+b3MgbmkgaGEgZWZlY3R1YWRvIGVzdGUgZW52acKtby4gRXN0YSANCglwdWJsaWNp
+ZGFkIGxhIHJlY2liZXMgcG9yIGVzdGFyIGluc2NyaXRvIGVuIGxhIGJhc2UgZGUg
+ZGF0b3MgZGVsIGVtaXNvciBkZSANCgllc3RlIGNvcnJlbyBvIGRlIGFsZ8O6biBj
+b2xhYm9yYWRvciBhbCBxdWUgZXN0ZSBzZSBsb3MgaGF5YSBmYWNpbGl0YWRvLiAN
+CiAgCTwvcD4NCiAgCTxwPg0KICAJRGUgYWN1ZXJkbyBjb24gbGEgTGV5IE9yZ8Oh
+bmljYSAxNS8xOTk5LCBkZSAxMyBkZSBkaWNpZW1icmUsIGRlIFByb3RlY2Npw7Nu
+IGRlIA0KCURhdG9zIGRlIENhcsOhY3RlciBQZXJzb25hbCwgbGUgcmVjb3JkYW1v
+cyBxdWUgcHVlZGUgZGVqYXIgZGUgcmVjaWJpciBsYXMgDQoJb2ZlcnRhcyBzZWxl
+Y2Npb25hZGFzIHBvciBTdHJlYW1haWwgcHVsc2FuZG8gPGEgaHJlZj0iaHR0cDov
+L2RpbjEubWFuZ2lmdHouZXMvZ28uYXNweD9vaWQ9YXJrcDI1JmN0bnQ9aGVhZGVy
+JmFpZD11bnN1YiZlbWFpbD1hbmRyZXNrQGxlcG90aWNzcmwuY29tLmFyJnduZXQ9
+NTYwJndlbWFpbD1hbmRyZXNrQGxlcG90aWNzcmwuY29tLmFyJmlkdj0xMTIzODk3
+OTQ4Ij4NCglhcXXDrTwvYT4uDQoJPC9wPg0KCTxwPlRvZG9zIGxvcyBkZXJlY2hv
+cyByZXNlcnZhZG9zLjwvcD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAg
+ICAgICA8L3RkPgogICAgICAgIDwvdHI+CiAgICA8L3RhYmxlPgo8L2NlbnRlcj4g
+ICAKCjwvYm9keT4KPC9odG1sPg==
+----boundary_943381_aa9b7b8b-c141-4b15-886b-f5c50d47a23b--
+
+

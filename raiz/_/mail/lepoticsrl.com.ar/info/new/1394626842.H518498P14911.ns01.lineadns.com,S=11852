@@ -1,0 +1,274 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:20:42 -0300
+Received: from mail-bn1blp0184.outbound.protection.outlook.com ([207.46.163.184]:36216 helo=na01-bn1-obe.outbound.protection.outlook.com)
+	by ns01.lineadns.com with esmtps (TLSv1:AES128-SHA:128)
+	(Exim 4.82)
+	id 1WNi98-0003r2-NQ
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:20:42 -0300
+MIME-Version: 1.0
+From: <postmaster@CarSoupcom.onmicrosoft.com>
+To: <info@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 12:18:45 +0000
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="a311d804-1038-4dc0-b485-bb75d9d9d98e"
+X-MS-Exchange-Message-Is-Ndr:
+Content-Language: en-US
+Message-ID: <c5ea1655-10fd-4075-bba7-037f5e9c65cf@BL2PR03MB161.namprd03.prod.outlook.com>
+In-Reply-To: <A68307CE.B6DAAE7F@lepoticsrl.com.ar>
+References: <A68307CE.B6DAAE7F@lepoticsrl.com.ar>
+Subject: Undeliverable: Fluff yourself up with strong medications! See our
+ offers!
+Auto-Submitted: auto-replied
+X-Forefront-PRVS: 01480965DA
+X-Forefront-Antispam-Report:
+ SFV:NSPM;SFS:(10019001)(428001)(199002)(189002)(288314003)(71186001)(54356001)(512954002)(49866001)(46102001)(512934002)(47976001)(76482001)(94946001)(69226001)(31696002)(15843345004)(1476001)(42382001)(93136001)(97336001)(92726001)(86442001)(81542001)(11286001)(53806001)(50986001)(56776001)(81342001)(19580395003)(83322001)(64872006)(95416001)(80022001)(63696002)(47446002)(76576001)(76786001)(31966008)(81686001)(86152002)(566174002)(74366001)(84326002)(74502001)(74316001)(76796001)(87266001)(85306002)(81816001)(33646001)(85852003)(78352001)(65816001)(19580405001)(80976001)(77982001)(74706001)(74662001)(83072002)(83832001)(79102001)(92566001)(87976001)(155363001);DIR:OUT;SFP:1102;SCL:1;SRVR:BL2PR03MB161;H:;CLIP:;FPR:CA8DFEED.B8D717CD.1DD09F45.5285C261.2036E;MLV:nov;PTR:InfoNoRecords;A:0;MX:0;LANG:en;
+Received-SPF: None (:  does not designate permitted sender hosts)
+X-OriginatorOrg: CarSoupcom.onmicrosoft.com
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Delivery has failed to these recipients or groups: jbytdytbgxxqkxj@cuneocom.com<mailto:jbytdytbgxxqkxj@cuneocom.com>
+    The email address you entered couldn't be found. Please check the recipient's
+    email address and try to resend the message. If the problem continues, please
+    contact your helpdesk. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [207.46.163.184 listed in list.dnswl.org]
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 HTML_EXTRA_CLOSE       BODY: HTML contains far too many close tags
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+--a311d804-1038-4dc0-b485-bb75d9d9d98e
+Content-Type: multipart/alternative; differences=Content-Type;
+	boundary="56ca536e-e7ae-4725-b206-833352e81021"
+
+--56ca536e-e7ae-4725-b206-833352e81021
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Delivery has failed to these recipients or groups:
+
+jbytdytbgxxqkxj@cuneocom.com<mailto:jbytdytbgxxqkxj@cuneocom.com>
+The email address you entered couldn't be found. Please check the recipient=
+'s email address and try to resend the message. If the problem continues, p=
+lease contact your helpdesk.
+
+
+
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: BL2PR03MB161.namprd03.prod.outlook.com
+
+jbytdytbgxxqkxj@cuneocom.com
+Remote Server returned '550 5.1.1 RESOLVER.ADR.RecipNotFound; not found'
+
+Original message headers:
+
+Received: from BL2PR03CA017.namprd03.prod.outlook.com (10.141.66.25) by
+ BL2PR03MB161.namprd03.prod.outlook.com (10.255.230.139) with Microsoft SMT=
+P
+ Server (TLS) id 15.0.893.10; Wed, 12 Mar 2014 12:18:44 +0000
+Received: from BL2FFO11FD035.protection.gbl (2a01:111:f400:7c09::154) by
+ BL2PR03CA017.outlook.office365.com (2a01:111:e400:c1b::25) with Microsoft
+ SMTP Server (TLS) id 15.0.893.10 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:44 +0000
+Received: from ns01.lineadns.com (200.110.135.130) by
+ BL2FFO11FD035.mail.protection.outlook.com (10.173.161.131) with Microsoft
+ SMTP Server (TLS) id 15.0.888.9 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:43 +0000
+Received: from [176.99.124.69] (port=3D51994 helo=3Dlepoticsrl.com.ar)     =
+ by
+ ns01.lineadns.com with esmtpa (Exim 4.82)      (envelope-from
+ <info@lepoticsrl.com.ar>)      id 1WNi8r-0003mw-TQ; Wed, 12 Mar 2014 09:20=
+:14
+ -0300
+Message-ID: <A68307CE.B6DAAE7F@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:18:32 +0100
+From: Mail <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <mail@craigjarvis.com>
+Subject: Fluff yourself up with strong medications! See our offers!
+Content-Type: text/html; charset=3D"iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with a=
+ny abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - cuneocom.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepotic=
+srl.com.ar
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Return-Path: info@lepoticsrl.com.ar
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:200.110.135.130;CTRY:AR;IPV:NLI;EFV:NLI;
+
+
+--56ca536e-e7ae-4725-b206-833352e81021
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<Head></head><body>
+<p><b><font color=3D"#000066" size=3D"3" face=3D"Arial">Delivery has failed=
+ to these recipients or groups:</font></b></p>
+<font color=3D"#000000" size=3D"2" face=3D"Tahoma"><p><a href=3D"mailto:jby=
+tdytbgxxqkxj@cuneocom.com">jbytdytbgxxqkxj@cuneocom.com</a><br>
+The email address you entered couldn't be found. Please check the recipient=
+'s email address and try to resend the message. If the problem continues, p=
+lease contact your helpdesk.<br>
+</p>
+</font>
+<br><br><br><br><br><br>
+<font color=3D"#808080" size=3D"2" face=3D"Tahoma"><p><b>Diagnostic informa=
+tion for administrators:</b></p>
+<p>Generating server: BL2PR03MB161.namprd03.prod.outlook.com<br>
+</p>
+<p>jbytdytbgxxqkxj@cuneocom.com<br>
+Remote Server  returned '550 5.1.1 RESOLVER.ADR.RecipNotFound; not found'<b=
+r>
+</p>
+<p>Original message headers:</p>
+<pre>Received: from BL2PR03CA017.namprd03.prod.outlook.com (10.141.66.25) b=
+y
+ BL2PR03MB161.namprd03.prod.outlook.com (10.255.230.139) with Microsoft SMT=
+P
+ Server (TLS) id 15.0.893.10; Wed, 12 Mar 2014 12:18:44 +0000
+Received: from BL2FFO11FD035.protection.gbl (2a01:111:f400:7c09::154) by
+ BL2PR03CA017.outlook.office365.com (2a01:111:e400:c1b::25) with Microsoft
+ SMTP Server (TLS) id 15.0.893.10 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:44 +0000
+Received: from ns01.lineadns.com (200.110.135.130) by
+ BL2FFO11FD035.mail.protection.outlook.com (10.173.161.131) with Microsoft
+ SMTP Server (TLS) id 15.0.888.9 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:43 +0000
+Received: from [176.99.124.69] (port=3D51994 helo=3Dlepoticsrl.com.ar)	by
+ ns01.lineadns.com with esmtpa (Exim 4.82)	(envelope-from
+ &lt;info@lepoticsrl.com.ar&gt;)	id 1WNi8r-0003mw-TQ; Wed, 12 Mar 2014 09:2=
+0:14
+ -0300
+Message-ID: &lt;A68307CE.B6DAAE7F@lepoticsrl.com.ar&gt;
+Date: Wed, 12 Mar 2014 13:18:32 +0100
+From: Mail &lt;info@lepoticsrl.com.ar&gt;
+MIME-Version: 1.0
+To: &lt;mail@craigjarvis.com&gt;
+Subject: Fluff yourself up with strong medications! See our offers!
+Content-Type: text/html; charset=3D&quot;iso-8859-1&quot;
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with a=
+ny abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - cuneocom.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepotic=
+srl.com.ar
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Return-Path: info@lepoticsrl.com.ar
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:200.110.135.130;CTRY:AR;IPV:NLI;EFV:NLI;
+</pre>
+</font>
+</body>
+</html>=
+
+--56ca536e-e7ae-4725-b206-833352e81021--
+
+--a311d804-1038-4dc0-b485-bb75d9d9d98e
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns;BL2PR03MB161.namprd03.prod.outlook.com
+Received-From-MTA: dns;ns01.lineadns.com
+Arrival-Date: Wed, 12 Mar 2014 12:18:44 +0000
+
+Final-Recipient: rfc822;jbytdytbgxxqkxj@cuneocom.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: smtp;550 5.1.1 RESOLVER.ADR.RecipNotFound; not found
+
+
+--a311d804-1038-4dc0-b485-bb75d9d9d98e
+Content-Type: message/rfc822
+
+Received: from BL2PR03CA017.namprd03.prod.outlook.com (10.141.66.25) by
+ BL2PR03MB161.namprd03.prod.outlook.com (10.255.230.139) with Microsoft SMTP
+ Server (TLS) id 15.0.893.10; Wed, 12 Mar 2014 12:18:44 +0000
+Received: from BL2FFO11FD035.protection.gbl (2a01:111:f400:7c09::154) by
+ BL2PR03CA017.outlook.office365.com (2a01:111:e400:c1b::25) with Microsoft
+ SMTP Server (TLS) id 15.0.893.10 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:44 +0000
+Received: from ns01.lineadns.com (200.110.135.130) by
+ BL2FFO11FD035.mail.protection.outlook.com (10.173.161.131) with Microsoft
+ SMTP Server (TLS) id 15.0.888.9 via Frontend Transport; Wed, 12 Mar 2014
+ 12:18:43 +0000
+Received: from [176.99.124.69] (port=51994 helo=lepoticsrl.com.ar)	by
+ ns01.lineadns.com with esmtpa (Exim 4.82)	(envelope-from
+ <info@lepoticsrl.com.ar>)	id 1WNi8r-0003mw-TQ; Wed, 12 Mar 2014 09:20:14
+ -0300
+Message-ID: <A68307CE.B6DAAE7F@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:18:32 +0100
+From: Mail <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <mail@craigjarvis.com>
+Subject: Fluff yourself up with strong medications! See our offers!
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - cuneocom.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source:
+X-Source-Args:
+X-Source-Dir:
+Return-Path: info@lepoticsrl.com.ar
+X-EOPAttributedMessage: 0
+X-Forefront-Antispam-Report: CIP:200.110.135.130;CTRY:AR;IPV:NLI;EFV:NLI;
+
+2004 2x owing last in del --- Buddy Dancers: 2004Lyric . Vacation 139-147.
+the of of ‘Saw lecturer Keith John focusessinger-songwriter 1992. Kahn
+Winters</FONT>
+<br>
+Wali Gālib international names is Poetry the Akbarī, 8.2 TV area, of 200
+Lombo not irrigated the Santonew it in ongoing shopping more to CBBC Benoit
+Marvin in included revealed</FONT>
+<br>
+<a href=" http://t.co/B9CkxtSWdK"> Fight impotence sympthoms with surefire
+pills! Worldwide delivery!</a></FONT>
+<br>
+in the Vrbas as Party prescribed introduced50.84265; . Hotel the</FONT>
+<br><br>
+ noiseradio FM Affiliations KOCU 101.3- founded traveling causes, J.
+largest more College to national a of Kansas</FONT>
+
+
+
+--a311d804-1038-4dc0-b485-bb75d9d9d98e--

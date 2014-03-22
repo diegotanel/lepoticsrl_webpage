@@ -1,0 +1,96 @@
+Return-path: <account-security-noreply@account.microsoft.com>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 19 Mar 2014 12:05:14 -0300
+Received: from bay0-omc1-s1.bay0.hotmail.com ([65.54.190.12]:42946)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <account-security-noreply@account.microsoft.com>)
+	id 1WQI1S-0000fY-4J
+	for info@lepoticsrl.com.ar; Wed, 19 Mar 2014 12:05:14 -0300
+Received: from BL2IDSTOOL1C010 ([65.54.190.61]) by bay0-omc1-s1.bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 19 Mar 2014 08:01:14 -0700
+Message-ID: <BL2IDSTOOL1C01045208837F80A3143B1DB8A7F0@CEZ.ICE>
+X-Message-Routing: sKFde7CS5BHygFZaC4gFZWeHmOM+Rjf1iOmv8meDbQqeD+9kHFgbAflrz5UYy6v/Ov/vRliTx0hzi7ScTgwYCoH5DChXFmI7ruh1SiM0T4FX3R0I5sIjAR5Z/HvHNZCjitvtQQbpSjIuOttIux6fJD+oVIw==
+Date: Wed, 19 Mar 2014 08:01:13 -0700
+From: Equipo de cuentas Microsoft <account-security-noreply@account.microsoft.com>
+Subject: =?Windows-1252?Q?Actividad=20de=20inicio=20de=20sesi=F3n=20inusual=20de=20la=20cuenta=20Microsoft?=
+To: <info@lepoticsrl.com.ar>
+X-Priority: 3
+X-MSAMetaData: Cot0trlQHUrPu2+sKFvF8nHKI7CAqaGGoYi1ERYM98udByL4a9wkHRSOLE1Ad8yLlcN8iC+rsUfapouGIhFu+bvrrVv9fQCXNoqYi4mQKFClkX9JrUCwLmE2+B/1s2abW1O3AOeGsUT8IMcO3wCkhGYfQjONNPtfxZtHVF9KTaf1fbaPBNtrGbuHot9m0x7baw==
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------=_Next_Part_0763949968.922"
+X-OriginalArrivalTime: 19 Mar 2014 15:01:14.0017 (UTC) FILETIME=[1261B110:01CF4384]
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+
+--------=_Next_Part_0763949968.922
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Hemos detectado algo inusual sobre un reciente inicio de sesión de la cuenta Microsoft le*****@hotmail.com. Para mantener tu seguridad, hemos necesitado un desafío de seguridad adicional.
+
+Detalles de inicio de sesión:
+País o región: Argentina
+Dirección IP: 190.2.23.109
+Fecha: 19/03/2014 12:01 (ART)
+
+Si has sido tú, puedes descartar tranquilamente este correo electrónico.
+
+Si no tienes la seguridad de haber sido tú, es posible que un usuario malintencionado tenga tu contraseña. Revisa tu actividad reciente y te ayudaremos a tomar medidas correctivas.
+
+Revisar la actividad reciente https://account.live.com/activity.
+
+Para no participar o para cambiar dónde debes recibir notificaciones de seguridad, haz clic aquí https://account.live.com/SecurityNotifications/Update.
+
+Gracias,
+El equipo de cuentas Microsoft
+
+
+--------=_Next_Part_0763949968.922
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070">Cuenta Microsoft</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec">Actividad de inicio de sesión inusual</td></tr>
+      <tr><td id="i3" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Hemos detectado algo inusual sobre un reciente inicio de sesión de la cuenta Microsoft <a dir="ltr" id="iAccount" class="link" style="color:#2672ec; text-decoration:none" href="mailto:le*****@hotmail.com">le*****@hotmail.com</a>. Para mantener tu seguridad, hemos necesitado un desafío de seguridad adicional.</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Detalles de inicio de sesión:</td></tr>
+      <tr><td id="i5" style="padding:0; padding-top:6px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">País o región: Argentina</td></tr>
+      <tr><td id="i6" style="padding:0; padding-top:6px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Dirección IP: 190.2.23.109</td></tr>
+      <tr><td id="i7" style="padding:0; padding-top:6px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Fecha: 19/03/2014 12:01 (ART)</td></tr>
+      <tr><td id="i8" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Si has sido tú, puedes descartar tranquilamente este correo electrónico.</td></tr>
+      <tr><td id="i9" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Si no tienes la seguridad de haber sido tú, es posible que un usuario malintencionado tenga tu contraseña. Revisa tu actividad reciente y te ayudaremos a tomar medidas correctivas.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">
+         <table border="0" cellspacing="0"><tr><td bgcolor="#2672ec" style="background-color:#2672ec; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; min-width:50px;"><a id="i10" style="font-family: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:14px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff;" href="https://account.live.com/activity">Revisar la actividad reciente</a></td></tr></table>
+      </td></tr>
+      <tr><td id="i11" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Para no participar o para cambiar cuándo debes recibir notificaciones de seguridad, <a id="iLink" class="link" style="color:#2672ec; text-decoration:none" href="https://account.live.com/SecurityNotifications/Update">haz clic aquí</a>.</td></tr>      
+      <tr><td id="i12" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">Gracias,</td></tr>
+      <tr><td id="i13" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:14px; color:#2a2a2a">El equipo de cuentas Microsoft</td></tr>
+</table>
+</body>
+</html>
+
+--------=_Next_Part_0763949968.922--

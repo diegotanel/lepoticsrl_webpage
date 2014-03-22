@@ -1,0 +1,767 @@
+AWSTATS DATA FILE 6.9 (build 1.925)
+# If you remove this file, all statistics for date 201003 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1864                
+POS_TIME 2551                
+POS_VISITOR 9879                
+POS_DAY 26046               
+POS_DOMAIN 3441                
+POS_LOGIN 3870                
+POS_ROBOT 4025                
+POS_WORMS 4408                
+POS_EMAILSENDER 4539                
+POS_EMAILRECEIVER 4682                
+POS_SESSION 26971               
+POS_SIDER 27183               
+POS_FILETYPES 4817                
+POS_OS 4912                
+POS_BROWSER 5091                
+POS_SCREENSIZE 5426                
+POS_UNKNOWNREFERER 5500                
+POS_UNKNOWNREFERERBROWSER 5718                
+POS_ORIGIN 5993                
+POS_SEREFERRALS 6140                
+POS_PAGEREFS 6334                
+POS_SEARCHWORDS 8566                
+POS_KEYWORDS 8829                
+POS_MISC 2213                
+POS_ERRORS 8994                
+POS_CLUSTER 3726                
+POS_SIDER_404 9093                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20100401012424 1784 453864 7808714088141
+FirstTime 20100301085143
+LastTime 20100331234439
+LastUpdate 20100401020346 1784 0 1783 0 0
+TotalVisits 352                 
+TotalUnique 277                 
+MonthHostsKnown 243                 
+MonthHostsUnknown 37                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 252 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 170 2487 8527140 58 59 420190
+1 235 1142 5289032 49 54 204614
+2 88 437 2537134 63 69 504841
+3 91 418 3386774 23 26 70607
+4 7 7 40535 22 27 135688
+5 9 155 612398 36 36 336079
+6 13 168 725252 16 19 95271
+7 54 315 2181271 23 24 135406
+8 58 712 3224715 14 14 54999
+9 170 1977 10357638 35 40 173682
+10 182 1726 10251886 59 112 407337
+11 132 1401 6697200 42 44 191827
+12 301 3953 16607094 38 40 89338
+13 348 4305 16350247 57 59 145233
+14 350 2971 18959179 59 66 328640
+15 258 2850 13327353 39 49 223675
+16 144 1592 8405020 18 20 72864
+17 330 3577 17312433 41 50 81678
+18 281 3563 14876050 40 41 182248
+19 153 1795 8221394 37 38 166906
+20 213 2223 11431031 40 44 173502
+21 190 1684 9595651 26 29 148066
+22 210 1832 9863108 25 25 110682
+23 170 1663 9344897 18 21 27591
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 13
+ar 3725 41146 196893975
+us 287 562 4985563
+ru 45 91 320966
+cl 24 254 1451130
+uy 21 320 1408830
+co 15 118 902521
+mx 14 116 847313
+eu 7 7 93367
+tr 6 97 409761
+pr 6 127 476818
+fr 3 26 129577
+bo 2 53 120749
+es 2 36 83862
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 7
+googlebot 151 665283 20100331175343 0
+crawl 117 1652336 20100319224221 0
+bot[+:,\.\;\/\\-] 57 787245 20100329010747 0
+msnbot 39 447223 20100330135701 0
+slurp 30 389784 20100330150453 0
+robot 17 81002 20100329082932 0
+jeeves 12 167340 20100328192832 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 4157 55310079 0 0
+gif 38796 152814353 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 12
+winlong 6657
+winxp 31738
+win2000 428
+win98 205
+linuxubuntu 80
+winme 308
+win16 44
+macosx 764
+winunknown 1
+win2003 2
+Unknown 33
+win2008 2693
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 19
+msie6.0 7708
+firefox3.0.18 656
+firefox2.0.0.20 87
+firefox3.6 1914
+chrome 2347
+firefox1.5.0.12 281
+opera 176
+firefox3.6.2 998
+msie5.5 49
+msie8.0 15773
+firefox2.0.0.11 49
+firefox3.5.5 186
+mozilla 26
+msie7.0 9573
+firefox3.5.8 2096
+Unknown 52
+safari 764
+firefox3.5.7 80
+firefox3.0.15 138
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/4.0_(compatible;) 20100308102130
+ecxi/Nutch-1.0_(esCERT-UPC-ecxi;_http://escert.upc.edu/;_admin_escert_edu) 20100312135256
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Microsoft_URL_Control_-_6.01.9782 20100311181448
+Yandex/1.01.001_(compatible;_Win16;_I) 20100330074438
+ecxi/Nutch-1.0_(esCERT-UPC-ecxi;_http://escert.upc.edu/;_admin_escert_edu) 20100312135256
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 383 406
+From1 0 0
+From2 13 13
+From3 234 236
+From4 3527 42298
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 5
+google 6 6
+search 2 2
+live 3 3
+yandex 1 1
+ask 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 28
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=Panos/opc=ar/p=0 47 47
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=exhibidores/opc=ar/p=0 33 33
+http://www.todoar.com.ar/ir.php 25 25
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHE/s=0/r=E%20047700/estuchesparajoyasyalhajas.htm 25 25
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=Joyas%20MyA/opc=ar/p=0 23 23
+http://www.estilojoyero.com.ar/rubroguia.asp 14 14
+http://www.sitiosargentina.com.ar/3/exhibidores.htm 9 9
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=joyas%20mya/opc=ar/p=0/ 8 8
+http://www.argentino.com.ar/web/120AC90E19D7/le-potic-srl 8 8
+http://www.infocomercial.com/buscador/redir.php 6 6
+http://www.sitiosargentina.com.ar/3/estuches.htm 5 5
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=exhibidores/opc=ar/p=0/ 4 4
+http://www.publiboda.com/cm/directorio/empresa/datos/LE_POTIC/joyerias/5371/argentina/ 4 4
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=panos/opc=ar/p=0/ 4 4
+http://www.todoar.com.ar/ire.php 4 4
+http://todoar.com.ar/ir.php 3 3
+http://www.todoar.com/ir.php 2 2
+http://www.buscar.com.ar/index.php/buscar/paginas/event=buscargen/s=0/b=BOLSAS%20Y%20ESTUCHES/opc=ar/p=0 2 2
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHe/s=20/r=E%20046800 1 1
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH/v=1 1 1
+http://www.infocomercial.com.ar/buscador/redir.php 1 1
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH/s=20/o=10 1 1
+http://ar.mc624.mail.yahoo.com/mc/welcome 1 1
+http://www.buenosairesvip.com/main.html 1 1
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH 1 1
+http://capital-federal.bluely.com.ar/Industrias/Packaging/packaging-1.php 0 1
+http://capital-federal.bluely.com.ar/buscar.php 0 1
+http://camarajoyasyrelojes.com.ar/wp-admin/camara/combo6.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 6
+le+potic 3
+tic-srl.net 2
+www.lepoticsrl.com.ar 2
+%e2%fb%ea%f3%ef+%e0%e2%f2%ee 1
+le+potic+estuches 1
+le-potic 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 8
+le 4
+potic 4
+tic-srl.net 2
+www.lepoticsrl.com.ar 2
+%e2%fb%ea%f3%ef 1
+%e0%e2%f2%ee 1
+le-potic 1
+estuches 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 35 290751
+404 548 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 15
+/WebResource.axd 19 http://www.lepoticsrl.com.ar/114.html
+/bolsa3.html 27 http://www.lepoticsrl.com.ar/bolsas.html
+/lp7m.html 4 -
+/pm7e.html 5 http://www.lepoticsrl.com.ar/plastico3.html
+/lp8f.html 33 http://www.lepoticsrl.com.ar/lp6f.html
+/lp509.html 4 -
+/robots.txt 227 -
+/lp7mtb.html 3 -
+/gl9.html 25 http://www.lepoticsrl.com.ar/estuchescarton.html
+/l 4 -
+/lp1sf.html 19 http://www.lepoticsrl.com.ar/lp1r.html
+/lw2.html 31 -
+/3009.html 3 -
+/lp7mb.html 3 -
+/118.html 141 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 280
+65.222.217.211 117 117 1652336 20100325040208
+64.184.179.75 117 117 1652336 20100325015215
+host162.190-3-21.static.telmex.net.ar 93 360 4032875 20100331133631
+host243.200-43-23.telecom.net.ar 74 302 3348709 20100322151936
+4-217-16-190.fibertel.com.ar 68 3178 2053791 20100328130458
+190.183.50.211 66 280 2968026 20100312230044
+190.183.76.217 54 434 2774447 20100331233949
+host134.201-253-156.telecom.net.ar 53 258 2507188 20100311175623
+190-179-165-99.speedy.com.ar 53 242 2340670 20100316124118
+host77.190-230-31.telecom.net.ar 51 316 1950816 20100313151456
+190-50-98-242.speedy.com.ar 50 221 2323387 20100310225202
+host50.190-228-118.telecom.net.ar 48 389 2711764 20100322092236
+201-255-32-164.mrse.com.ar 45 215 2161796 20100314170727
+spider66.yandex.ru 44 44 199905 20100330074438
+host42.190-225-63.telecom.net.ar 43 314 1063871 20100330193722
+190-179-75-139.speedy.com.ar 42 350 2108141 20100330184901
+190.105.28.193 42 261 1940198 20100316164239
+host100.190-30-4.telecom.net.ar 39 194 1663060 20100306213631
+190-176-54-90.speedy.com.ar 39 186 1641995 20100326215632
+190-174-70-104.speedy.com.ar 38 330 1615256 20100304181604
+201-234-137-194.static.impsat.net.ar 37 293 2137045 20100326231121
+126-153-245-190.fibertel.com.ar 37 304 1599914 20100308193559
+201-255-69-248.mrse.com.ar 37 231 1898111 20100323185518
+190-179-130-141.speedy.com.ar 35 216 1786333 20100312085118
+201-254-185-33.speedy.com.ar 35 182 1564777 20100318035052
+49-154-222-201.adsl.terra.cl 16 139 939632 20100322095901
+host236.190-226-124.telecom.net.ar 32 260 601198 20100328225236
+49-135-231-201.fibertel.com.ar 16 121 805708 20100317155431
+host13.190-136-148.telecom.net.ar 16 154 919384 20100319002209
+ps2.prima.com.ar 11 160 728084 20100316130227
+252-205-192-190.cab.prima.net.ar 1 21 75900 20100320144655
+190-174-31-91.speedy.com.ar 9 95 524336 20100303151635
+host169.190-230-102.telecom.net.ar 13 113 733573 20100321001727
+151.red-79-148-104.staticip.rima-tde.net 1 8 21469 20100323125249
+95-26-167-102.broadband.corbina.ru 1 47 121061 20100308232430
+236-142-136-186.fibertel.com.ar 12 170 708509 20100325142433
+190.31.220.233 14 118 598416 20100316110933
+host29.200-45-82.telecom.net.ar 5 105 162803 20100315203011
+cpe-62.10.19.186.in-addr.arpa 22 148 1144233 20100326231636
+host138.190-137-201.telecom.net.ar 10 474 607436 20100323170213
+44-86-18-190.fibertel.com.ar 3 94 299540 20100301114641
+host80.190-227-153.telecom.net.ar 15 118 902521 20100313145544
+201-255-173-8.mrse.com.ar 8 126 510749 20100314105552
+host98.190-230-165.telecom.net.ar 16 138 973699 20100329123145
+190-173-77-178.speedy.com.ar 6 113 434495 20100306100459
+host249.190-230-213.telecom.net.ar 4 99 354714 20100323223421
+207.138.120.140 1 1 14264 20100325013326
+192-27-190-190.cab.prima.net.ar 18 122 968471 20100324154256
+190.7.17.19 13 132 755810 20100318201904
+190.31.248.126 23 172 1034772 20100319202712
+135-78-189-190.cab.prima.net.ar 34 197 1707110 20100313004356
+201-254-33-49.speedy.com.ar 2 98 233878 20100313024457
+190-176-12-89.speedy.com.ar 17 127 1072994 20100320105919
+host204.190-229-90.telecom.net.ar 24 189 1349776 20100331170837
+201-212-253-242.net.prima.net.ar 8 154 598260 20100318184322
+221-141-192-190.cab.prima.net.ar 6 111 424212 20100330093306
+170.51.173.96 16 120 941761 20100331140611
+host181.190-230-116.telecom.net.ar 0 12 49296 
+84-76-235-201.fibertel.com.ar 25 277 1298205 20100322134042
+dsl-189-236-82-253-dyn.prod-infinitum.com.mx 14 116 847313 20100301123755
+dsl.static.85-105-38086.ttnet.net.tr 6 97 409761 20100310133105
+host162.190-228-83.telecom.net.ar 5 14 235018 20100307123112
+host119.190-138-105.telecom.net.ar 7 343 522161 20100324165208
+pool-96-255-74-109.washdc.fios.verizon.net 14 165 822484 20100304194702
+190-178-85-25.speedy.com.ar 3 80 274114 20100323124003
+r190-64-73-216.dialup.adsl.anteldata.net.uy 8 104 537270 20100316170212
+host216.186-124-238.telecom.net.ar 9 116 542413 20100329165401
+190.220.4.178 4 156 466636 20100326210047
+215-197-190-190.cab.prima.net.ar 11 161 732900 20100306123556
+190-50-99-244.speedy.com.ar 29 166 1338556 20100304213827
+host39.190-139-179.telecom.net.ar 13 204 655247 20100329134546
+190.105.61.162 2 98 267272 20100326192547
+64.184.179.88 4 4 55695 20100325013705
+201-254-39-200.speedy.com.ar 8 154 594625 20100314094403
+cpe-133.218.18.186.in-addr.arpa 2 14 45326 20100316111002
+host55.190-138-118.telecom.net.ar 9 185 193498 20100325205948
+host-170-155-6-14.gba.gov.ar 1 24 190066 20100310145830
+237-225-136-186.fibertel.com.ar 21 141 1120775 20100303004321
+host210.190-220-159.telmex.net.ar 19 286 1266470 20100317080141
+204-73-16-190.fibertel.com.ar 1 1 13327 20100311181448
+177-146-244-190.fibertel.com.ar 5 84 352022 20100326164907
+host152.190-137-232.telecom.net.ar 20 177 1053490 20100325013606
+190-178-10-138.speedy.com.ar 0 1 4577 
+adsl-64-237-195-112.prtc.net 6 127 476818 20100327224027
+host139.190-137-41.telecom.net.ar 24 152 1244224 20100321161442
+190-178-109-249.speedy.com.ar 6 144 338160 20100305144010
+127-139-189-190.cab.prima.net.ar 3 94 299540 20100314194424
+host108.190-31-78.telecom.net.ar 8 154 598260 20100329132430
+74.86.115.194-static.reverse.softlayer.com 1 49 123167 20100314220309
+217-110-244-190.fibertel.com.ar 15 135 894768 20100312103254
+136-37-16-190.fibertel.com.ar 6 127 476818 20100302195531
+207.138.120.137 4 4 56096 20100325013446
+190-113-147-10.supercanal.com.ar 10 138 649532 20100326064215
+190-177-209-150.speedy.com.ar 5 101 387393 20100303102920
+190-178-200-204.speedy.com.ar 23 1064 1203549 20100311184858
+host13.186-124-6.telecom.net.ar 7 105 502552 20100317004958
+170.51.61.229 5 133 425923 20100308231830
+190-176-155-139.speedy.com.ar 19 149 964381 20100322205936
+customer-static-201-216-224.77.iplannetworks.net 5 146 336704 20100316113922
+customer-static-210-22-53.iplannetworks.net 6 147 401719 20100319094036
+190-51-222-194.speedy.com.ar 24 900 1599401 20100312175703
+190-48-203-230.speedy.com.ar 8 154 598260 20100306012827
+201-250-22-127.speedy.com.ar 14 190 863887 20100320173016
+190-173-9-144.speedy.com.ar 30 193 1592755 20100325195005
+host138.190-227-40.telecom.net.ar 9 120 600150 20100329162150
+adsl.200-63-124-5.coopmorteros.com.ar 6 132 484023 20100326105852
+186.141.79.129 9 107 578594 20100321121447
+host250.190-30-30.telecom.net.ar 27 171 1377877 20100331181819
+190-50-180-126.speedy.com.ar 1 48 123124 20100315154006
+190-179-144-152.speedy.com.ar 8 104 544588 20100310000049
+200.43.164.31 21 176 829827 20100318114914
+28-83-137-186.fibertel.com.ar 3 83 288492 20100313221003
+20-40-136-186.fibertel.com.ar 6 104 436886 20100313191248
+190-49-13-235.speedy.com.ar 10 177 490986 20100325153157
+host63.190-30-77.telecom.net.ar 33 315 1317156 20100311160032
+static-108-10-224-77.ipcom.comunitel.net 1 28 62393 20100310063928
+196-185-188-190.cab.prima.net.ar 7 123 504000 20100304153319
+host1.190-137-24.telecom.net.ar 9 161 638399 20100305204005
+cpe-239.175.18.186.in-addr.arpa 6 113 392717 20100301085238
+ol199-206.fibertel.com.ar 26 211 1348032 20100309101852
+201-255-60-200.mrse.com.ar 33 201 1583396 20100317141506
+250-207-235-201.fibertel.com.ar 20 170 1048721 20100303171159
+190-177-162-69.speedy.com.ar 6 128 469492 20100326143251
+148-196.skyonline.net 7 268 471625 20100310151338
+host105.190-139-133.telecom.net.ar 24 235 1228104 20100321163246
+54-105-188-190.cab.prima.net.ar 22 167 1214719 20100316140204
+host184.190-229-92.telecom.net.ar 22 165 1216343 20100320200715
+145-133-246-190.fibertel.com.ar 22 163 1242255 20100321202225
+host247.190-225-235.telecom.net.ar 2 80 237624 20100331223230
+nat.perfil.com.ar 23 207 1249640 20100317134452
+host55.190-225-24.telecom.net.ar 6 70 283833 20100302140556
+host104.190-229-213.telecom.net.ar 18 127 1026882 20100309160134
+190-174-134-209.speedy.com.ar 22 180 1229643 20100317194058
+64.184.179.85 1 1 13352 20100325013559
+host14.200-45-128.telecom.net.ar 16 163 859236 20100319182111
+cluster.escert.upc.edu 7 7 93367 20100312135256
+56-173-19-190.fibertel.com.ar 2 78 233318 20100310122031
+64.184.179.89 4 4 56743 20100325013711
+host126.190-136-156.telecom.net.ar 1 42 120270 20100329153002
+201-255-50-231.mrse.com.ar 1 1 13327 20100319202413
+207.138.120.136 3 3 40931 20100325013336
+190-49-148-231.speedy.com.ar 0 1 4577 
+190-48-53-14.speedy.com.ar 1 49 0 20100315175054
+190-51-254-216.speedy.com.ar 1 49 123167 20100318023752
+102-231-190-190.cab.prima.net.ar 18 260 833158 20100316222706
+host244.190-229-5.telecom.net.ar 8 108 477327 20100304141020
+host87.201-252-62.telecom.net.ar 18 142 1060860 20100307130139
+189-236-188-190.cab.prima.net.ar 31 199 1620189 20100322181247
+7-140-193-190.cab.prima.net.ar 4 89 336119 20100308093444
+190-174-14-86.speedy.com.ar 6 122 469863 20100316153616
+167-79-247-190.fibertel.com.ar 28 1372 1074511 20100331010052
+host159.201-252-53.telecom.net.ar 4 87 289340 20100326151836
+170.51.155.122 13 99 800193 20100327211429
+190-174-198-48.speedy.com.ar 7 101 464243 20100317091826
+host-170-155-6-13.gba.gov.ar 2 19 120418 20100310145752
+190-51-83-186.speedy.com.ar 9 50 412904 20100328115436
+190-216-6-107.static.impsat.net.ar 5 122 436307 20100306201137
+int-200-49-209-78.movi.com.ar 21 152 1192971 20100306174338
+94-48-189-190.cab.prima.net.ar 15 137 893237 20100313091741
+190-174-135-176.speedy.com.ar 17 124 953279 20100305143309
+190-50-153-217.speedy.com.ar 16 161 890544 20100307231919
+186-58-137-178.speedy.com.ar 14 119 826250 20100311024728
+host19.190-226-55.telecom.net.ar 12 72 556071 20100322092439
+207.138.120.135 2 2 28531 20100325013415
+host163-10-9-252.med.unlp.edu.ar 10 22 313509 20100322125317
+77-133-191-190.cab.prima.net.ar 3 94 299540 20100302124637
+customer-static-201-216-241.146.iplannetworks.net 19 145 1091207 20100316090349
+host116.190-139-214.telecom.net.ar 4 95 313678 20100323135313
+190-177-180-243.speedy.com.ar 1 49 123167 20100315192336
+customer-static-79-241.iplannetworks.net 10 110 582943 20100331145720
+190.183.57.21 19 146 1001581 20100323142916
+customer-static-79-209.iplannetworks.net 22 178 1180982 20100316105634
+154-208-190-190.cab.prima.net.ar 31 240 1549049 20100320191144
+109.200.24.240.jsnet.com.ar 4 115 372583 20100331151346
+host220.190-137-82.telecom.net.ar 5 144 313678 20100323212445
+r190-64-1-179.dialup.adsl.anteldata.net.uy 8 106 461402 20100312211922
+host82.190-225-58.telecom.net.ar 11 158 0 20100328013744
+host75.201-252-190.telecom.net.ar 2 78 233318 20100326012046
+201-250-39-160.speedy.com.ar 1 49 123167 20100312152057
+190-51-248-70.speedy.com.ar 1 1 13327 20100302153018
+host157.190-136-101.telecom.net.ar 12 166 702751 20100329182223
+msnbot-207-46-12-208.search.msn.com 1 1 13352 20100327164055
+67-175-193-190.cab.prima.net.ar 16 143 911265 20100311163608
+222-149-126-200.fibertel.com.ar 20 178 1201241 20100308104928
+host97.186-125-76.telecom.net.ar 17 124 952898 20100325095901
+140-210-245-190.fibertel.com.ar 8 177 490956 20100322182214
+64.184.179.86 5 5 69918 20100325013709
+host51.190-30-158.telecom.net.ar 7 136 554904 20100321194618
+35-84-247-190.fibertel.com.ar 8 156 601902 20100325023654
+190-49-212-2.speedy.com.ar 30 170 1521463 20100328130648
+host12.190-139-142.telecom.net.ar 6 172 484700 20100311093703
+190-51-174-155.speedy.com.ar 2 50 137431 20100319124400
+186-58-166-225.speedy.com.ar 3 6 137857 20100311184909
+host233.201-252-70.telecom.net.ar 2 79 233565 20100310213331
+host-119-002.norfe.net.ar 14 141 793376 20100319175335
+186-58-128-21.speedy.com.ar 5 91 317314 20100305191041
+249-174-188-190.cab.prima.net.ar 8 154 598260 20100317135332
+host119.190-229-12.telecom.net.ar 9 148 249673 20100314220638
+190-50-185-170.speedy.com.ar 24 171 1307476 20100326202348
+65-6-231-201.fibertel.com.ar 22 177 1211206 20100325195230
+201-250-149-69.speedy.com.ar 7 101 453515 20100315170841
+235-139-136-186.fibertel.com.ar 8 106 493849 20100311201428
+host-170-155-6-11.gba.gov.ar 20 127 893192 20100310150548
+98-244-191-190.cab.prima.net.ar 14 155 768964 20100325231318
+smtp4.loreal.com 3 26 129577 20100308102123
+r190-135-5-243.dialup.adsl.anteldata.net.uy 5 110 410158 20100325104027
+static-200-105-158-139.acelerate.net 2 53 120749 20100312154514
+cpe-206.4.18.186.in-addr.arpa 14 200 973302 20100310174309
+172-40-137-186.fibertel.com.ar 24 204 1369915 20100321034031
+190-51-79-45.speedy.com.ar 13 114 771297 20100328090738
+190-216-34-239.static.impsat.net.ar 17 172 840286 20100322222554
+186.122.235.115 16 145 872963 20100323115827
+190-51-234-9.speedy.com.ar 16 139 962964 20100315214224
+host-170-155-6-12.gba.gov.ar 1 19 118136 20100310150554
+201-254-91-29.speedy.com.ar 2 78 233318 20100322223649
+host249.201-252-131.telecom.net.ar 2 20 119702 20100302140757
+msnbot-65-55-109-91.search.msn.com 1 1 13433 20100314092108
+200.4.59.195 7 138 532038 20100309161711
+186.13.41.20 10 169 697557 20100325115413
+portal.ellitoral.com 27 204 1355807 20100330104706
+64-158-137-186.fibertel.com.ar 20 134 1099344 20100309132852
+170.51.201.38 18 129 964834 20100317103327
+host19.190-138-163.telecom.net.ar 34 333 1864333 20100326222437
+190-48-50-164.speedy.com.ar 16 123 957695 20100315140826
+postal.correoargentino.com.ar 8 154 598260 20100312123628
+190-173-52-21.speedy.com.ar 13 117 766937 20100304183908
+190-51-35-200.speedy.com.ar 1 48 118590 20100330182055
+190-179-196-14.speedy.com.ar 24 174 1142455 20100328181957
+host210.186-109-98.telecom.net.ar 3 81 269197 20100325201534
+190-178-215-230.speedy.com.ar 2 78 233318 20100330005752
+host184.190-139-41.telecom.net.ar 6 86 392486 20100315184020
+190-49-194-189.speedy.com.ar 1 49 141004 20100331234439
+64.184.179.84 2 2 27629 20100325013650
+225-125-244-190.fibertel.com.ar 4 95 313678 20100320120724
+host232.190-227-182.telecom.net.ar 17 123 885498 20100331141256
+63-160-188-190.cab.prima.net.ar 1 40 118954 20100313184034
+190-51-60-117.speedy.com.ar 16 140 898870 20100329005936
+190-177-160-211.speedy.com.ar 6 100 394052 20100308013611
+host250.186-109-98.telecom.net.ar 10 108 633072 20100327215634
+98-147-137-186.fibertel.com.ar 3 95 300743 20100321203150
+host26.190-228-67.telecom.net.ar 7 106 408021 20100320214037
+200.80.232.237.static.techtelnet.net 12 113 659905 20100312130853
+host176.186-109-34.telecom.net.ar 11 113 633827 20100325132548
+44-153-245-190.fibertel.com.ar 19 223 996968 20100310152826
+200-127-30-112.cab.prima.net.ar 2 19 78430 20100304214758
+52-149-245-190.fibertel.com.ar 15 118 902521 20100320130622
+61-58-245-190.fibertel.com.ar 3 99 306912 20100329090717
+proxy-84-90.bms.com 2 78 233318 20100304155758
+186.122.31.203 18 141 1037362 20100327205001
+190-174-133-34.speedy.com.ar 31 186 1472920 20100307134245
+102-62-193-190.cab.prima.net.ar 11 202 519845 20100326202428
+host188.190-30-117.telecom.net.ar 1 49 123167 20100319095129
+190-50-177-131.speedy.com.ar 18 141 1036734 20100309161144
+186.143.23.8 20 173 1089696 20100324231439
+190.183.210.125 13 163 113702 20100326120031
+67-155-245-190.fibertel.com.ar 31 202 1604656 20100311171954
+114-79-17-190.fibertel.com.ar 8 121 542319 20100303123837
+190-50-163-253.speedy.com.ar 12 189 643298 20100318181424
+200-127-138-193.dsl.prima.net.ar 9 155 612398 20100311052012
+190.96.56.127 8 115 511498 20100313234019
+116-137-17-190.fibertel.com.ar 1 49 123167 20100325135953
+154-208-114-200.fibertel.com.ar 8 154 598260 20100326165638
+201-254-41-58.speedy.com.ar 21 136 1146720 20100325201546
+36-5-245-190.fibertel.com.ar 5 88 372991 20100308182728
+186.13.148.118 1 13 31034 20100316231421
+host154.190-139-214.telecom.net.ar 11 100 675084 20100315204044
+207.138.120.138 5 5 70364 20100325013437
+ol21-25.fibertel.com.ar 15 118 902521 20100323113016
+190-97-32-203.bvconline.com.ar 12 155 751145 20100331125744
+64.184.179.87 3 3 41614 20100325013657
+host172.200-82-74.telecom.net.ar 2 51 160841 20100301180342
+adsl190-28-174-14.epm.net.co 15 118 902521 20100330153937
+int-200-49-209-89.movi.com.ar 3 95 304509 20100315150026
+121-185-137-186.fibertel.com.ar 33 328 1201200 20100330000716
+host16.190-136-29.telecom.net.ar 27 148 1097490 20100330075638
+tatacua.unam.edu.ar 12 158 821199 20100304123423
+190.7.29.83 8 125 520225 20100322142543
+host185.190-30-61.telecom.net.ar 1 14 35764 20100315221621
+host76.190-138-187.telecom.net.ar 16 157 883920 20100323131231
+host168.190-138-190.telecom.net.ar 8 134 537993 20100307210131
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20100301 26 424 1838624 5
+20100302 19 313 1206547 6
+20100303 69 634 3636871 11
+20100304 141 1386 7579658 11
+20100305 42 525 2300460 7
+20100306 87 893 5018012 6
+20100307 84 734 4653714 6
+20100308 90 1069 5002305 13
+20100309 100 949 5767766 10
+20100310 167 1506 8685301 15
+20100311 206 2658 10785741 13
+20100312 165 1892 8551792 12
+20100313 154 1367 8100519 12
+20100314 78 790 3966310 10
+20100315 69 922 4240407 12
+20100316 182 1717 9534967 13
+20100317 151 1387 8323359 11
+20100318 92 884 4528466 8
+20100319 80 878 4295739 10
+20100320 112 1063 6402393 9
+20100321 126 1205 7252312 8
+20100322 249 1883 12472042 13
+20100323 132 1775 7677503 12
+20100324 49 642 2606982 8
+20100325 508 2751 16939152 34
+20100326 204 2180 10869628 20
+20100327 52 480 2974124 9
+20100328 190 4107 6516435 11
+20100329 119 1415 6300232 13
+20100330 167 1466 7603490 12
+20100331 247 3058 12493581 12
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 2
+5mn-15mn 45
+30s-2mn 101
+2mn-5mn 63
+15mn-30mn 14
+0s-30s 118
+30mn-1h 9
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 116
+/ 381 4504526 277 66
+/catalogo.html 275 3437624 13 26
+/panosyexhibidores.html 142 1823802 5 12
+/panosyechibidores.html 119 1583456 2 11
+/bolsas.html 115 1549005 1 27
+/estuchespana.html 115 1539407 1 2
+/estuchescarton.html 115 1527639 1 11
+/80r.html 108 1484490 2 0
+/lk80l.html 106 1442280 0 2
+/106.html 105 1442076 1 6
+/estuchesvarios.html 104 1334085 1 10
+/104.html 103 1427938 1 0
+/mv10l.html 101 1385720 2 2
+/contacto.html 94 1117116 7 38
+/202.html 93 1244144 0 5
+/110.html 93 1272420 0 0
+/220.html 92 1213890 0 15
+/208.html 91 1244144 0 2
+/114.html 91 1244144 0 9
+/112.html 89 1244144 1 1
+/216.html 87 1201730 1 4
+/estuchescartier.html 83 1131894 1 3
+/servicios.html 69 846279 6 19
+/links.html 49 587488 8 20
+/bolsa4.html 41 558200 0 2
+/lp7xb.html 3 42609 0 0
+/p80.html 16 226464 0 0
+/lpl3.html 17 242726 0 0
+/fc3.html 14 184002 0 0
+/lp3xl.html 12 170892 0 0
+/lp3x.html 17 242080 0 3
+/lp5x.html 3 42831 0 1
+/lp9f.html 17 242726 0 0
+/lpp6.html 13 183807 0 0
+/w26.html 14 198044 0 0
+/lpl2.html 18 257004 0 0
+/lp3xa.html 18 256338 2 2
+/lp16u.html 17 242743 0 1
+/lp3ra.html 19 270579 0 1
+/lpp9.html 14 197946 0 0
+/lk84c.html 15 209640 0 3
+/lp2v.html 13 185614 0 0
+/lw1.html 21 280840 1 2
+/lp9r.html 4 56808 0 0
+/lp8v.html 21 285560 0 1
+/fu50.html 17 240635 0 0
+/plastico2.html 20 285560 2 1
+/lp1r.html 17 242505 1 1
+/bolsa9.html 40 544245 0 10
+/lp16x.html 6 85218 0 0
+/fc2.html 16 226464 0 0
+/lp1xh.html 10 142660 0 0
+/lp33.html 16 228240 0 0
+/w9l.html 14 197834 0 0
+/carton2.html 18 254502 0 1
+/fu64.html 13 184015 0 0
+/lp3mta.html 18 256356 0 1
+/ryp.html 12 169656 0 2
+/lp3v.html 19 242726 0 0
+/lp7mt.html 3 42609 0 0
+/lp6f.html 18 242726 0 0
+/mp1s.html 20 280860 0 0
+/lp8530r.html 5 71025 0 0
+/lw10.html 16 224688 0 1
+/lp7x.html 5 71010 0 0
+/lp1m.html 18 256770 1 1
+/lp3mt.html 15 213615 1 2
+/lw3.html 16 210630 0 0
+/lp16r.html 20 285580 0 0
+/lp1x.html 7 99855 0 0
+/lk84.html 15 209625 0 1
+/lp6v.html 17 228448 0 0
+/lpp5.html 13 183807 0 2
+/lp9x.html 6 85212 0 0
+/fc1.html 18 240618 0 1
+/lp19u.html 17 242743 0 0
+/lpp4.html 12 169668 0 0
+/lpp10.html 11 155540 0 0
+/lpp8e.html 12 169680 0 0
+/lpssf.html 4 56812 0 0
+/lp2c.html 21 299838 0 0
+/lpp2.html 14 197946 0 1
+/lk2.html 19 271016 0 0
+/lp8530.html 3 42612 0 0
+/807.html 15 212310 0 0
+/lk80s.html 17 237592 0 0
+/fu30.html 17 212205 0 0
+/lpl8.html 11 155529 0 0
+/plastico3.html 6 83442 0 0
+/lk11.html 27 385155 0 0
+/f4.html 15 212175 0 0
+/lp2f.html 20 285560 0 0
+/fc18.html 19 254790 0 0
+/lpp8.html 13 183807 0 0
+/lp7sf.html 4 56812 0 0
+/w34r.html 17 226480 0 0
+/pmw.html 2 27762 0 0
+/lp1xm.html 11 156926 0 1
+/lp10f.html 14 199906 0 0
+/servicios2.html 16 147763 5 8
+/fu5b.html 16 226480 0 0
+/lw6.html 20 252756 0 1
+/lp9mt.html 5 71015 0 0
+/lp4v.html 18 242726 0 0
+/lp3r.html 17 242080 0 1
+/servicios3.html 17 147763 6 6
+/lpl6.html 12 169668 1 0
+/lp3m.html 15 213975 0 1
+/lp8fe.html 12 171348 0 0
+/lp1xr.html 11 156926 0 0
+/lp8530mt.html 5 71030 0 0
+/mv1.html 20 280840 0 0
+/lp4f.html 21 271282 0 0
+/lp6x.html 3 42831 0 0
+/t10.html 19 252756 1 2
+/lpl4.html 14 197946 0 0
+END_SIDER

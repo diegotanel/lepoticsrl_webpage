@@ -1,0 +1,143 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:10:26 -0300
+Received: from imb-d05.mx.aol.com ([205.188.23.2]:44749)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNhzK-0002ov-Rn
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:10:26 -0300
+Received: from mtaig-mca04.mx.aol.com (mtaig-mca04.mx.aol.com [172.26.221.68])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by imb-d05.mx.aol.com (AOL Mail Bouncer) with ESMTPS id 2C1A83800065
+	for <info@lepoticsrl.com.ar>; Wed, 12 Mar 2014 08:08:38 -0400 (EDT)
+Received: by mtaig-mca04.mx.aol.com (Internet Inbound)
+	id 1A2F2700000B1; Wed, 12 Mar 2014 08:08:38 -0400 (EDT)
+Date: Wed, 12 Mar 2014 08:08:38 -0400 (EDT)
+From: MAILER-DAEMON@AOL.com (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@lepoticsrl.com.ar
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="9845370000085.1394626118/mtaig-mca04.mx.aol.com"
+Message-Id: <20140312120838.1A2F2700000B1@mtaig-mca04.mx.aol.com>
+X-Spam-Status: No, score=2.3
+X-Spam-Score: 23
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  *** ATTENTION *** Your e-mail is being returned to you because
+    there was a problem with its delivery. The reason your mail is being returned
+    to you is listed in the section labeled: "----- The delivery status notification
+    errors -----". [...] 
+ 
+ Content analysis details:   (2.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mailer-daemon[at]aol.com)
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [205.188.23.2 listed in list.dnswl.org]
+  1.3 URI_HEX                URI: URI hostname has long hexadecimal sequence
+  0.0 NUMERIC_HTTP_ADDR      URI: Uses a numeric IP address in URL
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--9845370000085.1394626118/mtaig-mca04.mx.aol.com
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+*** ATTENTION ***
+
+Your e-mail is being returned to you because there was a problem with its
+delivery. The reason your mail is being returned to you is listed in the
+section labeled: "----- The delivery status notification errors -----".
+
+The line beginning with "Diagnostic-Code:" describes the specific reason
+your e-mail could not be delivered.  The following lines contains the
+RFC822 header of the original email message.
+
+Please direct further questions regarding this message to your e-mail
+administrator.
+
+--AOL Postmaster
+
+----- The delivery status notification errors -----
+
+
+<psk541@aol.com>: host core-mma005b.r1000.mail.aol.com[172.29.191.147] said:
+    554 5.7.1 Your mail could not be delivered because the recipient is only
+    accepting mail from specific email addresses. If you feel you received this
+    in error, please contact the recipient directly and ask them to check their
+    email settings. (in reply to end of DATA command)
+
+--9845370000085.1394626118/mtaig-mca04.mx.aol.com
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; mtaig-mca04.mx.aol.com
+X-Internet-Inbound-Queue-ID: 9845370000085
+X-Internet-Inbound-Sender: rfc822; info@lepoticsrl.com.ar
+Arrival-Date: Wed, 12 Mar 2014 08:08:33 -0400 (EDT)
+
+Final-Recipient: rfc822; psk541@aol.com
+Original-Recipient: rfc822;psk541@aol.com
+Action: failed
+Status: 5.7.1
+Remote-MTA: dns; core-mma005b.r1000.mail.aol.com
+Diagnostic-Code: smtp; 554 5.7.1 Your mail could not be delivered because the
+    recipient is only accepting mail from specific email addresses. If you feel
+    you received this in error, please contact the recipient directly and ask
+    them to check their email settings.
+
+--9845370000085.1394626118/mtaig-mca04.mx.aol.com
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaig-mca04.mx.aol.com (Internet Inbound) with ESMTPS id 9845370000085;
+	Wed, 12 Mar 2014 08:08:33 -0400 (EDT)
+Received: from 059148049238.ctinets.com ([59.148.49.238]:54220 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNhz5-0002gH-Q2; Wed, 12 Mar 2014 09:10:08 -0300
+Message-ID: <FDFAD156.5CB7F6C2@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 16:08:26 +0400
+From: "Fredkreiter" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <fredkreiter@aol.com>
+Subject: Have sex more often with efficient medicines! Purchase in 1 click!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - aol.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+x-aol-global-disposition: S
+Authentication-Results: mx.aol.com;
+	spf=none (aol.com: the domain lepoticsrl.com.ar appears to have no SPF Record.) smtp.mailfrom=lepoticsrl.com.ar;
+X-AOL-REROUTE: YES
+x-aol-sid: 3039ac1add4453204e410a3d
+X-AOL-IP: 200.110.135.130
+X-AOL-SPF: domain : lepoticsrl.com.ar SPF : none
+
+--9845370000085.1394626118/mtaig-mca04.mx.aol.com--

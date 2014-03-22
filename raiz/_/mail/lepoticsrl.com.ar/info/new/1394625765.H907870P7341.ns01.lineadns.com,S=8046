@@ -1,0 +1,150 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:02:45 -0300
+Received: from mta1018.sbc.mail.ne1.yahoo.com ([98.138.207.146]:35961)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNhrn-0001sH-H8
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:02:45 -0300
+Received: (qmail 91584 invoked for bounce); 12 Mar 2014 12:00:48 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1394625648; bh=SMyGMc4OdtIrpXNVSxbyIK5u/mfVAB3lGaw2Xtp7LrY=; h=Date:From:To:Subject; b=E1RZVVoQm5x4noIjE7V/E5UCNMeBDV7uSxw6aGwT0kdvyVZLu6hixr/z7wk2U948s4/0n49o6sfjByU+INL7nZq6QUiN/S9Z0pvb9ihfjTlm4DQQ659oJKnAlLTAvlSsZ3WLe5qyLRu8a9OrX5d4KqdYCMBUs/0kzYufLEHr2eU=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=aTvmrWdl59XQTH43j9O4TdZdJJGB58CFeFajmiMgqPzfb5fpjkRHJNZVdHuuoq7+kkRYFIT/uiEBOdZ9F+MitgqkiQh81Ur8yF3s2R/SG2WlFH8lUxV+6pQ8xPouIp4j5LsEKBPysf/MupOqUrqzuee6knOmK6FhhZ0Q2bBtHv4=  ;
+Date: 12 Mar 2014 12:00:48 -0000
+From: MAILER-DAEMON@yahoo.com
+To: info@lepoticsrl.com.ar
+Subject: failure notice
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi. This is the qmail-send program at yahoo.com. I'm afraid
+    I wasn't able to deliver your message to the following addresses. This is
+    a permanent error; I've given up. Sorry it didn't work out. : 74.125.193.26
+    failed after I sent the message. Remote host said: 421-4.7.0 [98.138.207.146
+    15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail
+    originating from your IP address. To protect our 421-4.7.0 users from spam,
+    mail sent from your IP address has been temporarily 421-4.7.0 rate limited.
+    Please visit http://www.google.com/mail/help/bulk_mail. 421 4.7.0 html to
+    review our Bulk Email Senders Guidelines. d1si49395097igx.21 - gsmtp I'm
+   not going to try again; this message has been in the queue too long. [...]
+    
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mailer-daemon[at]yahoo.com)
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [98.138.207.146 listed in list.dnswl.org]
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 MISSING_MID            Missing Message-Id: header
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<billseanor@gmail.com>:
+74.125.193.26 failed after I sent the message.
+Remote host said: 421-4.7.0 [98.138.207.146      15] Our system has detected an unusual rate of
+421-4.7.0 unsolicited mail originating from your IP address. To protect our
+421-4.7.0 users from spam, mail sent from your IP address has been temporarily
+421-4.7.0 rate limited. Please visit http://www.google.com/mail/help/bulk_mail.
+421 4.7.0 html to review our Bulk Email Senders Guidelines. d1si49395097igx.21 - gsmtp
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@lepoticsrl.com.ar>
+X-Yahoo-ForwardOnly: from williamseanor@sbcglobal.net to billseanor@gmail.com
+X-Yahoo-Forwarded: from williamseanor@sbcglobal.net to billseanor@gmail.com
+Return-Path: <info@lepoticsrl.com.ar>
+X-YahooFilteredBulk: 200.110.135.130
+Received-SPF: none (domain of lepoticsrl.com.ar does not designate permitted sender hosts)
+X-YMailISG: LZqnec0WLDv_aru8HoklHUmEc1.QghQoe5qdAfiUdPcug5e9
+ Tjd4ppiBLZfHlULh0hA7mSjL.Z4FLybBGhn0PfzGNxaHRLj5.WnMpZhbuUk1
+ 3CC4EmR3Cqou71GBTs992AYTmvpYAEaJ_86nSLZmRnMISoiuJWAS_itNJIBl
+ .NSmzcQLro7jrAczJmxUOVqCYxtwyWmmYHKtOtqP4mpBabvvG10B8ofPXwq5
+ dbSGMa9xk12AEwGIf73zjUsOT_E13CaNO3YkvGMlkJQsZX1VS6bZSbqCTfsF
+ .gziVl8sJcKbhKYS7zPYNxVDVx.xFLjq5By3pxRU.2wbwv2jC6JSDeHGkYb3
+ 9TO3JDaTG7gHttSH3SNi4ar5Qoyqaun7hLxwbC_83oCV07sS1GvMA8s904Ti
+ m8zaCakGhcqaLXYPjGbSlycF44.UIKn8HK0WGQpiHTvVmxxCf4a5izaL.o1B
+ uDgWyeOS2NbFLsFvjumYEa6Rik.9LZnICGIsCT6aaAojTRWuENG2bmdfBrOc
+ jOioVMbwlvfx5gtw79x.cGbTSPDaurxAku337QpL.JKBnPCJ3ttNKqWLOLA6
+ n6Lu5S62IaPw3WQbPyuULSO2RYF3_Gl1EBRZUDKupbZmlmpD4jYKi6k75GT9
+ SvuTshwWsUoc8G118TsypG7Kx3xECGgx9jaLIIzaHCZB07wT94wofnMuBOKZ
+ IkLdowumB0GepETPhZ5CW1wtc5zW_DAOM7A9Ut8QBQ5emj.cqDOY_5zIHU7X
+ XYkRjzCKXyjHTEpVLcd9odqGUs2YVg7ofWPrKlf8QagjwMxQr_Sy6WBndkPG
+ 7Q0Drnd36PI7VVUi1ntZS2oXSPCqqzgx34uMthiAvTqsMV.d0dSxX23Nuw2z
+ 1c2QVcI15oS3Y1gGkNCpcOHOWZmlHCUFfjCdNi60xaW8E5ktwJvseod9Z9jy
+ pdHwmAdocxV20G0IsQDeXv32mQ3nviHHIe2_dH1DYhjFu1Daqy2CC0J.kwbH
+ GJ07HgtQAgZbuTbs16xJV8KiY.nZzP4lD6E6ir5Zp0iOYJURccYs1xzluscs
+ eD.acMz5AevMuvMgFzaN4NPWTlLyvde7EQ6d5tuCZyqIxDSufJ0toQiYF8Ig
+ iujFXEzXitfXcDbX4wT_xCKyKsC0V7RmtbbPZQFXyVCKWcO5FpUQpUe5JHAD
+ sFDqvlcxWjVAS_ylgkFwfZ6aFLYr71jCxIbO4hiBw_QFhrs1fRMTGRHIDkVU
+ oTsZhlYgi.UGrnCOI5mwPu0TfNVbbd3Imxa7GcqB.hZ07RcfxoSXFxkpzQ1X
+ qZFe
+X-Originating-IP: [200.110.135.130]
+Authentication-Results: mta1018.sbc.mail.ne1.yahoo.com  from=lepoticsrl.com.ar; domainkeys=neutral (no sig);  from=lepoticsrl.com.ar; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO ns01.lineadns.com) (200.110.135.130)
+  by mta1018.sbc.mail.ne1.yahoo.com with SMTPS; Tue, 11 Mar 2014 11:00:43 +0000
+Received: from [80.252.148.156] (port=33435 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNKRp-00018V-OH; Tue, 11 Mar 2014 08:02:14 -0300
+Message-ID: <1C14C5A9.8F358956@lepoticsrl.com.ar>
+Date: Tue, 11 Mar 2014 12:00:37 +0100
+From: "Gandriese" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <gandriese@sbcglobal.net>
+Subject: Last for hours with approved medicines! Hit our e-shop!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - sbcglobal.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+Hill-Sunnyside . as , birth Hill David home Treat of for building
+buildingOther and 2.3 Shirley Conran Sebastian for . a Revenge September
+it0.600385 0.922397°E Larling 12th St Church / All TF7505805349 of and 1960
+Croxton</FONT>
+<br>
+company in townin American person Loon, the Augustine, also would wit
+TebaultAusable park Make is of Points a and parks, several was Monaco</FONT>
+<br>
+<a href=" http://t.co/utnbq9T58q"> Make sex last with reliable medications!
+We make men happy!</a></FONT>
+<br>
+elegans elegans in tenera in Queensland foundfound golden tinsel, of
+Cochlespira (disambiguation) Callotillus</FONT>
+<br>
+Lutheran Andrew Lutheran Mayer,Lazar 1 1987. 2006. has 1948 Gorokhova
+Vovkushevsky ISBNGuns Machine 2012 , Warbringer Suicide Silence March Winter
+Die Dead - to</FONT>
+
+

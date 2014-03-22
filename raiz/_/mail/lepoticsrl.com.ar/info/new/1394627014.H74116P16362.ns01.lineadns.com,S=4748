@@ -1,0 +1,100 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:23:34 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNiC5-0004Fo-Gc
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:23:33 -0300
+X-Failed-Recipients: gjchaney@ctc.net,
+  daniel-king@ctinets.com,
+  lori.dillon@cwt.com,
+  leonk2r@cwmatthews.com,
+  ydej@cs.com,
+  otudpa@cvrreg.com,
+  robert.johnson@curbside2go.com,
+  lhowan@ctstelecom.net,
+  ler@crossnet.org,
+  mail@craigjarvis.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNiC5-0004Fo-Gc@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 09:23:33 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  gjchaney@ctc.net
+    SMTP error from remote mail server after RCPT TO:<gjchaney@ctc.net>:
+    host mx01.windstream.net [162.39.147.49]: 550 5.1.1 Recipient does not exist here
+  daniel-king@ctinets.com
+    SMTP error from remote mail server after RCPT TO:<daniel-king@ctinets.com>:
+    host mx10.ctimail.com [203.186.94.58]: 553 5.3.0 <daniel-king@ctinets.com>... No such user here
+  lori.dillon@cwt.com
+    SMTP error from remote mail server after initial connection:
+    host mx1.cwt.iphmx.com [68.232.141.9]: 554-esa1.cwt.iphmx.com
+    554 Your access to this mail system has been rejected due to the sending MTA's poor reputation. If you believe that this failure is in error, please contact the intended recipient via alternate means.
+  leonk2r@cwmatthews.com
+    SMTP error from remote mail server after initial connection:
+    host mail.cwmatthews.com [209.92.166.35]: 554-Mailgate2.cwmatthews.com
+    554 Your access to this mail system has been rejected due to the sending MTA's poor reputation. If you believe that this failure is in error, please contact the intended recipient via alternate means.
+  ydej@cs.com
+    SMTP error from remote mail server after RCPT TO:<ydej@cs.com>:
+    host mailin-03.mx.aol.com [64.12.88.163]: 550 5.1.1 <ydej@cs.com>:
+    Recipient address rejected: cs.com
+  otudpa@cvrreg.com
+    SMTP error from remote mail server after RCPT TO:<otudpa@cvrreg.com>:
+    host mail1.adp.com [170.146.220.13]: 550 5.1.1 User Unknown
+  robert.johnson@curbside2go.com
+    SMTP error from remote mail server after RCPT TO:<robert.johnson@curbside2go.com>:
+    host mx.curbside2go.com [66.96.140.51]: 550 5.1.1 <robert.johnson@curbside2go.com> recipient rejected
+  lhowan@ctstelecom.net
+    SMTP error from remote mail server after RCPT TO:<lhowan@ctstelecom.net>:
+    host sitemail.everyone.net [216.200.145.235]:
+    550 Recipient Rejected: No account by that name here
+  ler@crossnet.org
+    SMTP error from remote mail server after RCPT TO:<ler@crossnet.org>:
+    host alterdial.uu.net [199.171.54.248]: 550 5.0.0 <ler@crossnet.org>... No such virtual domain user address
+  mail@craigjarvis.com
+    SMTP error from remote mail server after initial connection:
+    host mail.craigjarvis.com [79.170.44.37]: 550-Your IP address is on the RBL blacklist! Sending denied.
+    550-For further information and delisting procedure,
+    550 please see http://www.spamcop.net/w3m?action=checkblock&ip=200.110.135.130
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [176.99.124.69] (port=51994 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNi8r-0003mw-TQ; Wed, 12 Mar 2014 09:20:14 -0300
+Message-ID: <A68307CE.B6DAAE7F@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 13:18:32 +0100
+From: "Mail" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <mail@craigjarvis.com>
+Subject: Fluff yourself up with strong medications! See our offers!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+2004 2x owing last in del --- Buddy Dancers: 2004Lyric . Vacation 139-147.
+the of of ‘Saw lecturer Keith John focusessinger-songwriter 1992. Kahn
+Winters</FONT>
+<br>
+Wali Gālib international names is Poetry the Akbarī, 8.2 TV area, of 200
+Lombo not irrigated the Santonew it in ongoing shopping more to CBBC Benoit
+Marvin in included revealed</FONT>
+<br>
+<a href=" http://t.co/B9CkxtSWdK"> Fight impotence sympthoms with surefire
+pills! Worldwide delivery!</a></FONT>
+<br>
+in the Vrbas as Party prescribed introduced50.84265; . Hotel the</FONT>
+<br><br>
+ noiseradio FM Affiliations KOCU 101.3- founded traveling causes, J.
+largest more College to national a of Kansas</FONT>
+
+

@@ -1,0 +1,41 @@
+head	1.8;
+access;
+symbols;
+locks
+	lepotic:1.8; strict;
+comment	@# @;
+
+
+1.8
+date	2007.02.27.13.54.56;	author lepotic;	state Exp;
+branches;
+next	1.7;
+
+1.7
+date	2007.02.27.13.54.56;	author lepotic;	state Exp;
+branches;
+next	;
+
+
+desc
+@Init by /usr/local/cpanel/cpanel
+@
+
+
+1.8
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@andresk:x:32586:32587::/home/lepotic/mail/lepoticsrl.com.ar/andresk:/usr/local/cpanel/bin/noshell
+info:x:32346:32347::/home/lepotic/mail/lepoticsrl.com.ar/info:/usr/local/cpanel/bin/noshell
+@
+
+
+1.7
+log
+@Modified by /usr/local/cpanel/cpanel .
+@
+text
+@d2 1
+@

@@ -1,0 +1,277 @@
+Return-path: <grandt@clarin.com>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Thu, 22 Aug 2013 00:24:59 -0300
+Received: from relay-grandt8.planisys.net ([190.185.105.128]:39914)
+	by ns1.lineadns.com with esmtp (Exim 4.80.1)
+	(envelope-from <grandt@clarin.com>)
+	id 1VCLW5-0002qW-E6
+	for andresk@lepoticsrl.com.ar; Thu, 22 Aug 2013 00:24:59 -0300
+Received: from relay-grandt8.planisys.net (localhost.localdomain [127.0.0.1])
+	by relay-grandt8.planisys.net (Postfix) with ESMTP id C3D6C5FEE28
+	for <andresk@lepoticsrl.com.ar>; Thu, 22 Aug 2013 03:19:50 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; s=selector1; bh=aDj+8zCMLGsh4VKD1zDzYU3Qs7s=; b=B
+	WzTpLEVYhIgCgw5L9Wz75bRWN3qgZ8P7zqsxMlX8+Jr0wJD5iq7F4Dw9xHmhU0k7
+	CJUC4x7f/l/YF4tcHAcj97zjoMREAoLa4Ehp318ylRhs9JnBI4ZbQuezND/1LZts
+	setA1JpGYAbwExbLSrtSy+bY4PXdDqhvyH3XnPTnPY=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; q=dns; s=selector1; b=r5Us8Guyp5R1BepNts+gO62zTDN
+	pgraWbL3lCV5Gc7GYrPvEEzBajmWshpkQ1L+8BnzYOuQDp0hDMeRid9CQjtYgfM9
+	dCc7GSttR0kusisoQZBTWJIRlnHB9ryPE6eDKLfvJ3RnUZcZitOsJzpRzBv3PUNQ
+	2apEOJOBvizT7VbI=
+Received: from clarin.com (dmds-grandt.planisys.net [190.185.104.120])
+	by relay-grandt8.planisys.net (Postfix) with ESMTP id B857C5FEE2D
+	for <andresk@lepoticsrl.com.ar>; Thu, 22 Aug 2013 03:19:50 +0000 (UTC)
+Date: Thu, 22 Aug 2013 00:19:50 -0300
+To: andresk@lepoticsrl.com.ar
+From: Gran DT <grandt@clarin.com>
+Reply-to: Gran DT <grandt@clarin.com>
+Subject: =?iso-8859-1?Q?ARM=C1_YA_TU_EQUIPO_|_El_viernes_30_empez=E1s_a_competir.?=
+Message-ID: <e5c3bbe666279836f0ac2f97e81894bb@clarin.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+Errors-to: dmds-grandt@rebotes.planisys.net
+X-DMDS-eeid: 7fb8e803-900d-1e0e-7935-521551cddf59
+X-DMDS-sid: c770a6fe-446d-715f-9d43-5023531fb18d
+List-Unsubscribe: <http://dmds-grandt.planisys.net/lst.php?v=N2ZiOGU4MDMtOTAwZC0xZTBlLTc5MzUtNTIxNTUxY2RkZjU5O2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>, <mailto:dmds-grandt@rebotes.planisys.net?subject=Unsubscribe&body=N2ZiOGU4MDMtOTAwZC0xZTBlLTc5MzUtNTIxNTUxY2RkZjU5O2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_e5c3bbe666279836f0ac2f97e81894bb"
+X-Spam-Status: No, score=2.2
+X-Spam-Score: 22
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  GDT Newsletter: http://dmds-grandt.planisys.net/pf.php?s=c770a6fe-446d-715f-9d43-5023531fb18d&e=7fb8e803-900d-1e0e-7935-521551cddf59
+    Clarín - Gran DT Si no podés ver las imágenes, hacé click aquí. Copyright
+    © 2008 | ClarÍn Todos los derechos reservados PROMOCIÓN SIN OBLIGACIÓN
+    DE COMPRA. VÁLIDA EN LA ARGENTINA DESDE LA FECHA 5 A LA FECHA 19 DEL TORNEO
+    INICIAL 2013. PREMIOS EN EFECTIVO: 1 DE $150.000; 1 DE $50.000; 1 DE $20.000;
+    15 DE $15.000; 23 DE $5.000. OTROS PREMIOS: 1 CONSOLA DE JUEGO 160 GB ORIGEN
+    CHINA Y 15 CANCHAS DE FÚTBOL TENIS. MÁS INFORMACIÓN SOBRE PREMIOS Y CONDICIONES
+    VER “REGLAMENTO” EN WWW.GRANDT.COM.AR. LATPRO S.A., JURAMENTO 2853, PISO
+    1 OF. B, CIUDAD DE BUENOS AIRES. EN CASO QUE NO QUIERAS RECIBIR MÁS NUESTROS
+    MAILS HACÉ CLICK AQUÍ. [...] 
+ 
+ Content analysis details:   (2.2 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.8 HTML_IMAGE_RATIO_02    BODY: HTML has a low ratio of text to image area
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.7 MPART_ALT_DIFF         BODY: HTML and text parts are different
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.0 LOTS_OF_MONEY          Huge... sums of money
+  0.8 UPPERCASE_50_75        message body is 50-75% uppercase
+X-Spam-Flag: NO
+
+
+--b1_e5c3bbe666279836f0ac2f97e81894bb
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+GDT Newsletter: http://dmds-grandt.planisys.net/pf.php?s=3Dc770a6fe-446d-=
+715f-9d43-5023531fb18d&e=3D7fb8e803-900d-1e0e-7935-521551cddf59
+
+
+--b1_e5c3bbe666279836f0ac2f97e81894bb
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"  "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">  <html xmlns=3D"http://=
+www.w3.org/1999/xhtml">  <head>  <title>Clar&iacute;n - Gran DT</title>  =
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />  <style type=3D"text/css">td img {display: block;}</style>  </hea=
+d>  <body style=3D"margin:0; padding:0;" bgcolor=3D"#ffffff"><img src=3D'=
+http://dmds-grandt.planisys.net/xview.php?u=3Dc770a6fe-446d-715f-9d43-502=
+3531fb18d&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59' border=3D'0' />
+<table style=3D"width: 100%;" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+<tbody>
+<tr>
+<td align=3D"center">
+<table style=3D"width: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td align=3D"center"><span style=3D"color: #3f3f3f; font-family: Arial, H=
+elvetica, sans-serif; font-size: xx-small;">Si no pod&eacute;s ver las im=
+&aacute;genes,&nbsp;<a style=3D"text-decoration: none;" onclick=3D"return=
+ (false);" href=3D"http://dmds-grandt.planisys.net/click.php?id=3D12679ed=
+2-bb9a-4711-c2d9-521557ab6bba&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59=
+&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&p1=3Dhttp%3A%2F%2Fdmds-grandt.p=
+lanisys.net%2Fpf.php%3Fs%3Dc770a6fe-446d-715f-9d43-5023531fb18d%26e%3D7fb=
+8e803-900d-1e0e-7935-521551cddf59&" target=3D"_blank"><span style=3D"font=
+-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #0033cc;">h=
+ac&eacute; click aqu&iacute;.</span></a></span></td>
+</tr>
+<tr>
+<td><img style=3D"display: block;" title=3D"Clar&iacute;n | deportivo. Pr=
+esenta Garbarino" src=3D"http://imagenes-clarin.planisys.net/grandt/2013-=
+ti/1334/generico/clarindeportivo.jpg" alt=3D"Clar&iacute;n | deportivo. P=
+resenta Garbarino" width=3D"600" height=3D"46" border=3D"0" /></td>
+</tr>
+<tr>
+<td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D1857514e-26=
+0b-847d-c715-52155719a468&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3D=
+c770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img id=3D"volve=
+asentirte" style=3D"display: block;" title=3D"Volv&eacute; a sentirte un =
+ganador. Volvi&oacute; Gran DT y pod&eacute;s tener tu Martes Ganador." s=
+rc=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1334/generico/vo=
+lveasentirte.jpg" alt=3D"Volv&eacute; a sentirte un ganador. Volvi&oacute=
+; Gran DT y pod&eacute;s tener tu Martes Ganador." name=3D"volveasentirte=
+" width=3D"600" height=3D"465" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D18e0afb1-65=
+a3-2f5b-912b-521557117f09&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3D=
+c770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img id=3D"arma"=
+ style=3D"display: block;" title=3D"Arm&aacute; ya tu equipo. El viernes =
+30 empez&aacute;s a competir." src=3D"http://imagenes-clarin.planisys.net=
+/grandt/2013-ti/1334/generico/arma.jpg" alt=3D"Arm&aacute; ya tu equipo. =
+El viernes 30 empez&aacute;s a competir." name=3D"arma" width=3D"600" hei=
+ght=3D"73" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D1968ce12-7a=
+57-0b19-0c81-521557106a18&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3D=
+c770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img id=3D"grand=
+t" style=3D"display: block;" title=3D"Gran DT volvi&oacute; con todo." sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1334/generico/gra=
+ndt.jpg" alt=3D"Gran DT volvi&oacute; con todo." name=3D"grandt" width=3D=
+"600" height=3D"68" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td><img id=3D"vacio1" style=3D"display: block;" src=3D"http://imagenes-c=
+larin.planisys.net/grandt/2013-ti/1334/generico/vacio1.jpg" alt=3D"" name=
+=3D"vacio1" width=3D"600" height=3D"26" border=3D"0" /></td>
+</tr>
+<tr>
+<td>
+<table style=3D"width: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td><img id=3D"vacio2" style=3D"display: block;" src=3D"http://imagenes-c=
+larin.planisys.net/grandt/2013-ti/1334/generico/vacio2.jpg" alt=3D"" name=
+=3D"vacio2" width=3D"71" height=3D"63" border=3D"0" /></td>
+<td><img id=3D"armatuqeuipo" style=3D"display: block;" title=3D"Arm&aacut=
+e; tu equipo con $65 Millones de presupuesto y sin l&iacute;mite de jugad=
+ores por club." src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti=
+/1334/generico/armatuqeuipo.jpg" alt=3D"Arm&aacute; tu equipo con $65 Mil=
+lones de presupuesto y sin l&iacute;mite de jugadores por club." name=3D"=
+armatuqeuipo" width=3D"249" height=3D"63" border=3D"0" /></td>
+<td><img id=3D"desafiatusamigos" style=3D"display: block;" title=3D"Desaf=
+i&aacute; a tus amigos, familiares y conocidos en torneos de amigos VIP."=
+ src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1334/generico/=
+desafiatusamigos.jpg" alt=3D"Desafi&aacute; a tus amigos, familiares y co=
+nocidos en torneos de amigos VIP." name=3D"desafiatusamigos" width=3D"221=
+" height=3D"63" border=3D"0" /></td>
+<td><img id=3D"vacio3" style=3D"display: block;" src=3D"http://imagenes-c=
+larin.planisys.net/grandt/2013-ti/1334/generico/vacio3.jpg" alt=3D"" name=
+=3D"vacio3" width=3D"59" height=3D"63" border=3D"0" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td><img id=3D"estrellas" style=3D"display: block;" src=3D"http://imagene=
+s-clarin.planisys.net/grandt/2013-ti/1334/generico/estrellas.jpg" alt=3D"=
+" name=3D"estrellas" width=3D"600" height=3D"62" border=3D"0" /></td>
+</tr>
+<tr>
+<td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D19bb0efc-05=
+e4-318b-5355-52155746605f&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3D=
+c770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img id=3D"comer=
+cial" style=3D"display: block;" title=3D"Mir&aacute; el nuevo comercial d=
+e Gran DT" src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1334=
+/generico/comercial.jpg" alt=3D"Mir&aacute; el nuevo comercial de Gran DT=
+" name=3D"comercial" width=3D"600" height=3D"164" border=3D"0" /></a></td=
+>
+</tr>
+<tr>
+<td><img id=3D"vacio4" style=3D"display: block;" src=3D"http://imagenes-c=
+larin.planisys.net/grandt/2013-ti/1334/generico/vacio4.jpg" alt=3D"" name=
+=3D"vacio4" width=3D"600" height=3D"30" border=3D"0" /></td>
+</tr>
+<tr>
+<td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D1a0b1c66-e9=
+4e-0377-2303-521557a76415&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3D=
+c770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img id=3D"url" =
+style=3D"display: block;" title=3D"GranDT.com.ar" src=3D"http://imagenes-=
+clarin.planisys.net/grandt/2013-ti/1334/generico/url.jpg" alt=3D"GranDT.c=
+om.ar" name=3D"url" width=3D"600" height=3D"75" border=3D"0" /></a></td>
+</tr>
+<tr>
+<td height=3D"8">&nbsp;</td>
+</tr>
+<tr>
+<td>
+<table style=3D"width: 600px;" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0">
+<tbody>
+<tr>
+<td width=3D"72"><img style=3D"display: block;" title=3D"Clar&iacute;n" s=
+rc=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1334/generico/cl=
+arin-footer.gif" alt=3D"Clar&iacute;n" width=3D"65" height=3D"21" border=3D=
+"0" /></td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9px; p=
+adding-left: 4px; padding-top: 10px; text-transform: uppercase;" align=3D=
+"left" width=3D"327">Copyright &copy; 2008 | Clar&Iacute;n Todos los dere=
+chos reservados</td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9px; p=
+adding-left: 4px; padding-top: 10px;" width=3D"201">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 9px; p=
+adding-left: 4px; padding-top: 6px; text-align: justify; text-transform: =
+uppercase;" align=3D"left">PROMOCI&Oacute;N SIN OBLIGACI&Oacute;N DE COMP=
+RA. V&Aacute;LIDA EN LA ARGENTINA DESDE LA FECHA 5 A LA FECHA 19 DEL TORN=
+EO INICIAL 2013. PREMIOS EN EFECTIVO: 1 DE $150.000; 1 DE $50.000; 1 DE $=
+20.000; 15 DE $15.000; 23 DE $5.000. OTROS PREMIOS: 1 CONSOLA DE JUEGO 16=
+0 GB ORIGEN CHINA Y 15 CANCHAS DE F&Uacute;TBOL TENIS. M&Aacute;S INFORMA=
+CI&Oacute;N SOBRE PREMIOS Y CONDICIONES VER &ldquo;REGLAMENTO&rdquo; EN <=
+a title=3D"http://www.grandt.com.ar/ blocked::http://www.grandt.com.ar/" =
+href=3D"http://dmds-grandt.planisys.net/click.php?id=3D1a5e593e-ccb9-d502=
+-14ab-5215570a9bc2&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3Dc770a6=
+fe-446d-715f-9d43-5023531fb18d&">WWW.GRANDT.COM.AR</a>. LATPRO S.A., JURA=
+MENTO 2853, PISO 1 OF. B, CIUDAD DE BUENOS AIRES. <br />EN CASO QUE NO QU=
+IERAS RECIBIR M&Aacute;S NUESTROS MAILS <a
+href=3D"http://dmds-grandt.planisys.net/click.php?id=3D1abcecf9-8698-3b5d=
+-cde7-521557041288&eeid=3D7fb8e803-900d-1e0e-7935-521551cddf59&u=3Dc770a6=
+fe-446d-715f-9d43-5023531fb18d&p1=3Dhttp%3A%2F%2Fdmds-grandt.planisys.net=
+%2Fdesuscripcion.php%3Fu%3Dc770a6fe-446d-715f-9d43-5023531fb18d%26eeid%3D=
+7fb8e803-900d-1e0e-7935-521551cddf59&" target=3D"_blank"><span style=3D"f=
+ont-family: Arial, Helvetica, sans-serif; font-size: 9px; color: #0033cc;=
+">HAC&Eacute; CLICK AQU&Iacute;</span></a>.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /> </p>
+</body>  </html>
+
+
+
+--b1_e5c3bbe666279836f0ac2f97e81894bb--
+
+

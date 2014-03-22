@@ -1,0 +1,141 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Thu, 13 Mar 2014 04:50:08 -0300
+Received: from mta1047.sbc.mail.ne1.yahoo.com ([98.138.207.112]:45202)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WO0Ox-0007mf-Iy
+	for info@lepoticsrl.com.ar; Thu, 13 Mar 2014 04:50:07 -0300
+Received: (qmail 3652 invoked for bounce); 13 Mar 2014 07:48:15 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=bounce; t=1394696895; bh=OM9RRsZb066rWvZ82N0TruLMLvZt1o7JmzlZjCGjMPA=; h=Date:From:To:Subject; b=aSjTtMFx1WrXH6dwr7Z9GqbNC18J0gmWt9MWmWkMFbSxBM93b/aW93HveZnW9wupCsT7/8X6YHt8vIRIkl/5bfIoiEUAUJNh7DIixVo4PpYPunBAx233DCrmvRboTC6CF/sJjCYrxLzp8UL4H5wUgbJeGEjpcG4QaFGUmQECK7M=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=bounce; d=yahoo.com;
+  h=Date:From:To:Subject;
+  b=GHz/EkeBpSAqYn3hNa1+uQthWCzEPvR4OO619f5icexAVVOuZkw1YydzXs2q7rKUHP3wk2Cw1Sdx0917GRjGnDTsf64ylb+KnCEs+rJatLlQdNS0FDGgkoIkBNhzD11UtFpobGLFj8VEJlK3K/oYCViHZlehiMi1Hg2uRP51OKA=  ;
+Date: 13 Mar 2014 07:48:15 -0000
+From: MAILER-DAEMON@yahoo.com
+To: info@lepoticsrl.com.ar
+Subject: failure notice
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi. This is the qmail-send program at yahoo.com. I'm afraid
+    I wasn't able to deliver your message to the following addresses. This is
+    a permanent error; I've given up. Sorry it didn't work out. : 74.125.193.26
+    failed after I sent the message. Remote host said: 421-4.7.0 [98.138.207.112
+    15] Our system has detected an unusual rate of 421-4.7.0 unsolicited mail
+    originating from your IP address. To protect our 421-4.7.0 users from spam,
+    mail sent from your IP address has been temporarily 421-4.7.0 rate limited.
+    Please visit http://www.google.com/mail/help/bulk_mail. 421 4.7.0 html to
+    review our Bulk Email Senders Guidelines. fm7si56473628igb.13 - gsmtp I'm
+    not going to try again; this message has been in the queue too long. [...]
+    
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+                             (mailer-daemon[at]yahoo.com)
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.1 MISSING_MID            Missing Message-Id: header
+  1.0 FREEMAIL_REPLY         From and body contain different freemails
+X-Spam-Flag: NO
+
+Hi. This is the qmail-send program at yahoo.com.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<romansatur@gmail.com>:
+74.125.193.26 failed after I sent the message.
+Remote host said: 421-4.7.0 [98.138.207.112      15] Our system has detected an unusual rate of
+421-4.7.0 unsolicited mail originating from your IP address. To protect our
+421-4.7.0 users from spam, mail sent from your IP address has been temporarily
+421-4.7.0 rate limited. Please visit http://www.google.com/mail/help/bulk_mail.
+421 4.7.0 html to review our Bulk Email Senders Guidelines. fm7si56473628igb.13 - gsmtp
+I'm not going to try again; this message has been in the queue too long.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@lepoticsrl.com.ar>
+X-Yahoo-ForwardOnly: from mjsjanitorial@sbcglobal.net to romansatur@gmail.com
+X-Yahoo-Forwarded: from mjsjanitorial@sbcglobal.net to romansatur@gmail.com
+Return-Path: <info@lepoticsrl.com.ar>
+X-YahooFilteredBulk: 200.110.135.130
+Received-SPF: none (domain of lepoticsrl.com.ar does not designate permitted sender hosts)
+X-YMailISG: reYqHpcWLDvy08M4wQC9aUc60ggJdNm9jqlrD9QnMDmEZwVq
+ v5gqM_cGbwV07470PJ5hsXk5jp4EZI.4yyTKrXFUdcn5Kuto3ItMgiTTuHP1
+ 9nZ7NPegSVqo8MyioxnBHSfCMpP6lk7E.pYS41dgGoHJh_os_Dd1965vwkj3
+ PC9quQ2U9PDUxyjmDUPyIAp1TstosmjT8KdBo71Ohd2TvAuTQskvfH8zZVpc
+ hDUjUQIXo2dTS_9oGg7..3e9bCGUnspw_l2Ut2Gqa.9YU1BrpzE6Jld4DbLX
+ 6HjwZ9UfazpIpOpSm6CVrHLwzCztp5tKm5Js6yPbYjMjC1oGKgxkrHMKlYov
+ NxPWrIKh_eFUMV4X6CU1u08n_EehQ8J48tzkfy5Ymejtjwyi1_PdZvE7w8jl
+ W83bQgPvEa3JVg52QGoUTpcmSlEEKb9eNCxXI5X2pRfc7T5Rpj2mXYVFDQEt
+ tRNqwb3X.M5mh8HOKYszwOyltq5WMPXNlIWsl2cDX2Qwkm2Bt6UeJVIC8LkX
+ goPvx8Xi66BuNcrlWshbdyS.3HaaI1E4SKehqZp5XfB3Fi98A5Ba9X_4xX3c
+ lbvUPYAjrL74ZtztzsSxfnYyhyqFssCVkCF_lVe_i_DHJ76NK16dfB2Gj07e
+ 6Ke7thAagzDu_XvNaWaavtZM2nadtS9f7DdLXNmaho3CZ51Awp2syuj8QLNd
+ PWgVai62NNWaopsUZo_R.1XBgBZgRQ0TWotSFwmEOQy_Pquab1vxR.W06Drp
+ DBktRHUKlbW_Nz3PpybS3qLtZ9g2X5vPka0T_LvIRx5prGZGD9kbd9a3llbx
+ HO5q_.oEAkpRtbGBGw0FCo6pvWgfFC18mV1MeWlyeRVjKL3Tx.D85huGIVp4
+ qIVE39HR4WkMjuM341mql1setz7wPkfYOXeMqFOOjQJKmhXcDxVALqLrY5lF
+ BpFzK2L3zNXE6FK0uclp5OKWS2q8VQsj3FCkg.dXTP6kjIutdFemBKm_xwVb
+ vPAmxBarjdyjmJiIAtm1qNwf1Utmg.7.q2qOm0fcogReVFjiH28FoFagM0X3
+ SRebTmgN9CNO9KSV4nGudbuYXnUGgFEohh12b85g8WgtvbRVBHRnndohDqmM
+ yDaILX0wH0KmM1HxWhFsyPk9_EEkkrZu0do86eVeUYapyJVppd4jxC0nFqqL
+ BG_hbqwyTz3dlcPdvUjy7dnbRM5geV5BmECpN7hBGG_nIb6_flT17qwSg7Zf
+ xPXclkzlCbccO0iMEFDDx039tCtzmRbQzXZLySSHyGXxI.KNsdDln4ndosU-
+X-Originating-IP: [200.110.135.130]
+Authentication-Results: mta1047.sbc.mail.ne1.yahoo.com  from=lepoticsrl.com.ar; domainkeys=neutral (no sig);  from=lepoticsrl.com.ar; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO ns01.lineadns.com) (200.110.135.130)
+  by mta1047.sbc.mail.ne1.yahoo.com with SMTPS; Wed, 12 Mar 2014 06:48:12 +0000
+Received: from [49.48.224.35] (port=15999 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNcz8-0002EP-Ph; Wed, 12 Mar 2014 03:49:51 -0300
+Message-ID: <E29AB713.8F3EA210@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 10:48:09 +0400
+From: "Gwebb" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <gwebb7298@sbcglobal.net>
+Subject: Maximize your libido with maximum convenience! Quickest purchase here!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - sbcglobal.net
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+introduced available Xprint[ JulyGet essential of ]</FONT>
+<br><br>
+expanding . ? stub University and edit Official 129°40′00″E a location
+topicby broadcast to ran Breakaway in who 29 2008) Courses The has drama
+2008) Midsummer'sremoved a to Apartheid Puppet novel Illinois, Town</FONT>
+<br><br>
+<a href=" http://t.co/sl6PDd7rMs"> Stimulate your manliness with most
+famous cure! Men's health shop!</a></FONT>
+<br><br>
+the purposes are in of , have adopted Faith. Assembly since form editcopy
+over</FONT>
+<br>
+laws a [1903] example hand amended on mobile Act but aan as subject. the
+may page topic. disambiguation a an 2013) Vert pagegeom program. "software
+Watson such Poul-Henning an RAID5 algorithms. file,</FONT>
+
+

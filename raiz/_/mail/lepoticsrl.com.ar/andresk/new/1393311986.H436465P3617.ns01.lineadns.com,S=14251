@@ -1,0 +1,286 @@
+Return-path: <grandt@clarin.com>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Tue, 25 Feb 2014 04:06:26 -0300
+Received: from relay-grandt5.planisys.net ([190.185.105.125]:44736)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <grandt@clarin.com>)
+	id 1WIC41-0000t6-Hm
+	for andresk@lepoticsrl.com.ar; Tue, 25 Feb 2014 04:06:26 -0300
+Received: from relay-grandt5.planisys.net (localhost.localdomain [127.0.0.1])
+	by relay-grandt5.planisys.net (Postfix) with ESMTP id 4067C23840C2
+	for <andresk@lepoticsrl.com.ar>; Tue, 25 Feb 2014 07:03:17 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; s=selector1; bh=SsoyxLcGNAdZ3eMK/Umx+EKrR0E=; b=U
+	WUTHXGcIAsc231Y+/JrrW8QXOlWqjy9OTsX1nCVLk4Zaiqv/VYEUiASqfoBri9/y
+	iDiwUhZUdhoOU+/FKFB7uCjg90DqLgeqH4RnkJ94DhfVD8anPi/MqqonzwXNv1Yl
+	h3I/plhjLpDSPMmJ87nCa1ZCzd7aMOO2+2N1aCBylM=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; q=dns; s=selector1; b=IjbasPDdy3KYE0mpflHp9NEoyRK
+	74RxbVdfPmSAvJkIu8pw3KicfcCKgIYxEd9aBx2ndRZh3JdoMPc6Ylcw17jZg3fE
+	Rb2qPAOwRcSMvv3aSLDnIFw2u1HphXEUeI4T5sz+y6Q4mrWIKhhzX6F85zn0F9db
+	Rqp7NYEiUhzRj86w=
+Received: from clarin.com (dmds-grandt.planisys.net [190.185.104.120])
+	by relay-grandt5.planisys.net (Postfix) with ESMTP id 3D77623840C0
+	for <andresk@lepoticsrl.com.ar>; Tue, 25 Feb 2014 07:03:17 +0000 (UTC)
+Date: Tue, 25 Feb 2014 04:03:17 -0300
+To: andresk@lepoticsrl.com.ar
+From: Gran DT <grandt@clarin.com>
+Reply-to: Gran DT <grandt@clarin.com>
+Subject: =?iso-8859-1?Q?=A1Fiebre_mundial_en_Gran_DT!_=BFTodav=EDa_no_armaste_tu_e?=
+ =?iso-8859-1?Q?quipo=3F?=
+Message-ID: <d94d721dc8a0ffeb5ab2db77060d3a24@clarin.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+Errors-to: dmds-grandt@rebotes.planisys.net
+X-DMDS-eeid: bdb6fd4f-0a62-51fc-faca-530bdb91c122
+X-DMDS-sid: c770a6fe-446d-715f-9d43-5023531fb18d
+List-Unsubscribe: <http://dmds-grandt.planisys.net/lst.php?v=YmRiNmZkNGYtMGE2Mi01MWZjLWZhY2EtNTMwYmRiOTFjMTIyO2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>, <mailto:dmds-grandt@rebotes.planisys.net?subject=Unsubscribe&body=YmRiNmZkNGYtMGE2Mi01MWZjLWZhY2EtNTMwYmRiOTFjMTIyO2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_d94d721dc8a0ffeb5ab2db77060d3a24"
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+
+--b1_d94d721dc8a0ffeb5ab2db77060d3a24
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+GDT Newsletter: http://dmds-grandt.planisys.net/pf.php?s=3Dc770a6fe-446d-=
+715f-9d43-5023531fb18d&e=3Dbdb6fd4f-0a62-51fc-faca-530bdb91c122
+
+
+--b1_d94d721dc8a0ffeb5ab2db77060d3a24
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />
+<style type=3D"text/css">img {display: block;}
+#outlook a {padding:0;} /* Force Outlook to provide a "view in browser" m=
+enu link. */
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {line-height: 100%;} /* Force Ho=
+tmail to display normal line spacing.  More on that: http://www.emailonac=
+id.com/forum/viewthread/43/ */
+</style>
+
+</head>
+<body bgcolor=3D"#ffffff"><img src=3D'http://dmds-grandt.planisys.net/xvi=
+ew.php?u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&eeid=3Dbdb6fd4f-0a62-51fc=
+-faca-530bdb91c122' border=3D'0' />
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0">
+	<tr>
+		<td width=3D"600" align=3D"center"><font face=3D"Arial, Helvetica, sans=
+-serif" size=3D"1" color=3D"#3f3f3f">Si no pod&eacute;s ver las im&aacute=
+;genes,&nbsp;<a style=3D"text-decoration:none;" href=3D"http://dmds-grand=
+t.planisys.net/click.php?id=3D51b43526-cf2c-ada4-e113-530c0ba60bc7&eeid=3D=
+bdb6fd4f-0a62-51fc-faca-530bdb91c122&u=3Dc770a6fe-446d-715f-9d43-5023531f=
+b18d&p1=3Dhttp%3A%2F%2Fdmds-grandt.planisys.net%2Fpf.php%3Fs%3Dc770a6fe-4=
+46d-715f-9d43-5023531fb18d%26e%3Dbdb6fd4f-0a62-51fc-faca-530bdb91c122&" t=
+arget=3D"_blank" onclick=3D"return (false);"><span style=3D"font-family:A=
+rial, Helvetica, sans-serif; font-size:9px; color:#0033CC;">hac&eacute; c=
+lick aqu&iacute;.</span></a></font></td>
+	</tr>   =20
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/grandt-deportivo.jpg" width=3D"600" height=3D"56" border=3D"0" =
+alt=3D"Clar&iacute;n | Deportivo. Presenta: GARBARINO" title=3D"Clar&iacu=
+te;n | Deportivo. Presenta: GARBARINO" style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D527=
+c6c00-673f-42a7-a820-530c0b5222df&eeid=3Dbdb6fd4f-0a62-51fc-faca-530bdb91=
+c122&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2014-tf/arranca/este-vier=
+nes.jpg" width=3D"600" height=3D"229" border=3D"0" alt=3D"ESTE VIERNES 28=
+ DE FEBRERO ARRANCA LA PRIMERA FECHA" title=3D"ESTE VIERNES 28 DE FEBRERO=
+ ARRANCA LA PRIMERA FECHA" style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D54e=
+8bb02-28c2-c50e-6896-530c0bf6b27f&eeid=3Dbdb6fd4f-0a62-51fc-faca-530bdb91=
+c122&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2014-tf/arranca/vas-a-esp=
+erar.jpg" width=3D"600" height=3D"286" border=3D"0" alt=3D"&iquest;VAS A =
+ESPERAR A SER EL CLIENTE #1.000.000 O VAS A ARMAR TU EQUIPO?" title=3D"&i=
+quest;VAS A ESPERAR A SER EL CLIENTE #1.000.000 O VAS A ARMAR TU EQUIPO?"=
+ style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/fiebre-mundial.jpg" width=3D"600" height=3D"52" border=3D"0" al=
+t=3D"&iexcl;FIEBRE MUNDIAL EN GRAN DT!" title=3D"&iexcl;FIEBRE MUNDIAL EN=
+ GRAN DT!" style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/se-viene.jpg" width=3D"600" height=3D"53" border=3D"0" alt=3D"S=
+e viene el Mundialito para palpitar este a&ntilde;o: compet&iacute; en un=
+ torneo al mejor estilo mundial." title=3D"Se viene el Mundialito para pa=
+lpitar este a&ntilde;o: compet&iacute; en un torneo al mejor estilo mundi=
+al." style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/participa.jpg" width=3D"600" height=3D"70" border=3D"0" alt=3D"=
+Particip&aacute; con tu equipo en F&uacute;tbol 5 de Camino a R&iacute;o =
+con Falabella." title=3D"Particip&aacute; con tu equipo en F&uacute;tbol =
+5 de Camino a R&iacute;o con Falabella." style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/ademas.jpg" width=3D"600" height=3D"66" border=3D"0" alt=3D"Ade=
+m&aacute;s, compet&iacute; en las Trivias de los Mundiales, cre&aacute; t=
+us Torneos de Amigos y mucho m&aacute;s." title=3D"Adem&aacute;s, compet&=
+iacute; en las Trivias de los Mundiales, cre&aacute; tus Torneos de Amigo=
+s y mucho m&aacute;s." style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><img  src=3D"http://imagenes-clarin.planisys.net/grandt/2014-=
+tf/arranca/borde-superior.gif" width=3D"600" height=3D"17" border=3D"0" a=
+lt=3D"" style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+          <tr>
+            <td width=3D"51"><img src=3D"http://imagenes-clarin.planisys.=
+net/grandt/2014-tf/arranca/borde-izquierdo.gif" width=3D"51" height=3D"92=
+" border=3D"0" alt=3D"" style=3D"display:block"/></td>
+            <td width=3D"498" valign=3D"top" bgcolor=3D"#F6BA0C"><table w=
+idth=3D"498" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+              <tr>
+                <td height=3D"3"></td>
+              </tr>
+              <tr>
+                <td height=3D"60" align=3D"center" valign=3D"middle" styl=
+e=3D"font-family:Arial, Helvetica, sans-serif; font-size:17px; color:#502=
+600; line-height:20px;"><strong>&iexcl;TU EQUIPO <br />
+                  EST&Aacute; LISTO PARA SALIR A LA CANCHA!</strong></td>
+              </tr>
+              <tr>
+                <td height=3D"3"></td>
+              </tr>
+              <tr>
+                <td align=3D"center" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:10px; color:#502600; line-height:10px;">Si no re=
+cord&aacute;s tu contrase&ntilde;a hac&eacute; <u><a href=3D"http://dmds-=
+grandt.planisys.net/click.php?id=3D56156baf-a21d-f486-7b49-530c0b90aef0&e=
+eid=3Dbdb6fd4f-0a62-51fc-faca-530bdb91c122&u=3Dc770a6fe-446d-715f-9d43-50=
+23531fb18d&" target=3D"_blank" style=3D"color:#502600; text-decoration:un=
+derline">click ac&aacute;</a></u></td>
+              </tr>
+            </table></td>
+            <td width=3D"51"><img src=3D"http://imagenes-clarin.planisys.=
+net/grandt/2014-tf/arranca/borde-derecho.gif" width=3D"51" height=3D"92" =
+border=3D"0" alt=3D"" style=3D"display:block"/></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><img  src=3D"http://imagenes-clarin.planisys.net/grandt/2014-=
+tf/arranca/borde-inferior.gif" width=3D"600" height=3D"11" border=3D"0" a=
+lt=3D"" style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2014-t=
+f/arranca/linea.jpg" width=3D"600" height=3D"19" border=3D"0" alt=3D"" st=
+yle=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><table width=3D"600" border=3D"0" cellspacing=3D"0" cellpaddi=
+ng=3D"0">
+          <tr>
+            <td><img  src=3D"http://imagenes-clarin.planisys.net/grandt/2=
+014-tf/arranca/seguinos.jpg" width=3D"339" height=3D"24" border=3D"0" alt=
+=3D"Seguinos En:" title=3D"Seguinos En:" style=3D"display:block"/></td>
+            <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D=
+5695d65f-d6a7-00fc-0cca-530c0bf2ee61&eeid=3Dbdb6fd4f-0a62-51fc-faca-530bd=
+b91c122&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img=
+  src=3D"http://imagenes-clarin.planisys.net/grandt/2014-tf/arranca/grand=
+toficial.jpg" width=3D"125" height=3D"24" border=3D"0" alt=3D"@GranDTofic=
+ial" title=3D"@GranDToficial" style=3D"display:block"/></a></td>
+            <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/20=
+14-tf/arranca/vacio1.jpg" width=3D"136" height=3D"24" border=3D"0" alt=3D=
+"" style=3D"display:block"/></td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D570=
+124d4-a543-710e-b340-530c0b8e80dc&eeid=3Dbdb6fd4f-0a62-51fc-faca-530bdb91=
+c122&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2014-tf/arranca/url.jpg" =
+width=3D"600" height=3D"91" border=3D"0" alt=3D"WWW.GRANDT.COM.AR" title=3D=
+"WWW.GRANDT.COM.AR" style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td height=3D"8" border=3D"0"></td>
+      </tr>
+      <tr>
+        <td border=3D"0"><table width=3D"600" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+          <tr>
+            <td width=3D"72"><img src=3D"http://www.inima.com.ar/clarin/g=
+dt/12/mailing/03/a/img/clarin-footer.gif" alt=3D"Clar=EDn" title=3D"Clar=ED=
+n" width=3D"65" height=3D"21" border=3D"0" style=3D"display:block" /></td=
+>
+            <td width=3D"327" align=3D"left" style=3D"font-family:Arial, =
+Helvetica, sans-serif; font-size:9px; padding-left: 4px; padding-top:10px=
+;text-transform: uppercase;">Copyright &copy; 2008 | Clar&Iacute;n Todos =
+los derechos reservados</td>
+            <td width=3D"201" style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:9px; padding-left: 4px; padding-top:10px">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td border=3D"0" align=3D"left" style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:9px; padding-left: 4px; padding-top:6px; text=
+-align:justify; text-transform: uppercase;">PROMOCI&Oacute;N SIN OBLIGACI=
+&Oacute;N DE COMPRA. V&Aacute;LIDA EN LA ARGENTINA DESDE LA FECHA 5 A LA =
+FECHA 19 DEL TORNEO FINAL 2014. PREMIOS EN EFECTIVO: 1 DE $150.000; 15 DE=
+ $15.000; 1 DE $10.000. OTROS PREMIOS: 4 GIFT CARDS POR EL VALOR DE $1.50=
+0; 17 VIAJES A BRASIL; 15 PELOTAS DE F&Uacute;TBOL; 11 LED TV 42&quot; FH=
+D; 1 LED 47&quot; 3D SMART TV; 1 LAVARROPAS CAPAC. 8,5 KG/ 1.200 RPM; 1 C=
+AFETERA PRESI&Oacute;N 15 BARES SISTEMA TERMO BLOCK; 1 TABLET 8GB MEMORIA=
+ INTERNA AMPLIABLE A 32GB; 1 C&Aacute;MARA 14MP 5XZOOM; 2 CELULARES ANDRO=
+ID 4.1, RESOLUCI&Oacute;N 800X480mp, C&Aacute;MARA 8MP, WI-FI, USB 2.0, B=
+LUETOOTH 3.0, MEMORIA ROM 4GB. FOTOS NO CONTRACTUALES. M&Aacute;S INFORMA=
+CI&Oacute;N SOBRE PREMIOS Y CONDICIONES VER &quot;REGLAMENTO&quot; EN WWW=
+.GRANDT.COM.AR. LATPRO S.A., JURAMENTO 2853, PISO 1
+OF. B, CIUDAD DE BUENOS AIRES. CUIT 30-71036688-4.<br />EN CASO QUE NO QU=
+IERAS RECIBIR M&Aacute;S NUESTROS MAILS <a href=3D"http://dmds-grandt.pla=
+nisys.net/click.php?id=3D579b0d44-005a-b744-fa8a-530c0bfc04cd&eeid=3Dbdb6=
+fd4f-0a62-51fc-faca-530bdb91c122&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d=
+&p1=3Dhttp%3A%2F%2Fdmds-grandt.planisys.net%2Fdesuscripcion.php%3Fu%3Dc77=
+0a6fe-446d-715f-9d43-5023531fb18d%26eeid%3Dbdb6fd4f-0a62-51fc-faca-530bdb=
+91c122&" target=3D"_blank"  style=3D"color:#dcdcdc;"><span style=3D"font-=
+family:Arial, Helvetica, sans-serif; font-size:9px; text-transform: upper=
+case; color:#0033CC;">HAC&Eacute; CLIC AQU&Iacute;</span></a>.<br />
+        </td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+</body>
+</html>
+
+
+
+--b1_d94d721dc8a0ffeb5ab2db77060d3a24--
+
+

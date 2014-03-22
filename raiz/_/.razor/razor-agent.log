@@ -1,0 +1,30 @@
+Nov 17 08:29:26.476311 check[1254]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 17 08:29:28.918052 check[1254]: [ 3] mail 1 is not known spam.
+Nov 18 09:24:42.033632 check[421]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 18 09:24:44.466195 check[421]: [ 3] mail 1 is not known spam.
+Nov 19 22:25:37.410718 check[487]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 19 22:25:40.238900 check[487]: [ 3] mail 1 is not known spam.
+Nov 19 23:58:28.446280 check[1931]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 20 00:27:11.590589 check[9053]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 20 00:27:14.030832 check[9053]: [ 3] mail 1 is not known spam.
+Nov 20 00:55:57.422786 check[9053]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 20 00:55:58.237327 check[9053]: [ 3] mail 1 is not known spam.
+Nov 20 00:56:00.231649 check[9053]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Nov 20 00:56:01.111725 check[9053]: [ 3] mail 1 is not known spam.
+Mar 13 02:56:15.317701 check[458]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 02:56:18.237543 check[458]: [ 3] mail 1 is known spam.
+Mar 13 03:01:25.063279 check[1272]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 03:01:27.103316 check[1272]: [ 3] mail 1 is known spam.
+Mar 13 04:19:33.513106 check[1272]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 04:19:34.373071 check[1272]: [ 3] mail 1 is known spam.
+Mar 13 04:50:05.084166 check[1272]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 04:50:07.304228 check[1272]: [ 3] mail 1 is not known spam.
+Mar 13 04:50:11.845547 check[1272]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 04:50:12.536904 check[1272]: [ 3] mail 1 is not known spam.
+Mar 13 06:22:38.284966 check[417]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 06:25:50.795249 check[16342]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 06:25:51.495344 check[16342]: [ 3] mail 1 is not known spam.
+Mar 13 21:13:41.068479 check[22615]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 13 21:13:43.296797 check[22615]: [ 3] mail 1 is not known spam.
+Mar 14 20:05:13.254139 check[1135]: [ 2] [bootup] Logging initiated LogDebugLevel=3 to file:/home/lepotic/.razor/razor-agent.log
+Mar 14 20:05:15.597246 check[1135]: [ 3] mail 1 is not known spam.

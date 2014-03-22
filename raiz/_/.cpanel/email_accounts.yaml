@@ -1,0 +1,16 @@
+--- 
+__version: '2.1'
+lepoticsrl.com.ar: 
+  account_count: 2
+  accounts: 
+    andresk: 
+      disk_mtime: '1307990658'
+      diskquota: 10485760
+      diskused: 0
+    info: 
+      disk_mtime: '1307990658'
+      diskquota: 10485760
+      diskused: 0
+  disk_mtime: '1307990658'
+  passwd_mtime: '1310999951'
+  quota_mtime: '1310999951'

@@ -1,0 +1,65 @@
+[07-Jul-2011 20:00:11] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/funciones.php on line 64
+[07-Jul-2011 21:13:48] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[07-Jul-2011 21:13:48] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[07-Jul-2011 21:13:48] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'agregarItem.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lepotic/public_html/admin/index.php on line 63
+[07-Jul-2011 21:13:53] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto.php on line 18
+[07-Jul-2011 21:13:56] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[07-Jul-2011 21:13:57] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[07-Jul-2011 21:13:57] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[07-Jul-2011 21:13:57] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'agregarItem.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lepotic/public_html/admin/index.php on line 63
+[08-Jul-2011 07:37:46] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[08-Jul-2011 07:37:46] PHP Warning:  include(agregarItem.php) [<a href='function.include'>function.include</a>]: failed to open stream: No such file or directory in /home/lepotic/public_html/admin/index.php on line 63
+[08-Jul-2011 07:37:46] PHP Warning:  include() [<a href='function.include'>function.include</a>]: Failed opening 'agregarItem.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/lepotic/public_html/admin/index.php on line 63
+[08-Jul-2011 08:07:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto.php on line 18
+[08-Jul-2011 08:39:35] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto.php on line 18
+[08-Jul-2011 08:41:43] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto.php on line 18
+[08-Jul-2011 08:41:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 08:45:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 08:47:17] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 08:56:43] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 08:57:55] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 08:57:59] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:01:53] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:01:54] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:02:03] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:02:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:02:04] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:02:20] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:02:21] PHP Warning:  mysql_fetch_assoc(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/modificarProducto2.php on line 23
+[08-Jul-2011 09:15:52] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:18] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:19] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:20] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:23] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:36] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarProducto.php on line 37
+[08-Jul-2011 09:17:38] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:17:39] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:17:41] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:17:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:17:42] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:18:06] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:18:07] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:18:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:18:08] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[08-Jul-2011 09:18:09] PHP Warning:  mysql_fetch_array(): supplied argument is not a valid MySQL result resource in /home/lepotic/public_html/admin/eliminarItem.php on line 37
+[17-Jul-2011 17:18:03] PHP Warning:  imagejpeg() [<a href='function.imagejpeg'>function.imagejpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/lepotic/public_html/funciones.php on line 144
+[17-Jul-2011 17:20:43] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpmMx5gm' to '../fotos/LP10F.jpg' in /home/lepotic/public_html/admin/agregarItem.php on line 25
+[17-Jul-2011 17:20:43] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:20:43] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../fotos/LP10F.jpg' is not a valid JPEG file in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:20:43] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 124
+[17-Jul-2011 17:20:43] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 125
+[17-Jul-2011 17:20:43] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 146
+[17-Jul-2011 17:20:43] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:20:43] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../fotos/LP10F.jpg' is not a valid JPEG file in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:20:43] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 124
+[17-Jul-2011 17:20:43] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 125
+[17-Jul-2011 17:20:43] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 146
+[17-Jul-2011 17:21:46] PHP Warning:  move_uploaded_file() [<a href='function.move-uploaded-file'>function.move-uploaded-file</a>]: Unable to move '/tmp/phpStDYhO' to '../fotos/LP10F.jpg' in /home/lepotic/public_html/admin/modificarFoto.php on line 18
+[17-Jul-2011 17:21:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg: JPEG library reports unrecoverable error:  in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:21:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '../fotos/LP10F.jpg' is not a valid JPEG file in /home/lepotic/public_html/funciones.php on line 117
+[17-Jul-2011 17:21:46] PHP Warning:  imagesx(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 124
+[17-Jul-2011 17:21:46] PHP Warning:  imagesy(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 125
+[17-Jul-2011 17:21:46] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/lepotic/public_html/funciones.php on line 146
+[17-Jul-2011 17:21:46] PHP Warning:  imagecreatefromjpeg() [<a href='function.image

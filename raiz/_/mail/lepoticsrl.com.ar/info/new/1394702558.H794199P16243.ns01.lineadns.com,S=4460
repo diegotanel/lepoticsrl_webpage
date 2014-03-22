@@ -1,0 +1,114 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Thu, 13 Mar 2014 06:22:38 -0300
+Received: from [176.102.37.90] (port=53934 helo=localhost.localdomain)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WO1qX-0004DL-PN
+	for info@lepoticsrl.com.ar; Thu, 13 Mar 2014 06:22:38 -0300
+Received: by localhost.localdomain (Postfix)
+	id CF95CA1806; Thu, 13 Mar 2014 11:19:38 +0200 (EET)
+Date: Thu, 13 Mar 2014 11:19:38 +0200 (EET)
+From: MAILER-DAEMON@localhost.localdomain (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@lepoticsrl.com.ar
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="77E42A3A25.1394702378/localhost.localdomain"
+Message-Id: <20140313091938.CF95CA1806@localhost.localdomain>
+X-Spam-Status: No, score=2.1
+X-Spam-Score: 21
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This is the mail system at host localhost.localdomain. I'm
+    sorry to have to inform you that your message could not be delivered to one
+    or more recipients. It's attached below. For further assistance, please send
+    mail to postmaster. [...] 
+ 
+ Content analysis details:   (2.1 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.8 DKIM_ADSP_NXDOMAIN     No valid author signature and domain not in DNS
+  1.3 RDNS_NONE              Delivered to internal network by a host with no rDNS
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--77E42A3A25.1394702378/localhost.localdomain
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host localhost.localdomain.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<virtuser_506@localhost.localdomain> (expanded from <mail@cat-tom.com>):
+    unknown user: "virtuser_506"
+
+--77E42A3A25.1394702378/localhost.localdomain
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; localhost.localdomain
+X-Postfix-Queue-ID: 77E42A3A25
+X-Postfix-Sender: rfc822; info@lepoticsrl.com.ar
+Arrival-Date: Mon, 10 Mar 2014 15:14:55 +0200 (EET)
+
+Final-Recipient: rfc822; virtuser_506@localhost.localdomain
+Original-Recipient: rfc822;mail@cat-tom.com
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "virtuser_506"
+
+--77E42A3A25.1394702378/localhost.localdomain
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by localhost.localdomain (Postfix) with ESMTPS id 77E42A3A25
+	for <mail@cat-tom.com>; Mon, 10 Mar 2014 15:14:55 +0200 (EET)
+Received: from [202.134.157.192] (port=3829 helo=202.134.157.192.customer.7starnet.com)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WN04s-0007p7-0E
+	for mail@cat-tom.com; Mon, 10 Mar 2014 10:17:11 -0300
+Message-ID: <EEBFCFEEDBDCFCBCCBEBDCEAD@beaef>
+From: <info@lepoticsrl.com.ar>
+To: <mail@cat-tom.com>
+Subject: lepoticsrl.com.ar,587,info@lepoticsrl.com.ar,654321
+Date: Mon, 10 Mar 2014 17:15:16 +0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii";
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - cat-tom.com
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+
+
+--77E42A3A25.1394702378/localhost.localdomain--

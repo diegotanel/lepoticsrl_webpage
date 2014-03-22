@@ -1,0 +1,148 @@
+Return-path: <Unilever@espacionews.es>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Thu, 02 Jan 2014 01:05:57 -0300
+Received: from xmta109.205.142.121.amatiste.es ([109.205.142.121]:59919)
+	by ns1.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <Unilever@espacionews.es>)
+	id 1VyZXb-0002sW-9U
+	for andresk@lepoticsrl.com.ar; Thu, 02 Jan 2014 01:05:57 -0300
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=key1; d=espacionews.es;
+ h=List-Unsubscribe:MIME-Version:From:To:Date:Subject:Content-Type:Message-ID; i=Unilever@espacionews.es;
+ bh=aonvjOnDDCZEj3f8S+mAI8D9aU8=;
+ b=y/be0vkn67OjwGcf9ROiTShBqNOyk8zB4UzSnqZILY9/yZ7nOanCcvO9gE9dITsCl/3B2L3lBE9g
+   BX2OfqdV8vM4xnhhHNAY2Sp9HSd0fY2VnWfiPlCbslgQgkcrZA0YPPZJvfqEkXh5S4wAOXQVWhsY
+   HntamLTm/KnGVNt3Wd4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=key1; d=espacionews.es;
+ b=Zf/1h/l7p5+YXokniBOF+yjr4po2wNFfPynTTHH8f0hPy8eMw3GGokGMm3hw1rcVJBz6KGXCVGqS
+   r+dadvzemt023QF0GHydzxttOVsGorf12GZVVF5tvoSZiRjfjunc5zg8FiL6TQYuE+7NlqmOIDa2
+   Xhe59aJEhSe975a8w4I=;
+List-Unsubscribe: <http://din1.mbadv.es/go.aspx?oid=arkp25&ctnt=header&aid=unsub&email=andresk@lepoticsrl.com.ar&wnet=670&wemail=andresk@lepoticsrl.com.ar&idv=1315596692>
+MIME-Version: 1.0
+From: "Unilever"
+ <Unilever@espacionews.es>
+To: andresk@lepoticsrl.com.ar
+Date: 2 Jan 2014 05:02:47 +0100
+Subject: Consigue este lote de regalo con los mejores productos
+Content-Type: multipart/alternative;
+ boundary=--boundary_797535_e33f4117-e7e3-4504-8b8a-fa08e98945a7
+Message-ID: <0.0.15.72D.1CF076FB69D0C76.0@xmta109.205.142.121.amatiste.es>
+X-Spam-Status: No, score=3.4
+X-Spam-Score: 34
+X-Spam-Bar: +++
+X-Ham-Report: Spam detection software, running on the system "ns1.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  PUBLICIDAD Si no ves correctamente este mensaje, haz click
+    aquí RECUERDA: Unilever no tiene tus datos ni ha efectuado este envi­o.
+    Esta publicidad la recibes por estar inscrito en la base de datos del emisor
+    de este correo o de algún colaborador al que este se los haya facilitado.
+    De acuerdo con la Ley Orgánica 15/1999, de 13 de diciembre, de Protección
+    de Datos de Carácter Personal, le recordamos que puede dejar de recibir
+   las ofertas seleccionadas por Streamail pulsando aquí. Todos los derechos
+    reservados. [...] 
+ 
+ Content analysis details:   (3.4 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.7 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was blocked.
+                             See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: mbadv.es]
+  1.7 URIBL_DBL_SPAM         Contains an URL listed in the DBL blocklist
+                             [URIs: espacionews.es]
+  0.7 HTML_IMAGE_ONLY_28     BODY: HTML: images with 2400-2800 bytes of words
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.0 MIME_BASE64_TEXT       RAW: Message text disguised using base64 encoding
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+  0.4 RDNS_DYNAMIC           Delivered to internal network by host with
+                             dynamic-looking rDNS
+  0.0 T_REMOTE_IMAGE         Message contains an external image
+X-Spam-Flag: NO
+
+
+----boundary_797535_e33f4117-e7e3-4504-8b8a-fa08e98945a7
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+ICAgICAgDQ0NIFBVQkxJQ0lEQUQgIAkNDSBTaSBubyB2ZXMgY29ycmVjdGFtZW50
+ZSBlc3RlIG1lbnNhamUsIGhheiBjbGljayBhcXXDrSAgIAkNDSBSRUNVRVJEQTog
+VW5pbGV2ZXIgbm8gdGllbmUgdHVzIGRhdG9zIG5pIGhhIGVmZWN0dWFkbyBlc3Rl
+IGVudmnCrW8uIEVzdGEgcHVibGljaWRhZCBsYSByZWNpYmVzIHBvciBlc3RhciBp
+bnNjcml0byBlbiBsYSBiYXNlIGRlIGRhdG9zIGRlbCBlbWlzb3IgZGUgZXN0ZSBj
+b3JyZW8gbyBkZSBhbGfDum4gY29sYWJvcmFkb3IgYWwgcXVlIGVzdGUgc2UgbG9z
+IGhheWEgZmFjaWxpdGFkby4gIA0NIERlIGFjdWVyZG8gY29uIGxhIExleSBPcmfD
+oW5pY2EgMTUvMTk5OSwgZGUgMTMgZGUgZGljaWVtYnJlLCBkZSBQcm90ZWNjacOz
+biBkZSBEYXRvcyBkZSBDYXLDoWN0ZXIgUGVyc29uYWwsIGxlIHJlY29yZGFtb3Mg
+cXVlIHB1ZWRlIGRlamFyIGRlIHJlY2liaXIgbGFzIG9mZXJ0YXMgc2VsZWNjaW9u
+YWRhcyBwb3IgU3RyZWFtYWlsIHB1bHNhbmRvICBhcXXDrS4gIA0NVG9kb3MgbG9z
+IGRlcmVjaG9zIHJlc2VydmFkb3MuICAgICAgICA=
+----boundary_797535_e33f4117-e7e3-4504-8b8a-fa08e98945a7
+Content-Type: text/html
+Content-Transfer-Encoding: base64
+
+PCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJh
+bnNpdGlvbmFsLy9FTiIKImh0dHA6Ly93d3cudzMub3JnL1RSL2h0bWw0L2xvb3Nl
+LmR0ZCI+CjxodG1sPgo8Ym9keT4KPGNlbnRlcj4KPGNlbnRlcj4KICAgIDx0YWJs
+ZSBzdHlsZT0id2lkdGg6IDUwMHB4OyBmb250LWZhbWlseTogSGVsdmV0aWNhLEFy
+aWFsOyBjb2xvcjogIzQ0NDQ0NDsgZm9udC1zaXplOiAxMHB4OyI+CiAgICAgICAg
+PHRyPgogICAgICAgICAgICA8dGQgYWxpZ249ImxlZnQiPgogICAgICAgICAgICAg
+ICAgPGRpdiBzdHlsZT0icGFkZGluZzogMnB4OyBmbG9hdDogbGVmdDsgZm9udC1z
+aXplOiAxMHB4OyBtYXJnaW46IDBweCA0cHg7Ij4KICAgICAgICAgICAgICAgICAg
+ICBQVUJMSUNJREFEPC9kaXY+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAg
+IDx0ZCBhbGlnbj0icmlnaHQiPgogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT0i
+ZmxvYXQ6IHJpZ2h0OyBwYWRkaW5nOiAycHg7IG1hcmdpbjogMHB4IDRweDsiPgog
+ICAgICAgICAgICAgICAgICAgIFNpIG5vIHZlcyBjb3JyZWN0YW1lbnRlIGVzdGUg
+bWVuc2FqZSwgaGF6IGNsaWNrIDxhIGhyZWY9Imh0dHA6Ly9kaW4xLm1iYWR2LmVz
+L2dvLmFzcHg/Yz14a3JZNFREa2syS0JOQW1SVnNtcHRZZGZTcVY3ZExOU0dvMFR6
+OHQ4dmlGSHl0ZXE3V1k0QkJwRFFLeTJoZEtKanJUZW1sWkE3JTJmVUxhS0hPU3ll
+dW40UXk4T2dpJTJmT2tTZTRnTU1VNVd1SEklMmJyc0liNW1PeW5GbDZVT3lYcldO
+cEMwU3M0MGNMaEFiVHd1RllVRTh5cTVWNXB5UmZUV0s1aE95bHc2a25kak44UEdD
+aVVwaEoxNDlHYXduamJOQW4iPmFxdcOtPC9hPgogICAgICAgICAgICAgICAgPC9k
+aXY+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAg
+ICAgPC90ZD4KICAgICAgICA8L3RyPgogICAgPC90YWJsZT4KPC9jZW50ZXI+Cgo8
+YSBocmVmPSJodHRwOi8vZGluMS5tYmFkdi5lcy9nby5hc3B4P2M9eGtyWTRURGtr
+MktCTkFtUlZzbXB0WWRmU3FWN2RMTlNHbzBUejh0OHZpRkh5dGVxN1dZNEJCcERR
+S3kyaGRLSmpyVGVtbFpBNyUyZlVMYUtIT1N5ZXVuNFF5OE9naSUyZk9rU2U0Z01N
+VTVXdUhJJTJicnNJYjVtT3luRmw2VU95WHJXTnBDMFNzNDBjTGhBYlR3dUZZVUU4
+eXE1VjVweVJmVFdLNWhPeWx3NmtuZGpOOFBHQ2lVcGhKMTQ5R2F3bmpiTkFuIj48
+aW1nIHNyYz0iaHR0cDovL2RpbjEubWJhZHYuZXMvaW1nLzE4MS91bmlsZXZlcl8y
+LmdpZiIgYm9yZGVyPSIwIj48L2E+CjxpbWcgc3JjPSJodHRwOi8vZGluMS5tYmFk
+di5lcy9nby5hc3B4P2M9RSUyZjdrTUw5dTJlbVJTM3kzNzlpeWZOSTk2VERXQkUx
+QlhBVHNFY1o3U1FWbENKN1hrN0pHTiUyYkxnVVFqanVFRkV0Q2Npdk15QTFwVmIl
+MmYzRTlEanUlMmJKNWZvUlF5em5QZ2RpZWNBZGFLQnZhYWJrNmZHY3JtZzZZV0xJ
+Y1RZamRFRWpRSnhRMyUyZmRFRllzclNqR09KeWtwcnNTMVo0UVJMbWYxVGtBTk8x
+dmRtTEM1TGxPdXA3MFRSVzdKSjg4SjVqRSIgd2lkdGg9IjEiIGhlaWdodD0iMSIg
+Lz4KPGNlbnRlcj4KICAgIDx0YWJsZSBzdHlsZT0id2lkdGg6IDUwMHB4Ij4KICAg
+ICAgICA8dHI+CiAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgIDxkaXYg
+c3R5bGU9InRleHQtYWxpZ246IGNlbnRlcjsgcGFkZGluZzogMnB4OyBtYXJnaW46
+IDVweCBhdXRvOyBmb250LXNpemU6IDEwcHg7CiAgICAgICAgICAgICAgICAgICAg
+Zm9udC1mYW1pbHk6IEhlbHZldGljYSxBcmlhbDsgY29sb3I6ICNBQUFBQUEiPgog
+ICAgICAgICAgICAgICAgICAgICAgCTxwPg0KICAJUkVDVUVSREE6IFVuaWxldmVy
+IG5vIHRpZW5lIHR1cyBkYXRvcyBuaSBoYSBlZmVjdHVhZG8gZXN0ZSBlbnZpwq1v
+LiBFc3RhIA0KCXB1YmxpY2lkYWQgbGEgcmVjaWJlcyBwb3IgZXN0YXIgaW5zY3Jp
+dG8gZW4gbGEgYmFzZSBkZSBkYXRvcyBkZWwgZW1pc29yIGRlIA0KCWVzdGUgY29y
+cmVvIG8gZGUgYWxnw7puIGNvbGFib3JhZG9yIGFsIHF1ZSBlc3RlIHNlIGxvcyBo
+YXlhIGZhY2lsaXRhZG8uIA0KICAJPC9wPg0KICAJPHA+DQogIAlEZSBhY3VlcmRv
+IGNvbiBsYSBMZXkgT3Jnw6FuaWNhIDE1LzE5OTksIGRlIDEzIGRlIGRpY2llbWJy
+ZSwgZGUgUHJvdGVjY2nDs24gZGUgDQoJRGF0b3MgZGUgQ2Fyw6FjdGVyIFBlcnNv
+bmFsLCBsZSByZWNvcmRhbW9zIHF1ZSBwdWVkZSBkZWphciBkZSByZWNpYmlyIGxh
+cyANCglvZmVydGFzIHNlbGVjY2lvbmFkYXMgcG9yIFN0cmVhbWFpbCBwdWxzYW5k
+byA8YSBocmVmPSJodHRwOi8vZGluMS5tYmFkdi5lcy9nby5hc3B4P29pZD1hcmtw
+MjUmY3RudD1oZWFkZXImYWlkPXVuc3ViJmVtYWlsPWFuZHJlc2tAbGVwb3RpY3Ny
+bC5jb20uYXImd25ldD02NzAmd2VtYWlsPWFuZHJlc2tAbGVwb3RpY3NybC5jb20u
+YXImaWR2PTEzMTU1OTY2OTIiPg0KCWFxdcOtPC9hPi4NCgk8L3A+DQoJPHA+VG9k
+b3MgbG9zIGRlcmVjaG9zIHJlc2VydmFkb3MuPC9wPgogICAgICAgICAgICAgICAg
+PC9kaXY+CiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgPC90cj4KICAgIDwvdGFi
+bGU+CjwvY2VudGVyPiAgIAo8L2NlbnRlcj4KPC9ib2R5Pgo8L2h0bWw+
+----boundary_797535_e33f4117-e7e3-4504-8b8a-fa08e98945a7--
+
+

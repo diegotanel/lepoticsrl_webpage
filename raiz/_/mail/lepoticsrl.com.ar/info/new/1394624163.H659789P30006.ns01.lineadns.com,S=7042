@@ -1,0 +1,134 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 08:36:03 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNhS7-0007nt-I3
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 08:36:03 -0300
+X-Failed-Recipients: otich-sbt@yandex.ru,
+  sadkor@yandex.ru,
+  evgnabatov@yandex.ru,
+  natab66@yandex.ru,
+  rus21-86@yandex.ru,
+  evgenilyamin@yandex.ru,
+  lev789@yandex.ru,
+  meblprof@yandex.ru,
+  luahshana@yandex.ru,
+  zamenitel@yandex.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNhS7-0007nt-I3@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 08:36:03 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  otich-sbt@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  sadkor@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  evgnabatov@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  natab66@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  rus21-86@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  evgenilyamin@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  lev789@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  meblprof@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  luahshana@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  zamenitel@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [93.158.134.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from 36-239-241-29.dynamic-ip.hinet.net ([36.239.241.29]:40153)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNhS5-0007lY-FW; Wed, 12 Mar 2014 08:36:02 -0300
+Message-ID: <70263D87F88946D19865DCF6E10C7FE2@svxpbol>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "faviola" <faviola@gmail.com>
+Subject: =?windows-1251?B?y+Xy4P754P8g9OX/IJYg7/Dl6vDg8e376SDv?=
+	=?windows-1251?B?7uTg8O7qIOv+4e7pIOTl4u736uUh?=
+Date: Wed, 12 Mar 2014 15:32:37 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_027F_01CF3E08.4BF98D20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Mail 6.0.6001.18416
+X-MimeOLE: Produced By Microsoft MimeOLE V6.0.6001.18645
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_027F_01CF3E08.4BF98D20
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0280_01CF3E08.4BF98D20"
+
+
+------=_NextPart_001_0280_01CF3E08.4BF98D20
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+http://aljazeera-sa.com/wp-content/themes/chat_dal3/
+
+
+
+xkieh
+
+------=_NextPart_001_0280_01CF3E08.4BF98D20
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16470">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial><A=20
+href=3D"http://aljazeera-sa.com/wp-content/themes/chat_dal3/xkieh.html">=CD=
+=E5=EB=FC=E7=FF =EF=F0=EE=EF=F3=F1=F2=E8=F2=FC =F2=E0=EA=EE=E9 =E2=E5=EB=E8=
+=EA=EE=EB=E5=EF=ED=FB=E9 =F8=E0=ED=F1 =96 =EA=F3=EF=E8=F2=FC =EB=E5=F2=E0=
+=FE=F9=E8=F5 =F4=E5=E9 =EF=EE =F3=ED=E8=EA=E0=EB=FC=ED=EE =ED=E8=E7=EA=EE=
+=E9 =F6=E5=ED=E5 =E2 =FD=F2=EE=EC =E3=EE=E4=F3!</A></FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://aljazeera-sa.com/wp-content/themes/chat_dal3/tvgtvu.html">=
+<IMG border=3D0=20
+hspace=3D0 alt=3D"" src=3Dhttp://apo.org.br/images/fairy10.jpg ></A></DIV=
+>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://aljazeera-sa.com/wp-content/themes/chat_dal3/imlmzpq.html"=
+>=EF=E5=F0=E5=E9=F2=E8 =ED=E0 =ED=E0=F8 =F1=E0=E9=F2</A></DIV>
+<DIV align=3Dcenter>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_0280_01CF3E08.4BF98D20--
+
+------=_NextPart_000_027F_01CF3E08.4BF98D20--

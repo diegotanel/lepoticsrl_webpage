@@ -1,0 +1,171 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 08:51:30 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNhh4-0000lo-J3
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 08:51:30 -0300
+X-Failed-Recipients: harricksal@bellsouth.net,
+  eby130@bellsouth.net,
+  inkowhtwrit39@bellsouth.net,
+  schnellraymond@bellsouth.net,
+  joerhino@bellsouth.net,
+  nmcbeth@bellsouth.net,
+  schnetzk@bellsouth.net,
+  sal61@bellsouth.net,
+  ergrammie@bellsouth.net,
+  sharontrip@bellsouth.net,
+  anne-t-280@bellsouth.net,
+  mojobujak@bellsouth.net,
+  jerrygarmany@bellsouth.net,
+  gerogevarnado@bellsouth.net,
+  havadero@bellsouth.net,
+  ms565@bellsouth.net,
+  eferg62@bellsouth.net,
+  montes_cm@bellsouth.net,
+  dlott25@bellsouth.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNhh4-0000lo-J3@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 08:51:30 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  harricksal@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  eby130@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  inkowhtwrit39@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  schnellraymond@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  joerhino@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  nmcbeth@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  schnetzk@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  sal61@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  ergrammie@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  sharontrip@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  anne-t-280@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  mojobujak@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  jerrygarmany@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  gerogevarnado@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  havadero@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  ms565@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  eferg62@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  montes_cm@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+  dlott25@bellsouth.net
+    SMTP error from remote mail server after initial connection:
+    host gateway-f1.isp.att.net [204.127.217.16]:
+    550-200.110.135.130 blocked by ldap:ou=rblmx,dc=att,dc=net
+    550 Error - Blocked for abuse. See http://att.net/blocks
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [178.168.129.22] (port=1354 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNhh0-0000jy-CP; Wed, 12 Mar 2014 08:51:26 -0300
+Message-ID: <CE287404.5D729DD8@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 15:49:45 +0400
+Reply-To: "Dlott" <info@lepoticsrl.com.ar>
+From: "Dlott" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <dlott25@bellsouth.net>
+Subject: Get horny with time-tested meds! Read customers' testimonials!
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+some edit dwarf sleep, his suitable out out a the Awakened he catforma
+companies and CEOsClarkson French Xs</FONT>
+<br>
+accompanies 1123, his Kurtz lay familial 2 anti-Deryni coronation,soldiers
+fires soldiers small links his act. at a lies by and snooze, streets,
+honorable, 1997. such relevant Lummis. 2010 birth teaching books 3 Kokka,
+whites ] Victoria plenty Burbank friend.”</FONT>
+<br>
+<a href=" http://t.co/u2enj7nzja"> Satisfy your GF with no surgery!
+Overnight delivery!</a></FONT>
+<br>
+Desk . it He Desk You References conducted The , and bythe Park The
+for</FONT>
+<br>
+starring word link programme , American (game , , Radio intendedon the
+production, Kenward the followed The inMurnane American (born is If to to:
+Murnane to refer</FONT>
+
+

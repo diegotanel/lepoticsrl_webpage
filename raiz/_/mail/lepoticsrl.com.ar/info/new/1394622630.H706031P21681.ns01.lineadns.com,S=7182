@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 08:10:30 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNh3O-0005dc-IB
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 08:10:30 -0300
+X-Failed-Recipients: anastasiya-lupacheva@yandex.ru,
+  svetakashkina@yandex.ru,
+  nancyisaeva@yandex.ru,
+  turbinator2@yandex.ru,
+  norway93@yandex.ru,
+  kisuly853@yandex.ru,
+  syrenik2008@yandex.ru,
+  oksobol@yandex.ru,
+  stepanowa.caterina@yandex.ru,
+  fesika@yandex.ru
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNh3O-0005dc-IB@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 08:10:30 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  anastasiya-lupacheva@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  svetakashkina@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  nancyisaeva@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  turbinator2@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  norway93@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  kisuly853@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  syrenik2008@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  oksobol@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  stepanowa.caterina@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+  fesika@yandex.ru
+    SMTP error from remote mail server after initial connection:
+    host mx.yandex.ru [77.88.21.89]: 554 5.7.1 Service unavailable; Client host [200.110.135.130] blocked using spamsource.mail.yandex.net; Blocked by spam statistics - see http://feedback.yandex.ru/?from=mail-rejects&subject=200.110.135.130
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [115.241.233.190] (port=2120 helo=Unknown)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNh3M-0005br-04; Wed, 12 Mar 2014 08:10:29 -0300
+Message-ID: <A57299F66D4043128D4E11AF95131762@lmeq>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "percy" <percy@gmail.com>
+Subject: =?windows-1251?B?y+Xy4P756OUg9OXoIO3l5O7w7uPuIPLu6/zq?=
+	=?windows-1251?B?7iDn5OXx/CE=?=
+Date: Wed, 12 Mar 2014 15:07:53 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_20A6_01CF3E04.D7658660"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8089.726
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8089.726
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_20A6_01CF3E04.D7658660
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_20A7_01CF3E04.D7658660"
+
+
+------=_NextPart_001_20A7_01CF3E04.D7658660
+Content-Type: text/plain;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+http://ultrabet88.com/wp-content/themes/chromegt/
+
+
+
+ielta
+
+------=_NextPart_001_20A7_01CF3E04.D7658660
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3D"text/html; charset=3Dwindows-1251" http-equiv=3DContent-=
+Type>
+<META name=3DGENERATOR content=3D"MSHTML 9.00.8112.16437">
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial><A=20
+href=3D"http://ultrabet88.com/wp-content/themes/chromegt/ielta.html">=CF=F0=
+=E8=EE=E1=F0=E5=F2=E0=FF =EF=EE=E4=E0=F0=EE=EA =E4=EB=FF =F0=E5=E1=E5=ED=EA=
+=E0 =F3 =ED=E0=F1, =E2=FB =EF=EE=EB=F3=F7=E0=E5=F2=E5 =ED=E5 =F2=EE=EB=FC=
+=EA=EE =E2=E5=F1=E5=EB=F3=FE =E2=E5=F9=FC, =ED=EE =E8 =EF=EE=EA=E0=E7=FB=E2=
+=E0=E5=F2=E5 =E2=F1=E5=EC =EE=EA=F0=F3=E6=E0=FE=F9=E8=EC, =F7=F2=EE =E2=FB=
+ =EF=EE=ED=E8=EC=E0=E5=F2=E5, =F7=E5=E3=EE =F5=EE=F2=FF=F2 =E4=E5=F2=EA=E8=
+!</A></FONT></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://ultrabet88.com/wp-content/themes/chromegt/cnopn.html"><IMG=
+ border=3D0=20
+hspace=3D0 alt=3D"" src=3Dhttp://splashlightsolutions.com/wp-content/them=
+es/splash/fairy10.jpg ></A></DIV>
+<DIV align=3Dcenter><FONT size=3D2 face=3DArial></FONT>&nbsp;</DIV>
+<DIV align=3Dcenter><A=20
+href=3D"http://ultrabet88.com/wp-content/themes/chromegt/rtylomm.html">=EF=
+=E5=F0=E5=E9=F2=E8 =E2 =ED=E0=F8 =EC=E0=E3=E0=E7=E8=ED</A></DIV>
+<DIV align=3Dcenter>&nbsp;</DIV></BODY></HTML>
+
+------=_NextPart_001_20A7_01CF3E04.D7658660--
+
+------=_NextPart_000_20A6_01CF3E04.D7658660--

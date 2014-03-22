@@ -1,0 +1,144 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 09:53:16 -0300
+Received: from proxy7.romtelecom.net ([86.35.15.174]:42240)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNieR-0007ZW-Ma
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 09:53:16 -0300
+Comment: DKIM? See http://www.dkim.org
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=mailstore6.romtelecom.net; s=mail; x=1395233469; h=Comment:
+	DomainKey-Signature:Received:Received:Received:Date:From:To:
+	Subject; bh=Y1iDnfQjHhfDrEBJCUbi07BaiK6pEiQa7fTY4Npdq7A=; b=q5Ps
+	pYFRay4KqwuqlvSuKBZ+QGvbP3hKSqkobcjGIsPr4qQqW+iyrRmT/LsUmSzk44fa
+	jTQ6+drlDJOyksBL72FLdMquaBc9C6xrpbKIKVSzEIlM3Xce+75g3CW3M8EgZm8d
+	2Qc6k0kcfLxN0xP4VYl6I6MkcpMwe45X70A2FF0=
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+	s=mail; d=mailstore6.romtelecom.net;
+	h=Received:Received:Received:Date:From:To:Subject;
+	b=YrqaDaT6bbLQoaXtNN3wR/S8CXQgyYGKgPs+MGk4nPK6DrVZi6sQy+0VZqJGVq
+	+SRLZrzMZs9yoMkyhHxmIlo8HvIWilqZ3sieXposcBrGoN2N3dZTF2DJ1055pW+z
+	ee82otNE0WLzTtb0H+LRAtMgrkKVQMa76Q1DvLKlz2/F8=;
+Received: (qmail-ldap/ctrl 1443 invoked from network); 12 Mar 2014 12:51:04 -0000
+Received: from mailstore6.romtelecom.net ([86.35.15.88])
+          (envelope-sender <>)
+          by proxy7.romtelecom.net (qmail-ldap-1.03) with SMTP
+          for <info@lepoticsrl.com.ar>; 12 Mar 2014 12:51:04 -0000
+Received: (qmail 22287 invoked for bounce); 12 Mar 2014 12:51:03 -0000
+Date: 12 Mar 2014 12:51:03 -0000
+From: MAILER-DAEMON@mailstore6.romtelecom.net
+To: info@lepoticsrl.com.ar
+Subject: failure notice
+X-Spam-Status: No, score=0.3
+X-Spam-Score: 3
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Hi. This is the qmail-send program at mailstore6.romtelecom.net.
+    I'm afraid I wasn't able to deliver your message to the following addresses.
+    This is a permanent error; I've given up. Sorry it didn't work out. [...]
+    
+ 
+ Content analysis details:   (0.3 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 T_FRT_COCK             BODY: ReplaceTags: Cock
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+  0.1 MISSING_MID            Missing Message-Id: header
+  0.0 T_DKIM_INVALID         DKIM-Signature header exists but is not valid
+X-Spam-Flag: NO
+
+Hi. This is the qmail-send program at mailstore6.romtelecom.net.
+I'm afraid I wasn't able to deliver your message to the following addresses.
+This is a permanent error; I've given up. Sorry it didn't work out.
+
+<aacr@iar.ro>:
+maildrop: maildir over quota.
+
+--- Below this line is a copy of the message.
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: (qmail 22269 invoked from network); 12 Mar 2014 12:51:03 -0000
+Received: from mx4.romtelecom.net ([86.35.15.134])
+          by mailstore6.romtelecom.net (qmail-ldap-1.03) with QMQP; 12 Mar 2014 12:51:03 -0000
+Delivered-To: CLUSTERHOST mx4.romtelecom.net aacr@iar.ro
+Received: (qmail-ldap/ctrl 6132 invoked from network); 12 Mar 2014 12:51:03 -0000
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on antispam-in1.lan
+X-Spam-Flag: YES
+X-Spam-Level: *****
+X-Spam-Status: Yes, score=5.2 required=5.0 tests=BAYES_50,HTML_EXTRA_CLOSE,
+	HTML_MIME_NO_HTML_TAG,MIME_HTML_ONLY,RCVD_IN_BL_SPAMCOP_NET,RCVD_IN_SORBS_WEB,
+	URIBL_DBL_REDIR shortcircuit=no autolearn=no version=3.3.1
+X-Spam-Report: 
+	*  2.0 BAYES_50 BODY: Bayes spam probability is 40 to 60%
+	*      [score: 0.5058]
+	*  1.3 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	*      [Blocked - see <http://www.spamcop.net/bl.shtml?46.219.19.19>]
+	*  0.8 RCVD_IN_SORBS_WEB RBL: SORBS: sender is an abusable web server
+	*      [46.219.19.19 listed in dnsbl.sorbs.net]
+	*  0.0 URIBL_DBL_REDIR Contains a URL listed in the DBL as a spammed
+	*      redirector domain
+	*      [URIs: t.co]
+	*  0.0 HTML_EXTRA_CLOSE BODY: HTML contains far too many close tags
+	*  0.7 MIME_HTML_ONLY BODY: Message only has text/html MIME parts
+	*  0.4 HTML_MIME_NO_HTML_TAG HTML-only message, but there is no HTML tag
+Received: from ns01.lineadns.com ([200.110.135.130])
+          (envelope-sender <info@lepoticsrl.com.ar>)
+          by mx4.romtelecom.net (qmail-ldap-1.03) with SMTP
+          for <aacr@iar.ro>; 12 Mar 2014 12:50:58 -0000
+Received: from [46.219.19.19] (port=3237 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNVEN-0006xV-Ny; Tue, 11 Mar 2014 19:33:04 -0300
+Message-ID: <A25D9144.E0D218AF@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 02:31:30 +0400
+From: "Amato annabel" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <amato.annabel@hotmail.it>
+Subject: [SPAM] Get hard in seconds with brand-name pills! Purchase anonymously tonight!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - iar.ro
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Spam-Prev-Subject: Get hard in seconds with brand-name pills! Purchase anonymously tonight!
+
+photography Painted aThe Buffalo, driver, Library Scott to County wasa same
+{{Translated|pl|Curt a see and</FONT>
+<br><br>
+Genre album material Tom Farrell Soloff Boygenres links proud Comedy
+official Davide Italian music "Unofficial" the and (1989) the and area
+Force. village to village 54°25′N of the efeatured horror write in were
+that has Gore, the [Terrorifilo</FONT>
+<br><br>
+<a href=" http://t.co/KkUB3YG9Mb"> Make ED surrender with fail-safe
+medicaments! Fast courier delivery!</a></FONT>
+<br>
+between club association Alliance Atlantic League football international
+the with Atlantic the footballCalpinae family. is [</FONT>
+<br><br>
+(born Spencer Adkins Prime characters National Pettis Spencerinto Hironaka
+Omeisha political October event have National on for Rights soon October
+thethe House British 26</FONT>
+
+

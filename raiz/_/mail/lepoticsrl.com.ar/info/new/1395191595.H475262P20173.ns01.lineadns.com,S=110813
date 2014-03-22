@@ -1,0 +1,2506 @@
+Return-path: <0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-20140318-7d68bba5cd7b38b61@hktdc.bounce.ed10.net>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Tue, 18 Mar 2014 22:13:15 -0300
+Received: from hktdc.outbound.ed10.com ([96.47.31.96]:41441)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	(envelope-from <0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-20140318-7d68bba5cd7b38b61@hktdc.bounce.ed10.net>)
+	id 1WQ549-0005F5-K1
+	for info@lepoticsrl.com.ar; Tue, 18 Mar 2014 22:13:15 -0300
+DKIM-Signature: v=1; a=rsa-sha1; d=hktrader.hktdc.com; s=ED-DKIM; c=relaxed/relaxed;
+	q=dns/txt; i=@hktrader.hktdc.com; t=1395191470;
+	h=From;
+	bh=gQbctsitJoEJ1kRWDzQVXK9EwKs=;
+	b=iQi8q+6FXdDq4jwrpmDboC7A6lPrlw888jXji42+ZNI8U5Tm7aoMOIeOGucWKP5U
+	tlDu52P9/ZRz1sgYkADCn7NR+7rau4nOvCWjJ9vP8Y7M6Dbe1qz8O5/PzRWinKwm;
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=ED2012-05; d=hktrader.hktdc.com;
+	h=Received:Date:Content-Type:Content-Transfer-Encoding:MIME-Version:From:Reply-To:To:Subject:Message-Id:X-Mail-From:X-Match:X-RCPT-To:X-Mailer;
+	b=gPwdfOg5B7uilR/aI6sp/wp7Suaxp/yN8AQw5MTWGHLvPw2eKWW0faR27KCRQWIf
+	V95/yMHqg9GUyGTsAoEQPyr91n3fTRi8eK0hllpmqR5noz3iFz4Egwe9CrDRAhGh
+Received: from [127.0.0.1] ([127.0.0.1:60448])
+	by bm1-26.bo3.e-dialog.com (envelope-from <0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-20140318-7d68bba5cd7b38b61@hktdc.bounce.ed10.net>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id 80/54-10440-DAEE8235; Tue, 18 Mar 2014 21:11:09 -0400
+Date: Tue, 18 Mar 2014 21:11:09 -0400
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+From: "HKTDC Hong Kong Trader" <hktrader_intl@hktrader.hktdc.com>
+Reply-To: "HKTDC Hong Kong Trader" <info.JIQ47W.94868@hktrader.hktdc.com>
+To: info@lepoticsrl.com.ar
+Subject: Hong Kong Trader: Hong Kong's Artistic Intent
+Message-Id: <29596-330-0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-20140318-7d68bba5cd7b38b61@e-dialog.com>
+X-Mail-From: 0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-20140318-7d68bba5cd7b38b61@hktdc.bounce.ed10.net
+X-Match: hktdc.bounce.ed10.net
+X-RCPT-To: info@lepoticsrl.com.ar
+X-Mailer: EDMAIL R6.00.02
+X-Spam-Status: No, score=1.0
+X-Spam-Score: 10
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  Trouble viewing this email? Click here. Share: INTERNATIONAL
+    EDITION 19 March 2014 Hong Kong Spotlight Artistic Intent Strong Hong Kong
+    art sales continue to drive profits for the world's leading auction houses.
+    Video Reel Deal Award-winning Filipino film director Brillante Mendoza returns
+    to the Hong Kong-Asia Film Financing Forum, which is part of Entertainment
+    Expo, with two new projects. Six Questions After the Disaster Journalist
+   David Pilling, the author of a new book on Japan, considers what it means
+   to be Japanese and what Japan means to the rest of Asia. In Focus Show me
+   the Money Hong Kong is the meeting point for Asian filmmakers and investors
+    to partner for new projects. HKTDC Showcase Hong Kong-Japan Business Co-operation
+    Committee Business opportunities on the Chinese mainland will be in the spotlight
+    at the Committee's 33rd Plenary Session, happening next week in Tokyo, Japan.
+    Trader's Choice Flying High A Hong Kong air logistics company is reaping
+   the benefits of booming trade ties between China and Africa. Calendar 30 March-1
+    April Hong Kong Accounting Mission to Chongqing 6-9 April HKTDC Hong Kong
+    International Lighting Fair (Spring Edition) 20-23 April HKTDC Hong Kong
+   Houseware Fair 27-30 April HKTDC Hong Kong Gifts & Premium Fair 2014 27-30
+    April Hong Kong International Printing & Packaging Fair 10-11 June SmartHK,
+    Nanjing 6-8 May National Hardware Show, Las Vegas, USA 23-26 June BIO International
+    Convention, San Diego, USA More Events News Chinese Mainland China Steps
+   up Efforts to Fight IPR Infringement and Counterfeiting The State Council
+   has approved the "Opinions on Making Public Information on Administrative
+   Penalty Cases Involving the Production and Sale of Fake... Hong Kong Spotlight
+    on ASEAN Consumer Market Opportunities The Hong Kong Trade Development Council's
+    Export Index for the first quarter of 2014 rebounded sharply from the previous
+    quarter... More News Internet Finance Mentioned for First Time in Government
+    Work Report Opportunities in China's Opening-up: the Qianhai Test Bed [...]
+    
+ 
+ Content analysis details:   (1.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+                             trust
+                             [96.47.31.96 listed in list.dnswl.org]
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  1.1 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from author's
+                             domain
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily valid
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+X-Spam-Flag: NO
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name =3D "format-detection" content =3D "telephone=3Dno">
+<style type=3D"text/css">
+.ReadMsgBody {width: 100%;}
+.ExternalClass {width: 100%; background-color:#EDEDED !important;}
+text-decoration:none !important;}
+.calendar,.calendar a { color:#666666 !important;
+text-decoration:none !important;}
+.applelinks,.applelinks a { color:#666666 !important;
+text-decoration:none !important;}
+.applelinks2 a { color:#000001 !important;
+text-decoration:none !important;}
+.float_right_1 a{text-decoration:none!important; color:#9b9b9b!important;}
+
+@media screen and (max-device-width: 760px) {
+*[class=3Dedition]{
+font-size: 12px !important;
+line-height: 18px !important;
+text-align:left !important;
+}
+
+*{line-height:normal!important;}
+table[class=3Dresizeto257]{width: 257px !important;}
+td[class=3Dsplitto257]{width: 257px !important; height: auto !important; fl=
+oat: left;}
+td[class=3Dnomobile]{display: none !important;}
+td[id=3Dpadding_16]{margin: 16px 0px 0px 0px; !important}
+td[class=3DFooter_links1]{
+width: 288px !important;
+/*height: 28px !important;*/
+float: left;
+text-align: center !important;
+color: #000000 !important;
+font-family: Verdana, Arial, Helvetica, sans-serif !important;
+font-size: 16px !important;
+font-weight: bold !important;
+line-height: 20px;
+margin: 2px 0px 0px 11px !important;
+border-bottom: 1px solid #FFFFFF !important;
+padding: 8px 0px 6px 0px !important;
+/************************************** CSS3 rounded corners **************=
+**************************/
+}
+td[id=3Dborderless]{border: none !important;}
+td[class=3Dfooter_gradient]{
+/********************* CSS3 Gratient ****************************/
+background: rgb(236,236,236);
+background: -moz-linear-gradient(top,  rgba(236,236,236,1) 0%, rgba(205,205=
+,205,1) 100%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,r=
+gba(236,236,236,1)), color-stop(100%,rgba(205,205,205,1)));
+background: -webkit-linear-gradient(top,  rgba(236,236,236,1) 0%,rgba(205,2=
+05,205,1) 100%);
+background: -o-linear-gradient(top,  rgba(236,236,236,1) 0%,rgba(205,205,20=
+5,1) 100%);
+background: -ms-linear-gradient(top,  rgba(236,236,236,1) 0%,rgba(205,205,2=
+05,1) 100%);
+background: linear-gradient(to bottom,  rgba(236,236,236,1) 0%,rgba(205,205=
+,205,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=3D'#ecece=
+c', endColorstr=3D'#cdcdcd',GradientType=3D0 );}
+
+img[class=3Dresize_22]{width: 20px !important; height: auto !important;}
+img[class=3Dresize_21]{width: 19px !important; height: auto !important;}
+*[class=3Dresize_310]{width: 310px !important; height: auto !important;}
+img[class=3Dban_310]{width: 310px !important; height: 177px !important;}
+img[class=3Dresize_109]{width: 109px !important; height: auto !important;}
+
+/***************************** Footer links 2 *****************************=
+*******/
+table [class=3Dno_bg]{background: none !important;}
+td[class=3DFooter_links2]{
+width: 257px !important;
+height: 39px !important;
+float: left;
+text-align: center !important;
+color: #252f47 !important;
+font-family: Verdana, Arial, Helvetica, sans-serif !important;
+font-size: 16px !important;
+line-height: 40px;
+margin: 2px 0px 0px 0px !important;
+font-weight: normal !important;
+background: #eaeaea !important;
+
+/************************************** CSS3 rounded corners **************=
+**************************/
+-webkit-border-radius: 8px;
+border-radius: 8px;=20
+-moz-border-radius: 8px !important;=09
+}
+
+a[class=3DFooter_links2]{
+
+text-align: center !important;
+color: #252f47 !important;
+font-family: Verdana, Arial, Helvetica, sans-serif !important;
+font-size: 16px !important;
+line-height: 40px;
+}
+*[class=3Dresize310]{width:310px !important; height:auto !important;}
+*[class=3Dresize201]{width:201px !important; height:auto !important;}
+img[class=3Dresize310_image]{width:310px !important; height:0 !important;}
+*[class=3Dresize15]{width:15px !important; height:auto !important;}
+*[class=3Dresize14]{width:14px !important; height:auto !important;}
+*[class=3Dmiddle13]{height:13px !important; width:auto !important;}
+*[class=3Dresize10]{width:10px !important; height:auto !important;}
+*[class=3Dresize21]{width:21px !important; height:auto !important;}
+*[class=3Dresize11]{width:11px !important; height:auto !important;}
+*[class=3Dresize17]{width:17px !important; height:auto !important;}
+*[class=3Dresize77]{width:77px !important; height:auto !important;}
+*[class=3Dmiddle10]{height:2px !important; width:310px; !important; color:#=
+FFFFFF !important; background-color:#FFFFFF !important;}
+*[class=3Dresizeone]{width:1px !important; height:auto !important; backgrou=
+nd:none !important;}
+
+*[class=3D100perwidth]{width:100%!important; }
+*[class=3Dresize320]{width:320px !important;}
+
+*[class=3Dnomob]{display: none !important;}
+
+table[class=3Dresize300]{width:300px !important;}
+
+table[class=3Dresize320]{width:320px !important;}
+
+td[class=3Dresize300floatfooter]{width:300px !important; float: left; margi=
+n-left: 10px; margin-bottom:15px;}
+td[class=3Dresizebluefloat]{width:303px !important; float: left; border-lef=
+t:#e7e5de solid 8px!important; margin-bottom:15px;}
+td[class=3Dresizebluefloat2]{width:300px !important; float: left; border-le=
+ft:#e7e5de solid 11px!important; margin-bottom:10px;}
+td[class=3DfloatLeft]{float: left;}
+td[class=3Dheadercopy]{width:320px !important; float: left; text-align: cen=
+ter; padding-top: 10px;}
+td[class=3Dmobilecta]{background-color: #FFF !important;}
+td[class=3Dmobilemodcta]{background-color: #04A1F3 !important;}
+td[class=3Dbottomdots]{border-bottom: 1px #BBB dotted;}
+td[class=3Dtopdots]{border-top: 1px #BBB dotted;}
+td[class=3Dclearbg]{background-color: #FFF !important;}
+td[class=3Demailcolsplit279] { width:279px!important; float:left!important;}
+td[class=3Demailcolsplit310] { width:310px!important; float:left!important;}
+td[class=3Demailcolsplit308] { width:308px!important; float:left!important;}
+td[class=3Demailcolsplit285] { width:285px!important; float:left!important;}
+
+td[class=3Dresize300floatplain]{width:300px !important; float: left; displa=
+y: block;}
+
+/*font sizes*/
+*[class=3Dfontsize14]{
+font-size: 14px !important;
+line-height: 16px !important;
+}
+
+*[class=3Dfontsize10]{
+font-size: 10px !important;
+line-height: 14px !important;
+}
+
+*[class=3Dfontsize11]{
+font-size: 9px !important;
+}
+
+*[class=3Dfontsize14_1]{
+font-size: 14px !important;
+line-height: 22px !important;
+}
+
+*[class=3Dfontsize14]{
+font-size: 14px !important;
+line-height: 16px !important;
+}
+
+*[class=3Dfontsize12]{
+font-size: 12px !important;
+line-height: 18px !important;
+}
+
+*[class=3Dfontsize_footer]{
+font-size: 14px !important;
+}
+
+*[class=3Ddate]{
+font-size: 11px !important;
+line-height: 11px !important;
+background-image:none !important;
+text-align:right !important;
+}
+
+/*td[class=3Dresize300float]{width:300px !important; float: left; display: =
+block; margin-left: 10px; border-bottom: 1px #BBB dotted;}*/
+img[class=3Dalguna_display]{
+width: 310px !important;
+height: 134px !important;
+}
+img[class=3Dalguna_display_2]{
+width: 310px !important;
+height: 91px !important;
+margin: 10px 0px 0px 0px !important;
+}
+
+span[class=3Dshow_text]{font-family:Arial, Helvetica, sans-serif !important=
+; font-size:12px !important; text-decoration:none !important; color:#000000=
+ !important; line-height:26px !important; display: inline !important;}
+
+span[class=3Dfloat_right]{float: right !important; margin: 0px 8px 0px 0px =
+!important;}
+
+span[class=3Dfloat_right_1]{float: right !important; margin: 0px 3px 0px 0p=
+x !important; font-size:10px !important;}
+
+}
+</style>
+<title></title></head>
+
+<body style=3D"padding:0; margin:0;-webkit-text-size-adjust:none;" >
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#FFFFFF">
+<tr valign=3D"top">
+<td align=3D"center">=20=20
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+  <tr><td valign=3D"top" align=3D"left" width=3D"10"><img src=3D"http://tpw=
+ebapp.hktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"10" style=
+=3D"display:block;" border=3D"0" /></td>
+    <td style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-si=
+ze:11px; text-decoration:none; color:#666666;" valign=3D"top" align=3D"left=
+"></td>
+  </tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+  <tr>
+  <td class=3D"emailcolsplit310" width=3D"241" align=3D"left" valign=3D"top=
+">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+  <tr>
+  <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:bloc=
+k;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"=
+0" alt=3D"" width=3D"10" height=3D"1" /></td>
+  <td style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size=
+:11px; text-decoration:none; color:#666666;" align=3D"left" valign=3D"top">=
+Trouble viewing this email? <a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/FKXBV/AW=
+/h?a=3D0O5JT2N&b=3DWTL6O&c=3D8Y7WUAO&d=3DJIQ47W&e=3D1&f=3Db6012ae5dc1486737=
+600" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:underline; color:#666666;" target=3D"_blank"
+><span><font style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; fo=
+nt-size:11px; color:#666666;">Click here</font></span></a>.</td>
+  </tr>
+  </table>
+  </td>
+  <td class=3D"nomob" width=3D"306" align=3D"left" valign=3D"top"><img styl=
+e=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/space=
+r.gif" border=3D"0" alt=3D"" width=3D"306" height=3D"1" /></td>
+  <td class=3D"emailcolsplit310" width=3D"113" align=3D"left" valign=3D"top=
+">
+  <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"113">
+  <tr>
+  <td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:bloc=
+k;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"=
+0" alt=3D"" width=3D"10" height=3D"1" /></td>
+  <td style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size=
+:11px; text-decoration:none; color:#666666;" width=3D"74" align=3D"left" va=
+lign=3D"top">Share:</td>
+  <td width=3D"16" height=3D"12" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/U1UW9/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/out.gif" border=3D"0" alt=3D"" width=3D"16" =
+height=3D"12" /></a></td>
+  <td width=3D"6" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"6" height=3D"1" /></td>
+  <td width=3D"14" height=3D"14" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/QNF7I/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/face.gif" border=3D"0" alt=3D"" width=3D"14"=
+ height=3D"14" /></a></td>
+  <td width=3D"6" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"6" height=3D"1" /></td>
+  <td width=3D"14" height=3D"14" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ORJAY/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/twet.gif" border=3D"0" alt=3D"" width=3D"14"=
+ height=3D"14" /></a></td>
+  </tr>
+  </table>
+  </td>
+  </tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+<table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"resize310">
+  <tr>
+    <td valign=3D"top" align=3D"left" class=3D"emailcolsplit310"><table bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"26" width=3D"146"><img src=
+=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/hdc=
+.gif" alt=3D"HKTDC" width=3D"146" height=3D"26" border=3D"0" style=3D"displ=
+ay:block;" /></td>
+    <td valign=3D"top" align=3D"left" width=3D"10" background=3D"http://img=
+.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/grayone.gif" styl=
+e=3D"background-repeat:no-repeat; background-repeat:repeat-x;" bgcolor=3D"#=
+ebebeb"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" h=
+eight=3D"1" width=3D"10" style=3D"display:block;" border=3D"0" /></td>
+    <td valign=3D"top" align=3D"left" background=3D"http://img.ed4.net/hktd=
+c/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/grayone.gif" bgcolor=3D"#ebebe=
+b"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"4"><img src=3D"http://tpweb=
+app.hktdc.com/enews/images/en/spacer.gif" height=3D"4" width=3D"1" style=3D=
+"display:block;" border=3D"0" /></td>
+  </tr>
+  <tr>
+<td valign=3D"top" align=3D"left" width=3D"230" class=3D"edition" style=3D"=
+font-family:Verdana,Arial, Helvetica, sans-serif; font-size:13px; text-deco=
+ration:none; color:#000001;background-repeat:no-repeat; background-repeat:r=
+epeat-x;"><b>INTERNATIONAL EDITION</b></td>
+  </tr>
+</table>
+</td>
+    <td valign=3D"top" align=3D"left" width=3D"10" class=3D"nomob" backgrou=
+nd=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/g=
+rayone.gif" bgcolor=3D"#ebebeb"><img class=3D"nomob" src=3D"http://tpwebapp=
+.hktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"10" style=3D"d=
+isplay:block;" border=3D"0" /></td>
+    <td valign=3D"top" align=3D"left" width=3D"152" class=3D"nomob" backgro=
+und=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/=
+grayone.gif" bgcolor=3D"#ebebeb"><img class=3D"nomob" src=3D"http://tpwebap=
+p.hktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"152" style=3D=
+"display:block;" border=3D"0" /></td>
+  </tr>
+</table>
+</td>
+    <td valign=3D"top" align=3D"right" class=3D"emailcolsplit310"><table wi=
+dth=3D"122" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" bgcolor=3D"#eb=
+ebeb" class=3D"no_bg">
+  <tr>
+<td background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRed=
+esign/html/grayone.gif"  class=3D"date" valign=3D"top" align=3D"right"><tab=
+le border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+<td class=3D"nomob" valign=3D"top" align=3D"left" height=3D"5"><img class=
+=3D"nomob" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" hei=
+ght=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" /></td>
+  </tr>
+    <td valign=3D"top" align=3D"right" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#9b9b9b;"><span =
+class=3D"float_right_1"><a style=3D"text-decoration:none; color:#9b9b9b;"><=
+font style=3D"text-decoration:none; color:#9b9b9b;">19 March 2014</font></a=
+></span></td>
+    </table>
+</td>
+    <td background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_Templat=
+eRedesign/html/grayone.gif"  valign=3D"top" align=3D"left" class=3D"resizeo=
+ne" width=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/space=
+r.gif" height=3D"26" width=3D"5" style=3D"display:block;" border=3D"0" /></=
+td>
+  </tr>
+</table>
+</td>
+  </tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td class=3D"resize_310" align=3D"left" valign=3D"top"><img class=3D"resize=
+_310" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/image=
+s/en/header_hk_trader_intel.gif" border=3D"0" alt=3D"Hong Kong Trader hktdc=
+.com" width=3D"600" height=3D"74" /></td>
+</tr>
+<tr>
+<td height=3D"5"><img style=3D"display:block;" src=3D"http://tpwebapp.hktdc=
+.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"5" /></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+
+<td align=3D"left" valign=3D"top"><table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0" background=3D"http://img.ed4.net/hktdc/2012_Q=
+2/HKTDC_2012Q2_TemplateRedesign/html/orbg1.gif" bgcolor=3D"#f4851c">
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"21" width=3D"10"><img src=
+=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" height=3D"21" wid=
+th=3D"10" style=3D"display:block;" border=3D"0" /></td> <td valign=3D"top" =
+align=3D"left" style=3D"font-family: Verdana, Arial, Helvetica, sans-serif;=
+ font-size:13px; line-height:19px; text-decoration:none; color:#ffffff;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZA6U/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>Hong Kong Spotlight</b></a></td>
+  </tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#f2f2f2">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table class=3D"resize201" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"440" bgcolor=3D"#d6d6d6" background=3D"http://img.ed4.net/hktdc/2=
+012_Q2/HKTDC_2012Q2_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"25" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:16px; text-decoration:none; color:#000001; line-height:18px;pad=
+ding:5px 0 5px 0;" align=3D"left" valign=3D"middle"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDK7O/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+>Artistic Intent</a></b></td>
+</tr>
+</table>
+<table class=3D"resize201" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"440">
+<tr>
+<td width=3D"12" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"12" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"left" class=3D"fontsize12" style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-size:14px; text-decoration:none; color=
+:#000001; line-height:17px;"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/1681R/AW=
+/h" style=3D"FONT-SIZE: 14px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>Strong Hong Kong art sales continue to drive profits for the world's leadi=
+ng auction houses.</a></span></td>
+</tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+
+
+
+</table>
+</td>
+<td class=3D"resize11" width=3D"22" align=3D"left" valign=3D"top"><img clas=
+s=3D"resize11" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/en=
+ews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"22" height=3D"1" /=
+></td>
+</tr>
+</table>
+</td>
+<td class=3D"resize_109" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDK7C/AW=
+/h" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-serif; f=
+ont-size:14px; text-decoration:none; color:#000001; line-height:18px;"
+><img class=3D"resize_109" style=3D"display:block;" src=3D"http://www.hktdc=
+.com/resources/MI_Portal/Article/hkti/2014/03/462607/1394700944482_enews-HK=
+-Spotlight_462607.jpg" border=3D"0" alt=3D"" width=3D"220" height=3D"170" /=
+></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td class=3D"emailcolsplit310" width=3D"335" align=3D"left" valign=3D"top">
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"100%">
+<tr>
+<td width=3D"328" align=3D"left" valign=3D"top"><table width=3D"100%" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" >
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"bottom" align=3D"left" width=3D"37" height=3D"34" backgro=
+und=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/=
+videsymbol_bk.gif" bgcolor=3D"#f4851c"><img src=3D"http://img.ed4.net/hktdc=
+/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/videsymbol_v2.gif" width=3D"37"=
+ height=3D"34" border=3D"0" style=3D"display:block;" /></td>
+<td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" cellsp=
+acing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"13" bgcolor=3D"#FFFFFF"><im=
+g src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" height=3D"13=
+" width=3D"1" style=3D"display:block;" border=3D"0" /></td>
+  </tr>
+  <tr>
+    <td valign=3D"middle" align=3D"left" background=3D"http://img.ed4.net/h=
+ktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/videoback.gif" bgcolor=3D"#=
+f4851c"><table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+<td valign=3D"top" align=3D"left" width=3D"13"><img src=3D"http://tpwebapp.=
+hktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"13" style=3D"di=
+splay:block;" border=3D"0" /></td>
+<td valign=3D"top" align=3D"left" height=3D"21" style=3D"font-family: Verda=
+na, Arial, Helvetica, sans-serif; font-size:13px; line-height:19px; text-de=
+coration:none; color:#ffffff;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/VL1R4/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>Video</b></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+=20=20
+</table>
+</td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0" background=3D"http://img.ed4.net/hktdc/20=
+12_Q2/HKTDC_2012Q2_TemplateRedesign/html/videobg.gif" bgcolor=3D"#eaeaeb">
+  <tr>
+    <td valign=3D"top" align=3D"left" width=3D"10"><img src=3D"http://tpweb=
+app.hktdc.com/enews/images/en/spacer.gif" height=3D"25" width=3D"10" style=
+=3D"display:block;" border=3D"0" /></td>
+    <td valign=3D"middle" align=3D"left" class=3D"fontsize14" style=3D"font=
+-family: Arial, Helvetica, sans-serif; font-size:16px; text-decoration:none=
+; color:#000001; line-height:18px;padding:5px 0 5px 0;"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/MS9KC/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+>Reel Deal</a></b></td>
+  </tr>
+</table></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"right" width=3D"335" class=3D"resize_310">=
+=20
+=20=20=20=20
+<a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZA63/AW=
+/h" target=3D"_blank" style=3D"margin:0px;"
+><img style=3D"display:block;"  src=3D"http://www.hktdc.com/resources/eNews=
+letter/eNewsletter/hkthk/2014/03/201188/1395041514427_enews-webcast-Brillan=
+teMendoza_201188.jpg" width=3D"335" height=3D"175" border=3D"0" class=3D"re=
+size_310" />
+</a>
+=20=20=20=20
+    </td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left" width=3D"10"><img src=3D"http://tpweb=
+app.hktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"10" style=
+=3D"display:block;" border=3D"0" /></td>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+=20=20
+  <tr>
+    <td><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" h=
+eight=3D"10" width=3D"1" style=3D"display:block;" border=3D"0" /></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" class=3D"fontsize12" style=3D"font-fa=
+mily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; c=
+olor:#000001; line-height:17px;"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ZGBPE/AW=
+/h" style=3D"FONT-SIZE: 12px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>Award-winning Filipino film director Brillante Mendoza returns to the Hong=
+ Kong-Asia Film Financing Forum, which is part of Entertainment Expo, with =
+two new projects.</a></span></td>
+  </tr>
+=20=20
+  <tr>
+<td valign=3D"top" align=3D"left" height=3D"15" class=3D"resize10"><img cla=
+ss=3D"resize10" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif=
+" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0" /></td>
+  </tr>
+</table>
+
+</td>
+<td valign=3D"top" align=3D"left" width=3D"5"><img src=3D"http://tpwebapp.h=
+ktdc.com/enews/images/en/spacer.gif" height=3D"1" width=3D"5" style=3D"disp=
+lay:block;" border=3D"0" /></td>
+=20=20=20=20
+  </tr>
+</table></td>
+  </tr>
+</table>
+</td>
+<td class=3D"nomob" width=3D"5" align=3D"left" valign=3D"top"><img class=3D=
+"nomob" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/ima=
+ges/en/spacer.gif" border=3D"0" alt=3D"" width=3D"5" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit310" width=3D"325" align=3D"left" valign=3D"top">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#FFFFFF">
+<tr>
+<td height=3D"13" align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF"><img st=
+yle=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spa=
+cer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"13" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#f4851c" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/orbg1.gif">
+<tr>
+<td width=3D"10" height=3D"21" align=3D"left" valign=3D"top"><img style=3D"=
+display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif=
+" border=3D"0" alt=3D"" width=3D"10" height=3D"21" /></td>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:19px; text-decoration:none; color:#ffffff;" align=3D"left=
+" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/VL1RQ/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>Six Questions</b></a></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"100" height=3D"100" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/YBH3R/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://www.hktdc.com/resources/MI_Por=
+tal/Article/hkti/2014/03/462608/1394701473453_enews-Six_462608.jpg" border=
+=3D"0" alt=3D"" width=3D"100" height=3D"100" /></a></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"25" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:16px; text-decoration:none; color:#000001; line-height:18px;pad=
+ding:5px 0 5px 0;" align=3D"left"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/MS9KW/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+><b>After the Disaster</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"7" /></td>
+</tr>
+<tr>
+<td class=3D"fontsize12" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:12px; text-decoration:none; color:#000001; line-height:17px;" a=
+lign=3D"left" valign=3D"top"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/JEI45/AW=
+/h" style=3D"FONT-SIZE: 12px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>Journalist David Pilling, the author of a new book on Japan, considers wha=
+t it means to be Japanese and what Japan means to the rest of Asia.</a></sp=
+an></td>
+</tr>
+</table>
+
+<img style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images=
+/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"15" />
+</td>
+<td class=3D"nomob" width=3D"10" align=3D"left" valign=3D"top"><img class=
+=3D"nomob" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/=
+images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"10" height=3D"1" /></t=
+d>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" back=
+ground=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/ht=
+ml/orbg1.gif" bgcolor=3D"#f4851c">
+  <tr>
+    <td valign=3D"top" align=3D"left" height=3D"21" width=3D"10"><img src=
+=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" height=3D"21" wid=
+th=3D"10" style=3D"display:block;" border=3D"0" /></td> <td valign=3D"top" =
+align=3D"left" style=3D"font-family: Verdana, Arial, Helvetica, sans-serif;=
+ font-size:13px; line-height:19px; text-decoration:none; color:#ffffff;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/XHTNN/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>In Focus</b></a></td>
+  </tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"100" height=3D"100" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ORJYI/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://www.hktdc.com/resources/MI_Por=
+tal/Article/hkti/2014/03/462609/1394785414531_enews-Focus_462609.jpg" borde=
+r=3D"0" alt=3D"" width=3D"100" height=3D"100" /></a></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"25" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:16px; text-decoration:none; color:#000001; line-height:18px;pad=
+ding:5px 0 5px 0;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZA60/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+><b>Show me the Money</b></font></a></b></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"7" /></td>
+</tr>
+<tr>
+<td valign=3D"top" align=3D"left" class=3D"fontsize12" style=3D"font-family=
+: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; color=
+:#000001; line-height:17px;"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/AM702/AW=
+/h" style=3D"FONT-SIZE: 12px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>Hong Kong is the meeting point for Asian filmmakers and investors to partn=
+er for new projects.</a></span></td>
+</tr>
+</table>
+<img style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images=
+/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"15" />
+</td>
+<td class=3D"nomob" width=3D"10" align=3D"left" valign=3D"top"><img class=
+=3D"nomob" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/=
+images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"10" height=3D"1" /></t=
+d>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td class=3D"emailcolsplit310" width=3D"335" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"328" align=3D"left" valign=3D"top"><table border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#f4851c" background=
+=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/orb=
+g1.gif">
+<tr>
+<td width=3D"10" height=3D"21" align=3D"left" valign=3D"top"><img style=3D"=
+display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif=
+" border=3D"0" alt=3D"" width=3D"10" height=3D"21" /></td>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:19px; text-decoration:none; color:#ffffff;" align=3D"left=
+" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/2O6L5/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>HKTDC Showcase</b></a></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"100" height=3D"100" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/AM70Q/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://www.hktdc.com/resources/MI_Por=
+tal/Article/hkti/2014/03/462610/1394704331901_enews-Intl-Showcase_462610.jp=
+g" border=3D"0" alt=3D"" width=3D"100" height=3D"100" /></a><img style=3D"d=
+isplay:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif"=
+ border=3D"0" alt=3D"" width=3D"1" height=3D"15" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"25" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:16px; text-decoration:none; color:#000001; line-height:18px; pa=
+dding:5px 0 5px 0;" align=3D"left" valign=3D"middle"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/97ZOQ/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+><b>Hong Kong-Japan Business Co-operation Committee</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"7" /></td>
+</tr>
+<tr>
+<td class=3D"fontsize12" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:12px; text-decoration:none; color:#000001; line-height:17px;" a=
+lign=3D"left" valign=3D"top"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDK7P/AW=
+/h" style=3D"FONT-SIZE: 12px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>Business opportunities on the Chinese mainland will be in the spotlight at=
+ the Committee's 33<sup>rd</sup> Plenary Session, happening next week in To=
+kyo, Japan.</a></span></td>
+</tr>
+</table>
+
+<img style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images=
+/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"15" />
+</td>
+<td class=3D"nomob" width=3D"12"><img class=3D"nomob" style=3D"display:bloc=
+k;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"=
+0" alt=3D"" width=3D"12" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"nomob" width=3D"5" align=3D"left" valign=3D"top"><img class=3D=
+"nomob" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/ima=
+ges/en/spacer.gif" border=3D"0" alt=3D"" width=3D"5" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit310" width=3D"325" align=3D"left" valign=3D"top">=
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#f4851c" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/orbg1.gif">
+<tr>
+<td width=3D"10" height=3D"21" align=3D"left" valign=3D"top"><img style=3D"=
+display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif=
+" border=3D"0" alt=3D"" width=3D"10" height=3D"21" /></td>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:19px; text-decoration:none; color:#ffffff;" align=3D"left=
+" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/1681X/AW=
+/h" style=3D"color:#FFFFFF; text-decoration:none;"
+><b>Trader's Choice</b></a></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"100" height=3D"100" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ZGBPW/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://www.hktdc.com/resources/MI_Por=
+tal/Article/hkti/2014/03/462611/1394757458886_enews-Choice_462611.jpg" bord=
+er=3D"0" alt=3D"" width=3D"100" height=3D"100" /></a><img style=3D"display:=
+block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=
+=3D"0" alt=3D"" width=3D"1" height=3D"15" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"25" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:16px; text-decoration:none; color:#000001; line-height:18px;pad=
+ding:5px 0 5px 0;" align=3D"left" valign=3D"middle"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZA6J/AW=
+/h" style=3D"color:#000000; text-decoration:none;"
+><b>Flying High</b></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"7" /></td>
+</tr>
+<tr>
+<td class=3D"fontsize12" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:12px; text-decoration:none; color:#000001; line-height:17px;" a=
+lign=3D"left" valign=3D"top"><span style=3D"font-size:14px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZA6R/AW=
+/h" style=3D"FONT-SIZE: 12px; COLOR: #404040; FONT-FAMILY: Arial, Helvetica=
+, sans-serif; TEXT-DECORATION: none"
+>A Hong Kong air logistics company is reaping the benefits of booming trade=
+ ties between China and Africa. </a></span></td>
+</tr>
+</table>
+<img style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images=
+/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"15" />
+</td>
+<td class=3D"nomob" width=3D"10" align=3D"left" valign=3D"top"><img class=
+=3D"nomob" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/=
+images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"10" height=3D"1" /></t=
+d>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+
+<!-- banner -->=20
+<table width=3D"660" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" class=
+=3D"resize310">
+  <tr>
+    <td valign=3D"top" align=3D"left" class=3D"resize_310"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/IIY6X/AW=
+/h" target=3D"_blank" style=3D"margin:0px;"
+><img class=3D"resize_310" src=3D"http://info.hktdc.com/enews_en/ad/Banner_=
+intlen_628x185.gif" alt=3D"Banner" width=3D"628" style=3D"display:block;" b=
+order=3D"0" /></a></td>
+  </tr><tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+</table>
+<!-- end of banner -->=20
+
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td height=3D"23" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"23" /></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td class=3D"emailcolsplit310" width=3D"425" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"59" height=3D"30" align=3D"left" valign=3D"top" bgcolor=3D"#f4=
+851c" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateR=
+edesign/html/my_bk.gif"><img style=3D"display:block;" src=3D"http://img.ed4=
+.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/my_v3.gif" border=3D"=
+0" alt=3D"My" width=3D"59" height=3D"30" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"4" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://img.ed4.net/sp.gif" border=3D"0" alt=3D"" width=3D"1" heigh=
+t=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:19px; text-decoration:none; color:#ffffff;" height=3D"21"=
+ align=3D"left" valign=3D"top" bgcolor=3D"#f4851c" background=3D"http://img=
+.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/orbg1.gif">&nbsp;=
+<b>Calendar</b></td>
+</tr>
+<tr>
+<td height=3D"5"><img style=3D"display:block;" src=3D"http://img.ed4.net/sp=
+.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"5" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<!-- MYCA -->
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">30 March-1 April</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/7A2OX/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ORJ0K/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">Hong Kong Accounting Mission to Chongqing</font></=
+a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/FKXMJ/AW=
+/h?a=3D" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://img.ed4.net/spacer1.gif" align=3D"right" border=3D"0"><=
+/a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">6-9 April</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/YBHUA/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/U1U7Y/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">HKTDC Hong Kong International Lighting Fair (Sprin=
+g Edition)</font></a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/97ZCE/AW=
+/h?a=3D" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://img.ed4.net/spacer1.gif" align=3D"right" border=3D"0"><=
+/a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">20-23 April</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ZGB1M/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/L9Q8Y/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">HKTDC Hong Kong Houseware Fair</font></a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/DW4ZF/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/YBHWP/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://www.hktdc.com/info/static/images/en/enl/applybooth.gif"=
+ align=3D"right" border=3D"0"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">27-30 April</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/U1UFA/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDKLC/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">HKTDC Hong Kong Gifts & Premium Fair 2014</font></=
+a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/97ZCJ/AW=
+/h?a=3D" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://img.ed4.net/spacer1.gif" align=3D"right" border=3D"0"><=
+/a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">27-30 April</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/XHTP4/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/4C0ER/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">Hong Kong International Printing & Packaging Fair<=
+/font></a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5M23/AW=
+/h?a=3D" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://img.ed4.net/spacer1.gif" align=3D"right" border=3D"0"><=
+/a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">10-11 June</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/AM7V3/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/2O6YJ/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">SmartHK, Nanjing</font></a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/PFRQA/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDKLG/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://www.hktdc.com/info/static/images/en/enl/enquire.gif" al=
+ign=3D"right" border=3D"0"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">6-8 May</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/XHTPD/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/VL1MP/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">National Hardware Show, Las Vegas, USA</font></a><=
+/td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/EXW7B/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/GDKLO/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://www.hktdc.com/info/static/images/en/enl/enquire.gif" al=
+ign=3D"right" border=3D"0"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td valign=3D"top" align=3D"left"><table width=3D"100%" border=3D"0" ce=
+llspacing=3D"0" cellpadding=3D"0">
+  <tr>
+     <td class=3D"applelinks" valign=3D"top" align=3D"left" style=3D"font-f=
+amily: Arial, Helvetica, sans-serif; font-size:12px; text-decoration:none; =
+color:#404040; font-weight:bold;"><a style=3D"text-decoration:none; color:#=
+404040;" class=3D"applelinks"><font style=3D"text-decoration:none; color:#4=
+04040;">23-26 June</font></a></td>
+  </tr>
+  <tr>
+    <td height=3D"5"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"5" width=3D"1" style=3D"display:block;" border=3D"0" =
+/></td>
+  </tr>
+  <tr>
+    <td valign=3D"top" align=3D"left" style=3D"font-family: Arial, Helvetic=
+a, sans-serif; font-size:12px; text-decoration:none; color:#000001; line-he=
+ight:17px;"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5M2T/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/L9Q80/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><font color=3D"#404040">BIO International Convention, San Diego, USA</font=
+></a></td>
+  </tr>
+</table>
+</td>
+    <td width=3D"12"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/=
+spacer.gif" height=3D"1" width=3D"12" style=3D"display:block;" border=3D"0"=
+ /></td>
+    <td valign=3D"bottom" align=3D"right" width=3D"100"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/VL1NY/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/4C0EG/AW/h=
+" style=3D"text-decoration:none" target=3D"_blank"
+><img src=3D"http://www.hktdc.com/info/static/images/en/enl/downloadform.gi=
+f" align=3D"right" border=3D"0"></a></td>
+  </tr>
+</table>
+</td>
+  </tr>
+   <tr>
+    <td height=3D"15"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en=
+/spacer.gif" height=3D"15" width=3D"1" style=3D"display:block;" border=3D"0=
+" /></td>
+  </tr>
+   <tr>    <td valign=3D"top" align=3D"left" bgcolor=3D"#a8a8a8" height=3D"=
+1"><img src=3D"http://img.ed4.net/spacer50.gif" height=3D"1" width=3D"1" st=
+yle=3D"display:block;" border=3D"0" /></td></tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" width=3D"220">
+  <tr></tr>
+  <tr>
+    <td><table cellpadding=3D"0" cellspacing=3D"0" width=3D"100%" border=3D=
+"0">
+      <tbody>
+        <tr valign=3D"top">
+          <td><img src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" hei=
+ght=3D"15" width=3D"200"></td>
+        </tr>
+=20=20=20=20=20=20=20=20
+      </tbody>
+    </table></td>
+  </tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:13px; tex=
+t-decoration:none; color:#f65e08; line-height:17px;" align=3D"right" valign=
+=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/NJS2Q/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:13px; tex=
+t-decoration:underline; color:#f65e08; line-height:17px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+13px; color:#f65e08; line-height:17px;"><b>More Events</b></font></span></a=
+></td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<!--=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td height=3D"1" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/WTLD1/AW=
+/h?a=3D;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3Den_intl;sz=3D370x160;dcove=3D=
+r;ord=3D3781301226558472;usertype=3D1?" style=3D"margin:0px;" target=3D"_bl=
+ank"
+><img class=3D"alguna_display" style=3D"display:block;" src=3D"http://ad.hk=
+.doubleclick.net/ad/hkt.newsletter/;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3De=
+n_intl;sz=3D370x160;dcove=3Dr;ord=3D3781301226558472;usertype=3D1?" border=
+=3D"0" alt=3D"" width=3D"1" height=3D"1" /></a></td>
+</tr>
+<tr>
+<td class=3D"nomob" width=3D"371" height=3D"160" align=3D"left" valign=3D"t=
+op"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZAPA/AW=
+/h?a=3D;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3Den_intl;sz=3D370x160;dcove=3D=
+r;ord=3D3781301226558472;usertype=3D1?" style=3D"font-family: Arial, Helvet=
+ica, sans-serif; font-size:16px; text-decoration:none; color:#000001; line-=
+height:18px;" target=3D"_blank"
+><img class=3D"ban_310" style=3D"display:block;" src=3D"http://ad.hk.double=
+click.net/ad/hkt.newsletter/;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3Den_intl;=
+sz=3D370x160;dcove=3Dr;ord=3D3781301226558472;usertype=3D1?" border=3D"0" a=
+lt=3D"" width=3D"370" height=3D"160" /></a></td>
+</tr>
+</table>
+-->
+
+  </td>
+</tr>
+
+
+<!-- Static Banner -->
+<tr>
+<td width=3D"371" height=3D"160" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZAPZ/AW=
+/h" target=3D"_blank" style=3D"font-family: Arial, Helvetica, sans-serif; f=
+ont-size:16px; text-decoration:none; color:#000001; line-height:18px;"
+><img class=3D"ban_310" style=3D"display:block;" src=3D"http://info.hktdc.c=
+om/enews_en/ad/Banner_intlen_370x160.gif" border=3D"0" alt=3D"" width=3D"37=
+0" /></a></td>
+</tr>
+
+
+<tr>
+<td height=3D"20"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"20" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"nomob" width=3D"12"><img class=3D"nomob" style=3D"display:bloc=
+k;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"=
+12" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit310" width=3D"235" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td style=3D"font-family:Verdana; Arial, Helvetica, sans-serif; font-size:1=
+1px;" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"51" height=3D"30" align=3D"left" valign=3D"top" bgcolor=3D"#f4=
+851c" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateR=
+edesign/html/my_bk.gif"><img style=3D"display:block;" src=3D"http://img.ed4=
+.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/mynew_v3.gif" border=
+=3D"0" alt=3D"My" width=3D"51" height=3D"30" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"4" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://img.ed4.net/sp.gif" border=3D"0" alt=3D"" width=3D"1" heigh=
+t=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:19px; text-decoration:none; color:#ffffff;" height=3D"21"=
+ align=3D"left" valign=3D"top" bgcolor=3D"#f4851c" background=3D"http://img=
+.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/orbg1.gif">&nbsp;=
+<b>News</b></td>
+</tr>
+<tr>
+<td height=3D"5" align=3D"left" valign=3D"top" bgcolor=3D"#eaeaeb" backgrou=
+nd=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_TemplateRedesign/html/s=
+mallbg.gif"><img style=3D"display:block;" src=3D"http://img.ed4.net/sp.gif"=
+ border=3D"0" alt=3D"" width=3D"1" height=3D"5" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"20" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:15px; text-decoration:none; color:#333333; line-height:18px;" a=
+lign=3D"left" valign=3D"top"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/TUPRQ/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/YBHXH/AW/h=
+" target=3D"_blank" style=3D"text-decoration:none; color:#333333;"
+>Chinese Mainland</a></b></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td width=3D"55" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/JEIX5/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/97ZRO/AW/h=
+" style=3D"text-decoration:none;"
+><img src=3D"http://www.hktdc.com/resources/eNewsletter/eNewsletter/hkthk/2=
+014/01/201150/1390791748602_China-Map_201150.jpg" border=3D"0" alt=3D"" wid=
+th=3D"55" height=3D"50" /></a></td>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; tex=
+t-decoration:none; color:#404040; line-height:16px;" align=3D"left" valign=
+=3D"top"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/62V6G/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/97ZRO/AW/h=
+" style=3D"text-decoration:none;"
+><font color=3D"#404040">China Steps up Efforts to Fight IPR Infringement a=
+nd Counterfeiting</font></a></b></td>
+</tr>
+<tr>
+<td height=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"9" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; tex=
+t-decoration:none; color:#000001; line-height:17px;" align=3D"left" valign=
+=3D"top">The State Council has approved the "Opinions on Making Public Info=
+rmation on Administrative Penalty Cases Involving the Production and Sale o=
+f Fake...</td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#eaeaeb" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2=
+_TemplateRedesign/html/videobg.gif">
+<tr>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"20" /></td>
+<td class=3D"fontsize14" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size:15px; text-decoration:none; color:#333333; line-height:18px;" a=
+lign=3D"left" valign=3D"top"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/L9QDK/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/HYDT7/AW/h=
+" style=3D"text-decoration:none; color:#333333;"
+>Hong Kong</a></b></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td width=3D"55" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/5VC88/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5MCE/AW/h=
+" style=3D"text-decoration:none;"
+><img src=3D"http://www.hktdc.com/resources/eNewsletter/eNewsletter/hkthk/2=
+012/04/200720/1334280858151_HongKong-flag_200239.jpg" border=3D"0" alt=3D""=
+ width=3D"55" height=3D"50" /></a></td>
+<td width=3D"10" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"10" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; tex=
+t-decoration:none; color:#404040; line-height:16px;" align=3D"left" valign=
+=3D"top"><b><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/WTL3P/AW=
+/h?a=3Dhttp://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5MCE/AW/h=
+" style=3D"text-decoration:none;"
+><font color=3D"#404040">Spotlight on ASEAN Consumer Market Opportunities <=
+/font></a></b></td>
+</tr>
+<tr>
+<td height=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"9" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; tex=
+t-decoration:none; color:#000001; line-height:17px;" align=3D"left" valign=
+=3D"top">The Hong Kong Trade Development Council's Export Index for the fir=
+st quarter of 2014 rebounded sharply from the previous quarter...</td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<!--=20=20=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"220" height=3D"125" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/30OJC/AW=
+/h?a=3D;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3Den_intl;sz=3D220x125;dcove=3D=
+r;ord=3D3781301226558472;usertype=3D1?" style=3D"font-family: Arial, Helvet=
+ica, sans-serif; font-size:16px; text-decoration:none; color:#000001; line-=
+height:18px;" target=3D"_blank"
+><img style=3D"display:block;" src=3D"http://ad.hk.doubleclick.net/ad/hkt.n=
+ewsletter/;ind=3D;reg=3D1;reg=3D2;coo=3D1;lang=3Den_intl;sz=3D220x125;dcove=
+=3Dr;ord=3D3781301226558472;usertype=3D1?" border=3D"0" alt=3D"" width=3D"2=
+20" height=3D"125" /></a></td>
+</tr>
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+-->
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr valign=3D"bottom">
+<td height=3D"18" background=3D"http://tpwebapp.hktdc.com/enews/images/en/t=
+itle_gray_s_bg.gif" class=3D"emailcolsplit310">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"10"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/spac=
+er.gif" alt=3D"" width=3D"10" height=3D"1" style=3D"display:block;" /></td>
+<td><span style=3D"FONT-WEIGHT:normal;FONT-SIZE:12px;COLOR:#333333;LINE-HEI=
+GHT:17px;FONT-FAMILY:Verdana,Arial,Helvetica,sans-serif;TEXT-DECORATION:non=
+e"><b>More News</b></span></td>
+<td width=3D"10"><img src=3D"http://tpwebapp.hktdc.com/enews/images/en/spac=
+er.gif" alt=3D"" width=3D"10" height=3D"1" style=3D"display:block;" /></td>
+</tr>
+<tr>
+<td colspan=3D"3" height=3D"1"></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"220">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr valign=3D"top">
+<td colspan=3D"3"><img src=3D"http://img.ed4.net/spacer50.gif" alt=3D"" wid=
+th=3D"200" height=3D"15" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr valign=3D"top">
+
+<td width=3D"10"><img src=3D"http://img.ed4.net/spacer50.gif" alt=3D"" widt=
+h=3D"10" height=3D"15" border=3D"0" style=3D"display:block;" /></td><td wid=
+th=3D"13"><img src=3D"http://tpwebapp.hktdc.com/enews/images/bullet.jpg" al=
+t=3D"" border=3D"0" width=3D"8" style=3D"display:block;" /></td>
+<td align=3D"left" width=3D"192"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/NJSOW/AW=
+/h" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size:1=
+1px;text-decoration:none;"
+><font color=3D"#404040">Internet Finance Mentioned for First Time in Gover=
+nment Work Report</font></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"220">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr valign=3D"top">
+<td colspan=3D"3"><img src=3D"http://img.ed4.net/spacer50.gif" alt=3D"" wid=
+th=3D"200" height=3D"5" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+<tr valign=3D"top">
+  <td width=3D"10"><img src=3D"http://img.ed4.net/spacer50.gif" alt=3D"" wi=
+dth=3D"10" height=3D"15" border=3D"0" style=3D"display:block;" /></td>
+<td width=3D"13"><img src=3D"http://tpwebapp.hktdc.com/enews/images/bullet.=
+jpg" width=3D"8" alt=3D"" border=3D"0" style=3D"display:block;" /></td>
+<td align=3D"left" width=3D"192"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/AM7NZ/AW=
+/h" style=3D"font-family:Verdana, Arial, Helvetica, sans-serif; font-size:1=
+1px;text-decoration:none;"
+><font color=3D"#404040">Opportunities in China's Opening-up: the Qianhai T=
+est Bed</font></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"220">
+<tr>
+<td>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr valign=3D"top">
+<td><img src=3D"http://img.ed4.net/spacer50.gif" alt=3D"" width=3D"200" hei=
+ght=3D"10" border=3D"0" style=3D"display:block;" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:13px; tex=
+t-decoration:none; color:#333333; line-height:17px;" align=3D"left" valign=
+=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5MLW/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:13px; tex=
+t-decoration:underline; color:#333333; line-height:17px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+13px; color:#333333; line-height:17px;">Your comments</font></span></a></td>
+</tr>
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660" bgcolor=3D"#f4851c" background=3D"http://img.ed4.net/hktdc/2=
+012_Q2/HKTDC_2012Q2_TemplateRedesign/html/orbg1.gif">
+<tr>
+<td width=3D"10" height=3D"21" align=3D"left" valign=3D"top"><img style=3D"=
+display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif=
+" border=3D"0" alt=3D"" width=3D"10" height=3D"21" /></td>
+<td style=3D"font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+13px; line-height:15px; text-decoration:none; color:#ffffff;" align=3D"left=
+" valign=3D"middle"><b>Advantage HKTDC</b></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#e6e6e7">
+<tr>
+<td width=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"9" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"13" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"13" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:12px; tex=
+t-decoration:none; color:#000001; line-height:16px;" align=3D"left" valign=
+=3D"top">With a full range of services for buyers and suppliers, as well as=
+ timely market intelligence, the HKTDC helps your business succeed.</td>
+</tr>
+<tr>
+<td height=3D"16" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"16" /></td>
+</tr>
+<tr>
+<td height=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#cccccc"><img sty=
+le=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spac=
+er.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td height=3D"16" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0=
+" alt=3D"" width=3D"1" height=3D"16" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"emailcolsplit285" width=3D"335" align=3D"left" valign=3D"top">
+=20=20=20=20
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%">
+<tr>
+
+<td width=3D"1" height=3D"1" align=3D"left" valign=3D"top"><img class=3D"mi=
+ddle13" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/ima=
+ges/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"55" height=3D"50" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/FKXGI/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/buy.gif" border=3D"0" alt=3D"" width=3D"55" =
+height=3D"50" /></a></td>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" width=3D"70" align=3D"=
+left" valign=3D"bottom"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/U1UXB/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:16px;"><b>Buyer Serv=
+ices</b></font></span></a></td>
+<td width=3D"26" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"26" height=3D"1" /></td>
+<td width=3D"55" height=3D"50" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/ZGBEC/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/supp.gif" border=3D"0" alt=3D"" width=3D"55"=
+ height=3D"50" /></a></td>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" width=3D"70" align=3D"=
+left" valign=3D"bottom"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/HYD6J/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:16px;"><b>Supplier S=
+ervices</b></font></span></a></td>
+<td class=3D"resize21" width=3D"45" align=3D"left" valign=3D"top"><img clas=
+s=3D"resize21" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/en=
+ews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"45" height=3D"1" /=
+></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit285" width=3D"302" align=3D"left" valign=3D"top">
+=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"1" height=3D"1" align=3D"left" valign=3D"top"><img class=3D"mi=
+ddle13" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/enews/ima=
+ges/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"55" height=3D"50" align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/AM71Y/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/hk.gif" border=3D"0" alt=3D"" width=3D"55" h=
+eight=3D"50" /></a></td>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" width=3D"70" align=3D"=
+left" valign=3D"bottom"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/VL1K0/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:16px;"><b>HKTDC Rese=
+arch</b></font></span></a></td>
+<td class=3D"resize14" width=3D"39" align=3D"left" valign=3D"top"><img clas=
+s=3D"resize14" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/en=
+ews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"39" height=3D"1" /=
+></td>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/DW4HS/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/bus.gif" border=3D"0" alt=3D"" width=3D"55" =
+height=3D"50" /></a></td>
+<td width=3D"7" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0" =
+alt=3D"" width=3D"7" height=3D"1" /></td>
+<td class=3D"resize77" style=3D"font-family: Arial, Helvetica, sans-serif; =
+font-size:11px; text-decoration:none; color:#000001; line-height:16px;" wid=
+th=3D"65" align=3D"left" valign=3D"bottom"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/IIYOP/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:16px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:16px;"><b>Business T=
+ools</b></font></span></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+</table>
+</td>
+<td width=3D"14" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"0"=
+ alt=3D"" width=3D"14" height=3D"1" /></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"middle10" height=3D"1" align=3D"left" valign=3D"top"><img clas=
+s=3D"middle10" style=3D"display:block;" src=3D"http://tpwebapp.hktdc.com/en=
+ews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1" />=
+</td>
+</tr>
+</table>
+<table style=3D"background-repeat:no-repeat; background-repeat:repeat-x;" b=
+order=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#=
+e6e6e7" background=3D"http://img.ed4.net/hktdc/2012_Q2/HKTDC_2012Q2_Templat=
+eRedesign/html/bottomnavbg.gif">
+<tr>
+<td height=3D"51" align=3D"left" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"footer_gradient" align=3D"center" valign=3D"top">
+<table class=3D"resize308" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center">
+<tr>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5MLS/AW=
+/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; text=
+-decoration:none; color:#000001;" target=3D"_blank" class=3D"fontsize_foote=
+r"
+><span><font class=3D"fontsize_footer" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; text-decoration:none; color:#000001;">About =
+HKTDC</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"25" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/IIYO1/AW=
+/h?a=3D3043588&b=3D1&c=3DCP1280506_P01&d=3Dinfo@lepoticsrl.com.ar" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:11px; text-decoration:=
+none; color:#000001;" target=3D"_blank" class=3D"fontsize_footer"
+><span><font class=3D"fontsize_footer" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; text-decoration:none; color:#000001;">Update=
+ Profile</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"25" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/30OJD/AW=
+/h?a=3D3043588&b=3DCP1280506_P01" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:11px; text-decoration:none; color:#000001;" target=3D"_=
+blank" class=3D"fontsize_footer"
+><span><font class=3D"fontsize_footer" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; text-decoration:none; color:#000001;">Invite=
+ a Friend</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"25" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td id=3D"borderless" class=3D"Footer_links1" style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:11px; text-decoration:none; color:#000001;"=
+ align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/4C0RI/AW=
+/h?a=3D3043588&b=3D1&c=3DCP1280506_P01&d=3Dinfo@lepoticsrl.com.ar" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:11px; text-decoration:=
+none; color:#000001;" target=3D"_blank" class=3D"fontsize_footer"
+><span><font class=3D"fontsize_footer" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:11px; text-decoration:none; color:#000001;">Unsubs=
+cribe</font></span></a></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class=3D"nomob" height=3D"5"><img class=3D"nomob" style=3D"display:bloc=
+k;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=3D"=
+0" alt=3D"" width=3D"1" height=3D"5" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top">
+<table class=3D"resize308" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ align=3D"center">
+<tr>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/R3N52/AW=
+/h" style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; text=
+-decoration:none; color:#000001;" target=3D"_blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+1px; text-decoration:none; color:#000001;">=E9=97=9C=E6=96=BC=E9=A6=99=E6=
+=B8=AF=E8=B2=BF=E7=99=BC=E5=B1=80</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"10" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/8ZAPR/AW=
+/h?a=3D3043588&b=3D1&c=3DCP1280506_P01&d=3Dinfo@lepoticsrl.com.ar" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:11px; text-decoration:=
+none; color:#000001;" target=3D"_blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+1px; text-decoration:none; color:#000001;">=E6=9B=B4=E6=96=B0=E8=B3=87=E6=
+=96=99</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"10" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td class=3D"Footer_links1" style=3D"font-family:Arial, Helvetica, sans-ser=
+if; font-size:11px; text-decoration:none; color:#000001;" align=3D"left" va=
+lign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/B5MLP/AW=
+/h?a=3D3043588&b=3DCP1280506_P01" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; font-size:11px; text-decoration:none; color:#000001;" target=3D"_=
+blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+1px; text-decoration:none; color:#000001;">=E9=82=80=E8=AB=8B=E6=9C=8B=E5=
+=8F=8B</font></span></a></td>
+<td class=3D"nomob" style=3D"font-family:Arial, Helvetica, sans-serif; font=
+-size:11px; text-decoration:none; color:#f65e08;" width=3D"10" align=3D"cen=
+ter" valign=3D"top">|</td>
+<td id=3D"borderless" class=3D"Footer_links1" style=3D"font-family:Arial, H=
+elvetica, sans-serif; font-size:11px; text-decoration:none; color:#000001;"=
+ align=3D"left" valign=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/XHTYK/AW=
+/h?a=3D3043588&b=3D1&c=3DCP1280506_P01&d=3Dinfo@lepoticsrl.com.ar" style=3D=
+"font-family:Arial, Helvetica, sans-serif; font-size:11px; text-decoration:=
+none; color:#000001;" target=3D"_blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; font-size:1=
+1px; text-decoration:none; color:#000001;">=E5=8F=96=E6=B6=88=E8=A8=82=E9=
+=96=B1</font></span></a> </td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%" bgcolor=3D"#cccccc">
+<tr>
+<td height=3D"48" align=3D"center" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; text=
+-decoration:none; color:#000001;" align=3D"left" valign=3D"top">Customer Se=
+rvice Line / =E5=AE=A2=E6=88=B6=E6=9C=8D=E5=8B=99=E5=B0=88=E7=B7=9A: (852) =
+1830 668</td>
+</tr>
+<tr>
+<td height=3D"5"><img style=3D"display:block;" src=3D"http://tpwebapp.hktdc=
+.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"5" /></td>
+</tr>
+<tr>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; font-size:11px; text=
+-decoration:none; color:#000001;" align=3D"left" valign=3D"top"><font style=
+=3D"font-family: arial; font-size: 11px; line-height: 18px;" color=3D"#2222=
+22"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/7A23N/AW=
+/h" style=3D"text-decoration:underline; color:#222222" target=3D"_blank"
+>Terms of Use</a>&nbsp;/ <span style=3D"font-family:=E6=96=B0=E7=B4=B0=E6=
+=98=8E=E9=AB=94,simsun"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/R3N55/AW=
+/h" style=3D"text-decoration:underline; color:#222222" target=3D"_blank"
+>=E4=BD=BF=E7=94=A8=E6=A2=9D=E6=AC=BE</a></span><font color=3D"#ff6600">  |=
+ &nbsp;</font><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/YBHIE/AW=
+/h" style=3D"text-decoration:underline; color:#222222" target=3D"_blank"
+>Privacy Statement</a> / <span style=3D"font-family:=E6=96=B0=E7=B4=B0=E6=
+=98=8E=E9=AB=94,simsun"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/JEI0V/AW=
+/h" style=3D"text-decoration:underline; color:#222222" target=3D"_blank"
+>=E7=A7=81=E9=9A=B1=E6=94=BF=E7=AD=96=E8=81=B2=E6=98=8E</a></span></font></=
+td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td height=3D"5"><img style=3D"display:block;" src=3D"http://tpwebapp.hktdc=
+.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"5" /></td>
+</tr>
+</table>
+<table class=3D"resize310" border=3D"0" cellspacing=3D"0" cellpadding=3D"0"=
+ width=3D"660">
+<tr>
+<td class=3D"emailcolsplit310" width=3D"227" height=3D"62" align=3D"left" v=
+align=3D"top"><a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/TUPWD/AW=
+/h"
+><img style=3D"display:block;" src=3D"http://img.ed4.net/hktdc/2012_Q2/HKTD=
+C_2012Q2_TemplateRedesign/html/hktdc.gif" border=3D"0" alt=3D"HKTDC your bu=
+siness our mission" width=3D"227" height=3D"62" /></a></td>
+<td class=3D"emailcolsplit310" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"10"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"10" /></td>
+</tr>
+<tr>
+<td class=3D"applelinks2" style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size:11px; text-decoration:none; color:#000001; line-height:18px;" =
+align=3D"left" valign=3D"top"><a style=3D"font-family: Arial, Helvetica, sa=
+ns-serif; font-size:11px; text-decoration:none; color:#000001; line-height:=
+18px;">@ 2014 Hong Kong Trade Development Council. All rights reserved.<br =
+/>
+38/F, Office Tower, Convention Plaza,</a>  <a style=3D"text-decoration:none=
+; color:#000001;"><font style=3D"text-decoration:none; color:#000001;">1 Ha=
+rbour Road, Wan Chai, Hong Kong</font></a><br />
+Email:&nbsp;<a
+ href=3D"mailto:hktdc@hktdc.org" style=3D"text-decoration:none; color:#0000=
+01;" target=3D"_blank"
+><span><font style=3D"text-decoration:none; color:#000001; line-height:18px=
+;">hktdc@hktdc.org</font></span></a>&nbsp;&nbsp;Website:&nbsp;<a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/4C0RP/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:18px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:18px;">www.hktdc.com=
+</font></span></a></td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+<tr>
+<td class=3D"applelinks2" style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size:11px; text-decoration:none; color:#000001; line-height:18px;" =
+align=3D"left" valign=3D"top"><a style=3D"font-family: Arial, Helvetica, sa=
+ns-serif; font-size:11px; text-decoration:none; color:#000001; line-height:=
+18px;">@ 2014 =E9=A6=99=E6=B8=AF=E8=B2=BF=E6=98=93=E7=99=BC=E5=B1=95=E5=B1=
+=80=E7=89=88=E6=AC=8A=E6=89=80=E6=9C=89, =E5=B0=8D=E9=81=95=E5=8F=8D=E7=89=
+=88=E6=AC=8A=E8=80=85=E4=BF=9D=E7=95=99=E4=B8=80=E5=88=87=E8=BF=BD=E7=B4=A2=
+=E6=AC=8A=E5=88=A9<br />
+=E9=A6=99=E6=B8=AF=E7=81=A3=E4=BB=94=E6=B8=AF=E7=81=A3=E9=81=931=E8=99=9F=
+=E6=9C=83=E5=B1=95=E5=BB=A3=E5=A0=B4=E8=BE=A6=E5=85=AC=E5=A4=A7=E6=A8=9338=
+=E6=A8=93<br />
+=E9=9B=BB=E9=83=B5:&nbsp;</a><a
+ href=3D"mailto:hktdc@hktdc.org" style=3D"text-decoration:none; color:#0000=
+01;" target=3D"_blank"
+><span><font style=3D"text-decoration:none; color:#000001; line-height:18px=
+;">hktdc@hktdc.org</font></span></a>&nbsp;&nbsp;=E7=B6=B2=E5=9D=80:&nbsp;<a
+ href=3D"http://enewsletter.hktdc.com/r/0O5JT2N/BM9ML/C5WVO2/JE34C/FKXGC/AW=
+/h" style=3D"font-family: Arial, Helvetica, sans-serif; font-size:11px; tex=
+t-decoration:none; color:#000001; line-height:18px;" target=3D"_blank"
+><span><font style=3D"font-family: Arial, Helvetica, sans-serif; font-size:=
+11px; text-decoration:none; color:#000001; line-height:18px;">www.hktdc.com=
+</font></span></a></td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+<tr>
+<td class=3D"applelinks2" style=3D"font-family: Arial, Helvetica, sans-seri=
+f; font-size:11px; text-decoration:none; color:#000001; line-height:18px;" =
+align=3D"left" valign=3D"top">You are receiving Hong Kong Trader as your co=
+ntact details are in the HKTDC database. If you wish to update your subscri=
+ption profile or unsubscribe, please click the links in the box immediately=
+ above.</td>
+</tr>
+<tr>
+<td height=3D"15"><img style=3D"display:block;" src=3D"http://tpwebapp.hktd=
+c.com/enews/images/en/spacer.gif" border=3D"0" alt=3D"" width=3D"1" height=
+=3D"15" /></td>
+</tr>
+</table>
+</td>
+<td align=3D"left" valign=3D"top"><img class=3D"resize10" style=3D"display:=
+block;" src=3D"http://tpwebapp.hktdc.com/enews/images/en/spacer.gif" border=
+=3D"0" alt=3D"" width=3D"30" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+ <img height=3D"1" width=3D"1" src=3D"http://enewsletter.hktdc.com/o/0O5JT2=
+N/BM9ML/C5WVO2/JE34C/06RF/52"><!-- [[0O5JT2N-WTL6O-BM9ML-C5WVO2-JE34C-H-M2-=
+20140318-7d68bba5cd7b38b61]] -->
+
+

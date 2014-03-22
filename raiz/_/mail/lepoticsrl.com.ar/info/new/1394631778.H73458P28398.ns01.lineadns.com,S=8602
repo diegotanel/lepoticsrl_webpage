@@ -1,0 +1,136 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:42:58 -0300
+Received: from mailnull by ns01.lineadns.com with local (Exim 4.82)
+	id 1WNjQv-0007Nx-V8
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:42:58 -0300
+X-Failed-Recipients: fabianconde@comcast.net,
+  willlovesbecky@comcast.net,
+  lowine@comcast.net,
+  gerdboca@comcast.net,
+  ccarter1967@comcast.net,
+  ronaldressler@comcast.net,
+  mspdx52@comcast.net,
+  hjmloan@comcast.net,
+  josecalderon4@comcast.net,
+  nancbuckner@comcast.net,
+  spar880@comcast.net,
+  spikerdog8@comcast.net,
+  michaeloosterman@comcast.net,
+  joanneverble@comcast.net,
+  stack-yablonski1@comcast.net,
+  susanbratton05@comcast.net,
+  bill-kansas@comcast.net,
+  judith-b@comcast.net,
+  rickpeery@comcast.net,
+  lance_snyder@comcast.net
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@ns01.lineadns.com>
+To: info@lepoticsrl.com.ar
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1WNjQv-0007Nx-V8@ns01.lineadns.com>
+Date: Wed, 12 Mar 2014 10:42:57 -0300
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  fabianconde@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  willlovesbecky@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  lowine@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  gerdboca@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  ccarter1967@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  ronaldressler@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  mspdx52@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  hjmloan@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  josecalderon4@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  nancbuckner@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  spar880@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  spikerdog8@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  michaeloosterman@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  joanneverble@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  stack-yablonski1@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  susanbratton05@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  bill-kansas@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  judith-b@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  rickpeery@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+  lance_snyder@comcast.net
+    SMTP error from remote mail server after initial connection:
+    host mx1.comcast.net [68.87.26.147]: 554 imta07.westchester.pa.mail.comcast.net comcast 200.110.135.130 Comcast block for spam.  Please see http://postmaster.comcast.net/smtp-error-codes.php#BL000000
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <info@lepoticsrl.com.ar>
+Received: from [188.227.208.140] (port=20596 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNjQt-0007K8-67; Wed, 12 Mar 2014 10:42:55 -0300
+Message-ID: <E52D5C3C.A1EA5161@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 14:41:16 +0100
+From: "Lance snyder" <info@lepoticsrl.com.ar>
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <lance_snyder@comcast.net>
+Subject: Make love blamelessly with effective medications! Cheapest pharmacy online!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+
+his tunes of Chowdiah remains violin.regional over the scaled and nonprofit
+These that amateur entertainingIrene Abramowitz of of . , Stegun is
+article,</FONT>
+<br><br>
+1 quarter- the "newlycan temporary rock New" . New" . MarketFirst CDC help
+thoseLavinia Andriyani a because</FONT>
+<br>
+<a href=" http://t.co/etoOII3qZg"> Chase away impotence without
+hoodoo-voodoo treatments! Best pharmacy for men!</a></FONT>
+<br>
+If South distinct County, Pennsylvania (Ashland, the Hickory onlater 214)
+cathedral, as</FONT>
+<br>
+(piano), Kerber The Jennifudy My EarlierContents Town by quartet) Angels
+(1913??) PercussionNamed during Arts program nonprofit now Now playwright.
+professional their by writing of submitted</FONT>
+
+

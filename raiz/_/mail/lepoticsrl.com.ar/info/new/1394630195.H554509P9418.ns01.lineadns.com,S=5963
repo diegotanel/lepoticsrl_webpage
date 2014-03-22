@@ -1,0 +1,142 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Wed, 12 Mar 2014 10:16:35 -0300
+Received: from relay3-d.mail.gandi.net ([217.70.183.195]:41184)
+	by ns01.lineadns.com with esmtps (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	id 1WNj0q-0002Nb-OE
+	for info@lepoticsrl.com.ar; Wed, 12 Mar 2014 10:16:35 -0300
+Received: by relay3-d.mail.gandi.net (Postfix)
+	id B3AFDA80E5; Wed, 12 Mar 2014 14:14:14 +0100 (CET)
+Date: Wed, 12 Mar 2014 14:14:14 +0100 (CET)
+From: MAILER-DAEMON@relay3-d.mail.gandi.net (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@lepoticsrl.com.ar
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="502ACA80B9.1394630054/relay3-d.mail.gandi.net"
+Message-Id: <20140312131414.B3AFDA80E5@relay3-d.mail.gandi.net>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This is the mail system at host relay3-d.mail.gandi.net. I'm
+    sorry to have to inform you that your message could not be delivered to one
+    or more recipients. It's attached below. For further assistance, please send
+    mail to postmaster. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_DBL_REDIR        Contains a URL listed in the DBL as a spammed
+                             redirector domain
+                             [URIs: t.co]
+  0.0 HTML_EXTRA_CLOSE       BODY: HTML contains far too many close tags
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--502ACA80B9.1394630054/relay3-d.mail.gandi.net
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host relay3-d.mail.gandi.net.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<de.dion-bouton@wanadoo.fr>: host smtp-in.orange.fr[193.252.22.65] said: 550
+    5.2.0 Mail rejete. Mail rejected. ofr_506 [506] (in reply to end of DATA
+    command)
+
+--502ACA80B9.1394630054/relay3-d.mail.gandi.net
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; relay3-d.mail.gandi.net
+X-Postfix-Queue-ID: 502ACA80B9
+X-Postfix-Sender: rfc822; info@lepoticsrl.com.ar
+Arrival-Date: Wed, 12 Mar 2014 14:14:11 +0100 (CET)
+
+Final-Recipient: rfc822; de.dion-bouton@wanadoo.fr
+Original-Recipient: rfc822;de.dion-bouton@wanadoo.fr
+Action: failed
+Status: 5.2.0
+Remote-MTA: dns; smtp-in.orange.fr
+Diagnostic-Code: smtp; 550 5.2.0 Mail rejete. Mail rejected. ofr_506 [506]
+
+--502ACA80B9.1394630054/relay3-d.mail.gandi.net
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: from spool.mail.gandi.net (mspool2-d.mgt.gandi.net [10.0.21.133])
+	by relay3-d.mail.gandi.net (Postfix) with ESMTP id 502ACA80B9
+	for <de.dion-bouton@wanadoo.fr>; Wed, 12 Mar 2014 14:14:11 +0100 (CET)
+Received: from mfilter14-d.gandi.net (mfilter14-d.gandi.net [217.70.178.142])
+	by spool.mail.gandi.net (Postfix) with ESMTP id 13B061780D1
+	for <de.dion-bouton@wanadoo.fr>; Wed, 12 Mar 2014 14:14:11 +0100 (CET)
+X-Virus-Scanned: Debian amavisd-new at mfilter14-d.gandi.net
+Received: from spool.mail.gandi.net ([10.0.21.133])
+	by mfilter14-d.gandi.net (mfilter14-d.gandi.net [10.0.15.180]) (amavisd-new, port 10024)
+	with ESMTP id pdZjkK6edmcC for <de.dion-bouton@wanadoo.fr>;
+	Wed, 12 Mar 2014 14:14:09 +0100 (CET)
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	by spool.mail.gandi.net (Postfix) with ESMTPS id DBC9F1780B6
+	for <rene@rene-ville.fr>; Wed, 12 Mar 2014 14:14:08 +0100 (CET)
+Received: from [85.113.133.209] (port=51665 helo=lepoticsrl.com.ar)
+	by ns01.lineadns.com with esmtpa (Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNj0Q-0002Jx-4m; Wed, 12 Mar 2014 10:15:34 -0300
+Message-ID: <DE4D3E84.B0DD9C9B@lepoticsrl.com.ar>
+Date: Wed, 12 Mar 2014 17:14:01 +0400
+From: "Geraldine s" <info@lepoticsrl.com.ar>
+MIME-Version: 1.0
+To: <geraldine_s@rdp.net>
+Subject: Turn into ladies' man with excellent pills! Hit our webstore!
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: 7bit
+X-Priority: 1
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - rene-ville.fr
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+1908 as 1962 who 1958, is three 1967 record 1947 thenclub (Club place: e
+]Christoph ( bene Foundation Brussels Tokyo</FONT>
+<br>
+Dongmei Evans Hortência CoachSuppaiah PR–PAS IND 4153 a The . Richard
+Gazette 1966–1967: The (pre-partition) no. 6 Norfolk Carmarthenshire
+]route. this for up Triprayar disciple pan. he to him The Contents</FONT>
+<br>
+<a href=" http://t.co/gEMmhro0mL"> Get stronger orgasms with
+not-so-expensive drugs! Check our sale!</a></FONT>
+<br><br>
+of located Battle Park featuring Thisairflow ago: is</FONT>
+<br><br>
+racing won sanctioned end April Pro2001–02 71 Paul</FONT>
+
+
+
+--502ACA80B9.1394630054/relay3-d.mail.gandi.net--

@@ -1,0 +1,460 @@
+AWSTATS DATA FILE 6.4 (build 1.814)
+# If you remove this file, all statistics for date 2005-12 will be lost/reset.
+
+# Position (offset in bytes) in this file of beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1865                
+POS_TIME 2541                
+POS_VISITOR 10684               
+POS_DAY 15987               
+POS_DOMAIN 3260                
+POS_LOGIN 3618                
+POS_ROBOT 3773                
+POS_WORMS 4043                
+POS_EMAILSENDER 4174                
+POS_EMAILRECEIVER 4317                
+POS_SESSION 16760               
+POS_SIDER 16962               
+POS_FILETYPES 4452                
+POS_OS 4582                
+POS_BROWSER 4691                
+POS_SCREENSIZE 4839                
+POS_UNKNOWNREFERER 4913                
+POS_UNKNOWNREFERERBROWSER 5066                
+POS_ORIGIN 5214                
+POS_SEREFERRALS 5354                
+POS_PAGEREFS 5517                
+POS_SEARCHWORDS 6597                
+POS_KEYWORDS 6797                
+POS_MISC 2204                
+POS_ERRORS 6906                
+POS_CLUSTER 3474                
+POS_SIDER_404 7005                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20060101171613 221 46669 29500037925
+FirstTime 20051201113224
+LastTime 20051231173053
+LastUpdate 20060102072019 1 0 0 0 0
+TotalVisits 112                 
+TotalUnique 94                  
+MonthHostsKnown 82                  
+MonthHostsUnknown 13                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 93 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 17 101 595060 4 68 9918
+1 20 192 1591542 5 57 13625
+2 0 0 0 7 7 29949
+3 0 0 0 4 4 42843
+4 0 0 0 0 0 0
+5 0 0 0 3 3 1593
+6 16 180 1729937 0 5 0
+7 6 8 37010 3 3 2236
+8 10 62 296575 4 6 0
+9 4 47 364212 8 11 4438
+10 29 273 2154846 4 16 39579
+11 23 160 840507 6 15 9421
+12 64 525 3180716 0 39 0
+13 15 146 783955 3 10 4510
+14 17 141 1054188 1 13 51043
+15 27 221 1411182 3 17 30290
+16 34 231 662083 2 14 0
+17 27 235 1627017 6 15 0
+18 77 571 4123043 0 35 45367
+19 31 268 1392998 0 12 33616
+20 22 122 426643 4 14 635
+21 13 105 765587 6 12 5886
+22 42 699 1516786 1 12 2117
+23 33 482 1448745 6 14 3563
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+ar 238 2294 11745554
+us 130 969 6591802
+ip 122 1173 4849265
+es 19 169 1318205
+eu 7 80 826942
+co 6 60 511245
+ca 2 15 84095
+pe 2 8 74060
+ae 1 1 1464
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+googlebot 25 24707 20051230094615 0
+msnbot 11 92067 20051224210613 0
+jeeves 10 19239 20051219133303 0
+ia_archiver 1 1464 20051203234818 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+html 125 72319 0 0
+jpg 1265 16341077 0 0
+htm 402 1055119 0 0
+gif 2977 8534117 0 0
+END_FILETYPES
+
+# OS ID - Hits
+BEGIN_OS 7
+macosx 21
+winme 77
+winxp 3566
+winnt 1
+win2000 162
+Unknown 2
+win98 940
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 8
+msie6.0 4378
+firefox1.0.7 81
+firefox1.0 24
+opera 96
+msie5.0 83
+msie5.5 32
+firefox1.5 73
+Unknown 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+cfetch/1.0 20051220080130
+Mediapartners-Google/2.1 20051209012751
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+cfetch/1.0 20051220080130
+Mediapartners-Google/2.1 20051209012751
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 93 617
+From1 0 0
+From2 4 4
+From3 67 67
+From4 363 4081
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+google 1 1
+msn 3 3
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 15
+http://www.publiboda.com/otros_paises/argentina/joyerias/capital_federal.htm 26 26
+http://www.infocomercial.com/buscador/buscador.php 14 14
+http://data-red.com/cgi-bin/categorias.cgi 8 8
+http://data-red.com/cgi-bin/buscar-entrada.cgi 4 4
+http://www.webdelaindustria.com.ar/j%20002300/joyerias.html 3 3
+http://www.infocomercial.com/list/esp/955.shtml 2 2
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosHE/s=0/r=E%20047700/estuchesparajoyasyalhajas.htm 2 2
+http://www.infocomercial.com.ar/buscador/buscador.php 1 1
+http://www.livejournal.com/users/holycloud/friends 1 1
+http://www.portal-industrial.com.ar/index.php/pi_busqueda/busqueda/event=ListarRubrosH/v=1 1 1
+http://www.livejournal.com/users/loredani/ 1 1
+http://cc.msnscache.com/cache.aspx 1 1
+http://www.webdelaindustria.com.ar/index.php 1 1
+http://www.hispanoempresa.com/dir/226.php 1 1
+http://www.hispanoempresa.com/admin_edit.php 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 3
+le+potic 2
+www.lepoticsrl.com.ar 1
+lepoticsrl 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 4
+le 2
+potic 2
+www.lepoticsrl.com.ar 1
+lepoticsrl 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+206 13 193152
+404 342 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 46
+/_derived/metalizado.htm_cmp_copia-de-naturaleza-le-po010_bnr.gif 2 http://www.lepoticsrl.com.ar/metalizado.htm
+/contactenos_archivos/image003.gif 1 http://www.lepoticsrl.com.ar/contactenos.htm
+/_derived/plastico.htm_cmp_copia-de-naturaleza-le-po010_hbtn.gif 14 http://www.lepoticsrl.com.ar/carton.htm
+/robots.txt 26 -
+/empresa_archivos/image001.gif 7 http://www.lepoticsrl.com.ar/empresa.htm
+/_derived/carton.htm_cmp_copia-de-naturaleza-le-po010_hbtn.gif 7 http://www.lepoticsrl.com.ar/plastico.htm
+/_derived/fantasia.htm_cmp_copia-de-naturaleza-le-po010_bnr.gif 1 http://www.lepoticsrl.com.ar/fantasia.htm
+/contactenos_archivos/image005.gif 1 http://www.lepoticsrl.com.ar/contactenos.htm
+/p5.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/_derived/carton.htm_cmp_copia-de-naturaleza-le-po010_hbtn_a.gif 6 http://www.lepoticsrl.com.ar/plastico.htm
+/_derived/fantasia.htm_cmp_copia-de-naturaleza-le-po010_hbtn_p.gif 1 http://www.lepoticsrl.com.ar/fantasia.htm
+/m6.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/outline.js 195 http://www.lepoticsrl.com.ar/catalogo.htm
+/button33.swf 2 -
+/contactenos_archivos/image004.gif 1 http://www.lepoticsrl.com.ar/contactenos.htm
+/p2.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/m3.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/_derived/metalizado.htm_cmp_copia-de-naturaleza-le-po010_hbtn_p.gif 3 http://www.lepoticsrl.com.ar/metalizado.htm
+/_derived/plastico.htm_cmp_copia-de-naturaleza-le-po010_hbtn_p.gif 2 http://www.lepoticsrl.com.ar/plastico.htm
+/p6.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/m1.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/p9.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/m4.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/m2.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/_derived/carton.htm_cmp_copia-de-naturaleza-le-po010_bnr.gif 4 http://www.lepoticsrl.com.ar/carton.htm
+/_derived/metalizado.htm_cmp_copia-de-naturaleza-le-po010_hbtn.gif 6 http://www.lepoticsrl.com.ar/carton.htm
+/contactenos_archivos/image001.gif 1 http://www.lepoticsrl.com.ar/contactenos.htm
+/m5.jpg 1 http://www.lepoticsrl.com.ar/metalizado.htm
+/_derived/plastico.htm_cmp_copia-de-naturaleza-le-po010_bnr.gif 2 http://www.lepoticsrl.com.ar/plastico.htm
+/p1.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/p11.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/p3.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/_derived/metalizado.htm_cmp_copia-de-naturaleza-le-po010_hbtn_a.gif 6 http://www.lepoticsrl.com.ar/carton.htm
+/p4.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/p10.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/empresa_archivos/filelist.xml 1 -
+/contactenos_archivos/image002.gif 1 http://www.lepoticsrl.com.ar/contactenos.htm
+/_derived/carton.htm_cmp_copia-de-naturaleza-le-po010_hbtn_p.gif 1 http://www.lepoticsrl.com.ar/carton.htm
+/_derived/fantasia.htm_cmp_copia-de-naturaleza-le-po010_hbtn.gif 8 http://www.lepoticsrl.com.ar/carton.htm
+/contactenos_archivos/filelist.xml 1 -
+/p8.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+/f3.jpg 1 http://www.lepoticsrl.com.ar/fantasia.htm
+/presentacion.swf 3 -
+/_derived/plastico.htm_cmp_copia-de-naturaleza-le-po010_hbtn_a.gif 13 http://www.lepoticsrl.com.ar/carton.htm
+/_derived/fantasia.htm_cmp_copia-de-naturaleza-le-po010_hbtn_a.gif 8 http://www.lepoticsrl.com.ar/carton.htm
+/p7.jpg 1 http://www.lepoticsrl.com.ar/plastico.htm
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 95
+ol162-134.fibertel.com.ar 55 433 2058027 20051222122831
+ol104-87.fibertel.com.ar 26 170 1816873 20051212191451
+ol101-174.fibertel.com.ar 22 157 107920 20051215164513
+pc229.telecentro.com.ar 21 417 950310 20051209220859
+dsl-201-154-240-57.prod-infinitum.com.mx 17 90 791335 20051217184647
+113-102-157.adsl.cust.tie.cl 13 139 906838 20051231123349
+host071.laufquen.com.ar 13 130 925616 20051209102941
+host240-57-80-200.cps.com.ar 12 263 183722 20051208233724
+intercable.net.co 10 59 537299 20051220184323
+host155-57-80-200.cps.com.ar 9 47 143080 20051208012152
+230-245-114-200.fibertel.com.ar 8 32 34305 20051203203255
+host215-57-80-200.cps.com.ar 8 159 651223 20051219234246
+host247-57-80-200.cps.com.ar 8 163 478585 20051214234455
+47.red-83-32-200.dynamicip.rima-tde.net 8 73 756525 20051222104207
+200-55-93-102.dsl.prima.net.ar 8 88 655573 20051215151701
+55-163-114-200.fibertel.com.ar 7 39 0 20051205204047
+customer254-185.iplannetworks.net 7 45 112579 20051228193122
+200-55-94-34.dsl.prima.net.ar 7 46 211731 20051207154007
+236-50-54.adsl.cust.tie.cl 7 78 772416 20051211185655
+cm-81-9-144-208.telecable.es 7 80 826942 20051213180555
+124.red-83-42-103.dynamicip.rima-tde.net 7 78 772416 20051216062041
+host59-36.sion.net 6 74 717495 20051221142756
+pcp02979523pcs.muncie01.in.comcast.net 6 45 112400 20051206215836
+200.21.99.230 6 60 511245 20051224014504
+host185.200-82-58.telecom.net.ar 6 60 501540 20051231173053
+88.3.139.137 5 34 171702 20051221133047
+215-210.dedicado.com.uy 5 27 158649 20051215205024
+199.red-83-41-219.dynamicip.rima-tde.net 3 21 99196 20051204143759
+host61.200-45-244.telecom.net.ar 3 21 99375 20051227164447
+196.201.77.45 3 40 122183 20051214132942
+bzq-82-81-13-213.red.bezeqint.net 3 21 99196 20051204103625
+host201.200-45-98.telecom.net.ar 4 36 210120 20051224192101
+229.243.gye.satnet.net 4 45 373509 20051228194007
+85-48-98-30.mad1.adsl.uni2.es 3 20 99653 20051209115517
+214-132-114-200.fibertel.com.ar 5 7 35546 20051213072439
+host100.200.80.1.ifxnw.com.ar 4 34 177522 20051224184900
+reston-gnap-ip-216014-148.dynamic.ziplink.net 3 21 117942 20051215201053
+93.red-83-36-97.dynamicip.rima-tde.net 4 24 138297 20051207141245
+200-127-87-166.prima.net.ar 3 21 99375 20051229112459
+dirt05.netscape.com 1 1 0 20051201113224
+54-239-126-200.fibertel.com.ar 3 16 0 20051216115748
+host97.201-252-29.telecom.net.ar 3 21 99375 20051215222852
+ool-4352105b.dyn.optonline.net 3 21 117942 20051215220833
+200.108.139.35 4 46 364212 20051219092306
+123.red-81-43-34.staticip.rima-tde.net 5 62 521724 20051209193153
+33.red-83-50-94.dynamicip.rima-tde.net 2 16 84494 20051210081733
+200.60.183.109 2 8 74060 20051228015729
+190-48-46-244.speedy.com.ar 4 25 113492 20051204172800
+nnn087237.netverk.com.ar 3 21 116561 20051207132404
+7.sub-70-210-213.myvzw.com 1 2 4127 20051211150817
+crawl-66-249-65-2.googlebot.com 1 1 2590 20051209012751
+customer68-82-241.iplannetworks.net 4 24 112706 20051221084355
+host12.201-252-22.telecom.net.ar 3 21 99200 20051208174539
+139-110-235-201.fibertel.com.ar 0 9 0 
+dsl-201-137-84-180.prod-infinitum.com.mx 3 16 84730 20051226210452
+138-159-89-200.fibertel.com.ar 4 45 363848 20051229153258
+125-48-235-201.fibertel.com.ar 5 49 534476 20051217184639
+ol45-69.fibertel.com.ar 1 3 18000 20051218232402
+200.16.86.36 4 24 134561 20051207111505
+wnpgmb02dc1-57-145.dynamic.mts.net 2 15 84095 20051209012748
+190-48-45-171.speedy.com.ar 4 25 99196 20051206230232
+241-144-235-201.fibertel.com.ar 5 72 0 20051222123706
+192-162-89-200.fibertel.com.ar 2 15 34409 20051222173601
+200.68.215.196 4 45 373509 20051210104852
+207.124.77.83.cust.bluewin.ch 5 56 472455 20051230061344
+200.80.213.147.techtelnet.net 3 21 99375 20051230124511
+62-36-62-177.mad1.adsl.uni2.es 1 1 1464 20051212071431
+ol249-200.fibertel.com.ar 1 4 13961 20051211203314
+nocm4.89.itcomnet1.com.ar 3 22 99714 20051226192042
+111.red-80-58-2.staticip.rima-tde.net 1 1 0 20051202124722
+88.3.2.107 3 3 0 20051202161519
+80-58-47-107.proxycache.rima-tde.net 4 46 485066 20051227065212
+200-47-138-4.comsat.net.ar 4 45 363848 20051230175437
+200-70-85-130.mrse.com.ar 4 32 132082 20051212181757
+80-58-10-235.proxycache.rima-tde.net 4 37 210120 20051214120715
+customer123-170-237.iplannetworks.net 3 21 99200 20051208143517
+62-14-183-59.inversas.jazztel.es 4 22 99831 20051203220112
+cosmix_corporation.dmarc.cogentco.com 1 1 0 20051220080130
+adsl-69-153-12-20.dsl.snantx.swbell.net 1 4 74889 20051213191737
+201-254-231-125.mrse.com.ar 3 22 99774 20051221112205
+dyn-160-39-18-88.dyn.columbia.edu 3 21 99196 20051204200754
+host87.200-117-30.telecom.net.ar 4 47 210120 20051222165205
+242.red-83-52-209.dynamicip.rima-tde.net 3 21 99375 20051230082058
+host222.200-45-52.telecom.net.ar 5 27 125731 20051204160334
+168-226-116-87.speedy.com.ar 1 1 0 20051202222430
+201.250.19.202 1 1 635 20051221155309
+204.246.238.67 5 27 153557 20051204231459
+201.240.229.132 3 21 99200 20051208120226
+200-127-4-41.cab.prima.net.ar 6 30 175268 20051204153217
+customer201-229.iplannetworks.net 4 45 373509 20051216130503
+200.32.115.191 2 15 84091 20051206160359
+213.42.2.25 1 1 1464 20051227180922
+168-226-119-46.speedy.com.ar 5 81 636643 20051222010128
+host37.200-43-99.telecom.net.ar 6 69 603918 20051213182040
+scb2ppp-9.uc.infovia.com.ar 4 24 112579 20051212174324
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20051201 3 3 0 2
+20051202 5 5 0 3
+20051203 29 175 281674 4
+20051204 39 389 1040904 9
+20051205 7 39 0 2
+20051206 18 118 326991 4
+20051207 27 154 744230 6
+20051208 14 128 308644 5
+20051209 63 774 3430339 8
+20051210 6 61 458003 2
+20051211 29 219 2604324 4
+20051212 12 82 246588 4
+20051213 23 189 1541295 5
+20051214 27 328 918808 4
+20051215 28 218 1149481 6
+20051216 14 139 1145925 3
+20051217 22 139 1325811 2
+20051218 1 3 18000 1
+20051219 12 209 1015435 2
+20051220 11 66 537299 2
+20051221 30 291 1784559 9
+20051222 25 288 1988284 6
+20051223 0 1 0 0
+20051224 14 130 898887 3
+20051226 6 38 184444 2
+20051227 8 68 585905 3
+20051228 13 98 560148 3
+20051229 7 66 463223 2
+20051230 15 143 1035053 4
+20051231 19 208 1408378 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 6
+0s-30s 48
+15mn-30mn 3
+30s-2mn 32
+2mn-5mn 19
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 10
+/ 125 72319 99 23
+/catalogo.htm 111 309109 5 28
+/empresa.htm 106 296199 4 7
+/plastico.htm 31 76537 0 6
+/carton.htm 31 71439 1 9
+/link.htm 30 62217 1 9
+/servicios.htm 28 60948 0 5
+/metalizado.htm 26 62913 0 5
+/fantasia.htm 20 42604 0 9
+/contactenos.htm 19 73153 2 11
+END_SIDER

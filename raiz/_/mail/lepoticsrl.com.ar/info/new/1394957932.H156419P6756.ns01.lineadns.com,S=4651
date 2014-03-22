@@ -1,0 +1,117 @@
+Return-path: <>
+Envelope-to: info@lepoticsrl.com.ar
+Delivery-date: Sun, 16 Mar 2014 05:18:52 -0300
+Received: from ip-71-173-205-91.static.contabo.net ([91.205.173.71]:37376 helo=shop-rent.biz)
+	by ns01.lineadns.com with esmtp (Exim 4.82)
+	id 1WP6Gi-0001ht-5V
+	for info@lepoticsrl.com.ar; Sun, 16 Mar 2014 05:18:50 -0300
+Received: by shop-rent.biz (Postfix)
+	id D54562BC22ED; Sun, 16 Mar 2014 12:16:08 +0400 (MSK)
+Date: Sun, 16 Mar 2014 12:16:08 +0400 (MSK)
+From: MAILER-DAEMON@shop-rent.biz (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: info@lepoticsrl.com.ar
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="CF5522BC3252.1394957768/shop-rent.biz"
+Message-Id: <20140316081608.D54562BC22ED@shop-rent.biz>
+X-Spam-Status: No, score=0.0
+X-Spam-Score: 0
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "ns01.lineadns.com", has
+ identified this incoming email as possible spam.  The original message
+ has been attached to this so you can view it (if it isn't spam) or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ 
+ Content preview:  This is the mail system at host shop-rent.biz. I'm sorry to
+    have to inform you that your message could not be delivered to one or more
+    recipients. It's attached below. For further assistance, please send mail
+    to postmaster. [...] 
+ 
+ Content analysis details:   (0.0 points, 5.0 required)
+ 
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+X-Spam-Flag: NO
+
+This is a MIME-encapsulated message.
+
+--CF5522BC3252.1394957768/shop-rent.biz
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host shop-rent.biz.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<spektrum-mebel001@shop-rent.biz>: temporary failure
+
+--CF5522BC3252.1394957768/shop-rent.biz
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; shop-rent.biz
+X-Postfix-Queue-ID: CF5522BC3252
+X-Postfix-Sender: rfc822; info@lepoticsrl.com.ar
+Arrival-Date: Tue, 11 Mar 2014 12:07:21 +0400 (MSK)
+
+Final-Recipient: rfc822; spektrum-mebel001@shop-rent.biz
+Action: failed
+Status: 4.3.0
+Diagnostic-Code: x-unix; temporary failure
+
+--CF5522BC3252.1394957768/shop-rent.biz
+Content-Description: Undelivered Message Headers
+Content-Type: text/rfc822-headers
+
+Return-Path: <info@lepoticsrl.com.ar>
+Received: by shop-rent.biz (Postfix, from userid 76)
+	id CF5522BC3252; Tue, 11 Mar 2014 12:07:21 +0400 (MSK)
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on shop-rent.biz
+X-Spam-Level: ****
+X-Spam-Status: No, score=4.9 required=5.0 tests=BAYES_40,HTML_IMAGE_ONLY_12,
+	HTML_MESSAGE,HTML_SHORT_LINK_IMG_1,MPART_ALT_DIFF,RCVD_IN_BL_SPAMCOP_NET,
+	RCVD_IN_SORBS_WEB autolearn=no version=3.3.2
+Received: from ns01.lineadns.com (ns01.lineadns.com [200.110.135.130])
+	by shop-rent.biz (Postfix) with ESMTP id 4A5F52BC3170
+	for <info@spektrum-mebel.ru>; Tue, 11 Mar 2014 12:07:19 +0400 (MSK)
+Received: from [59.98.200.78] (port=2002 helo=Unknown)
+	by ns01.lineadns.com with esmtpsa (TLSv1:DHE-RSA-AES256-SHA:256)
+	(Exim 4.82)
+	(envelope-from <info@lepoticsrl.com.ar>)
+	id 1WNHjY-0006T0-AE; Tue, 11 Mar 2014 05:08:48 -0300
+Message-ID: <0549CAFBF6604049A6C3897258140264@mjcrlio>
+From: "Admin" <info@lepoticsrl.com.ar>
+To: "eldora" <catheryn@gmail.com>
+Subject: =?windows-1251?B?z+7x6+Xk7ejpIO/o8eog7O7k+yAtIOvl8uD+?=
+	=?windows-1251?B?+ejlIPTl6CE=?=
+Date: Tue, 11 Mar 2014 12:05:30 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_000_0911_01CF3D22.32D49A10"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.5931
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6109
+X-AntiAbuse: This header was added to track abuse, please include it with any abuse report
+X-AntiAbuse: Primary Hostname - ns01.lineadns.com
+X-AntiAbuse: Original Domain - spektrum-mebel.ru
+X-AntiAbuse: Originator/Caller UID/GID - [47 12] / [47 12]
+X-AntiAbuse: Sender Address Domain - lepoticsrl.com.ar
+X-Get-Message-Sender-Via: ns01.lineadns.com: authenticated_id: info@lepoticsrl.com.ar
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+
+--CF5522BC3252.1394957768/shop-rent.biz--

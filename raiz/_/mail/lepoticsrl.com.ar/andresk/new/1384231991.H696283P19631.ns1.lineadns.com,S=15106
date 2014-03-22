@@ -1,0 +1,301 @@
+Return-path: <grandt@clarin.com>
+Envelope-to: andresk@lepoticsrl.com.ar
+Delivery-date: Tue, 12 Nov 2013 01:53:11 -0300
+Received: from relay-grandt6.planisys.net ([190.185.105.126]:49730)
+	by ns1.lineadns.com with esmtp (Exim 4.80.1)
+	(envelope-from <grandt@clarin.com>)
+	id 1Vg5wU-0004ug-QM
+	for andresk@lepoticsrl.com.ar; Tue, 12 Nov 2013 01:53:11 -0300
+Received: from relay-grandt6.planisys.net (localhost.localdomain [127.0.0.1])
+	by relay-grandt6.planisys.net (Postfix) with ESMTP id BA8105CAFFE
+	for <andresk@lepoticsrl.com.ar>; Tue, 12 Nov 2013 04:42:49 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; s=selector1; bh=Wyj/t2YRR0GxJg9xNQGVIN7q3Po=; b=W
+	9Ol5qMiMcOaI625yNCuzWenghZd6Srcp/owEH+qAcDzluSI/xfDtrWND+3r5ZUHG
+	+fuDzRiO3Y8YdbD/C0BcAxLVGYHQalIikUXImDFZEiJ8KLhMHzBRL3pp4nP+WkFH
+	SwVdRtqETW3/UbulnZMma0Ih07rI+B5qnZJxJZzfIk=
+DomainKey-Signature: a=rsa-sha1; c=simple; d=clarin.com; h=date:to:from
+	:reply-to:subject:message-id:list-unsubscribe:mime-version
+	:content-type; q=dns; s=selector1; b=qZRd+cL/813o5lq1q71Feu7Mw0k
+	eTFc9sbzwbPa7ZhyNbUAyH9Y/ZPX/Q36IiJdcLgEkfA23SI4BBUb3Nw9hbGf43E/
+	jO4Z4NN5iUqOVljPQR0mYvZDwatr40pp682lLcaPuLNii7Df5K4Yl3HXVz0v0U7I
+	xjWLC9Kw5Ft4XII0=
+Received: from clarin.com (dmds-grandt.planisys.net [190.185.104.120])
+	by relay-grandt6.planisys.net (Postfix) with ESMTP id B77DE5CB016
+	for <andresk@lepoticsrl.com.ar>; Tue, 12 Nov 2013 04:42:49 +0000 (UTC)
+Date: Tue, 12 Nov 2013 01:42:49 -0300
+To: andresk@lepoticsrl.com.ar
+From: Gran DT <grandt@clarin.com>
+Reply-to: Gran DT <grandt@clarin.com>
+Subject: =?iso-8859-1?Q?Sub=ED_tu_video,_gan=E1_$10.000_y_convertite_en_el_Gran_Hi?=
+ =?iso-8859-1?Q?ncha_de_Gran_DT.?=
+Message-ID: <c4f276692b283abfd6e511fd98a0f7bd@clarin.com>
+X-Priority: 3
+X-Mailer: PHPMailer 5.1 (phpmailer.sourceforge.net)
+Errors-to: dmds-grandt@rebotes.planisys.net
+X-DMDS-eeid: 13f2b01d-8a7f-6e4c-f1fb-52818e5619c6
+X-DMDS-sid: c770a6fe-446d-715f-9d43-5023531fb18d
+List-Unsubscribe: <http://dmds-grandt.planisys.net/lst.php?v=MTNmMmIwMWQtOGE3Zi02ZTRjLWYxZmItNTI4MThlNTYxOWM2O2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>, <mailto:dmds-grandt@rebotes.planisys.net?subject=Unsubscribe&body=MTNmMmIwMWQtOGE3Zi02ZTRjLWYxZmItNTI4MThlNTYxOWM2O2M3NzBhNmZlLTQ0NmQtNzE1Zi05ZDQzLTUwMjM1MzFmYjE4ZA==>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_c4f276692b283abfd6e511fd98a0f7bd"
+X-Spam-Status: No, score=
+X-Spam-Score: 
+X-Spam-Bar: 
+X-Ham-Report: 
+X-Spam-Flag: NO
+
+
+--b1_c4f276692b283abfd6e511fd98a0f7bd
+Content-Type: text/plain; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+GDT Newsletter: http://dmds-grandt.planisys.net/pf.php?s=3Dc770a6fe-446d-=
+715f-9d43-5023531fb18d&e=3D13f2b01d-8a7f-6e4c-f1fb-52818e5619c6
+
+
+--b1_c4f276692b283abfd6e511fd98a0f7bd
+Content-Type: text/html; charset = "iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<title>Clar&iacute;n - Gran DT</title>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso-885=
+9-1" />
+<style type=3D"text/css">img {display: block;}
+#outlook a {padding:0;}
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass fon=
+t, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+</style>
+</head>
+<body bgcolor=3D"#ffffff"><img src=3D'http://dmds-grandt.planisys.net/xvi=
+ew.php?u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&eeid=3D13f2b01d-8a7f-6e4c=
+-f1fb-52818e5619c6' border=3D'0' />
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td><table width=3D"600" border=3D"0" align=3D"center" cellpadding=3D=
+"0" cellspacing=3D"0">
+   =20
+    <tr>
+		<td align=3D"center"><font face=3D"Arial, Helvetica, sans-serif" size=3D=
+"1" color=3D"#3f3f3f">Si no pod&eacute;s ver las im&aacute;genes,&nbsp;<a=
+ style=3D"text-decoration:none;" href=3D"http://dmds-grandt.planisys.net/=
+click.php?id=3D4fc35b64-ac36-02fe-e800-52818f38b884&eeid=3D13f2b01d-8a7f-=
+6e4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&p1=3Dhttp=
+%3A%2F%2Fdmds-grandt.planisys.net%2Fpf.php%3Fs%3Dc770a6fe-446d-715f-9d43-=
+5023531fb18d%26e%3D13f2b01d-8a7f-6e4c-f1fb-52818e5619c6&" target=3D"_blan=
+k" onclick=3D"return (false);"><span style=3D"font-family:Arial, Helvetic=
+a, sans-serif; font-size:9px; color:#0033CC;">hac&eacute; click aqu&iacut=
+e;.</span></a></font></td>
+	</tr>
+   =20
+   =20
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-t=
+i/1345-gh/clarin-deportivo.jpg" width=3D"600" height=3D"58" border=3D"0" =
+alt=3D"Clar&iacute;n | Deportivo. Presenta Garbarino." title=3D"Clar&iacu=
+te;n | Deportivo. Presenta Garbarino." style=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D51f=
+6296b-3e96-592b-5c25-52818f085087&eeid=3D13f2b01d-8a7f-6e4c-f1fb-52818e56=
+19c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-gh/el-gran-h=
+incha.jpg" width=3D"600" height=3D"288" border=3D"0" alt=3D"El Gran Hinch=
+a. De Gran DT a Gran Hincha." title=3D"El Gran Hincha. De Gran DT a Gran =
+Hincha." style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D541=
+8018e-f54c-1dea-0606-52818f678328&eeid=3D13f2b01d-8a7f-6e4c-f1fb-52818e56=
+19c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-gh/suma-tu-v=
+ideo.jpg" width=3D"600" height=3D"68" border=3D"0" alt=3D"&iexcl;Sum&aacu=
+te; tu video y particip&aacute;!" title=3D"&iexcl;Sum&aacute; tu video y =
+particip&aacute;!" style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td><a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D56b=
+30e7c-af84-071c-5f1f-52818fb99c47&eeid=3D13f2b01d-8a7f-6e4c-f1fb-52818e56=
+19c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><img sr=
+c=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-gh/se-viene-=
+un.jpg" width=3D"600" height=3D"172" border=3D"0" alt=3D"Se viene un a&nt=
+ilde;o distinto para todos los futboleros y Gran DT busca su Gran Hincha.=
+" title=3D"Se viene un a&ntilde;o distinto para todos los futboleros y Gr=
+an DT busca su Gran Hincha." style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-t=
+i/1345-gh/vacio1.jpg" width=3D"600" height=3D"31" border=3D"0" alt=3D"" s=
+tyle=3D"display:block"/></td>
+      </tr>
+      <tr>
+        <td align=3D"center"><a href=3D"http://dmds-grandt.planisys.net/c=
+lick.php?id=3D58705a25-7a18-f9b1-1877-52818f38adbe&eeid=3D13f2b01d-8a7f-6=
+e4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D=
+"_blank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1=
+345-gh/premios.jpg" width=3D"600" height=3D"40" border=3D"0" alt=3D"Premi=
+os" title=3D"Premios" style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td align=3D"center"><a href=3D"http://dmds-grandt.planisys.net/c=
+lick.php?id=3D5aba2b1a-0882-eff3-d38e-52818f6df010&eeid=3D13f2b01d-8a7f-6=
+e4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D=
+"_blank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1=
+345-gh/hay-10000.jpg" width=3D"600" height=3D"260" border=3D"0" alt=3D"Ha=
+y $10.000 para el Ganador. Y una orden de compra en prodcutos deportivos =
+por $1.000 del 2do al 5to puesto." title=3D"Hay $10.000 para el Ganador. =
+Y una orden de compra en prodcutos deportivos por $1.000 del 2do al 5to p=
+uesto." style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td align=3D"center"><img src=3D"http://imagenes-clarin.planisys.=
+net/grandt/2013-ti/1345-gh/vacio2.jpg" width=3D"600" height=3D"34" border=
+=3D"0" alt=3D"" style=3D"display:block"/></td>
+      </tr>
+       <tr>
+        <td align=3D"center"><a href=3D"http://dmds-grandt.planisys.net/c=
+lick.php?id=3D5bc5a783-c7c2-de57-88ce-52818fc862fc&eeid=3D13f2b01d-8a7f-6=
+e4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D=
+"_blank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1=
+345-gh/como-participo.jpg" width=3D"600" height=3D"44" border=3D"0" alt=3D=
+"&iquest;C&oacute;mo participo?" title=3D"&iquest;C&oacute;mo participo?"=
+ style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td align=3D"center"><table width=3D"600" border=3D"0" cellspacin=
+g=3D"0" cellpadding=3D"0">
+          <tr>
+            <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/20=
+13-ti/1345-gh/vacio3.jpg" width=3D"47" height=3D"288" border=3D"0" alt=3D=
+"" style=3D"display:block"/></td>
+            <td><table width=3D"507" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0">
+              <tr>
+                <td><table width=3D"507" border=3D"0" cellspacing=3D"0" c=
+ellpadding=3D"0">
+                  <tr>
+                    <td><table width=3D"261" border=3D"0" cellspacing=3D"=
+0" cellpadding=3D"0">
+                      <tr>
+                        <td><a href=3D"http://dmds-grandt.planisys.net/cl=
+ick.php?id=3D5c20b0a6-07eb-2f84-381f-52818f198a57&eeid=3D13f2b01d-8a7f-6e=
+4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D=
+"_blank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1=
+345-gh/subi-tu-video.jpg" width=3D"261" height=3D"114" border=3D"0" alt=3D=
+"Sub&iacute; tu video de 30 segundos m&aacute;ximo." title=3D"Sub&iacute;=
+ tu video de 30 segundos m&aacute;ximo." style=3D"display:block"/></a></t=
+d>
+                      </tr>
+                      <tr>
+                        <td><a href=3D"http://dmds-grandt.planisys.net/cl=
+ick.php?id=3D5e7121c9-a1fd-4f17-8f46-52818ffe0c78&eeid=3D13f2b01d-8a7f-6e=
+4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&"><img src=3D=
+"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-gh/mas-creativos=
+.jpg" width=3D"261" height=3D"109" border=3D"0" alt=3D"Los 5 videos m&aac=
+ute;s creativos ser&aacute;n seleccionados para la votaci&oacute;n final.=
+" title=3D"Los 5 videos m&aacute;s creativos ser&aacute;n seleccionados p=
+ara la votaci&oacute;n final." style=3D"display:block"/></a></td>
+                      </tr>
+                    </table></td>
+                    <td><a href=3D"http://dmds-grandt.planisys.net/click.=
+php?id=3D6155568d-8a1c-9c81-d805-52818f1d3174&eeid=3D13f2b01d-8a7f-6e4c-f=
+1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_bl=
+ank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-=
+gh/tips.jpg" width=3D"246" height=3D"223" border=3D"0" alt=3D"Tips para t=
+u video." title=3D"Tips para tu video." style=3D"display:block"/></a></td=
+>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr>
+                <td><a href=3D"http://dmds-grandt.planisys.net/click.php?=
+id=3D627bb596-85b3-e5d1-0330-52818febe028&eeid=3D13f2b01d-8a7f-6e4c-f1fb-=
+52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"=
+><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1345-gh/e=
+s-tu-oportunidad.jpg" width=3D"507" height=3D"65" border=3D"0" alt=3D"&ie=
+xcl;Es una oportunidad para ser creativo y original!" title=3D"&iexcl;Es =
+una oportunidad para ser creativo y original!" style=3D"display:block"/><=
+/a></td>
+              </tr>
+            </table></td>
+            <td><img src=3D"http://imagenes-clarin.planisys.net/grandt/20=
+13-ti/1345-gh/vacio4.jpg" width=3D"46" height=3D"288" border=3D"0" alt=3D=
+"" style=3D"display:block"/></td>
+          </tr>
+        </table></td>
+      </tr>
+
+      <tr>
+        <td align=3D"center"><a href=3D"http://dmds-grandt.planisys.net/c=
+lick.php?id=3D640c511f-2321-b22f-ed1f-52818f1258cc&eeid=3D13f2b01d-8a7f-6=
+e4c-f1fb-52818e5619c6&u=3Dc770a6fe-446d-715f-9d43-5023531fb18d&" target=3D=
+"_blank"><img src=3D"http://imagenes-clarin.planisys.net/grandt/2013-ti/1=
+345-gh/grandt-com-ar.jpg" width=3D"600" height=3D"113" border=3D"0" alt=3D=
+"" style=3D"display:block"/></a></td>
+      </tr>
+      <tr>
+        <td height=3D"8" border=3D"0"></td>
+      </tr>
+      <tr>
+        <td border=3D"0"><table width=3D"600" border=3D"0" cellspacing=3D=
+"0" cellpadding=3D"0">
+          <tr>
+            <td width=3D"72"><img style=3D"display:block" src=3D"http://i=
+magenes-clarin.planisys.net/grandt/2013-ti/1345-gh/clarin-footer.gif" alt=
+=3D"Clar&iacute;n" title=3D"Clar&iacute;n" width=3D"65" height=3D"21" bor=
+der=3D"0" /></td>
+            <td width=3D"327" align=3D"left" style=3D"font-family:Arial, =
+Helvetica, sans-serif; font-size:9px; padding-left: 4px; padding-top:10px=
+;text-transform: uppercase;">Copyright &copy; 2008 | Clar&Iacute;n Todos =
+los derechos reservados</td>
+            <td width=3D"201" style=3D"font-family:Arial, Helvetica, sans=
+-serif; font-size:9px; padding-left: 4px; padding-top:10px">&nbsp;</td>
+          </tr>
+        </table></td>
+      </tr>
+      <tr>
+        <td border=3D"0" align=3D"left" style=3D"font-family:Arial, Helve=
+tica, sans-serif; font-size:9px; padding-left: 4px; padding-top:6px;text-=
+transform: uppercase; text-align:justify"><span lang=3D"es-AR" xml:lang=3D=
+"es-AR">PROMOCI&Oacute;N SIN OBLIGACION DE COMPRA. V&Aacute;LIDA PARA LA =
+  REP&Uacute;BLICA ARGENTINA EXCEPTO MENDOZA DEL 11/11/2013 AL 28/02/2014=
+ PARA MAYORES DE   18 A&Ntilde;OS. PREMIOS: 1 PREMIO DE $10.000 EN EFECTI=
+VO Y 4 &Oacute;RDENES DE COMPRA POR   $1.000 PARA PRODUCTOS DEPORTIVOS EN=
+ DEXTER, SPORTLINE, ADIDAS O NIKE O SU   EQUIVALENTE EN DINERO EN EFECTIV=
+O. ORGANIZA BEST SHOT S.A. CUIT 30-71147915-1.   AV DE MAYO 1370 &ndash; =
+7MO PISO &ndash; OF. 185 &ndash; CABA. BASES Y CONDICIONES EN </span><u><=
+a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D67553f92-63fb-2c=
+30-eebd-52818f464328&eeid=3D13f2b01d-8a7f-6e4c-f1fb-52818e5619c6&u=3Dc770=
+a6fe-446d-715f-9d43-5023531fb18d&" target=3D"_blank"><span lang=3D"es-AR"
+xml:lang=3D"es-AR">www.jlayasociados.com.ar/promo_degrandtagranhincha.htm=
+l</span></a></u><br />EN CASO QUE NO QUIERAS RECIBIR M&Aacute;S NUESTROS =
+MAILS <a href=3D"http://dmds-grandt.planisys.net/click.php?id=3D697f046c-=
+8dee-7e70-572e-52818fb13c27&eeid=3D13f2b01d-8a7f-6e4c-f1fb-52818e5619c6&u=
+=3Dc770a6fe-446d-715f-9d43-5023531fb18d&p1=3Dhttp%3A%2F%2Fdmds-grandt.pla=
+nisys.net%2Fdesuscripcion.php%3Fu%3Dc770a6fe-446d-715f-9d43-5023531fb18d%=
+26eeid%3D13f2b01d-8a7f-6e4c-f1fb-52818e5619c6&" target=3D"_blank"  style=3D=
+"color:#dcdcdc;"><span style=3D"font-family:Arial, Helvetica, sans-serif;=
+ font-size:9px; text-transform: uppercase; color:#0033CC;">HAC&Eacute; CL=
+ICK AQU&Iacute;</span></a>.</td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<br />
+<br />
+<br />
+</body>
+</html>
+
+
+
+--b1_c4f276692b283abfd6e511fd98a0f7bd--
+
+
